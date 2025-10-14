@@ -201,17 +201,91 @@ def calculate_diff_stats(original, improved):
         'change_percentage': (changed_tokens / total_tokens * 100) if total_tokens > 0 else 0
     }
 
+def filter_transcription_segments(original_text, improved_text):
+    """
+    Filtre la transcription améliorée selon des règles strictes :
+    - Début : Commencer seulement si 90% des 30 premiers tokens correspondent
+    - Fin : Arrêter dès qu'on trouve 30 tokens consécutifs non correspondants
+    
+    Args:
+        original_text (str): Texte original
+        improved_text (str): Texte amélioré 
+    
+    Returns:
+        str: Texte amélioré filtré
+    """
+    if not original_text or not improved_text:
+        return improved_text
+    
+    # Tokeniser comme dans l'app
+    tokens_original = tokenize_text(original_text)
+    tokens_improved = tokenize_text(improved_text)
+    
+    if len(tokens_original) < 30 or len(tokens_improved) < 30:
+        return improved_text
+    
+    # 1. Trouver le point de départ (90% de correspondance sur 30 tokens)
+    start_pos = None
+    original_start_30 = tokens_original[:30]
+    
+    for i in range(len(tokens_improved) - 29):
+        improved_segment_30 = tokens_improved[i:i+30]
+        
+        # Calculer la correspondance exacte
+        matches = sum(1 for orig, imp in zip(original_start_30, improved_segment_30) if orig.lower() == imp.lower())
+        similarity = matches / 30
+        
+        if similarity >= 0.9:  # 90% de correspondance
+            start_pos = i
+            break
+    
+    if start_pos is None:
+        return improved_text
+    
+    # 2. Utiliser difflib comme dans l'app pour détecter les changements
+    matcher = difflib.SequenceMatcher(None, tokens_original, tokens_improved[start_pos:])
+    
+    end_pos = len(tokens_improved)
+    consecutive_non_equal = 0
+    current_pos = start_pos
+    
+    for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+        if tag == 'equal':
+            consecutive_non_equal = 0
+            current_pos = start_pos + j2
+        else:
+            # Compter les tokens non correspondants
+            non_equal_count = max(i2 - i1, j2 - j1)
+            consecutive_non_equal += non_equal_count
+            
+            if consecutive_non_equal >= 30:
+                end_pos = start_pos + j1  # Position où ont commencé les non-correspondances
+                break
+            
+            current_pos = start_pos + j2
+    
+    # 3. Extraire le texte filtré en préservant le formatage
+    if start_pos > 0 or end_pos < len(tokens_improved):
+        # Reconstruire le texte avec le bon espacement
+        filtered_tokens = tokens_improved[start_pos:end_pos]
+        return rebuild_text_with_spacing(filtered_tokens)
+    
+    return improved_text
+
 def calculate_all_diff_percentages(files_data):
-    """Calcule les pourcentages d'écart pour toutes les transcriptions"""
+    """Calcule les pourcentages d'écart pour toutes les transcriptions (avec filtrage automatique)"""
     percentages = []
     file_names = []
     
     for file_name, data in files_data.items():
         if data['improved'] is not None:
+            # Appliquer le filtrage automatiquement
+            filtered_improved = filter_transcription_segments(data['original'], data['improved'])
+            
             # Aligner les textes
-            start1, start2 = find_common_start(data['original'], data['improved'], 4)
+            start1, start2 = find_common_start(data['original'], filtered_improved, 4)
             aligned_original = data['original'][start1:]
-            aligned_improved = data['improved'][start2:]
+            aligned_improved = filtered_improved[start2:]
             
             # Calculer les stats
             stats = calculate_diff_stats(aligned_original, aligned_improved)
@@ -302,7 +376,7 @@ if os.path.exists(directory):
     if files_data:
         # Section Distribution des écarts
         st.markdown("---")
-        st.markdown("## 📊 Distribution des écarts de tokens")
+        st.markdown("## 📊 Distribution des écarts de tokens (avec filtrage automatique)")
         
         available_files = [name for name, data in files_data.items() if data['improved'] is not None]
         
@@ -355,16 +429,37 @@ if os.path.exists(directory):
         st.markdown("## 🔍 Comparaison détaillée")
         
         if available_files:
-            selected_file = st.selectbox(
-                "Sélectionnez un fichier à comparer:",
-                available_files,
-                help="Seuls les fichiers ayant une version améliorée sont affichés"
-            )
+            col1, col2 = st.columns([3, 1])
+            
+            with col1:
+                selected_file = st.selectbox(
+                    "Sélectionnez un fichier à comparer:",
+                    available_files,
+                    help="Seuls les fichiers ayant une version améliorée sont affichés"
+                )
+            
+            with col2:
+                disable_filter = st.checkbox(
+                    "Désactiver le filtrage",
+                    value=False,
+                    help="Désactive le filtrage automatique pour voir le texte brut avec les métadonnées LLM"
+                )
             
             if selected_file:
                 data = files_data[selected_file]
                 original_text = data['original']
-                improved_text = data['improved']
+                improved_text_raw = data['improved']
+                
+                # Appliquer le filtrage par défaut
+                improved_text = filter_transcription_segments(original_text, improved_text_raw)
+                reduction = len(improved_text_raw) - len(improved_text)
+                
+                if not disable_filter:
+                    st.info(f"🔧 Filtrage activé par défaut - Réduction: {reduction:,} caractères ({reduction/len(improved_text_raw)*100:.1f}%)")
+                else:
+                    # Désactiver le filtrage si demandé
+                    improved_text = improved_text_raw
+                    st.info("⚠️ Filtrage désactivé - Affichage du texte brut avec métadonnées LLM")
                 
                 # Afficher les informations du fichier
                 st.markdown("---")
