@@ -1,0 +1,5955 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 1.285,
+        "end": 11.131,
+        "text": " En agriculture, la Corézienne Amélie Rebière, déjà vice-présidente nationale de la coordination rurale, vient d'être nommée par le gouvernement conseillère agricole au Parlement européen.",
+        "words": [
+          {
+            "word": "En",
+            "start": 1.285,
+            "end": 1.505,
+            "score": 0.654
+          },
+          {
+            "word": "agriculture,",
+            "start": 1.565,
+            "end": 2.226,
+            "score": 0.913
+          },
+          {
+            "word": "la",
+            "start": 2.266,
+            "end": 2.466,
+            "score": 0.96
+          },
+          {
+            "word": "Corézienne",
+            "start": 2.486,
+            "end": 2.986,
+            "score": 0.815
+          },
+          {
+            "word": "Amélie",
+            "start": 3.046,
+            "end": 3.386,
+            "score": 0.839
+          },
+          {
+            "word": "Rebière,",
+            "start": 3.426,
+            "end": 3.847,
+            "score": 0.889
+          },
+          {
+            "word": "déjà",
+            "start": 3.887,
+            "end": 4.307,
+            "score": 0.946
+          },
+          {
+            "word": "vice-présidente",
+            "start": 4.327,
+            "end": 5.127,
+            "score": 0.897
+          },
+          {
+            "word": "nationale",
+            "start": 5.168,
+            "end": 5.608,
+            "score": 0.871
+          },
+          {
+            "word": "de",
+            "start": 5.648,
+            "end": 5.728,
+            "score": 0.822
+          },
+          {
+            "word": "la",
+            "start": 5.768,
+            "end": 5.828,
+            "score": 0.884
+          },
+          {
+            "word": "coordination",
+            "start": 5.868,
+            "end": 6.428,
+            "score": 0.928
+          },
+          {
+            "word": "rurale,",
+            "start": 6.448,
+            "end": 7.049,
+            "score": 0.868
+          },
+          {
+            "word": "vient",
+            "start": 7.069,
+            "end": 7.229,
+            "score": 0.894
+          },
+          {
+            "word": "d'être",
+            "start": 7.269,
+            "end": 7.449,
+            "score": 0.861
+          },
+          {
+            "word": "nommée",
+            "start": 7.469,
+            "end": 7.689,
+            "score": 0.908
+          },
+          {
+            "word": "par",
+            "start": 7.729,
+            "end": 7.809,
+            "score": 0.843
+          },
+          {
+            "word": "le",
+            "start": 7.849,
+            "end": 7.929,
+            "score": 0.831
+          },
+          {
+            "word": "gouvernement",
+            "start": 7.949,
+            "end": 8.57,
+            "score": 0.912
+          },
+          {
+            "word": "conseillère",
+            "start": 8.61,
+            "end": 9.21,
+            "score": 0.855
+          },
+          {
+            "word": "agricole",
+            "start": 9.25,
+            "end": 9.61,
+            "score": 0.777
+          },
+          {
+            "word": "au",
+            "start": 9.67,
+            "end": 9.83,
+            "score": 0.743
+          },
+          {
+            "word": "Parlement",
+            "start": 9.87,
+            "end": 10.411,
+            "score": 0.98
+          },
+          {
+            "word": "européen.",
+            "start": 10.451,
+            "end": 11.131,
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "start": 11.171,
+        "end": 15.774,
+        "text": "Elle va devoir éclairer les décisions de cette institution qui a un rôle majeur pour le monde agricole.",
+        "words": [
+          {
+            "word": "Elle",
+            "start": 11.171,
+            "end": 11.331,
+            "score": 0.728
+          },
+          {
+            "word": "va",
+            "start": 11.351,
+            "end": 11.471,
+            "score": 0.797
+          },
+          {
+            "word": "devoir",
+            "start": 11.491,
+            "end": 11.812,
+            "score": 0.779
+          },
+          {
+            "word": "éclairer",
+            "start": 11.872,
+            "end": 12.252,
+            "score": 0.845
+          },
+          {
+            "word": "les",
+            "start": 12.292,
+            "end": 12.392,
+            "score": 0.971
+          },
+          {
+            "word": "décisions",
+            "start": 12.432,
+            "end": 12.832,
+            "score": 0.939
+          },
+          {
+            "word": "de",
+            "start": 12.872,
+            "end": 12.992,
+            "score": 0.955
+          },
+          {
+            "word": "cette",
+            "start": 13.012,
+            "end": 13.172,
+            "score": 0.812
+          },
+          {
+            "word": "institution",
+            "start": 13.192,
+            "end": 13.633,
+            "score": 0.858
+          },
+          {
+            "word": "qui",
+            "start": 13.653,
+            "end": 13.753,
+            "score": 0.692
+          },
+          {
+            "word": "a",
+            "start": 13.773,
+            "end": 13.833,
+            "score": 0.169
+          },
+          {
+            "word": "un",
+            "start": 13.873,
+            "end": 13.913,
+            "score": 0.979
+          },
+          {
+            "word": "rôle",
+            "start": 13.953,
+            "end": 14.153,
+            "score": 0.862
+          },
+          {
+            "word": "majeur",
+            "start": 14.173,
+            "end": 14.413,
+            "score": 0.909
+          },
+          {
+            "word": "pour",
+            "start": 14.453,
+            "end": 14.573,
+            "score": 0.838
+          },
+          {
+            "word": "le",
+            "start": 14.593,
+            "end": 14.653,
+            "score": 0.749
+          },
+          {
+            "word": "monde",
+            "start": 14.673,
+            "end": 14.834,
+            "score": 0.808
+          },
+          {
+            "word": "agricole.",
+            "start": 14.854,
+            "end": 15.774,
+            "score": 0.903
+          }
+        ]
+      },
+      {
+        "start": 15.794,
+        "end": 18.836,
+        "text": "L'éleveuse du plateau de Milvache portera la voix de son syndicat.",
+        "words": [
+          {
+            "word": "L'éleveuse",
+            "start": 15.794,
+            "end": 16.134,
+            "score": 0.946
+          },
+          {
+            "word": "du",
+            "start": 16.154,
+            "end": 16.234,
+            "score": 0.748
+          },
+          {
+            "word": "plateau",
+            "start": 16.254,
+            "end": 16.475,
+            "score": 0.75
+          },
+          {
+            "word": "de",
+            "start": 16.495,
+            "end": 16.535,
+            "score": 0.558
+          },
+          {
+            "word": "Milvache",
+            "start": 16.555,
+            "end": 16.875,
+            "score": 0.731
+          },
+          {
+            "word": "portera",
+            "start": 16.935,
+            "end": 17.415,
+            "score": 0.922
+          },
+          {
+            "word": "la",
+            "start": 17.455,
+            "end": 17.515,
+            "score": 0.98
+          },
+          {
+            "word": "voix",
+            "start": 17.555,
+            "end": 17.795,
+            "score": 0.874
+          },
+          {
+            "word": "de",
+            "start": 17.815,
+            "end": 17.915,
+            "score": 0.986
+          },
+          {
+            "word": "son",
+            "start": 17.955,
+            "end": 18.096,
+            "score": 0.947
+          },
+          {
+            "word": "syndicat.",
+            "start": 18.136,
+            "end": 18.836,
+            "score": 0.978
+          }
+        ]
+      },
+      {
+        "start": 18.856,
+        "end": 21.838,
+        "text": "Voici son portrait brossé par Camille Becchetti et Laurent Duriskek.",
+        "words": [
+          {
+            "word": "Voici",
+            "start": 18.856,
+            "end": 19.216,
+            "score": 0.628
+          },
+          {
+            "word": "son",
+            "start": 19.236,
+            "end": 19.356,
+            "score": 0.665
+          },
+          {
+            "word": "portrait",
+            "start": 19.376,
+            "end": 19.677,
+            "score": 0.62
+          },
+          {
+            "word": "brossé",
+            "start": 19.697,
+            "end": 19.997,
+            "score": 0.796
+          },
+          {
+            "word": "par",
+            "start": 20.017,
+            "end": 20.197,
+            "score": 0.648
+          },
+          {
+            "word": "Camille",
+            "start": 20.217,
+            "end": 20.457,
+            "score": 0.456
+          },
+          {
+            "word": "Becchetti",
+            "start": 20.497,
+            "end": 20.917,
+            "score": 0.626
+          },
+          {
+            "word": "et",
+            "start": 20.957,
+            "end": 21.097,
+            "score": 0.697
+          },
+          {
+            "word": "Laurent",
+            "start": 21.117,
+            "end": 21.358,
+            "score": 0.527
+          },
+          {
+            "word": "Duriskek.",
+            "start": 21.378,
+            "end": 21.838,
+            "score": 0.599
+          }
+        ]
+      },
+      {
+        "start": 24.199,
+        "end": 28.242,
+        "text": "Dans quelques semaines, elle fera sa rentrée au comité de conseil de l'Europe.",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 24.199,
+            "end": 24.419,
+            "score": 0.318
+          },
+          {
+            "word": "quelques",
+            "start": 24.439,
+            "end": 24.8,
+            "score": 0.563
+          },
+          {
+            "word": "semaines,",
+            "start": 24.84,
+            "end": 25.42,
+            "score": 0.638
+          },
+          {
+            "word": "elle",
+            "start": 25.46,
+            "end": 25.62,
+            "score": 0.482
+          },
+          {
+            "word": "fera",
+            "start": 25.66,
+            "end": 26.0,
+            "score": 0.696
+          },
+          {
+            "word": "sa",
+            "start": 26.04,
+            "end": 26.181,
+            "score": 0.414
+          },
+          {
+            "word": "rentrée",
+            "start": 26.221,
+            "end": 26.561,
+            "score": 0.341
+          },
+          {
+            "word": "au",
+            "start": 26.601,
+            "end": 26.741,
+            "score": 0.724
+          },
+          {
+            "word": "comité",
+            "start": 26.781,
+            "end": 27.221,
+            "score": 0.633
+          },
+          {
+            "word": "de",
+            "start": 27.261,
+            "end": 27.381,
+            "score": 0.564
+          },
+          {
+            "word": "conseil",
+            "start": 27.421,
+            "end": 27.782,
+            "score": 0.466
+          },
+          {
+            "word": "de",
+            "start": 27.802,
+            "end": 27.922,
+            "score": 0.68
+          },
+          {
+            "word": "l'Europe.",
+            "start": 27.962,
+            "end": 28.242,
+            "score": 0.365
+          }
+        ]
+      },
+      {
+        "start": 30.087,
+        "end": 37.83,
+        "text": " A l'avenir, un peu moins de campagne corézienne, Amélie Rebière, éleveuse du plateau 2000 vaches, se dirige désormais vers Bruxelles.",
+        "words": [
+          {
+            "word": "A",
+            "start": 30.087,
+            "end": 30.167,
+            "score": 0.623
+          },
+          {
+            "word": "l'avenir,",
+            "start": 30.207,
+            "end": 30.967,
+            "score": 0.936
+          },
+          {
+            "word": "un",
+            "start": 31.027,
+            "end": 31.087,
+            "score": 0.957
+          },
+          {
+            "word": "peu",
+            "start": 31.107,
+            "end": 31.248,
+            "score": 0.97
+          },
+          {
+            "word": "moins",
+            "start": 31.268,
+            "end": 31.448,
+            "score": 0.832
+          },
+          {
+            "word": "de",
+            "start": 31.488,
+            "end": 31.588,
+            "score": 0.896
+          },
+          {
+            "word": "campagne",
+            "start": 31.628,
+            "end": 32.028,
+            "score": 0.829
+          },
+          {
+            "word": "corézienne,",
+            "start": 32.068,
+            "end": 33.088,
+            "score": 0.853
+          },
+          {
+            "word": "Amélie",
+            "start": 33.148,
+            "end": 33.469,
+            "score": 0.711
+          },
+          {
+            "word": "Rebière,",
+            "start": 33.489,
+            "end": 33.769,
+            "score": 0.639
+          },
+          {
+            "word": "éleveuse",
+            "start": 33.809,
+            "end": 34.169,
+            "score": 0.858
+          },
+          {
+            "word": "du",
+            "start": 34.189,
+            "end": 34.289,
+            "score": 0.73
+          },
+          {
+            "word": "plateau",
+            "start": 34.309,
+            "end": 34.749,
+            "score": 0.739
+          },
+          {
+            "word": "2000"
+          },
+          {
+            "word": "vaches,",
+            "start": 34.969,
+            "end": 35.609,
+            "score": 0.851
+          },
+          {
+            "word": "se",
+            "start": 35.629,
+            "end": 35.79,
+            "score": 0.92
+          },
+          {
+            "word": "dirige",
+            "start": 35.81,
+            "end": 36.13,
+            "score": 0.861
+          },
+          {
+            "word": "désormais",
+            "start": 36.17,
+            "end": 37.17,
+            "score": 0.961
+          },
+          {
+            "word": "vers",
+            "start": 37.21,
+            "end": 37.41,
+            "score": 0.876
+          },
+          {
+            "word": "Bruxelles.",
+            "start": 37.45,
+            "end": 37.83,
+            "score": 0.9
+          }
+        ]
+      },
+      {
+        "start": 37.87,
+        "end": 39.331,
+        "text": "Ça va vous manquer ?",
+        "words": [
+          {
+            "word": "Ça",
+            "start": 37.87,
+            "end": 37.97,
+            "score": 0.56
+          },
+          {
+            "word": "va",
+            "start": 38.01,
+            "end": 38.111,
+            "score": 0.356
+          },
+          {
+            "word": "vous",
+            "start": 38.191,
+            "end": 38.711,
+            "score": 0.364
+          },
+          {
+            "word": "manquer",
+            "start": 39.071,
+            "end": 39.331,
+            "score": 0.326
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 39.471,
+        "end": 44.974,
+        "text": "Un petit peu, mais ça sera du coup ma bouffée d'oxygène quand je reviendrai de Bruxelles ou de Paris ou d'autres réunions.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 39.471,
+            "end": 39.531,
+            "score": 0.241
+          },
+          {
+            "word": "petit",
+            "start": 39.551,
+            "end": 39.711,
+            "score": 0.282
+          },
+          {
+            "word": "peu,",
+            "start": 39.731,
+            "end": 39.791,
+            "score": 0.009
+          },
+          {
+            "word": "mais",
+            "start": 39.811,
+            "end": 39.911,
+            "score": 0.128
+          },
+          {
+            "word": "ça",
+            "start": 39.951,
+            "end": 40.031,
+            "score": 0.462
+          },
+          {
+            "word": "sera",
+            "start": 40.071,
+            "end": 40.291,
+            "score": 0.515
+          },
+          {
+            "word": "du",
+            "start": 40.311,
+            "end": 40.432,
+            "score": 0.611
+          },
+          {
+            "word": "coup",
+            "start": 40.472,
+            "end": 40.872,
+            "score": 0.417
+          },
+          {
+            "word": "ma",
+            "start": 40.892,
+            "end": 40.992,
+            "score": 0.424
+          },
+          {
+            "word": "bouffée",
+            "start": 41.012,
+            "end": 41.252,
+            "score": 0.257
+          },
+          {
+            "word": "d'oxygène",
+            "start": 41.272,
+            "end": 41.752,
+            "score": 0.55
+          },
+          {
+            "word": "quand",
+            "start": 41.772,
+            "end": 41.892,
+            "score": 0.443
+          },
+          {
+            "word": "je",
+            "start": 41.912,
+            "end": 41.972,
+            "score": 0.904
+          },
+          {
+            "word": "reviendrai",
+            "start": 42.012,
+            "end": 42.352,
+            "score": 0.606
+          },
+          {
+            "word": "de",
+            "start": 42.372,
+            "end": 42.432,
+            "score": 0.246
+          },
+          {
+            "word": "Bruxelles",
+            "start": 42.472,
+            "end": 42.853,
+            "score": 0.505
+          },
+          {
+            "word": "ou",
+            "start": 42.893,
+            "end": 42.973,
+            "score": 0.402
+          },
+          {
+            "word": "de",
+            "start": 43.013,
+            "end": 43.093,
+            "score": 0.332
+          },
+          {
+            "word": "Paris",
+            "start": 43.133,
+            "end": 43.433,
+            "score": 0.515
+          },
+          {
+            "word": "ou",
+            "start": 43.473,
+            "end": 43.593,
+            "score": 0.444
+          },
+          {
+            "word": "d'autres",
+            "start": 43.613,
+            "end": 43.813,
+            "score": 0.312
+          },
+          {
+            "word": "réunions.",
+            "start": 43.833,
+            "end": 44.974,
+            "score": 0.442
+          }
+        ]
+      },
+      {
+        "start": 44.994,
+        "end": 49.636,
+        "text": "Je sais que je viens là, je m'occupe de mes chevaux et ça remet bien les pieds sur terre aussi.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 44.994,
+            "end": 45.094,
+            "score": 0.568
+          },
+          {
+            "word": "sais",
+            "start": 45.114,
+            "end": 45.234,
+            "score": 0.263
+          },
+          {
+            "word": "que",
+            "start": 45.254,
+            "end": 45.334,
+            "score": 0.164
+          },
+          {
+            "word": "je",
+            "start": 45.354,
+            "end": 45.494,
+            "score": 0.639
+          },
+          {
+            "word": "viens",
+            "start": 45.514,
+            "end": 45.934,
+            "score": 0.45
+          },
+          {
+            "word": "là,",
+            "start": 45.994,
+            "end": 46.114,
+            "score": 0.396
+          },
+          {
+            "word": "je",
+            "start": 46.134,
+            "end": 46.234,
+            "score": 0.372
+          },
+          {
+            "word": "m'occupe",
+            "start": 46.254,
+            "end": 46.634,
+            "score": 0.234
+          },
+          {
+            "word": "de",
+            "start": 46.654,
+            "end": 46.834,
+            "score": 0.66
+          },
+          {
+            "word": "mes",
+            "start": 46.894,
+            "end": 47.034,
+            "score": 0.265
+          },
+          {
+            "word": "chevaux",
+            "start": 47.074,
+            "end": 47.214,
+            "score": 0.002
+          },
+          {
+            "word": "et",
+            "start": 47.234,
+            "end": 47.275,
+            "score": 0.016
+          },
+          {
+            "word": "ça",
+            "start": 47.295,
+            "end": 47.435,
+            "score": 0.619
+          },
+          {
+            "word": "remet",
+            "start": 47.475,
+            "end": 47.695,
+            "score": 0.348
+          },
+          {
+            "word": "bien",
+            "start": 47.715,
+            "end": 47.855,
+            "score": 0.426
+          },
+          {
+            "word": "les",
+            "start": 47.875,
+            "end": 47.935,
+            "score": 0.521
+          },
+          {
+            "word": "pieds",
+            "start": 47.955,
+            "end": 48.135,
+            "score": 0.471
+          },
+          {
+            "word": "sur",
+            "start": 48.175,
+            "end": 48.255,
+            "score": 0.176
+          },
+          {
+            "word": "terre",
+            "start": 48.275,
+            "end": 48.455,
+            "score": 0.364
+          },
+          {
+            "word": "aussi.",
+            "start": 48.495,
+            "end": 49.636,
+            "score": 0.498
+          }
+        ]
+      },
+      {
+        "start": 49.676,
+        "end": 59.5,
+        "text": "En plus de sa casquette d'agricultrice, cette mère de famille est aussi vice-présidente du 2e syndicat agricole de France, des responsabilités qu'il va falloir concilier.",
+        "words": [
+          {
+            "word": "En",
+            "start": 49.676,
+            "end": 49.776,
+            "score": 0.882
+          },
+          {
+            "word": "plus",
+            "start": 49.816,
+            "end": 50.036,
+            "score": 0.854
+          },
+          {
+            "word": "de",
+            "start": 50.056,
+            "end": 50.156,
+            "score": 0.941
+          },
+          {
+            "word": "sa",
+            "start": 50.196,
+            "end": 50.296,
+            "score": 0.974
+          },
+          {
+            "word": "casquette",
+            "start": 50.336,
+            "end": 50.736,
+            "score": 0.821
+          },
+          {
+            "word": "d'agricultrice,",
+            "start": 50.776,
+            "end": 51.897,
+            "score": 0.943
+          },
+          {
+            "word": "cette",
+            "start": 51.937,
+            "end": 52.117,
+            "score": 0.929
+          },
+          {
+            "word": "mère",
+            "start": 52.157,
+            "end": 52.357,
+            "score": 0.777
+          },
+          {
+            "word": "de",
+            "start": 52.377,
+            "end": 52.477,
+            "score": 0.664
+          },
+          {
+            "word": "famille",
+            "start": 52.517,
+            "end": 52.837,
+            "score": 0.805
+          },
+          {
+            "word": "est",
+            "start": 52.897,
+            "end": 52.997,
+            "score": 0.984
+          },
+          {
+            "word": "aussi",
+            "start": 53.037,
+            "end": 53.437,
+            "score": 0.844
+          },
+          {
+            "word": "vice-présidente",
+            "start": 53.477,
+            "end": 54.398,
+            "score": 0.953
+          },
+          {
+            "word": "du",
+            "start": 54.418,
+            "end": 54.678,
+            "score": 0.948
+          },
+          {
+            "word": "2e",
+            "start": 55.058,
+            "end": 55.178,
+            "score": 0.718
+          },
+          {
+            "word": "syndicat",
+            "start": 55.218,
+            "end": 55.658,
+            "score": 0.908
+          },
+          {
+            "word": "agricole",
+            "start": 55.698,
+            "end": 56.118,
+            "score": 0.774
+          },
+          {
+            "word": "de",
+            "start": 56.158,
+            "end": 56.238,
+            "score": 0.918
+          },
+          {
+            "word": "France,",
+            "start": 56.278,
+            "end": 57.159,
+            "score": 0.88
+          },
+          {
+            "word": "des",
+            "start": 57.179,
+            "end": 57.319,
+            "score": 0.875
+          },
+          {
+            "word": "responsabilités",
+            "start": 57.339,
+            "end": 58.179,
+            "score": 0.941
+          },
+          {
+            "word": "qu'il",
+            "start": 58.219,
+            "end": 58.479,
+            "score": 0.668
+          },
+          {
+            "word": "va",
+            "start": 58.499,
+            "end": 58.639,
+            "score": 0.98
+          },
+          {
+            "word": "falloir",
+            "start": 58.679,
+            "end": 59.02,
+            "score": 0.911
+          },
+          {
+            "word": "concilier.",
+            "start": 59.06,
+            "end": 59.5,
+            "score": 0.748
+          }
+        ]
+      },
+      {
+        "start": 60.416,
+        "end": 65.319,
+        "text": " Déjà le syndicat me prenait beaucoup de temps, que ce soit au niveau départemental ou au niveau national.",
+        "words": [
+          {
+            "word": "Déjà",
+            "start": 60.416,
+            "end": 60.816,
+            "score": 0.172
+          },
+          {
+            "word": "le",
+            "start": 60.836,
+            "end": 60.896,
+            "score": 0.295
+          },
+          {
+            "word": "syndicat",
+            "start": 60.916,
+            "end": 61.296,
+            "score": 0.197
+          },
+          {
+            "word": "me",
+            "start": 61.316,
+            "end": 61.397,
+            "score": 0.51
+          },
+          {
+            "word": "prenait",
+            "start": 61.417,
+            "end": 61.717,
+            "score": 0.503
+          },
+          {
+            "word": "beaucoup",
+            "start": 61.757,
+            "end": 61.917,
+            "score": 0.962
+          },
+          {
+            "word": "de",
+            "start": 61.937,
+            "end": 61.977,
+            "score": 0.183
+          },
+          {
+            "word": "temps,",
+            "start": 61.997,
+            "end": 62.577,
+            "score": 0.817
+          },
+          {
+            "word": "que",
+            "start": 62.617,
+            "end": 62.717,
+            "score": 0.411
+          },
+          {
+            "word": "ce",
+            "start": 62.737,
+            "end": 62.817,
+            "score": 0.619
+          },
+          {
+            "word": "soit",
+            "start": 62.837,
+            "end": 62.957,
+            "score": 0.567
+          },
+          {
+            "word": "au",
+            "start": 62.977,
+            "end": 63.017,
+            "score": 0.915
+          },
+          {
+            "word": "niveau",
+            "start": 63.037,
+            "end": 63.217,
+            "score": 0.883
+          },
+          {
+            "word": "départemental",
+            "start": 63.238,
+            "end": 63.838,
+            "score": 0.871
+          },
+          {
+            "word": "ou",
+            "start": 63.878,
+            "end": 63.918,
+            "score": 0.891
+          },
+          {
+            "word": "au",
+            "start": 63.958,
+            "end": 64.018,
+            "score": 0.76
+          },
+          {
+            "word": "niveau",
+            "start": 64.038,
+            "end": 64.258,
+            "score": 0.89
+          },
+          {
+            "word": "national.",
+            "start": 64.298,
+            "end": 65.319,
+            "score": 0.988
+          }
+        ]
+      },
+      {
+        "start": 65.339,
+        "end": 68.82,
+        "text": "Je passais des fois plusieurs jours par semaine en dehors de la ferme.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 65.339,
+            "end": 65.419,
+            "score": 0.836
+          },
+          {
+            "word": "passais",
+            "start": 65.459,
+            "end": 65.839,
+            "score": 0.838
+          },
+          {
+            "word": "des",
+            "start": 65.859,
+            "end": 65.959,
+            "score": 0.784
+          },
+          {
+            "word": "fois",
+            "start": 65.979,
+            "end": 66.239,
+            "score": 0.823
+          },
+          {
+            "word": "plusieurs",
+            "start": 66.279,
+            "end": 66.559,
+            "score": 0.738
+          },
+          {
+            "word": "jours",
+            "start": 66.599,
+            "end": 66.779,
+            "score": 0.837
+          },
+          {
+            "word": "par",
+            "start": 66.819,
+            "end": 66.959,
+            "score": 0.918
+          },
+          {
+            "word": "semaine",
+            "start": 66.979,
+            "end": 67.52,
+            "score": 0.912
+          },
+          {
+            "word": "en",
+            "start": 67.56,
+            "end": 67.62,
+            "score": 0.742
+          },
+          {
+            "word": "dehors",
+            "start": 67.66,
+            "end": 67.84,
+            "score": 0.835
+          },
+          {
+            "word": "de",
+            "start": 67.86,
+            "end": 67.9,
+            "score": 0.992
+          },
+          {
+            "word": "la",
+            "start": 67.94,
+            "end": 68.0,
+            "score": 0.894
+          },
+          {
+            "word": "ferme.",
+            "start": 68.04,
+            "end": 68.82,
+            "score": 0.989
+          }
+        ]
+      },
+      {
+        "start": 68.84,
+        "end": 75.884,
+        "text": "Donc c'était déjà de l'organisation parce qu'entre trois enfants, la ferme, il faut se faire organiser.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 68.84,
+            "end": 69.021,
+            "score": 0.581
+          },
+          {
+            "word": "c'était",
+            "start": 69.041,
+            "end": 69.281,
+            "score": 0.82
+          },
+          {
+            "word": "déjà",
+            "start": 69.321,
+            "end": 70.061,
+            "score": 0.87
+          },
+          {
+            "word": "de",
+            "start": 70.081,
+            "end": 70.141,
+            "score": 0.622
+          },
+          {
+            "word": "l'organisation",
+            "start": 70.181,
+            "end": 70.781,
+            "score": 0.92
+          },
+          {
+            "word": "parce",
+            "start": 70.822,
+            "end": 70.962,
+            "score": 0.916
+          },
+          {
+            "word": "qu'entre",
+            "start": 70.982,
+            "end": 71.382,
+            "score": 0.852
+          },
+          {
+            "word": "trois",
+            "start": 71.422,
+            "end": 71.602,
+            "score": 0.848
+          },
+          {
+            "word": "enfants,",
+            "start": 71.642,
+            "end": 72.282,
+            "score": 0.905
+          },
+          {
+            "word": "la",
+            "start": 72.322,
+            "end": 72.422,
+            "score": 0.876
+          },
+          {
+            "word": "ferme,",
+            "start": 72.482,
+            "end": 73.783,
+            "score": 0.877
+          },
+          {
+            "word": "il",
+            "start": 73.863,
+            "end": 74.664,
+            "score": 0.794
+          },
+          {
+            "word": "faut",
+            "start": 74.684,
+            "end": 74.784,
+            "score": 0.506
+          },
+          {
+            "word": "se",
+            "start": 74.824,
+            "end": 74.864,
+            "score": 0.079
+          },
+          {
+            "word": "faire",
+            "start": 74.884,
+            "end": 75.004,
+            "score": 0.178
+          },
+          {
+            "word": "organiser.",
+            "start": 75.024,
+            "end": 75.884,
+            "score": 0.832
+          }
+        ]
+      },
+      {
+        "start": 75.924,
+        "end": 80.807,
+        "text": "Le projet levait le pied sur son mandat syndical pour se consacrer à cette nouvelle tâche.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 75.924,
+            "end": 76.044,
+            "score": 0.904
+          },
+          {
+            "word": "projet",
+            "start": 76.084,
+            "end": 76.805,
+            "score": 0.941
+          },
+          {
+            "word": "levait",
+            "start": 76.865,
+            "end": 77.165,
+            "score": 0.654
+          },
+          {
+            "word": "le",
+            "start": 77.205,
+            "end": 77.285,
+            "score": 0.879
+          },
+          {
+            "word": "pied",
+            "start": 77.305,
+            "end": 77.525,
+            "score": 0.899
+          },
+          {
+            "word": "sur",
+            "start": 77.545,
+            "end": 77.705,
+            "score": 0.843
+          },
+          {
+            "word": "son",
+            "start": 77.745,
+            "end": 77.945,
+            "score": 0.968
+          },
+          {
+            "word": "mandat",
+            "start": 77.985,
+            "end": 78.265,
+            "score": 0.87
+          },
+          {
+            "word": "syndical",
+            "start": 78.305,
+            "end": 78.826,
+            "score": 0.891
+          },
+          {
+            "word": "pour",
+            "start": 78.846,
+            "end": 79.026,
+            "score": 0.938
+          },
+          {
+            "word": "se",
+            "start": 79.066,
+            "end": 79.266,
+            "score": 0.933
+          },
+          {
+            "word": "consacrer",
+            "start": 79.306,
+            "end": 79.866,
+            "score": 0.948
+          },
+          {
+            "word": "à",
+            "start": 79.906,
+            "end": 80.006,
+            "score": 0.798
+          },
+          {
+            "word": "cette",
+            "start": 80.046,
+            "end": 80.246,
+            "score": 0.899
+          },
+          {
+            "word": "nouvelle",
+            "start": 80.286,
+            "end": 80.587,
+            "score": 0.955
+          },
+          {
+            "word": "tâche.",
+            "start": 80.627,
+            "end": 80.807,
+            "score": 0.533
+          }
+        ]
+      },
+      {
+        "start": 82.167,
+        "end": 88.211,
+        "text": " Figure de la coordination rurale, Amélie Rebière s'installe dans cette progression fulgurante que connaît son syndicat depuis 2019.",
+        "words": [
+          {
+            "word": "Figure",
+            "start": 82.167,
+            "end": 82.427,
+            "score": 0.788
+          },
+          {
+            "word": "de",
+            "start": 82.467,
+            "end": 82.547,
+            "score": 0.768
+          },
+          {
+            "word": "la",
+            "start": 82.587,
+            "end": 82.667,
+            "score": 0.692
+          },
+          {
+            "word": "coordination",
+            "start": 82.707,
+            "end": 83.328,
+            "score": 0.883
+          },
+          {
+            "word": "rurale,",
+            "start": 83.388,
+            "end": 84.128,
+            "score": 0.871
+          },
+          {
+            "word": "Amélie",
+            "start": 84.168,
+            "end": 84.489,
+            "score": 0.823
+          },
+          {
+            "word": "Rebière",
+            "start": 84.529,
+            "end": 84.869,
+            "score": 0.755
+          },
+          {
+            "word": "s'installe",
+            "start": 84.889,
+            "end": 85.269,
+            "score": 0.825
+          },
+          {
+            "word": "dans",
+            "start": 85.309,
+            "end": 85.429,
+            "score": 0.903
+          },
+          {
+            "word": "cette",
+            "start": 85.469,
+            "end": 85.67,
+            "score": 0.851
+          },
+          {
+            "word": "progression",
+            "start": 85.71,
+            "end": 86.27,
+            "score": 0.92
+          },
+          {
+            "word": "fulgurante",
+            "start": 86.31,
+            "end": 86.81,
+            "score": 0.811
+          },
+          {
+            "word": "que",
+            "start": 86.85,
+            "end": 86.99,
+            "score": 0.733
+          },
+          {
+            "word": "connaît",
+            "start": 87.03,
+            "end": 87.291,
+            "score": 0.934
+          },
+          {
+            "word": "son",
+            "start": 87.311,
+            "end": 87.471,
+            "score": 0.929
+          },
+          {
+            "word": "syndicat",
+            "start": 87.511,
+            "end": 87.971,
+            "score": 0.859
+          },
+          {
+            "word": "depuis",
+            "start": 88.011,
+            "end": 88.211,
+            "score": 0.871
+          },
+          {
+            "word": "2019."
+          }
+        ]
+      },
+      {
+        "start": 88.271,
+        "end": 95.957,
+        "text": "Aux dernières élections, la CR est passée de 3 à 14 chambres d'agriculture remportées en France.",
+        "words": [
+          {
+            "word": "Aux",
+            "start": 88.271,
+            "end": 88.712,
+            "score": 0.389
+          },
+          {
+            "word": "dernières",
+            "start": 89.872,
+            "end": 90.193,
+            "score": 0.897
+          },
+          {
+            "word": "élections,",
+            "start": 90.253,
+            "end": 91.073,
+            "score": 0.854
+          },
+          {
+            "word": "la",
+            "start": 91.113,
+            "end": 91.193,
+            "score": 0.986
+          },
+          {
+            "word": "CR",
+            "start": 91.253,
+            "end": 91.494,
+            "score": 0.748
+          },
+          {
+            "word": "est",
+            "start": 91.514,
+            "end": 91.634,
+            "score": 0.614
+          },
+          {
+            "word": "passée",
+            "start": 91.654,
+            "end": 91.934,
+            "score": 0.926
+          },
+          {
+            "word": "de",
+            "start": 91.974,
+            "end": 92.614,
+            "score": 0.609
+          },
+          {
+            "word": "3"
+          },
+          {
+            "word": "à",
+            "start": 92.674,
+            "end": 92.914,
+            "score": 0.913
+          },
+          {
+            "word": "14"
+          },
+          {
+            "word": "chambres",
+            "start": 93.495,
+            "end": 93.735,
+            "score": 0.523
+          },
+          {
+            "word": "d'agriculture",
+            "start": 93.775,
+            "end": 94.436,
+            "score": 0.695
+          },
+          {
+            "word": "remportées",
+            "start": 94.456,
+            "end": 94.896,
+            "score": 0.765
+          },
+          {
+            "word": "en",
+            "start": 94.916,
+            "end": 94.996,
+            "score": 0.976
+          },
+          {
+            "word": "France.",
+            "start": 95.036,
+            "end": 95.957,
+            "score": 0.884
+          }
+        ]
+      },
+      {
+        "start": 95.997,
+        "end": 101.821,
+        "text": "Si elle n'a pas eu celle de la Corrèze, Amélie Rebière compte bien mener les dossiers qu'elle défend directement à Bruxelles.",
+        "words": [
+          {
+            "word": "Si",
+            "start": 95.997,
+            "end": 96.077,
+            "score": 0.751
+          },
+          {
+            "word": "elle",
+            "start": 96.097,
+            "end": 96.237,
+            "score": 0.819
+          },
+          {
+            "word": "n'a",
+            "start": 96.277,
+            "end": 96.377,
+            "score": 0.871
+          },
+          {
+            "word": "pas",
+            "start": 96.417,
+            "end": 96.517,
+            "score": 0.738
+          },
+          {
+            "word": "eu",
+            "start": 96.537,
+            "end": 96.617,
+            "score": 0.714
+          },
+          {
+            "word": "celle",
+            "start": 96.657,
+            "end": 96.837,
+            "score": 0.917
+          },
+          {
+            "word": "de",
+            "start": 96.857,
+            "end": 96.937,
+            "score": 0.633
+          },
+          {
+            "word": "la",
+            "start": 96.977,
+            "end": 97.037,
+            "score": 0.974
+          },
+          {
+            "word": "Corrèze,",
+            "start": 97.077,
+            "end": 97.918,
+            "score": 0.769
+          },
+          {
+            "word": "Amélie",
+            "start": 97.958,
+            "end": 98.278,
+            "score": 0.89
+          },
+          {
+            "word": "Rebière",
+            "start": 98.298,
+            "end": 98.638,
+            "score": 0.729
+          },
+          {
+            "word": "compte",
+            "start": 98.658,
+            "end": 98.839,
+            "score": 0.759
+          },
+          {
+            "word": "bien",
+            "start": 98.859,
+            "end": 99.019,
+            "score": 0.814
+          },
+          {
+            "word": "mener",
+            "start": 99.059,
+            "end": 99.299,
+            "score": 0.858
+          },
+          {
+            "word": "les",
+            "start": 99.339,
+            "end": 99.439,
+            "score": 0.947
+          },
+          {
+            "word": "dossiers",
+            "start": 99.479,
+            "end": 99.739,
+            "score": 0.746
+          },
+          {
+            "word": "qu'elle",
+            "start": 99.779,
+            "end": 100.019,
+            "score": 0.763
+          },
+          {
+            "word": "défend",
+            "start": 100.039,
+            "end": 100.76,
+            "score": 0.863
+          },
+          {
+            "word": "directement",
+            "start": 100.8,
+            "end": 101.32,
+            "score": 0.919
+          },
+          {
+            "word": "à",
+            "start": 101.36,
+            "end": 101.4,
+            "score": 0.656
+          },
+          {
+            "word": "Bruxelles.",
+            "start": 101.46,
+            "end": 101.821,
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "start": 102.708,
+        "end": 106.03,
+        "text": " Alors évidemment, il y a la PAC, la politique agricole commune post-2027.",
+        "words": [
+          {
+            "word": "Alors",
+            "start": 102.708,
+            "end": 102.888,
+            "score": 0.42
+          },
+          {
+            "word": "évidemment,",
+            "start": 102.908,
+            "end": 103.288,
+            "score": 0.929
+          },
+          {
+            "word": "il",
+            "start": 103.349,
+            "end": 103.409,
+            "score": 0.717
+          },
+          {
+            "word": "y",
+            "start": 103.429,
+            "end": 103.449,
+            "score": 0.943
+          },
+          {
+            "word": "a",
+            "start": 103.509,
+            "end": 103.589,
+            "score": 0.676
+          },
+          {
+            "word": "la",
+            "start": 103.649,
+            "end": 103.929,
+            "score": 0.954
+          },
+          {
+            "word": "PAC,",
+            "start": 103.989,
+            "end": 104.209,
+            "score": 0.921
+          },
+          {
+            "word": "la",
+            "start": 104.269,
+            "end": 104.329,
+            "score": 0.869
+          },
+          {
+            "word": "politique",
+            "start": 104.369,
+            "end": 104.709,
+            "score": 0.668
+          },
+          {
+            "word": "agricole",
+            "start": 104.75,
+            "end": 105.13,
+            "score": 0.807
+          },
+          {
+            "word": "commune",
+            "start": 105.17,
+            "end": 105.69,
+            "score": 0.855
+          },
+          {
+            "word": "post-2027.",
+            "start": 105.73,
+            "end": 106.03,
+            "score": 0.916
+          }
+        ]
+      },
+      {
+        "start": 106.05,
+        "end": 114.357,
+        "text": "Donc là, ce sera la grosse étape pour l'avenir de l'agriculture française, parce qu'on va parler budget, on va parler orientation.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 106.05,
+            "end": 106.531,
+            "score": 0.424
+          },
+          {
+            "word": "là,",
+            "start": 107.552,
+            "end": 108.012,
+            "score": 0.933
+          },
+          {
+            "word": "ce",
+            "start": 108.032,
+            "end": 108.112,
+            "score": 0.945
+          },
+          {
+            "word": "sera",
+            "start": 108.152,
+            "end": 108.412,
+            "score": 0.869
+          },
+          {
+            "word": "la",
+            "start": 108.452,
+            "end": 108.592,
+            "score": 0.822
+          },
+          {
+            "word": "grosse",
+            "start": 108.632,
+            "end": 108.953,
+            "score": 0.807
+          },
+          {
+            "word": "étape",
+            "start": 108.993,
+            "end": 109.853,
+            "score": 0.912
+          },
+          {
+            "word": "pour",
+            "start": 109.873,
+            "end": 109.993,
+            "score": 0.912
+          },
+          {
+            "word": "l'avenir",
+            "start": 110.033,
+            "end": 110.254,
+            "score": 0.832
+          },
+          {
+            "word": "de",
+            "start": 110.274,
+            "end": 110.334,
+            "score": 0.787
+          },
+          {
+            "word": "l'agriculture",
+            "start": 110.374,
+            "end": 111.034,
+            "score": 0.766
+          },
+          {
+            "word": "française,",
+            "start": 111.054,
+            "end": 111.534,
+            "score": 0.872
+          },
+          {
+            "word": "parce",
+            "start": 111.574,
+            "end": 111.715,
+            "score": 0.93
+          },
+          {
+            "word": "qu'on",
+            "start": 111.755,
+            "end": 112.035,
+            "score": 0.818
+          },
+          {
+            "word": "va",
+            "start": 112.075,
+            "end": 112.155,
+            "score": 0.785
+          },
+          {
+            "word": "parler",
+            "start": 112.175,
+            "end": 112.395,
+            "score": 0.577
+          },
+          {
+            "word": "budget,",
+            "start": 112.435,
+            "end": 112.835,
+            "score": 0.862
+          },
+          {
+            "word": "on",
+            "start": 112.895,
+            "end": 112.975,
+            "score": 0.74
+          },
+          {
+            "word": "va",
+            "start": 112.996,
+            "end": 113.096,
+            "score": 0.752
+          },
+          {
+            "word": "parler",
+            "start": 113.116,
+            "end": 113.276,
+            "score": 0.621
+          },
+          {
+            "word": "orientation.",
+            "start": 113.316,
+            "end": 114.357,
+            "score": 0.795
+          }
+        ]
+      },
+      {
+        "start": 114.377,
+        "end": 118.76,
+        "text": "Donc on en parlait déjà, nous, au niveau national, et c'est vrai qu'on sait que ça dépend vraiment de l'Europe.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 114.377,
+            "end": 114.497,
+            "score": 0.744
+          },
+          {
+            "word": "on",
+            "start": 114.557,
+            "end": 114.617,
+            "score": 0.842
+          },
+          {
+            "word": "en",
+            "start": 114.677,
+            "end": 114.737,
+            "score": 0.916
+          },
+          {
+            "word": "parlait",
+            "start": 114.777,
+            "end": 114.997,
+            "score": 0.76
+          },
+          {
+            "word": "déjà,",
+            "start": 115.037,
+            "end": 115.317,
+            "score": 0.823
+          },
+          {
+            "word": "nous,",
+            "start": 115.357,
+            "end": 115.477,
+            "score": 0.822
+          },
+          {
+            "word": "au",
+            "start": 115.497,
+            "end": 115.557,
+            "score": 0.85
+          },
+          {
+            "word": "niveau",
+            "start": 115.577,
+            "end": 115.798,
+            "score": 0.825
+          },
+          {
+            "word": "national,",
+            "start": 115.838,
+            "end": 116.278,
+            "score": 0.851
+          },
+          {
+            "word": "et",
+            "start": 116.298,
+            "end": 116.338,
+            "score": 0.909
+          },
+          {
+            "word": "c'est",
+            "start": 116.438,
+            "end": 116.518,
+            "score": 0.817
+          },
+          {
+            "word": "vrai",
+            "start": 116.538,
+            "end": 116.658,
+            "score": 0.718
+          },
+          {
+            "word": "qu'on",
+            "start": 116.678,
+            "end": 117.018,
+            "score": 0.61
+          },
+          {
+            "word": "sait",
+            "start": 117.038,
+            "end": 117.139,
+            "score": 0.796
+          },
+          {
+            "word": "que",
+            "start": 117.159,
+            "end": 117.219,
+            "score": 0.913
+          },
+          {
+            "word": "ça",
+            "start": 117.239,
+            "end": 117.359,
+            "score": 0.294
+          },
+          {
+            "word": "dépend",
+            "start": 117.399,
+            "end": 117.599,
+            "score": 0.821
+          },
+          {
+            "word": "vraiment",
+            "start": 117.639,
+            "end": 117.859,
+            "score": 0.929
+          },
+          {
+            "word": "de",
+            "start": 117.879,
+            "end": 117.939,
+            "score": 0.745
+          },
+          {
+            "word": "l'Europe.",
+            "start": 117.979,
+            "end": 118.76,
+            "score": 0.838
+          }
+        ]
+      },
+      {
+        "start": 118.8,
+        "end": 122.783,
+        "text": "Et puis il y a un autre sujet qui me tient à cœur particulièrement au niveau du terrain, du territoire, c'est le loup.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 118.8,
+            "end": 118.88,
+            "score": 0.638
+          },
+          {
+            "word": "puis",
+            "start": 118.92,
+            "end": 119.02,
+            "score": 0.457
+          },
+          {
+            "word": "il",
+            "start": 119.06,
+            "end": 119.12,
+            "score": 0.562
+          },
+          {
+            "word": "y",
+            "start": 119.14,
+            "end": 119.16,
+            "score": 0.609
+          },
+          {
+            "word": "a",
+            "start": 119.18,
+            "end": 119.2,
+            "score": 0.288
+          },
+          {
+            "word": "un",
+            "start": 119.24,
+            "end": 119.28,
+            "score": 0.958
+          },
+          {
+            "word": "autre",
+            "start": 119.32,
+            "end": 119.46,
+            "score": 0.937
+          },
+          {
+            "word": "sujet",
+            "start": 119.48,
+            "end": 119.64,
+            "score": 0.893
+          },
+          {
+            "word": "qui",
+            "start": 119.68,
+            "end": 119.76,
+            "score": 0.881
+          },
+          {
+            "word": "me",
+            "start": 119.8,
+            "end": 119.84,
+            "score": 0.992
+          },
+          {
+            "word": "tient",
+            "start": 119.861,
+            "end": 120.001,
+            "score": 0.595
+          },
+          {
+            "word": "à",
+            "start": 120.021,
+            "end": 120.041,
+            "score": 0.061
+          },
+          {
+            "word": "cœur",
+            "start": 120.121,
+            "end": 120.301,
+            "score": 0.782
+          },
+          {
+            "word": "particulièrement",
+            "start": 120.321,
+            "end": 121.001,
+            "score": 0.889
+          },
+          {
+            "word": "au",
+            "start": 121.041,
+            "end": 121.101,
+            "score": 0.968
+          },
+          {
+            "word": "niveau",
+            "start": 121.121,
+            "end": 121.322,
+            "score": 0.844
+          },
+          {
+            "word": "du",
+            "start": 121.342,
+            "end": 121.442,
+            "score": 0.879
+          },
+          {
+            "word": "terrain,",
+            "start": 121.462,
+            "end": 121.802,
+            "score": 0.9
+          },
+          {
+            "word": "du",
+            "start": 121.862,
+            "end": 121.922,
+            "score": 0.993
+          },
+          {
+            "word": "territoire,",
+            "start": 121.962,
+            "end": 122.402,
+            "score": 0.95
+          },
+          {
+            "word": "c'est",
+            "start": 122.422,
+            "end": 122.562,
+            "score": 0.618
+          },
+          {
+            "word": "le",
+            "start": 122.582,
+            "end": 122.663,
+            "score": 0.51
+          },
+          {
+            "word": "loup.",
+            "start": 122.683,
+            "end": 122.783,
+            "score": 0.384
+          }
+        ]
+      },
+      {
+        "start": 123.383,
+        "end": 126.424,
+        "text": " Parce qu'on a compris de toute façon que ça dépendait de l'Europe.",
+        "words": [
+          {
+            "word": "Parce",
+            "start": 123.383,
+            "end": 123.503,
+            "score": 0.429
+          },
+          {
+            "word": "qu'on",
+            "start": 123.523,
+            "end": 123.683,
+            "score": 0.631
+          },
+          {
+            "word": "a",
+            "start": 123.823,
+            "end": 123.903,
+            "score": 0.646
+          },
+          {
+            "word": "compris",
+            "start": 123.943,
+            "end": 124.403,
+            "score": 0.906
+          },
+          {
+            "word": "de",
+            "start": 124.423,
+            "end": 124.503,
+            "score": 0.98
+          },
+          {
+            "word": "toute",
+            "start": 124.543,
+            "end": 124.663,
+            "score": 0.767
+          },
+          {
+            "word": "façon",
+            "start": 124.683,
+            "end": 124.983,
+            "score": 0.759
+          },
+          {
+            "word": "que",
+            "start": 125.003,
+            "end": 125.083,
+            "score": 0.944
+          },
+          {
+            "word": "ça",
+            "start": 125.103,
+            "end": 125.244,
+            "score": 0.524
+          },
+          {
+            "word": "dépendait",
+            "start": 125.264,
+            "end": 125.544,
+            "score": 0.93
+          },
+          {
+            "word": "de",
+            "start": 125.564,
+            "end": 125.624,
+            "score": 0.865
+          },
+          {
+            "word": "l'Europe.",
+            "start": 125.664,
+            "end": 126.424,
+            "score": 0.928
+          }
+        ]
+      },
+      {
+        "start": 126.444,
+        "end": 136.146,
+        "text": "Montée d'un cran en envoyant sa candidature au gouvernement français qui cherchait deux consultants agricoles à envoyer à Bruxelles pour éclairer les décisions du Parlement européen.",
+        "words": [
+          {
+            "word": "Montée",
+            "start": 126.444,
+            "end": 126.764,
+            "score": 0.892
+          },
+          {
+            "word": "d'un",
+            "start": 126.784,
+            "end": 126.904,
+            "score": 0.977
+          },
+          {
+            "word": "cran",
+            "start": 126.944,
+            "end": 127.224,
+            "score": 0.861
+          },
+          {
+            "word": "en",
+            "start": 127.264,
+            "end": 127.344,
+            "score": 0.726
+          },
+          {
+            "word": "envoyant",
+            "start": 127.384,
+            "end": 127.784,
+            "score": 0.937
+          },
+          {
+            "word": "sa",
+            "start": 127.804,
+            "end": 127.964,
+            "score": 0.495
+          },
+          {
+            "word": "candidature",
+            "start": 128.004,
+            "end": 128.584,
+            "score": 0.861
+          },
+          {
+            "word": "au",
+            "start": 128.644,
+            "end": 128.764,
+            "score": 0.752
+          },
+          {
+            "word": "gouvernement",
+            "start": 128.804,
+            "end": 129.345,
+            "score": 0.842
+          },
+          {
+            "word": "français",
+            "start": 129.405,
+            "end": 129.785,
+            "score": 0.867
+          },
+          {
+            "word": "qui",
+            "start": 129.825,
+            "end": 130.065,
+            "score": 0.89
+          },
+          {
+            "word": "cherchait",
+            "start": 130.105,
+            "end": 130.645,
+            "score": 0.852
+          },
+          {
+            "word": "deux",
+            "start": 130.685,
+            "end": 130.865,
+            "score": 0.907
+          },
+          {
+            "word": "consultants",
+            "start": 130.905,
+            "end": 131.405,
+            "score": 0.883
+          },
+          {
+            "word": "agricoles",
+            "start": 131.485,
+            "end": 131.905,
+            "score": 0.854
+          },
+          {
+            "word": "à",
+            "start": 131.925,
+            "end": 131.945,
+            "score": 0.003
+          },
+          {
+            "word": "envoyer",
+            "start": 132.065,
+            "end": 132.425,
+            "score": 0.835
+          },
+          {
+            "word": "à",
+            "start": 132.465,
+            "end": 132.525,
+            "score": 0.564
+          },
+          {
+            "word": "Bruxelles",
+            "start": 132.565,
+            "end": 133.406,
+            "score": 0.917
+          },
+          {
+            "word": "pour",
+            "start": 133.446,
+            "end": 133.646,
+            "score": 0.955
+          },
+          {
+            "word": "éclairer",
+            "start": 133.726,
+            "end": 134.186,
+            "score": 0.902
+          },
+          {
+            "word": "les",
+            "start": 134.226,
+            "end": 134.346,
+            "score": 0.822
+          },
+          {
+            "word": "décisions",
+            "start": 134.386,
+            "end": 134.846,
+            "score": 0.894
+          },
+          {
+            "word": "du",
+            "start": 134.866,
+            "end": 135.006,
+            "score": 0.659
+          },
+          {
+            "word": "Parlement",
+            "start": 135.046,
+            "end": 135.446,
+            "score": 0.869
+          },
+          {
+            "word": "européen.",
+            "start": 135.486,
+            "end": 136.146,
+            "score": 0.826
+          }
+        ]
+      },
+      {
+        "start": 136.186,
+        "end": 149.31,
+        "text": "C'était le seul maillon qui manquait au niveau de la coordination rurale et aussi des agriculteurs de terrain qui sont impactés directement par les décisions prises à Bruxelles qui parfois semblent complètement déconnectées.",
+        "words": [
+          {
+            "word": "C'était",
+            "start": 136.186,
+            "end": 136.466,
+            "score": 0.954
+          },
+          {
+            "word": "le",
+            "start": 136.506,
+            "end": 136.606,
+            "score": 0.881
+          },
+          {
+            "word": "seul",
+            "start": 136.626,
+            "end": 136.847,
+            "score": 0.957
+          },
+          {
+            "word": "maillon",
+            "start": 136.887,
+            "end": 137.207,
+            "score": 0.987
+          },
+          {
+            "word": "qui",
+            "start": 137.247,
+            "end": 137.387,
+            "score": 0.757
+          },
+          {
+            "word": "manquait",
+            "start": 137.407,
+            "end": 138.307,
+            "score": 0.913
+          },
+          {
+            "word": "au",
+            "start": 138.347,
+            "end": 138.427,
+            "score": 0.99
+          },
+          {
+            "word": "niveau",
+            "start": 138.467,
+            "end": 139.667,
+            "score": 0.785
+          },
+          {
+            "word": "de",
+            "start": 139.707,
+            "end": 139.767,
+            "score": 0.93
+          },
+          {
+            "word": "la",
+            "start": 139.807,
+            "end": 139.847,
+            "score": 0.997
+          },
+          {
+            "word": "coordination",
+            "start": 139.887,
+            "end": 140.447,
+            "score": 0.893
+          },
+          {
+            "word": "rurale",
+            "start": 140.467,
+            "end": 140.848,
+            "score": 0.961
+          },
+          {
+            "word": "et",
+            "start": 140.908,
+            "end": 141.048,
+            "score": 0.915
+          },
+          {
+            "word": "aussi",
+            "start": 141.108,
+            "end": 141.408,
+            "score": 0.896
+          },
+          {
+            "word": "des",
+            "start": 141.428,
+            "end": 141.528,
+            "score": 0.915
+          },
+          {
+            "word": "agriculteurs",
+            "start": 141.588,
+            "end": 142.328,
+            "score": 0.899
+          },
+          {
+            "word": "de",
+            "start": 142.368,
+            "end": 142.448,
+            "score": 0.851
+          },
+          {
+            "word": "terrain",
+            "start": 142.488,
+            "end": 143.308,
+            "score": 0.906
+          },
+          {
+            "word": "qui",
+            "start": 143.348,
+            "end": 144.028,
+            "score": 0.863
+          },
+          {
+            "word": "sont",
+            "start": 144.208,
+            "end": 144.308,
+            "score": 0.841
+          },
+          {
+            "word": "impactés",
+            "start": 144.348,
+            "end": 144.689,
+            "score": 0.845
+          },
+          {
+            "word": "directement",
+            "start": 144.729,
+            "end": 145.189,
+            "score": 0.897
+          },
+          {
+            "word": "par",
+            "start": 145.209,
+            "end": 145.349,
+            "score": 0.763
+          },
+          {
+            "word": "les",
+            "start": 145.389,
+            "end": 145.489,
+            "score": 0.726
+          },
+          {
+            "word": "décisions",
+            "start": 145.509,
+            "end": 145.809,
+            "score": 0.825
+          },
+          {
+            "word": "prises",
+            "start": 145.849,
+            "end": 146.209,
+            "score": 0.883
+          },
+          {
+            "word": "à",
+            "start": 146.249,
+            "end": 146.329,
+            "score": 0.789
+          },
+          {
+            "word": "Bruxelles",
+            "start": 146.369,
+            "end": 147.289,
+            "score": 0.904
+          },
+          {
+            "word": "qui",
+            "start": 147.329,
+            "end": 147.469,
+            "score": 0.837
+          },
+          {
+            "word": "parfois",
+            "start": 147.509,
+            "end": 147.949,
+            "score": 0.929
+          },
+          {
+            "word": "semblent",
+            "start": 147.989,
+            "end": 148.249,
+            "score": 0.772
+          },
+          {
+            "word": "complètement",
+            "start": 148.269,
+            "end": 148.65,
+            "score": 0.884
+          },
+          {
+            "word": "déconnectées.",
+            "start": 148.67,
+            "end": 149.31,
+            "score": 0.67
+          }
+        ]
+      },
+      {
+        "start": 149.35,
+        "end": 149.51,
+        "text": "Donc là...",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 149.35,
+            "end": 149.43,
+            "score": 0.093
+          },
+          {
+            "word": "là...",
+            "start": 149.47,
+            "end": 149.51,
+            "score": 0.016
+          }
+        ]
+      },
+      {
+        "start": 150.47,
+        "end": 157.96,
+        "text": " Quand j'ai appris qu'on pouvait candidater pour se placer au niveau européen, je n'ai pas hésité parce que c'est vraiment le maillon final.",
+        "words": [
+          {
+            "word": "Quand",
+            "start": 150.47,
+            "end": 150.61,
+            "score": 0.8
+          },
+          {
+            "word": "j'ai",
+            "start": 150.63,
+            "end": 150.71,
+            "score": 0.268
+          },
+          {
+            "word": "appris",
+            "start": 150.751,
+            "end": 150.911,
+            "score": 0.598
+          },
+          {
+            "word": "qu'on",
+            "start": 150.951,
+            "end": 151.111,
+            "score": 0.511
+          },
+          {
+            "word": "pouvait",
+            "start": 151.131,
+            "end": 151.371,
+            "score": 0.781
+          },
+          {
+            "word": "candidater",
+            "start": 151.391,
+            "end": 151.972,
+            "score": 0.876
+          },
+          {
+            "word": "pour",
+            "start": 152.012,
+            "end": 152.373,
+            "score": 0.905
+          },
+          {
+            "word": "se",
+            "start": 152.413,
+            "end": 152.513,
+            "score": 0.908
+          },
+          {
+            "word": "placer",
+            "start": 152.533,
+            "end": 152.773,
+            "score": 0.921
+          },
+          {
+            "word": "au",
+            "start": 152.813,
+            "end": 152.873,
+            "score": 0.97
+          },
+          {
+            "word": "niveau",
+            "start": 152.893,
+            "end": 153.114,
+            "score": 0.796
+          },
+          {
+            "word": "européen,",
+            "start": 153.154,
+            "end": 153.875,
+            "score": 0.866
+          },
+          {
+            "word": "je",
+            "start": 153.895,
+            "end": 153.935,
+            "score": 0.23
+          },
+          {
+            "word": "n'ai",
+            "start": 153.955,
+            "end": 154.095,
+            "score": 0.338
+          },
+          {
+            "word": "pas",
+            "start": 154.115,
+            "end": 154.195,
+            "score": 0.443
+          },
+          {
+            "word": "hésité",
+            "start": 154.215,
+            "end": 154.556,
+            "score": 0.502
+          },
+          {
+            "word": "parce",
+            "start": 154.596,
+            "end": 154.736,
+            "score": 0.196
+          },
+          {
+            "word": "que",
+            "start": 154.756,
+            "end": 154.916,
+            "score": 0.299
+          },
+          {
+            "word": "c'est",
+            "start": 154.936,
+            "end": 155.036,
+            "score": 0.428
+          },
+          {
+            "word": "vraiment",
+            "start": 155.076,
+            "end": 157.279,
+            "score": 0.499
+          },
+          {
+            "word": "le",
+            "start": 157.319,
+            "end": 157.379,
+            "score": 0.964
+          },
+          {
+            "word": "maillon",
+            "start": 157.399,
+            "end": 157.66,
+            "score": 0.813
+          },
+          {
+            "word": "final.",
+            "start": 157.7,
+            "end": 157.96,
+            "score": 0.972
+          }
+        ]
+      },
+      {
+        "start": 158.721,
+        "end": 159.663,
+        "text": "On dépend tous.",
+        "words": [
+          {
+            "word": "On",
+            "start": 158.721,
+            "end": 158.861,
+            "score": 0.66
+          },
+          {
+            "word": "dépend",
+            "start": 158.881,
+            "end": 159.102,
+            "score": 0.699
+          },
+          {
+            "word": "tous.",
+            "start": 159.142,
+            "end": 159.663,
+            "score": 0.829
+          }
+        ]
+      },
+      {
+        "start": 159.703,
+        "end": 165.811,
+        "text": "Amélie Rebière fait donc partie maintenant du binôme paritaire nommé par le Premier ministre français pour un mandat de 5 ans.",
+        "words": [
+          {
+            "word": "Amélie",
+            "start": 159.703,
+            "end": 160.003,
+            "score": 0.84
+          },
+          {
+            "word": "Rebière",
+            "start": 160.023,
+            "end": 160.384,
+            "score": 0.71
+          },
+          {
+            "word": "fait",
+            "start": 160.424,
+            "end": 160.624,
+            "score": 0.834
+          },
+          {
+            "word": "donc",
+            "start": 160.664,
+            "end": 160.864,
+            "score": 0.982
+          },
+          {
+            "word": "partie",
+            "start": 160.904,
+            "end": 161.205,
+            "score": 0.945
+          },
+          {
+            "word": "maintenant",
+            "start": 161.245,
+            "end": 161.705,
+            "score": 0.931
+          },
+          {
+            "word": "du",
+            "start": 161.745,
+            "end": 161.886,
+            "score": 0.994
+          },
+          {
+            "word": "binôme",
+            "start": 161.926,
+            "end": 162.306,
+            "score": 0.702
+          },
+          {
+            "word": "paritaire",
+            "start": 162.346,
+            "end": 162.827,
+            "score": 0.842
+          },
+          {
+            "word": "nommé",
+            "start": 162.867,
+            "end": 163.127,
+            "score": 0.973
+          },
+          {
+            "word": "par",
+            "start": 163.167,
+            "end": 163.287,
+            "score": 0.998
+          },
+          {
+            "word": "le",
+            "start": 163.327,
+            "end": 163.428,
+            "score": 0.893
+          },
+          {
+            "word": "Premier",
+            "start": 163.468,
+            "end": 163.728,
+            "score": 0.786
+          },
+          {
+            "word": "ministre",
+            "start": 163.748,
+            "end": 164.149,
+            "score": 0.802
+          },
+          {
+            "word": "français",
+            "start": 164.209,
+            "end": 165.07,
+            "score": 0.839
+          },
+          {
+            "word": "pour",
+            "start": 165.13,
+            "end": 165.35,
+            "score": 0.925
+          },
+          {
+            "word": "un",
+            "start": 165.41,
+            "end": 165.49,
+            "score": 0.993
+          },
+          {
+            "word": "mandat",
+            "start": 165.53,
+            "end": 165.651,
+            "score": 0.427
+          },
+          {
+            "word": "de",
+            "start": 165.671,
+            "end": 165.711,
+            "score": 0.008
+          },
+          {
+            "word": "5"
+          },
+          {
+            "word": "ans.",
+            "start": 165.751,
+            "end": 165.811,
+            "score": 0.021
+          }
+        ]
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "En",
+        "start": 1.285,
+        "end": 1.505,
+        "score": 0.654
+      },
+      {
+        "word": "agriculture,",
+        "start": 1.565,
+        "end": 2.226,
+        "score": 0.913
+      },
+      {
+        "word": "la",
+        "start": 2.266,
+        "end": 2.466,
+        "score": 0.96
+      },
+      {
+        "word": "Corézienne",
+        "start": 2.486,
+        "end": 2.986,
+        "score": 0.815
+      },
+      {
+        "word": "Amélie",
+        "start": 3.046,
+        "end": 3.386,
+        "score": 0.839
+      },
+      {
+        "word": "Rebière,",
+        "start": 3.426,
+        "end": 3.847,
+        "score": 0.889
+      },
+      {
+        "word": "déjà",
+        "start": 3.887,
+        "end": 4.307,
+        "score": 0.946
+      },
+      {
+        "word": "vice-présidente",
+        "start": 4.327,
+        "end": 5.127,
+        "score": 0.897
+      },
+      {
+        "word": "nationale",
+        "start": 5.168,
+        "end": 5.608,
+        "score": 0.871
+      },
+      {
+        "word": "de",
+        "start": 5.648,
+        "end": 5.728,
+        "score": 0.822
+      },
+      {
+        "word": "la",
+        "start": 5.768,
+        "end": 5.828,
+        "score": 0.884
+      },
+      {
+        "word": "coordination",
+        "start": 5.868,
+        "end": 6.428,
+        "score": 0.928
+      },
+      {
+        "word": "rurale,",
+        "start": 6.448,
+        "end": 7.049,
+        "score": 0.868
+      },
+      {
+        "word": "vient",
+        "start": 7.069,
+        "end": 7.229,
+        "score": 0.894
+      },
+      {
+        "word": "d'être",
+        "start": 7.269,
+        "end": 7.449,
+        "score": 0.861
+      },
+      {
+        "word": "nommée",
+        "start": 7.469,
+        "end": 7.689,
+        "score": 0.908
+      },
+      {
+        "word": "par",
+        "start": 7.729,
+        "end": 7.809,
+        "score": 0.843
+      },
+      {
+        "word": "le",
+        "start": 7.849,
+        "end": 7.929,
+        "score": 0.831
+      },
+      {
+        "word": "gouvernement",
+        "start": 7.949,
+        "end": 8.57,
+        "score": 0.912
+      },
+      {
+        "word": "conseillère",
+        "start": 8.61,
+        "end": 9.21,
+        "score": 0.855
+      },
+      {
+        "word": "agricole",
+        "start": 9.25,
+        "end": 9.61,
+        "score": 0.777
+      },
+      {
+        "word": "au",
+        "start": 9.67,
+        "end": 9.83,
+        "score": 0.743
+      },
+      {
+        "word": "Parlement",
+        "start": 9.87,
+        "end": 10.411,
+        "score": 0.98
+      },
+      {
+        "word": "européen.",
+        "start": 10.451,
+        "end": 11.131,
+        "score": 0.924
+      },
+      {
+        "word": "Elle",
+        "start": 11.171,
+        "end": 11.331,
+        "score": 0.728
+      },
+      {
+        "word": "va",
+        "start": 11.351,
+        "end": 11.471,
+        "score": 0.797
+      },
+      {
+        "word": "devoir",
+        "start": 11.491,
+        "end": 11.812,
+        "score": 0.779
+      },
+      {
+        "word": "éclairer",
+        "start": 11.872,
+        "end": 12.252,
+        "score": 0.845
+      },
+      {
+        "word": "les",
+        "start": 12.292,
+        "end": 12.392,
+        "score": 0.971
+      },
+      {
+        "word": "décisions",
+        "start": 12.432,
+        "end": 12.832,
+        "score": 0.939
+      },
+      {
+        "word": "de",
+        "start": 12.872,
+        "end": 12.992,
+        "score": 0.955
+      },
+      {
+        "word": "cette",
+        "start": 13.012,
+        "end": 13.172,
+        "score": 0.812
+      },
+      {
+        "word": "institution",
+        "start": 13.192,
+        "end": 13.633,
+        "score": 0.858
+      },
+      {
+        "word": "qui",
+        "start": 13.653,
+        "end": 13.753,
+        "score": 0.692
+      },
+      {
+        "word": "a",
+        "start": 13.773,
+        "end": 13.833,
+        "score": 0.169
+      },
+      {
+        "word": "un",
+        "start": 13.873,
+        "end": 13.913,
+        "score": 0.979
+      },
+      {
+        "word": "rôle",
+        "start": 13.953,
+        "end": 14.153,
+        "score": 0.862
+      },
+      {
+        "word": "majeur",
+        "start": 14.173,
+        "end": 14.413,
+        "score": 0.909
+      },
+      {
+        "word": "pour",
+        "start": 14.453,
+        "end": 14.573,
+        "score": 0.838
+      },
+      {
+        "word": "le",
+        "start": 14.593,
+        "end": 14.653,
+        "score": 0.749
+      },
+      {
+        "word": "monde",
+        "start": 14.673,
+        "end": 14.834,
+        "score": 0.808
+      },
+      {
+        "word": "agricole.",
+        "start": 14.854,
+        "end": 15.774,
+        "score": 0.903
+      },
+      {
+        "word": "L'éleveuse",
+        "start": 15.794,
+        "end": 16.134,
+        "score": 0.946
+      },
+      {
+        "word": "du",
+        "start": 16.154,
+        "end": 16.234,
+        "score": 0.748
+      },
+      {
+        "word": "plateau",
+        "start": 16.254,
+        "end": 16.475,
+        "score": 0.75
+      },
+      {
+        "word": "de",
+        "start": 16.495,
+        "end": 16.535,
+        "score": 0.558
+      },
+      {
+        "word": "Milvache",
+        "start": 16.555,
+        "end": 16.875,
+        "score": 0.731
+      },
+      {
+        "word": "portera",
+        "start": 16.935,
+        "end": 17.415,
+        "score": 0.922
+      },
+      {
+        "word": "la",
+        "start": 17.455,
+        "end": 17.515,
+        "score": 0.98
+      },
+      {
+        "word": "voix",
+        "start": 17.555,
+        "end": 17.795,
+        "score": 0.874
+      },
+      {
+        "word": "de",
+        "start": 17.815,
+        "end": 17.915,
+        "score": 0.986
+      },
+      {
+        "word": "son",
+        "start": 17.955,
+        "end": 18.096,
+        "score": 0.947
+      },
+      {
+        "word": "syndicat.",
+        "start": 18.136,
+        "end": 18.836,
+        "score": 0.978
+      },
+      {
+        "word": "Voici",
+        "start": 18.856,
+        "end": 19.216,
+        "score": 0.628
+      },
+      {
+        "word": "son",
+        "start": 19.236,
+        "end": 19.356,
+        "score": 0.665
+      },
+      {
+        "word": "portrait",
+        "start": 19.376,
+        "end": 19.677,
+        "score": 0.62
+      },
+      {
+        "word": "brossé",
+        "start": 19.697,
+        "end": 19.997,
+        "score": 0.796
+      },
+      {
+        "word": "par",
+        "start": 20.017,
+        "end": 20.197,
+        "score": 0.648
+      },
+      {
+        "word": "Camille",
+        "start": 20.217,
+        "end": 20.457,
+        "score": 0.456
+      },
+      {
+        "word": "Becchetti",
+        "start": 20.497,
+        "end": 20.917,
+        "score": 0.626
+      },
+      {
+        "word": "et",
+        "start": 20.957,
+        "end": 21.097,
+        "score": 0.697
+      },
+      {
+        "word": "Laurent",
+        "start": 21.117,
+        "end": 21.358,
+        "score": 0.527
+      },
+      {
+        "word": "Duriskek.",
+        "start": 21.378,
+        "end": 21.838,
+        "score": 0.599
+      },
+      {
+        "word": "Dans",
+        "start": 24.199,
+        "end": 24.419,
+        "score": 0.318
+      },
+      {
+        "word": "quelques",
+        "start": 24.439,
+        "end": 24.8,
+        "score": 0.563
+      },
+      {
+        "word": "semaines,",
+        "start": 24.84,
+        "end": 25.42,
+        "score": 0.638
+      },
+      {
+        "word": "elle",
+        "start": 25.46,
+        "end": 25.62,
+        "score": 0.482
+      },
+      {
+        "word": "fera",
+        "start": 25.66,
+        "end": 26.0,
+        "score": 0.696
+      },
+      {
+        "word": "sa",
+        "start": 26.04,
+        "end": 26.181,
+        "score": 0.414
+      },
+      {
+        "word": "rentrée",
+        "start": 26.221,
+        "end": 26.561,
+        "score": 0.341
+      },
+      {
+        "word": "au",
+        "start": 26.601,
+        "end": 26.741,
+        "score": 0.724
+      },
+      {
+        "word": "comité",
+        "start": 26.781,
+        "end": 27.221,
+        "score": 0.633
+      },
+      {
+        "word": "de",
+        "start": 27.261,
+        "end": 27.381,
+        "score": 0.564
+      },
+      {
+        "word": "conseil",
+        "start": 27.421,
+        "end": 27.782,
+        "score": 0.466
+      },
+      {
+        "word": "de",
+        "start": 27.802,
+        "end": 27.922,
+        "score": 0.68
+      },
+      {
+        "word": "l'Europe.",
+        "start": 27.962,
+        "end": 28.242,
+        "score": 0.365
+      },
+      {
+        "word": "A",
+        "start": 30.087,
+        "end": 30.167,
+        "score": 0.623
+      },
+      {
+        "word": "l'avenir,",
+        "start": 30.207,
+        "end": 30.967,
+        "score": 0.936
+      },
+      {
+        "word": "un",
+        "start": 31.027,
+        "end": 31.087,
+        "score": 0.957
+      },
+      {
+        "word": "peu",
+        "start": 31.107,
+        "end": 31.248,
+        "score": 0.97
+      },
+      {
+        "word": "moins",
+        "start": 31.268,
+        "end": 31.448,
+        "score": 0.832
+      },
+      {
+        "word": "de",
+        "start": 31.488,
+        "end": 31.588,
+        "score": 0.896
+      },
+      {
+        "word": "campagne",
+        "start": 31.628,
+        "end": 32.028,
+        "score": 0.829
+      },
+      {
+        "word": "corézienne,",
+        "start": 32.068,
+        "end": 33.088,
+        "score": 0.853
+      },
+      {
+        "word": "Amélie",
+        "start": 33.148,
+        "end": 33.469,
+        "score": 0.711
+      },
+      {
+        "word": "Rebière,",
+        "start": 33.489,
+        "end": 33.769,
+        "score": 0.639
+      },
+      {
+        "word": "éleveuse",
+        "start": 33.809,
+        "end": 34.169,
+        "score": 0.858
+      },
+      {
+        "word": "du",
+        "start": 34.189,
+        "end": 34.289,
+        "score": 0.73
+      },
+      {
+        "word": "plateau",
+        "start": 34.309,
+        "end": 34.749,
+        "score": 0.739
+      },
+      {
+        "word": "2000"
+      },
+      {
+        "word": "vaches,",
+        "start": 34.969,
+        "end": 35.609,
+        "score": 0.851
+      },
+      {
+        "word": "se",
+        "start": 35.629,
+        "end": 35.79,
+        "score": 0.92
+      },
+      {
+        "word": "dirige",
+        "start": 35.81,
+        "end": 36.13,
+        "score": 0.861
+      },
+      {
+        "word": "désormais",
+        "start": 36.17,
+        "end": 37.17,
+        "score": 0.961
+      },
+      {
+        "word": "vers",
+        "start": 37.21,
+        "end": 37.41,
+        "score": 0.876
+      },
+      {
+        "word": "Bruxelles.",
+        "start": 37.45,
+        "end": 37.83,
+        "score": 0.9
+      },
+      {
+        "word": "Ça",
+        "start": 37.87,
+        "end": 37.97,
+        "score": 0.56
+      },
+      {
+        "word": "va",
+        "start": 38.01,
+        "end": 38.111,
+        "score": 0.356
+      },
+      {
+        "word": "vous",
+        "start": 38.191,
+        "end": 38.711,
+        "score": 0.364
+      },
+      {
+        "word": "manquer",
+        "start": 39.071,
+        "end": 39.331,
+        "score": 0.326
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Un",
+        "start": 39.471,
+        "end": 39.531,
+        "score": 0.241
+      },
+      {
+        "word": "petit",
+        "start": 39.551,
+        "end": 39.711,
+        "score": 0.282
+      },
+      {
+        "word": "peu,",
+        "start": 39.731,
+        "end": 39.791,
+        "score": 0.009
+      },
+      {
+        "word": "mais",
+        "start": 39.811,
+        "end": 39.911,
+        "score": 0.128
+      },
+      {
+        "word": "ça",
+        "start": 39.951,
+        "end": 40.031,
+        "score": 0.462
+      },
+      {
+        "word": "sera",
+        "start": 40.071,
+        "end": 40.291,
+        "score": 0.515
+      },
+      {
+        "word": "du",
+        "start": 40.311,
+        "end": 40.432,
+        "score": 0.611
+      },
+      {
+        "word": "coup",
+        "start": 40.472,
+        "end": 40.872,
+        "score": 0.417
+      },
+      {
+        "word": "ma",
+        "start": 40.892,
+        "end": 40.992,
+        "score": 0.424
+      },
+      {
+        "word": "bouffée",
+        "start": 41.012,
+        "end": 41.252,
+        "score": 0.257
+      },
+      {
+        "word": "d'oxygène",
+        "start": 41.272,
+        "end": 41.752,
+        "score": 0.55
+      },
+      {
+        "word": "quand",
+        "start": 41.772,
+        "end": 41.892,
+        "score": 0.443
+      },
+      {
+        "word": "je",
+        "start": 41.912,
+        "end": 41.972,
+        "score": 0.904
+      },
+      {
+        "word": "reviendrai",
+        "start": 42.012,
+        "end": 42.352,
+        "score": 0.606
+      },
+      {
+        "word": "de",
+        "start": 42.372,
+        "end": 42.432,
+        "score": 0.246
+      },
+      {
+        "word": "Bruxelles",
+        "start": 42.472,
+        "end": 42.853,
+        "score": 0.505
+      },
+      {
+        "word": "ou",
+        "start": 42.893,
+        "end": 42.973,
+        "score": 0.402
+      },
+      {
+        "word": "de",
+        "start": 43.013,
+        "end": 43.093,
+        "score": 0.332
+      },
+      {
+        "word": "Paris",
+        "start": 43.133,
+        "end": 43.433,
+        "score": 0.515
+      },
+      {
+        "word": "ou",
+        "start": 43.473,
+        "end": 43.593,
+        "score": 0.444
+      },
+      {
+        "word": "d'autres",
+        "start": 43.613,
+        "end": 43.813,
+        "score": 0.312
+      },
+      {
+        "word": "réunions.",
+        "start": 43.833,
+        "end": 44.974,
+        "score": 0.442
+      },
+      {
+        "word": "Je",
+        "start": 44.994,
+        "end": 45.094,
+        "score": 0.568
+      },
+      {
+        "word": "sais",
+        "start": 45.114,
+        "end": 45.234,
+        "score": 0.263
+      },
+      {
+        "word": "que",
+        "start": 45.254,
+        "end": 45.334,
+        "score": 0.164
+      },
+      {
+        "word": "je",
+        "start": 45.354,
+        "end": 45.494,
+        "score": 0.639
+      },
+      {
+        "word": "viens",
+        "start": 45.514,
+        "end": 45.934,
+        "score": 0.45
+      },
+      {
+        "word": "là,",
+        "start": 45.994,
+        "end": 46.114,
+        "score": 0.396
+      },
+      {
+        "word": "je",
+        "start": 46.134,
+        "end": 46.234,
+        "score": 0.372
+      },
+      {
+        "word": "m'occupe",
+        "start": 46.254,
+        "end": 46.634,
+        "score": 0.234
+      },
+      {
+        "word": "de",
+        "start": 46.654,
+        "end": 46.834,
+        "score": 0.66
+      },
+      {
+        "word": "mes",
+        "start": 46.894,
+        "end": 47.034,
+        "score": 0.265
+      },
+      {
+        "word": "chevaux",
+        "start": 47.074,
+        "end": 47.214,
+        "score": 0.002
+      },
+      {
+        "word": "et",
+        "start": 47.234,
+        "end": 47.275,
+        "score": 0.016
+      },
+      {
+        "word": "ça",
+        "start": 47.295,
+        "end": 47.435,
+        "score": 0.619
+      },
+      {
+        "word": "remet",
+        "start": 47.475,
+        "end": 47.695,
+        "score": 0.348
+      },
+      {
+        "word": "bien",
+        "start": 47.715,
+        "end": 47.855,
+        "score": 0.426
+      },
+      {
+        "word": "les",
+        "start": 47.875,
+        "end": 47.935,
+        "score": 0.521
+      },
+      {
+        "word": "pieds",
+        "start": 47.955,
+        "end": 48.135,
+        "score": 0.471
+      },
+      {
+        "word": "sur",
+        "start": 48.175,
+        "end": 48.255,
+        "score": 0.176
+      },
+      {
+        "word": "terre",
+        "start": 48.275,
+        "end": 48.455,
+        "score": 0.364
+      },
+      {
+        "word": "aussi.",
+        "start": 48.495,
+        "end": 49.636,
+        "score": 0.498
+      },
+      {
+        "word": "En",
+        "start": 49.676,
+        "end": 49.776,
+        "score": 0.882
+      },
+      {
+        "word": "plus",
+        "start": 49.816,
+        "end": 50.036,
+        "score": 0.854
+      },
+      {
+        "word": "de",
+        "start": 50.056,
+        "end": 50.156,
+        "score": 0.941
+      },
+      {
+        "word": "sa",
+        "start": 50.196,
+        "end": 50.296,
+        "score": 0.974
+      },
+      {
+        "word": "casquette",
+        "start": 50.336,
+        "end": 50.736,
+        "score": 0.821
+      },
+      {
+        "word": "d'agricultrice,",
+        "start": 50.776,
+        "end": 51.897,
+        "score": 0.943
+      },
+      {
+        "word": "cette",
+        "start": 51.937,
+        "end": 52.117,
+        "score": 0.929
+      },
+      {
+        "word": "mère",
+        "start": 52.157,
+        "end": 52.357,
+        "score": 0.777
+      },
+      {
+        "word": "de",
+        "start": 52.377,
+        "end": 52.477,
+        "score": 0.664
+      },
+      {
+        "word": "famille",
+        "start": 52.517,
+        "end": 52.837,
+        "score": 0.805
+      },
+      {
+        "word": "est",
+        "start": 52.897,
+        "end": 52.997,
+        "score": 0.984
+      },
+      {
+        "word": "aussi",
+        "start": 53.037,
+        "end": 53.437,
+        "score": 0.844
+      },
+      {
+        "word": "vice-présidente",
+        "start": 53.477,
+        "end": 54.398,
+        "score": 0.953
+      },
+      {
+        "word": "du",
+        "start": 54.418,
+        "end": 54.678,
+        "score": 0.948
+      },
+      {
+        "word": "2e",
+        "start": 55.058,
+        "end": 55.178,
+        "score": 0.718
+      },
+      {
+        "word": "syndicat",
+        "start": 55.218,
+        "end": 55.658,
+        "score": 0.908
+      },
+      {
+        "word": "agricole",
+        "start": 55.698,
+        "end": 56.118,
+        "score": 0.774
+      },
+      {
+        "word": "de",
+        "start": 56.158,
+        "end": 56.238,
+        "score": 0.918
+      },
+      {
+        "word": "France,",
+        "start": 56.278,
+        "end": 57.159,
+        "score": 0.88
+      },
+      {
+        "word": "des",
+        "start": 57.179,
+        "end": 57.319,
+        "score": 0.875
+      },
+      {
+        "word": "responsabilités",
+        "start": 57.339,
+        "end": 58.179,
+        "score": 0.941
+      },
+      {
+        "word": "qu'il",
+        "start": 58.219,
+        "end": 58.479,
+        "score": 0.668
+      },
+      {
+        "word": "va",
+        "start": 58.499,
+        "end": 58.639,
+        "score": 0.98
+      },
+      {
+        "word": "falloir",
+        "start": 58.679,
+        "end": 59.02,
+        "score": 0.911
+      },
+      {
+        "word": "concilier.",
+        "start": 59.06,
+        "end": 59.5,
+        "score": 0.748
+      },
+      {
+        "word": "Déjà",
+        "start": 60.416,
+        "end": 60.816,
+        "score": 0.172
+      },
+      {
+        "word": "le",
+        "start": 60.836,
+        "end": 60.896,
+        "score": 0.295
+      },
+      {
+        "word": "syndicat",
+        "start": 60.916,
+        "end": 61.296,
+        "score": 0.197
+      },
+      {
+        "word": "me",
+        "start": 61.316,
+        "end": 61.397,
+        "score": 0.51
+      },
+      {
+        "word": "prenait",
+        "start": 61.417,
+        "end": 61.717,
+        "score": 0.503
+      },
+      {
+        "word": "beaucoup",
+        "start": 61.757,
+        "end": 61.917,
+        "score": 0.962
+      },
+      {
+        "word": "de",
+        "start": 61.937,
+        "end": 61.977,
+        "score": 0.183
+      },
+      {
+        "word": "temps,",
+        "start": 61.997,
+        "end": 62.577,
+        "score": 0.817
+      },
+      {
+        "word": "que",
+        "start": 62.617,
+        "end": 62.717,
+        "score": 0.411
+      },
+      {
+        "word": "ce",
+        "start": 62.737,
+        "end": 62.817,
+        "score": 0.619
+      },
+      {
+        "word": "soit",
+        "start": 62.837,
+        "end": 62.957,
+        "score": 0.567
+      },
+      {
+        "word": "au",
+        "start": 62.977,
+        "end": 63.017,
+        "score": 0.915
+      },
+      {
+        "word": "niveau",
+        "start": 63.037,
+        "end": 63.217,
+        "score": 0.883
+      },
+      {
+        "word": "départemental",
+        "start": 63.238,
+        "end": 63.838,
+        "score": 0.871
+      },
+      {
+        "word": "ou",
+        "start": 63.878,
+        "end": 63.918,
+        "score": 0.891
+      },
+      {
+        "word": "au",
+        "start": 63.958,
+        "end": 64.018,
+        "score": 0.76
+      },
+      {
+        "word": "niveau",
+        "start": 64.038,
+        "end": 64.258,
+        "score": 0.89
+      },
+      {
+        "word": "national.",
+        "start": 64.298,
+        "end": 65.319,
+        "score": 0.988
+      },
+      {
+        "word": "Je",
+        "start": 65.339,
+        "end": 65.419,
+        "score": 0.836
+      },
+      {
+        "word": "passais",
+        "start": 65.459,
+        "end": 65.839,
+        "score": 0.838
+      },
+      {
+        "word": "des",
+        "start": 65.859,
+        "end": 65.959,
+        "score": 0.784
+      },
+      {
+        "word": "fois",
+        "start": 65.979,
+        "end": 66.239,
+        "score": 0.823
+      },
+      {
+        "word": "plusieurs",
+        "start": 66.279,
+        "end": 66.559,
+        "score": 0.738
+      },
+      {
+        "word": "jours",
+        "start": 66.599,
+        "end": 66.779,
+        "score": 0.837
+      },
+      {
+        "word": "par",
+        "start": 66.819,
+        "end": 66.959,
+        "score": 0.918
+      },
+      {
+        "word": "semaine",
+        "start": 66.979,
+        "end": 67.52,
+        "score": 0.912
+      },
+      {
+        "word": "en",
+        "start": 67.56,
+        "end": 67.62,
+        "score": 0.742
+      },
+      {
+        "word": "dehors",
+        "start": 67.66,
+        "end": 67.84,
+        "score": 0.835
+      },
+      {
+        "word": "de",
+        "start": 67.86,
+        "end": 67.9,
+        "score": 0.992
+      },
+      {
+        "word": "la",
+        "start": 67.94,
+        "end": 68.0,
+        "score": 0.894
+      },
+      {
+        "word": "ferme.",
+        "start": 68.04,
+        "end": 68.82,
+        "score": 0.989
+      },
+      {
+        "word": "Donc",
+        "start": 68.84,
+        "end": 69.021,
+        "score": 0.581
+      },
+      {
+        "word": "c'était",
+        "start": 69.041,
+        "end": 69.281,
+        "score": 0.82
+      },
+      {
+        "word": "déjà",
+        "start": 69.321,
+        "end": 70.061,
+        "score": 0.87
+      },
+      {
+        "word": "de",
+        "start": 70.081,
+        "end": 70.141,
+        "score": 0.622
+      },
+      {
+        "word": "l'organisation",
+        "start": 70.181,
+        "end": 70.781,
+        "score": 0.92
+      },
+      {
+        "word": "parce",
+        "start": 70.822,
+        "end": 70.962,
+        "score": 0.916
+      },
+      {
+        "word": "qu'entre",
+        "start": 70.982,
+        "end": 71.382,
+        "score": 0.852
+      },
+      {
+        "word": "trois",
+        "start": 71.422,
+        "end": 71.602,
+        "score": 0.848
+      },
+      {
+        "word": "enfants,",
+        "start": 71.642,
+        "end": 72.282,
+        "score": 0.905
+      },
+      {
+        "word": "la",
+        "start": 72.322,
+        "end": 72.422,
+        "score": 0.876
+      },
+      {
+        "word": "ferme,",
+        "start": 72.482,
+        "end": 73.783,
+        "score": 0.877
+      },
+      {
+        "word": "il",
+        "start": 73.863,
+        "end": 74.664,
+        "score": 0.794
+      },
+      {
+        "word": "faut",
+        "start": 74.684,
+        "end": 74.784,
+        "score": 0.506
+      },
+      {
+        "word": "se",
+        "start": 74.824,
+        "end": 74.864,
+        "score": 0.079
+      },
+      {
+        "word": "faire",
+        "start": 74.884,
+        "end": 75.004,
+        "score": 0.178
+      },
+      {
+        "word": "organiser.",
+        "start": 75.024,
+        "end": 75.884,
+        "score": 0.832
+      },
+      {
+        "word": "Le",
+        "start": 75.924,
+        "end": 76.044,
+        "score": 0.904
+      },
+      {
+        "word": "projet",
+        "start": 76.084,
+        "end": 76.805,
+        "score": 0.941
+      },
+      {
+        "word": "levait",
+        "start": 76.865,
+        "end": 77.165,
+        "score": 0.654
+      },
+      {
+        "word": "le",
+        "start": 77.205,
+        "end": 77.285,
+        "score": 0.879
+      },
+      {
+        "word": "pied",
+        "start": 77.305,
+        "end": 77.525,
+        "score": 0.899
+      },
+      {
+        "word": "sur",
+        "start": 77.545,
+        "end": 77.705,
+        "score": 0.843
+      },
+      {
+        "word": "son",
+        "start": 77.745,
+        "end": 77.945,
+        "score": 0.968
+      },
+      {
+        "word": "mandat",
+        "start": 77.985,
+        "end": 78.265,
+        "score": 0.87
+      },
+      {
+        "word": "syndical",
+        "start": 78.305,
+        "end": 78.826,
+        "score": 0.891
+      },
+      {
+        "word": "pour",
+        "start": 78.846,
+        "end": 79.026,
+        "score": 0.938
+      },
+      {
+        "word": "se",
+        "start": 79.066,
+        "end": 79.266,
+        "score": 0.933
+      },
+      {
+        "word": "consacrer",
+        "start": 79.306,
+        "end": 79.866,
+        "score": 0.948
+      },
+      {
+        "word": "à",
+        "start": 79.906,
+        "end": 80.006,
+        "score": 0.798
+      },
+      {
+        "word": "cette",
+        "start": 80.046,
+        "end": 80.246,
+        "score": 0.899
+      },
+      {
+        "word": "nouvelle",
+        "start": 80.286,
+        "end": 80.587,
+        "score": 0.955
+      },
+      {
+        "word": "tâche.",
+        "start": 80.627,
+        "end": 80.807,
+        "score": 0.533
+      },
+      {
+        "word": "Figure",
+        "start": 82.167,
+        "end": 82.427,
+        "score": 0.788
+      },
+      {
+        "word": "de",
+        "start": 82.467,
+        "end": 82.547,
+        "score": 0.768
+      },
+      {
+        "word": "la",
+        "start": 82.587,
+        "end": 82.667,
+        "score": 0.692
+      },
+      {
+        "word": "coordination",
+        "start": 82.707,
+        "end": 83.328,
+        "score": 0.883
+      },
+      {
+        "word": "rurale,",
+        "start": 83.388,
+        "end": 84.128,
+        "score": 0.871
+      },
+      {
+        "word": "Amélie",
+        "start": 84.168,
+        "end": 84.489,
+        "score": 0.823
+      },
+      {
+        "word": "Rebière",
+        "start": 84.529,
+        "end": 84.869,
+        "score": 0.755
+      },
+      {
+        "word": "s'installe",
+        "start": 84.889,
+        "end": 85.269,
+        "score": 0.825
+      },
+      {
+        "word": "dans",
+        "start": 85.309,
+        "end": 85.429,
+        "score": 0.903
+      },
+      {
+        "word": "cette",
+        "start": 85.469,
+        "end": 85.67,
+        "score": 0.851
+      },
+      {
+        "word": "progression",
+        "start": 85.71,
+        "end": 86.27,
+        "score": 0.92
+      },
+      {
+        "word": "fulgurante",
+        "start": 86.31,
+        "end": 86.81,
+        "score": 0.811
+      },
+      {
+        "word": "que",
+        "start": 86.85,
+        "end": 86.99,
+        "score": 0.733
+      },
+      {
+        "word": "connaît",
+        "start": 87.03,
+        "end": 87.291,
+        "score": 0.934
+      },
+      {
+        "word": "son",
+        "start": 87.311,
+        "end": 87.471,
+        "score": 0.929
+      },
+      {
+        "word": "syndicat",
+        "start": 87.511,
+        "end": 87.971,
+        "score": 0.859
+      },
+      {
+        "word": "depuis",
+        "start": 88.011,
+        "end": 88.211,
+        "score": 0.871
+      },
+      {
+        "word": "2019."
+      },
+      {
+        "word": "Aux",
+        "start": 88.271,
+        "end": 88.712,
+        "score": 0.389
+      },
+      {
+        "word": "dernières",
+        "start": 89.872,
+        "end": 90.193,
+        "score": 0.897
+      },
+      {
+        "word": "élections,",
+        "start": 90.253,
+        "end": 91.073,
+        "score": 0.854
+      },
+      {
+        "word": "la",
+        "start": 91.113,
+        "end": 91.193,
+        "score": 0.986
+      },
+      {
+        "word": "CR",
+        "start": 91.253,
+        "end": 91.494,
+        "score": 0.748
+      },
+      {
+        "word": "est",
+        "start": 91.514,
+        "end": 91.634,
+        "score": 0.614
+      },
+      {
+        "word": "passée",
+        "start": 91.654,
+        "end": 91.934,
+        "score": 0.926
+      },
+      {
+        "word": "de",
+        "start": 91.974,
+        "end": 92.614,
+        "score": 0.609
+      },
+      {
+        "word": "3"
+      },
+      {
+        "word": "à",
+        "start": 92.674,
+        "end": 92.914,
+        "score": 0.913
+      },
+      {
+        "word": "14"
+      },
+      {
+        "word": "chambres",
+        "start": 93.495,
+        "end": 93.735,
+        "score": 0.523
+      },
+      {
+        "word": "d'agriculture",
+        "start": 93.775,
+        "end": 94.436,
+        "score": 0.695
+      },
+      {
+        "word": "remportées",
+        "start": 94.456,
+        "end": 94.896,
+        "score": 0.765
+      },
+      {
+        "word": "en",
+        "start": 94.916,
+        "end": 94.996,
+        "score": 0.976
+      },
+      {
+        "word": "France.",
+        "start": 95.036,
+        "end": 95.957,
+        "score": 0.884
+      },
+      {
+        "word": "Si",
+        "start": 95.997,
+        "end": 96.077,
+        "score": 0.751
+      },
+      {
+        "word": "elle",
+        "start": 96.097,
+        "end": 96.237,
+        "score": 0.819
+      },
+      {
+        "word": "n'a",
+        "start": 96.277,
+        "end": 96.377,
+        "score": 0.871
+      },
+      {
+        "word": "pas",
+        "start": 96.417,
+        "end": 96.517,
+        "score": 0.738
+      },
+      {
+        "word": "eu",
+        "start": 96.537,
+        "end": 96.617,
+        "score": 0.714
+      },
+      {
+        "word": "celle",
+        "start": 96.657,
+        "end": 96.837,
+        "score": 0.917
+      },
+      {
+        "word": "de",
+        "start": 96.857,
+        "end": 96.937,
+        "score": 0.633
+      },
+      {
+        "word": "la",
+        "start": 96.977,
+        "end": 97.037,
+        "score": 0.974
+      },
+      {
+        "word": "Corrèze,",
+        "start": 97.077,
+        "end": 97.918,
+        "score": 0.769
+      },
+      {
+        "word": "Amélie",
+        "start": 97.958,
+        "end": 98.278,
+        "score": 0.89
+      },
+      {
+        "word": "Rebière",
+        "start": 98.298,
+        "end": 98.638,
+        "score": 0.729
+      },
+      {
+        "word": "compte",
+        "start": 98.658,
+        "end": 98.839,
+        "score": 0.759
+      },
+      {
+        "word": "bien",
+        "start": 98.859,
+        "end": 99.019,
+        "score": 0.814
+      },
+      {
+        "word": "mener",
+        "start": 99.059,
+        "end": 99.299,
+        "score": 0.858
+      },
+      {
+        "word": "les",
+        "start": 99.339,
+        "end": 99.439,
+        "score": 0.947
+      },
+      {
+        "word": "dossiers",
+        "start": 99.479,
+        "end": 99.739,
+        "score": 0.746
+      },
+      {
+        "word": "qu'elle",
+        "start": 99.779,
+        "end": 100.019,
+        "score": 0.763
+      },
+      {
+        "word": "défend",
+        "start": 100.039,
+        "end": 100.76,
+        "score": 0.863
+      },
+      {
+        "word": "directement",
+        "start": 100.8,
+        "end": 101.32,
+        "score": 0.919
+      },
+      {
+        "word": "à",
+        "start": 101.36,
+        "end": 101.4,
+        "score": 0.656
+      },
+      {
+        "word": "Bruxelles.",
+        "start": 101.46,
+        "end": 101.821,
+        "score": 0.924
+      },
+      {
+        "word": "Alors",
+        "start": 102.708,
+        "end": 102.888,
+        "score": 0.42
+      },
+      {
+        "word": "évidemment,",
+        "start": 102.908,
+        "end": 103.288,
+        "score": 0.929
+      },
+      {
+        "word": "il",
+        "start": 103.349,
+        "end": 103.409,
+        "score": 0.717
+      },
+      {
+        "word": "y",
+        "start": 103.429,
+        "end": 103.449,
+        "score": 0.943
+      },
+      {
+        "word": "a",
+        "start": 103.509,
+        "end": 103.589,
+        "score": 0.676
+      },
+      {
+        "word": "la",
+        "start": 103.649,
+        "end": 103.929,
+        "score": 0.954
+      },
+      {
+        "word": "PAC,",
+        "start": 103.989,
+        "end": 104.209,
+        "score": 0.921
+      },
+      {
+        "word": "la",
+        "start": 104.269,
+        "end": 104.329,
+        "score": 0.869
+      },
+      {
+        "word": "politique",
+        "start": 104.369,
+        "end": 104.709,
+        "score": 0.668
+      },
+      {
+        "word": "agricole",
+        "start": 104.75,
+        "end": 105.13,
+        "score": 0.807
+      },
+      {
+        "word": "commune",
+        "start": 105.17,
+        "end": 105.69,
+        "score": 0.855
+      },
+      {
+        "word": "post-2027.",
+        "start": 105.73,
+        "end": 106.03,
+        "score": 0.916
+      },
+      {
+        "word": "Donc",
+        "start": 106.05,
+        "end": 106.531,
+        "score": 0.424
+      },
+      {
+        "word": "là,",
+        "start": 107.552,
+        "end": 108.012,
+        "score": 0.933
+      },
+      {
+        "word": "ce",
+        "start": 108.032,
+        "end": 108.112,
+        "score": 0.945
+      },
+      {
+        "word": "sera",
+        "start": 108.152,
+        "end": 108.412,
+        "score": 0.869
+      },
+      {
+        "word": "la",
+        "start": 108.452,
+        "end": 108.592,
+        "score": 0.822
+      },
+      {
+        "word": "grosse",
+        "start": 108.632,
+        "end": 108.953,
+        "score": 0.807
+      },
+      {
+        "word": "étape",
+        "start": 108.993,
+        "end": 109.853,
+        "score": 0.912
+      },
+      {
+        "word": "pour",
+        "start": 109.873,
+        "end": 109.993,
+        "score": 0.912
+      },
+      {
+        "word": "l'avenir",
+        "start": 110.033,
+        "end": 110.254,
+        "score": 0.832
+      },
+      {
+        "word": "de",
+        "start": 110.274,
+        "end": 110.334,
+        "score": 0.787
+      },
+      {
+        "word": "l'agriculture",
+        "start": 110.374,
+        "end": 111.034,
+        "score": 0.766
+      },
+      {
+        "word": "française,",
+        "start": 111.054,
+        "end": 111.534,
+        "score": 0.872
+      },
+      {
+        "word": "parce",
+        "start": 111.574,
+        "end": 111.715,
+        "score": 0.93
+      },
+      {
+        "word": "qu'on",
+        "start": 111.755,
+        "end": 112.035,
+        "score": 0.818
+      },
+      {
+        "word": "va",
+        "start": 112.075,
+        "end": 112.155,
+        "score": 0.785
+      },
+      {
+        "word": "parler",
+        "start": 112.175,
+        "end": 112.395,
+        "score": 0.577
+      },
+      {
+        "word": "budget,",
+        "start": 112.435,
+        "end": 112.835,
+        "score": 0.862
+      },
+      {
+        "word": "on",
+        "start": 112.895,
+        "end": 112.975,
+        "score": 0.74
+      },
+      {
+        "word": "va",
+        "start": 112.996,
+        "end": 113.096,
+        "score": 0.752
+      },
+      {
+        "word": "parler",
+        "start": 113.116,
+        "end": 113.276,
+        "score": 0.621
+      },
+      {
+        "word": "orientation.",
+        "start": 113.316,
+        "end": 114.357,
+        "score": 0.795
+      },
+      {
+        "word": "Donc",
+        "start": 114.377,
+        "end": 114.497,
+        "score": 0.744
+      },
+      {
+        "word": "on",
+        "start": 114.557,
+        "end": 114.617,
+        "score": 0.842
+      },
+      {
+        "word": "en",
+        "start": 114.677,
+        "end": 114.737,
+        "score": 0.916
+      },
+      {
+        "word": "parlait",
+        "start": 114.777,
+        "end": 114.997,
+        "score": 0.76
+      },
+      {
+        "word": "déjà,",
+        "start": 115.037,
+        "end": 115.317,
+        "score": 0.823
+      },
+      {
+        "word": "nous,",
+        "start": 115.357,
+        "end": 115.477,
+        "score": 0.822
+      },
+      {
+        "word": "au",
+        "start": 115.497,
+        "end": 115.557,
+        "score": 0.85
+      },
+      {
+        "word": "niveau",
+        "start": 115.577,
+        "end": 115.798,
+        "score": 0.825
+      },
+      {
+        "word": "national,",
+        "start": 115.838,
+        "end": 116.278,
+        "score": 0.851
+      },
+      {
+        "word": "et",
+        "start": 116.298,
+        "end": 116.338,
+        "score": 0.909
+      },
+      {
+        "word": "c'est",
+        "start": 116.438,
+        "end": 116.518,
+        "score": 0.817
+      },
+      {
+        "word": "vrai",
+        "start": 116.538,
+        "end": 116.658,
+        "score": 0.718
+      },
+      {
+        "word": "qu'on",
+        "start": 116.678,
+        "end": 117.018,
+        "score": 0.61
+      },
+      {
+        "word": "sait",
+        "start": 117.038,
+        "end": 117.139,
+        "score": 0.796
+      },
+      {
+        "word": "que",
+        "start": 117.159,
+        "end": 117.219,
+        "score": 0.913
+      },
+      {
+        "word": "ça",
+        "start": 117.239,
+        "end": 117.359,
+        "score": 0.294
+      },
+      {
+        "word": "dépend",
+        "start": 117.399,
+        "end": 117.599,
+        "score": 0.821
+      },
+      {
+        "word": "vraiment",
+        "start": 117.639,
+        "end": 117.859,
+        "score": 0.929
+      },
+      {
+        "word": "de",
+        "start": 117.879,
+        "end": 117.939,
+        "score": 0.745
+      },
+      {
+        "word": "l'Europe.",
+        "start": 117.979,
+        "end": 118.76,
+        "score": 0.838
+      },
+      {
+        "word": "Et",
+        "start": 118.8,
+        "end": 118.88,
+        "score": 0.638
+      },
+      {
+        "word": "puis",
+        "start": 118.92,
+        "end": 119.02,
+        "score": 0.457
+      },
+      {
+        "word": "il",
+        "start": 119.06,
+        "end": 119.12,
+        "score": 0.562
+      },
+      {
+        "word": "y",
+        "start": 119.14,
+        "end": 119.16,
+        "score": 0.609
+      },
+      {
+        "word": "a",
+        "start": 119.18,
+        "end": 119.2,
+        "score": 0.288
+      },
+      {
+        "word": "un",
+        "start": 119.24,
+        "end": 119.28,
+        "score": 0.958
+      },
+      {
+        "word": "autre",
+        "start": 119.32,
+        "end": 119.46,
+        "score": 0.937
+      },
+      {
+        "word": "sujet",
+        "start": 119.48,
+        "end": 119.64,
+        "score": 0.893
+      },
+      {
+        "word": "qui",
+        "start": 119.68,
+        "end": 119.76,
+        "score": 0.881
+      },
+      {
+        "word": "me",
+        "start": 119.8,
+        "end": 119.84,
+        "score": 0.992
+      },
+      {
+        "word": "tient",
+        "start": 119.861,
+        "end": 120.001,
+        "score": 0.595
+      },
+      {
+        "word": "à",
+        "start": 120.021,
+        "end": 120.041,
+        "score": 0.061
+      },
+      {
+        "word": "cœur",
+        "start": 120.121,
+        "end": 120.301,
+        "score": 0.782
+      },
+      {
+        "word": "particulièrement",
+        "start": 120.321,
+        "end": 121.001,
+        "score": 0.889
+      },
+      {
+        "word": "au",
+        "start": 121.041,
+        "end": 121.101,
+        "score": 0.968
+      },
+      {
+        "word": "niveau",
+        "start": 121.121,
+        "end": 121.322,
+        "score": 0.844
+      },
+      {
+        "word": "du",
+        "start": 121.342,
+        "end": 121.442,
+        "score": 0.879
+      },
+      {
+        "word": "terrain,",
+        "start": 121.462,
+        "end": 121.802,
+        "score": 0.9
+      },
+      {
+        "word": "du",
+        "start": 121.862,
+        "end": 121.922,
+        "score": 0.993
+      },
+      {
+        "word": "territoire,",
+        "start": 121.962,
+        "end": 122.402,
+        "score": 0.95
+      },
+      {
+        "word": "c'est",
+        "start": 122.422,
+        "end": 122.562,
+        "score": 0.618
+      },
+      {
+        "word": "le",
+        "start": 122.582,
+        "end": 122.663,
+        "score": 0.51
+      },
+      {
+        "word": "loup.",
+        "start": 122.683,
+        "end": 122.783,
+        "score": 0.384
+      },
+      {
+        "word": "Parce",
+        "start": 123.383,
+        "end": 123.503,
+        "score": 0.429
+      },
+      {
+        "word": "qu'on",
+        "start": 123.523,
+        "end": 123.683,
+        "score": 0.631
+      },
+      {
+        "word": "a",
+        "start": 123.823,
+        "end": 123.903,
+        "score": 0.646
+      },
+      {
+        "word": "compris",
+        "start": 123.943,
+        "end": 124.403,
+        "score": 0.906
+      },
+      {
+        "word": "de",
+        "start": 124.423,
+        "end": 124.503,
+        "score": 0.98
+      },
+      {
+        "word": "toute",
+        "start": 124.543,
+        "end": 124.663,
+        "score": 0.767
+      },
+      {
+        "word": "façon",
+        "start": 124.683,
+        "end": 124.983,
+        "score": 0.759
+      },
+      {
+        "word": "que",
+        "start": 125.003,
+        "end": 125.083,
+        "score": 0.944
+      },
+      {
+        "word": "ça",
+        "start": 125.103,
+        "end": 125.244,
+        "score": 0.524
+      },
+      {
+        "word": "dépendait",
+        "start": 125.264,
+        "end": 125.544,
+        "score": 0.93
+      },
+      {
+        "word": "de",
+        "start": 125.564,
+        "end": 125.624,
+        "score": 0.865
+      },
+      {
+        "word": "l'Europe.",
+        "start": 125.664,
+        "end": 126.424,
+        "score": 0.928
+      },
+      {
+        "word": "Montée",
+        "start": 126.444,
+        "end": 126.764,
+        "score": 0.892
+      },
+      {
+        "word": "d'un",
+        "start": 126.784,
+        "end": 126.904,
+        "score": 0.977
+      },
+      {
+        "word": "cran",
+        "start": 126.944,
+        "end": 127.224,
+        "score": 0.861
+      },
+      {
+        "word": "en",
+        "start": 127.264,
+        "end": 127.344,
+        "score": 0.726
+      },
+      {
+        "word": "envoyant",
+        "start": 127.384,
+        "end": 127.784,
+        "score": 0.937
+      },
+      {
+        "word": "sa",
+        "start": 127.804,
+        "end": 127.964,
+        "score": 0.495
+      },
+      {
+        "word": "candidature",
+        "start": 128.004,
+        "end": 128.584,
+        "score": 0.861
+      },
+      {
+        "word": "au",
+        "start": 128.644,
+        "end": 128.764,
+        "score": 0.752
+      },
+      {
+        "word": "gouvernement",
+        "start": 128.804,
+        "end": 129.345,
+        "score": 0.842
+      },
+      {
+        "word": "français",
+        "start": 129.405,
+        "end": 129.785,
+        "score": 0.867
+      },
+      {
+        "word": "qui",
+        "start": 129.825,
+        "end": 130.065,
+        "score": 0.89
+      },
+      {
+        "word": "cherchait",
+        "start": 130.105,
+        "end": 130.645,
+        "score": 0.852
+      },
+      {
+        "word": "deux",
+        "start": 130.685,
+        "end": 130.865,
+        "score": 0.907
+      },
+      {
+        "word": "consultants",
+        "start": 130.905,
+        "end": 131.405,
+        "score": 0.883
+      },
+      {
+        "word": "agricoles",
+        "start": 131.485,
+        "end": 131.905,
+        "score": 0.854
+      },
+      {
+        "word": "à",
+        "start": 131.925,
+        "end": 131.945,
+        "score": 0.003
+      },
+      {
+        "word": "envoyer",
+        "start": 132.065,
+        "end": 132.425,
+        "score": 0.835
+      },
+      {
+        "word": "à",
+        "start": 132.465,
+        "end": 132.525,
+        "score": 0.564
+      },
+      {
+        "word": "Bruxelles",
+        "start": 132.565,
+        "end": 133.406,
+        "score": 0.917
+      },
+      {
+        "word": "pour",
+        "start": 133.446,
+        "end": 133.646,
+        "score": 0.955
+      },
+      {
+        "word": "éclairer",
+        "start": 133.726,
+        "end": 134.186,
+        "score": 0.902
+      },
+      {
+        "word": "les",
+        "start": 134.226,
+        "end": 134.346,
+        "score": 0.822
+      },
+      {
+        "word": "décisions",
+        "start": 134.386,
+        "end": 134.846,
+        "score": 0.894
+      },
+      {
+        "word": "du",
+        "start": 134.866,
+        "end": 135.006,
+        "score": 0.659
+      },
+      {
+        "word": "Parlement",
+        "start": 135.046,
+        "end": 135.446,
+        "score": 0.869
+      },
+      {
+        "word": "européen.",
+        "start": 135.486,
+        "end": 136.146,
+        "score": 0.826
+      },
+      {
+        "word": "C'était",
+        "start": 136.186,
+        "end": 136.466,
+        "score": 0.954
+      },
+      {
+        "word": "le",
+        "start": 136.506,
+        "end": 136.606,
+        "score": 0.881
+      },
+      {
+        "word": "seul",
+        "start": 136.626,
+        "end": 136.847,
+        "score": 0.957
+      },
+      {
+        "word": "maillon",
+        "start": 136.887,
+        "end": 137.207,
+        "score": 0.987
+      },
+      {
+        "word": "qui",
+        "start": 137.247,
+        "end": 137.387,
+        "score": 0.757
+      },
+      {
+        "word": "manquait",
+        "start": 137.407,
+        "end": 138.307,
+        "score": 0.913
+      },
+      {
+        "word": "au",
+        "start": 138.347,
+        "end": 138.427,
+        "score": 0.99
+      },
+      {
+        "word": "niveau",
+        "start": 138.467,
+        "end": 139.667,
+        "score": 0.785
+      },
+      {
+        "word": "de",
+        "start": 139.707,
+        "end": 139.767,
+        "score": 0.93
+      },
+      {
+        "word": "la",
+        "start": 139.807,
+        "end": 139.847,
+        "score": 0.997
+      },
+      {
+        "word": "coordination",
+        "start": 139.887,
+        "end": 140.447,
+        "score": 0.893
+      },
+      {
+        "word": "rurale",
+        "start": 140.467,
+        "end": 140.848,
+        "score": 0.961
+      },
+      {
+        "word": "et",
+        "start": 140.908,
+        "end": 141.048,
+        "score": 0.915
+      },
+      {
+        "word": "aussi",
+        "start": 141.108,
+        "end": 141.408,
+        "score": 0.896
+      },
+      {
+        "word": "des",
+        "start": 141.428,
+        "end": 141.528,
+        "score": 0.915
+      },
+      {
+        "word": "agriculteurs",
+        "start": 141.588,
+        "end": 142.328,
+        "score": 0.899
+      },
+      {
+        "word": "de",
+        "start": 142.368,
+        "end": 142.448,
+        "score": 0.851
+      },
+      {
+        "word": "terrain",
+        "start": 142.488,
+        "end": 143.308,
+        "score": 0.906
+      },
+      {
+        "word": "qui",
+        "start": 143.348,
+        "end": 144.028,
+        "score": 0.863
+      },
+      {
+        "word": "sont",
+        "start": 144.208,
+        "end": 144.308,
+        "score": 0.841
+      },
+      {
+        "word": "impactés",
+        "start": 144.348,
+        "end": 144.689,
+        "score": 0.845
+      },
+      {
+        "word": "directement",
+        "start": 144.729,
+        "end": 145.189,
+        "score": 0.897
+      },
+      {
+        "word": "par",
+        "start": 145.209,
+        "end": 145.349,
+        "score": 0.763
+      },
+      {
+        "word": "les",
+        "start": 145.389,
+        "end": 145.489,
+        "score": 0.726
+      },
+      {
+        "word": "décisions",
+        "start": 145.509,
+        "end": 145.809,
+        "score": 0.825
+      },
+      {
+        "word": "prises",
+        "start": 145.849,
+        "end": 146.209,
+        "score": 0.883
+      },
+      {
+        "word": "à",
+        "start": 146.249,
+        "end": 146.329,
+        "score": 0.789
+      },
+      {
+        "word": "Bruxelles",
+        "start": 146.369,
+        "end": 147.289,
+        "score": 0.904
+      },
+      {
+        "word": "qui",
+        "start": 147.329,
+        "end": 147.469,
+        "score": 0.837
+      },
+      {
+        "word": "parfois",
+        "start": 147.509,
+        "end": 147.949,
+        "score": 0.929
+      },
+      {
+        "word": "semblent",
+        "start": 147.989,
+        "end": 148.249,
+        "score": 0.772
+      },
+      {
+        "word": "complètement",
+        "start": 148.269,
+        "end": 148.65,
+        "score": 0.884
+      },
+      {
+        "word": "déconnectées.",
+        "start": 148.67,
+        "end": 149.31,
+        "score": 0.67
+      },
+      {
+        "word": "Donc",
+        "start": 149.35,
+        "end": 149.43,
+        "score": 0.093
+      },
+      {
+        "word": "là...",
+        "start": 149.47,
+        "end": 149.51,
+        "score": 0.016
+      },
+      {
+        "word": "Quand",
+        "start": 150.47,
+        "end": 150.61,
+        "score": 0.8
+      },
+      {
+        "word": "j'ai",
+        "start": 150.63,
+        "end": 150.71,
+        "score": 0.268
+      },
+      {
+        "word": "appris",
+        "start": 150.751,
+        "end": 150.911,
+        "score": 0.598
+      },
+      {
+        "word": "qu'on",
+        "start": 150.951,
+        "end": 151.111,
+        "score": 0.511
+      },
+      {
+        "word": "pouvait",
+        "start": 151.131,
+        "end": 151.371,
+        "score": 0.781
+      },
+      {
+        "word": "candidater",
+        "start": 151.391,
+        "end": 151.972,
+        "score": 0.876
+      },
+      {
+        "word": "pour",
+        "start": 152.012,
+        "end": 152.373,
+        "score": 0.905
+      },
+      {
+        "word": "se",
+        "start": 152.413,
+        "end": 152.513,
+        "score": 0.908
+      },
+      {
+        "word": "placer",
+        "start": 152.533,
+        "end": 152.773,
+        "score": 0.921
+      },
+      {
+        "word": "au",
+        "start": 152.813,
+        "end": 152.873,
+        "score": 0.97
+      },
+      {
+        "word": "niveau",
+        "start": 152.893,
+        "end": 153.114,
+        "score": 0.796
+      },
+      {
+        "word": "européen,",
+        "start": 153.154,
+        "end": 153.875,
+        "score": 0.866
+      },
+      {
+        "word": "je",
+        "start": 153.895,
+        "end": 153.935,
+        "score": 0.23
+      },
+      {
+        "word": "n'ai",
+        "start": 153.955,
+        "end": 154.095,
+        "score": 0.338
+      },
+      {
+        "word": "pas",
+        "start": 154.115,
+        "end": 154.195,
+        "score": 0.443
+      },
+      {
+        "word": "hésité",
+        "start": 154.215,
+        "end": 154.556,
+        "score": 0.502
+      },
+      {
+        "word": "parce",
+        "start": 154.596,
+        "end": 154.736,
+        "score": 0.196
+      },
+      {
+        "word": "que",
+        "start": 154.756,
+        "end": 154.916,
+        "score": 0.299
+      },
+      {
+        "word": "c'est",
+        "start": 154.936,
+        "end": 155.036,
+        "score": 0.428
+      },
+      {
+        "word": "vraiment",
+        "start": 155.076,
+        "end": 157.279,
+        "score": 0.499
+      },
+      {
+        "word": "le",
+        "start": 157.319,
+        "end": 157.379,
+        "score": 0.964
+      },
+      {
+        "word": "maillon",
+        "start": 157.399,
+        "end": 157.66,
+        "score": 0.813
+      },
+      {
+        "word": "final.",
+        "start": 157.7,
+        "end": 157.96,
+        "score": 0.972
+      },
+      {
+        "word": "On",
+        "start": 158.721,
+        "end": 158.861,
+        "score": 0.66
+      },
+      {
+        "word": "dépend",
+        "start": 158.881,
+        "end": 159.102,
+        "score": 0.699
+      },
+      {
+        "word": "tous.",
+        "start": 159.142,
+        "end": 159.663,
+        "score": 0.829
+      },
+      {
+        "word": "Amélie",
+        "start": 159.703,
+        "end": 160.003,
+        "score": 0.84
+      },
+      {
+        "word": "Rebière",
+        "start": 160.023,
+        "end": 160.384,
+        "score": 0.71
+      },
+      {
+        "word": "fait",
+        "start": 160.424,
+        "end": 160.624,
+        "score": 0.834
+      },
+      {
+        "word": "donc",
+        "start": 160.664,
+        "end": 160.864,
+        "score": 0.982
+      },
+      {
+        "word": "partie",
+        "start": 160.904,
+        "end": 161.205,
+        "score": 0.945
+      },
+      {
+        "word": "maintenant",
+        "start": 161.245,
+        "end": 161.705,
+        "score": 0.931
+      },
+      {
+        "word": "du",
+        "start": 161.745,
+        "end": 161.886,
+        "score": 0.994
+      },
+      {
+        "word": "binôme",
+        "start": 161.926,
+        "end": 162.306,
+        "score": 0.702
+      },
+      {
+        "word": "paritaire",
+        "start": 162.346,
+        "end": 162.827,
+        "score": 0.842
+      },
+      {
+        "word": "nommé",
+        "start": 162.867,
+        "end": 163.127,
+        "score": 0.973
+      },
+      {
+        "word": "par",
+        "start": 163.167,
+        "end": 163.287,
+        "score": 0.998
+      },
+      {
+        "word": "le",
+        "start": 163.327,
+        "end": 163.428,
+        "score": 0.893
+      },
+      {
+        "word": "Premier",
+        "start": 163.468,
+        "end": 163.728,
+        "score": 0.786
+      },
+      {
+        "word": "ministre",
+        "start": 163.748,
+        "end": 164.149,
+        "score": 0.802
+      },
+      {
+        "word": "français",
+        "start": 164.209,
+        "end": 165.07,
+        "score": 0.839
+      },
+      {
+        "word": "pour",
+        "start": 165.13,
+        "end": 165.35,
+        "score": 0.925
+      },
+      {
+        "word": "un",
+        "start": 165.41,
+        "end": 165.49,
+        "score": 0.993
+      },
+      {
+        "word": "mandat",
+        "start": 165.53,
+        "end": 165.651,
+        "score": 0.427
+      },
+      {
+        "word": "de",
+        "start": 165.671,
+        "end": 165.711,
+        "score": 0.008
+      },
+      {
+        "word": "5"
+      },
+      {
+        "word": "ans.",
+        "start": 165.751,
+        "end": 165.811,
+        "score": 0.021
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 167,
+  "transcription_duration": 143
+}

@@ -1,0 +1,2469 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.651,
+        "end": 1.651,
+        "text": "Les puces de Saint-Ouen sont-elles confrontées à une baisse de fréquentation ?",
+        "words": [
+          {
+            "word": "Les",
+            "start": 0.651,
+            "end": 0.791,
+            "score": 0.85
+          },
+          {
+            "word": "puces",
+            "start": 0.832,
+            "end": 1.112,
+            "score": 0.585
+          },
+          {
+            "word": "de",
+            "start": 1.132,
+            "end": 1.232,
+            "score": 0.83
+          },
+          {
+            "word": "Saint-Ouen",
+            "start": 1.252,
+            "end": 1.652,
+            "score": 0.492
+          },
+          {
+            "word": "sont-elles",
+            "start": 1.692,
+            "end": 2.052,
+            "score": 0.822
+          },
+          {
+            "word": "confrontées",
+            "start": 2.092,
+            "end": 2.473,
+            "score": 0.766
+          },
+          {
+            "word": "à",
+            "start": 2.493,
+            "end": 2.513,
+            "score": 0.736
+          },
+          {
+            "word": "une",
+            "start": 2.553,
+            "end": 2.633,
+            "score": 0.881
+          },
+          {
+            "word": "baisse",
+            "start": 2.673,
+            "end": 2.893,
+            "score": 0.84
+          },
+          {
+            "word": "de",
+            "start": 2.913,
+            "end": 3.033,
+            "score": 0.89
+          },
+          {
+            "word": "fréquentation",
+            "start": 3.073,
+            "end": 4.114,
+            "score": 0.918
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 4.194,
+        "end": 8.737,
+        "text": "On note en tout cas un recul de la clientèle étrangère depuis trois ans,",
+        "words": [
+          {
+            "word": "On",
+            "start": 4.194,
+            "end": 4.374,
+            "score": 0.881
+          },
+          {
+            "word": "note",
+            "start": 4.434,
+            "end": 4.814,
+            "score": 0.96
+          },
+          {
+            "word": "en",
+            "start": 4.854,
+            "end": 4.974,
+            "score": 0.905
+          },
+          {
+            "word": "tout",
+            "start": 5.014,
+            "end": 5.194,
+            "score": 0.957
+          },
+          {
+            "word": "cas",
+            "start": 5.234,
+            "end": 5.815,
+            "score": 0.989
+          },
+          {
+            "word": "un",
+            "start": 5.875,
+            "end": 5.975,
+            "score": 0.842
+          },
+          {
+            "word": "recul",
+            "start": 6.015,
+            "end": 6.515,
+            "score": 0.986
+          },
+          {
+            "word": "de",
+            "start": 6.535,
+            "end": 6.635,
+            "score": 0.678
+          },
+          {
+            "word": "la",
+            "start": 6.655,
+            "end": 6.735,
+            "score": 0.994
+          },
+          {
+            "word": "clientèle",
+            "start": 6.775,
+            "end": 7.236,
+            "score": 0.737
+          },
+          {
+            "word": "étrangère",
+            "start": 7.276,
+            "end": 7.676,
+            "score": 0.815
+          },
+          {
+            "word": "depuis",
+            "start": 7.736,
+            "end": 7.996,
+            "score": 0.822
+          },
+          {
+            "word": "trois",
+            "start": 8.036,
+            "end": 8.236,
+            "score": 0.759
+          },
+          {
+            "word": "ans,",
+            "start": 8.256,
+            "end": 8.737,
+            "score": 0.824
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 8.797,
+        "end": 11.418,
+        "text": "en raison notamment du contexte géopolitique.",
+        "words": [
+          {
+            "word": "en",
+            "start": 8.797,
+            "end": 8.837,
+            "score": 0.977
+          },
+          {
+            "word": "raison",
+            "start": 8.877,
+            "end": 9.137,
+            "score": 0.964
+          },
+          {
+            "word": "notamment",
+            "start": 9.197,
+            "end": 9.517,
+            "score": 0.908
+          },
+          {
+            "word": "du",
+            "start": 9.577,
+            "end": 9.697,
+            "score": 0.896
+          },
+          {
+            "word": "contexte",
+            "start": 9.737,
+            "end": 10.258,
+            "score": 0.912
+          },
+          {
+            "word": "géopolitique.",
+            "start": 10.298,
+            "end": 11.418,
+            "score": 0.916
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 11.458,
+        "end": 13.46,
+        "text": "Certains commerçants se disent inquiets.",
+        "words": [
+          {
+            "word": "Certains",
+            "start": 11.458,
+            "end": 11.839,
+            "score": 0.894
+          },
+          {
+            "word": "commerçants",
+            "start": 11.879,
+            "end": 12.459,
+            "score": 0.918
+          },
+          {
+            "word": "se",
+            "start": 12.499,
+            "end": 12.619,
+            "score": 0.949
+          },
+          {
+            "word": "disent",
+            "start": 12.639,
+            "end": 12.819,
+            "score": 0.629
+          },
+          {
+            "word": "inquiets.",
+            "start": 12.859,
+            "end": 13.46,
+            "score": 0.71
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 13.48,
+        "end": 15.281,
+        "text": "Calypso Vaniez avec Florian Olivier.",
+        "words": [
+          {
+            "word": "Calypso",
+            "start": 13.48,
+            "end": 13.9,
+            "score": 0.545
+          },
+          {
+            "word": "Vaniez",
+            "start": 13.92,
+            "end": 14.42,
+            "score": 0.663
+          },
+          {
+            "word": "avec",
+            "start": 14.46,
+            "end": 14.64,
+            "score": 0.965
+          },
+          {
+            "word": "Florian",
+            "start": 14.681,
+            "end": 15.021,
+            "score": 0.845
+          },
+          {
+            "word": "Olivier.",
+            "start": 15.041,
+            "end": 15.281,
+            "score": 0.387
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 16.692,
+        "end": 19.553,
+        "text": "Dans les allées ce matin du marché aux puces de Saint-Ouen,",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 16.692,
+            "end": 16.832,
+            "score": 0.741
+          },
+          {
+            "word": "les",
+            "start": 16.852,
+            "end": 16.952,
+            "score": 0.755
+          },
+          {
+            "word": "allées",
+            "start": 17.012,
+            "end": 17.312,
+            "score": 0.79
+          },
+          {
+            "word": "ce",
+            "start": 17.372,
+            "end": 17.472,
+            "score": 0.962
+          },
+          {
+            "word": "matin",
+            "start": 17.512,
+            "end": 17.812,
+            "score": 0.928
+          },
+          {
+            "word": "du",
+            "start": 17.852,
+            "end": 17.952,
+            "score": 0.852
+          },
+          {
+            "word": "marché",
+            "start": 17.992,
+            "end": 18.252,
+            "score": 0.921
+          },
+          {
+            "word": "aux",
+            "start": 18.292,
+            "end": 18.352,
+            "score": 0.543
+          },
+          {
+            "word": "puces",
+            "start": 18.392,
+            "end": 18.612,
+            "score": 0.522
+          },
+          {
+            "word": "de",
+            "start": 18.652,
+            "end": 18.752,
+            "score": 0.911
+          },
+          {
+            "word": "Saint-Ouen,",
+            "start": 18.772,
+            "end": 19.553,
+            "score": 0.473
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 19.593,
+        "end": 20.833,
+        "text": "des touristes français,",
+        "words": [
+          {
+            "word": "des",
+            "start": 19.593,
+            "end": 19.693,
+            "score": 0.938
+          },
+          {
+            "word": "touristes",
+            "start": 19.733,
+            "end": 20.273,
+            "score": 0.863
+          },
+          {
+            "word": "français,",
+            "start": 20.293,
+            "end": 20.833,
+            "score": 0.878
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 20.873,
+        "end": 24.874,
+        "text": "polonais ou américains.",
+        "words": [
+          {
+            "word": "polonais",
+            "start": 20.873,
+            "end": 21.273,
+            "score": 0.927
+          },
+          {
+            "word": "ou",
+            "start": 21.313,
+            "end": 21.413,
+            "score": 0.933
+          },
+          {
+            "word": "américains.",
+            "start": 21.453,
+            "end": 24.874,
+            "score": 0.924
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 24.894,
+        "end": 28.055,
+        "text": "Je vis en Californie et j'adore aller dans les marchés aux puces.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 24.894,
+            "end": 24.974,
+            "score": 0.542
+          },
+          {
+            "word": "vis",
+            "start": 24.994,
+            "end": 25.114,
+            "score": 0.589
+          },
+          {
+            "word": "en",
+            "start": 25.154,
+            "end": 25.214,
+            "score": 0.426
+          },
+          {
+            "word": "Californie",
+            "start": 25.234,
+            "end": 25.894,
+            "score": 0.603
+          },
+          {
+            "word": "et",
+            "start": 25.934,
+            "end": 26.054,
+            "score": 0.672
+          },
+          {
+            "word": "j'adore",
+            "start": 26.074,
+            "end": 26.474,
+            "score": 0.669
+          },
+          {
+            "word": "aller",
+            "start": 26.514,
+            "end": 26.674,
+            "score": 0.847
+          },
+          {
+            "word": "dans",
+            "start": 26.714,
+            "end": 26.814,
+            "score": 0.777
+          },
+          {
+            "word": "les",
+            "start": 26.834,
+            "end": 26.914,
+            "score": 0.867
+          },
+          {
+            "word": "marchés",
+            "start": 26.954,
+            "end": 27.154,
+            "score": 0.846
+          },
+          {
+            "word": "aux",
+            "start": 27.194,
+            "end": 27.254,
+            "score": 0.31
+          },
+          {
+            "word": "puces.",
+            "start": 27.274,
+            "end": 28.055,
+            "score": 0.564
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 28.075,
+        "end": 34.516,
+        "text": "Je voulais voir les différences entre ceux aux États-Unis et ceux à Paris.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 28.075,
+            "end": 28.155,
+            "score": 0.774
+          },
+          {
+            "word": "voulais",
+            "start": 28.195,
+            "end": 28.375,
+            "score": 0.883
+          },
+          {
+            "word": "voir",
+            "start": 28.395,
+            "end": 28.555,
+            "score": 0.8
+          },
+          {
+            "word": "les",
+            "start": 28.575,
+            "end": 28.655,
+            "score": 0.944
+          },
+          {
+            "word": "différences",
+            "start": 28.675,
+            "end": 29.175,
+            "score": 0.793
+          },
+          {
+            "word": "entre",
+            "start": 29.235,
+            "end": 29.475,
+            "score": 0.853
+          },
+          {
+            "word": "ceux",
+            "start": 29.535,
+            "end": 29.655,
+            "score": 0.395
+          },
+          {
+            "word": "aux",
+            "start": 29.695,
+            "end": 29.775,
+            "score": 0.833
+          },
+          {
+            "word": "États-Unis",
+            "start": 29.815,
+            "end": 30.435,
+            "score": 0.846
+          },
+          {
+            "word": "et",
+            "start": 30.475,
+            "end": 30.595,
+            "score": 0.732
+          },
+          {
+            "word": "ceux",
+            "start": 30.615,
+            "end": 30.755,
+            "score": 0.323
+          },
+          {
+            "word": "à",
+            "start": 30.815,
+            "end": 32.916,
+            "score": 0.975
+          },
+          {
+            "word": "Paris.",
+            "start": 32.956,
+            "end": 34.516,
+            "score": 0.635
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 34.556,
+        "end": 35.556,
+        "text": "Et donc, qu'est-ce que vous en pensez ?",
+        "words": [
+          {
+            "word": "Et",
+            "start": 34.556,
+            "end": 34.656,
+            "score": 0.617
+          },
+          {
+            "word": "donc,",
+            "start": 34.676,
+            "end": 34.836,
+            "score": 0.326
+          },
+          {
+            "word": "qu'est-ce",
+            "start": 34.856,
+            "end": 35.036,
+            "score": 0.273
+          },
+          {
+            "word": "que",
+            "start": 35.056,
+            "end": 35.116,
+            "score": 0.432
+          },
+          {
+            "word": "vous",
+            "start": 35.156,
+            "end": 35.296,
+            "score": 0.604
+          },
+          {
+            "word": "en",
+            "start": 35.336,
+            "end": 35.416,
+            "score": 0.356
+          },
+          {
+            "word": "pensez",
+            "start": 35.436,
+            "end": 35.696,
+            "score": 0.621
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 36.136,
+        "end": 36.736,
+        "text": "J'adore.",
+        "words": [
+          {
+            "word": "J'adore.",
+            "start": 36.136,
+            "end": 36.736,
+            "score": 0.718
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 36.756,
+        "end": 38.057,
+        "text": "J'ai envie d'acheter plein de choses.",
+        "words": [
+          {
+            "word": "J'ai",
+            "start": 36.756,
+            "end": 36.836,
+            "score": 0.357
+          },
+          {
+            "word": "envie",
+            "start": 36.857,
+            "end": 37.057,
+            "score": 0.36
+          },
+          {
+            "word": "d'acheter",
+            "start": 37.077,
+            "end": 37.397,
+            "score": 0.361
+          },
+          {
+            "word": "plein",
+            "start": 37.417,
+            "end": 37.697,
+            "score": 0.185
+          },
+          {
+            "word": "de",
+            "start": 37.717,
+            "end": 37.757,
+            "score": 0.102
+          },
+          {
+            "word": "choses.",
+            "start": 37.777,
+            "end": 38.057,
+            "score": 0.217
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 39.277,
+        "end": 41.558,
+        "text": "Mais aucun russe et peu de chinois.",
+        "words": [
+          {
+            "word": "Mais",
+            "start": 39.277,
+            "end": 39.417,
+            "score": 0.678
+          },
+          {
+            "word": "aucun",
+            "start": 39.457,
+            "end": 39.737,
+            "score": 0.939
+          },
+          {
+            "word": "russe",
+            "start": 39.757,
+            "end": 40.137,
+            "score": 0.922
+          },
+          {
+            "word": "et",
+            "start": 40.178,
+            "end": 40.298,
+            "score": 0.639
+          },
+          {
+            "word": "peu",
+            "start": 40.318,
+            "end": 40.458,
+            "score": 0.865
+          },
+          {
+            "word": "de",
+            "start": 40.498,
+            "end": 40.578,
+            "score": 0.982
+          },
+          {
+            "word": "chinois.",
+            "start": 40.618,
+            "end": 41.558,
+            "score": 0.921
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 41.578,
+        "end": 43.219,
+        "text": "Parmi les Antiquaires rencontrés,",
+        "words": [
+          {
+            "word": "Parmi",
+            "start": 41.578,
+            "end": 41.878,
+            "score": 0.944
+          },
+          {
+            "word": "les",
+            "start": 41.918,
+            "end": 42.018,
+            "score": 0.939
+          },
+          {
+            "word": "Antiquaires",
+            "start": 42.058,
+            "end": 42.579,
+            "score": 0.755
+          },
+          {
+            "word": "rencontrés,",
+            "start": 42.619,
+            "end": 43.219,
+            "score": 0.899
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 43.259,
+        "end": 48.381,
+        "text": "la plupart reconnaissent une baisse de fréquentation de la clientèle étrangère depuis trois ans.",
+        "words": [
+          {
+            "word": "la",
+            "start": 43.259,
+            "end": 43.379,
+            "score": 0.96
+          },
+          {
+            "word": "plupart",
+            "start": 43.419,
+            "end": 43.879,
+            "score": 0.879
+          },
+          {
+            "word": "reconnaissent",
+            "start": 43.899,
+            "end": 44.4,
+            "score": 0.879
+          },
+          {
+            "word": "une",
+            "start": 44.46,
+            "end": 44.56,
+            "score": 0.939
+          },
+          {
+            "word": "baisse",
+            "start": 44.6,
+            "end": 44.86,
+            "score": 0.825
+          },
+          {
+            "word": "de",
+            "start": 44.88,
+            "end": 44.98,
+            "score": 0.96
+          },
+          {
+            "word": "fréquentation",
+            "start": 45.04,
+            "end": 45.7,
+            "score": 0.87
+          },
+          {
+            "word": "de",
+            "start": 45.74,
+            "end": 45.82,
+            "score": 0.962
+          },
+          {
+            "word": "la",
+            "start": 45.86,
+            "end": 45.94,
+            "score": 0.835
+          },
+          {
+            "word": "clientèle",
+            "start": 45.98,
+            "end": 46.42,
+            "score": 0.781
+          },
+          {
+            "word": "étrangère",
+            "start": 46.461,
+            "end": 47.041,
+            "score": 0.814
+          },
+          {
+            "word": "depuis",
+            "start": 47.101,
+            "end": 47.381,
+            "score": 0.795
+          },
+          {
+            "word": "trois",
+            "start": 47.421,
+            "end": 47.641,
+            "score": 0.794
+          },
+          {
+            "word": "ans.",
+            "start": 47.681,
+            "end": 48.381,
+            "score": 0.956
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 48.421,
+        "end": 49.421,
+        "text": "Certains par même d'une diminution de 20 à 30%.",
+        "words": [
+          {
+            "word": "Certains",
+            "start": 48.421,
+            "end": 48.762,
+            "score": 0.882
+          },
+          {
+            "word": "par",
+            "start": 48.822,
+            "end": 49.042,
+            "score": 0.886
+          },
+          {
+            "word": "même",
+            "start": 49.062,
+            "end": 49.322,
+            "score": 0.889
+          },
+          {
+            "word": "d'une",
+            "start": 49.362,
+            "end": 49.562,
+            "score": 0.972
+          },
+          {
+            "word": "diminution",
+            "start": 49.602,
+            "end": 50.282,
+            "score": 0.972
+          },
+          {
+            "word": "de",
+            "start": 50.302,
+            "end": 50.482,
+            "score": 0.992
+          },
+          {
+            "word": "20"
+          },
+          {
+            "word": "à",
+            "start": 50.803,
+            "end": 50.883,
+            "score": 0.972
+          },
+          {
+            "word": "30%."
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 52.163,
+        "end": 58.666,
+        "text": "Les gens qui ont un peu plus de pouvoir d'achat sont moins présents parce que les circonstances économiques et de",
+        "words": [
+          {
+            "word": "Les",
+            "start": 52.163,
+            "end": 52.283,
+            "score": 0.735
+          },
+          {
+            "word": "gens",
+            "start": 52.303,
+            "end": 52.483,
+            "score": 0.525
+          },
+          {
+            "word": "qui",
+            "start": 52.523,
+            "end": 52.603,
+            "score": 0.922
+          },
+          {
+            "word": "ont",
+            "start": 52.643,
+            "end": 52.724,
+            "score": 0.833
+          },
+          {
+            "word": "un",
+            "start": 52.764,
+            "end": 52.824,
+            "score": 0.828
+          },
+          {
+            "word": "peu",
+            "start": 52.844,
+            "end": 52.964,
+            "score": 0.753
+          },
+          {
+            "word": "plus",
+            "start": 52.984,
+            "end": 53.184,
+            "score": 0.946
+          },
+          {
+            "word": "de",
+            "start": 53.224,
+            "end": 53.304,
+            "score": 0.976
+          },
+          {
+            "word": "pouvoir",
+            "start": 53.344,
+            "end": 53.604,
+            "score": 0.964
+          },
+          {
+            "word": "d'achat",
+            "start": 53.664,
+            "end": 54.684,
+            "score": 0.944
+          },
+          {
+            "word": "sont",
+            "start": 54.744,
+            "end": 55.025,
+            "score": 0.827
+          },
+          {
+            "word": "moins",
+            "start": 55.065,
+            "end": 55.305,
+            "score": 0.887
+          },
+          {
+            "word": "présents",
+            "start": 55.345,
+            "end": 55.765,
+            "score": 0.906
+          },
+          {
+            "word": "parce",
+            "start": 55.805,
+            "end": 55.985,
+            "score": 0.886
+          },
+          {
+            "word": "que",
+            "start": 56.025,
+            "end": 56.485,
+            "score": 0.973
+          },
+          {
+            "word": "les",
+            "start": 56.525,
+            "end": 56.685,
+            "score": 0.978
+          },
+          {
+            "word": "circonstances",
+            "start": 56.725,
+            "end": 57.286,
+            "score": 0.916
+          },
+          {
+            "word": "économiques",
+            "start": 57.346,
+            "end": 58.246,
+            "score": 0.878
+          },
+          {
+            "word": "et",
+            "start": 58.306,
+            "end": 58.486,
+            "score": 0.788
+          },
+          {
+            "word": "de",
+            "start": 58.526,
+            "end": 58.666,
+            "score": 0.834
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 58.706,
+        "end": 61.788,
+        "text": "guerre général font que tout le monde est un peu frile.",
+        "words": [
+          {
+            "word": "guerre",
+            "start": 58.706,
+            "end": 59.067,
+            "score": 0.788
+          },
+          {
+            "word": "général",
+            "start": 59.107,
+            "end": 59.987,
+            "score": 0.942
+          },
+          {
+            "word": "font",
+            "start": 60.027,
+            "end": 60.287,
+            "score": 0.88
+          },
+          {
+            "word": "que",
+            "start": 60.307,
+            "end": 60.547,
+            "score": 0.492
+          },
+          {
+            "word": "tout",
+            "start": 60.587,
+            "end": 60.667,
+            "score": 0.996
+          },
+          {
+            "word": "le",
+            "start": 60.707,
+            "end": 60.747,
+            "score": 0.99
+          },
+          {
+            "word": "monde",
+            "start": 60.767,
+            "end": 60.887,
+            "score": 0.905
+          },
+          {
+            "word": "est",
+            "start": 60.947,
+            "end": 61.067,
+            "score": 0.794
+          },
+          {
+            "word": "un",
+            "start": 61.128,
+            "end": 61.208,
+            "score": 0.986
+          },
+          {
+            "word": "peu",
+            "start": 61.248,
+            "end": 61.428,
+            "score": 0.881
+          },
+          {
+            "word": "frile.",
+            "start": 61.468,
+            "end": 61.788,
+            "score": 0.604
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 62.945,
+        "end": 64.586,
+        "text": "Les raisons avancées sont multiples,",
+        "words": [
+          {
+            "word": "Les",
+            "start": 62.945,
+            "end": 63.025,
+            "score": 0.257
+          },
+          {
+            "word": "raisons",
+            "start": 63.045,
+            "end": 63.285,
+            "score": 0.22
+          },
+          {
+            "word": "avancées",
+            "start": 63.325,
+            "end": 63.706,
+            "score": 0.308
+          },
+          {
+            "word": "sont",
+            "start": 63.746,
+            "end": 63.906,
+            "score": 0.584
+          },
+          {
+            "word": "multiples,",
+            "start": 63.926,
+            "end": 64.586,
+            "score": 0.822
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 64.626,
+        "end": 69.83,
+        "text": "Covid, inflation, guerre en Ukraine ou incertitude autour des droits de doigts américains.",
+        "words": [
+          {
+            "word": "Covid,",
+            "start": 64.626,
+            "end": 65.187,
+            "score": 0.876
+          },
+          {
+            "word": "inflation,",
+            "start": 65.267,
+            "end": 65.907,
+            "score": 0.864
+          },
+          {
+            "word": "guerre",
+            "start": 65.947,
+            "end": 66.168,
+            "score": 0.855
+          },
+          {
+            "word": "en",
+            "start": 66.208,
+            "end": 66.308,
+            "score": 0.792
+          },
+          {
+            "word": "Ukraine",
+            "start": 66.368,
+            "end": 66.768,
+            "score": 0.715
+          },
+          {
+            "word": "ou",
+            "start": 66.808,
+            "end": 66.908,
+            "score": 0.432
+          },
+          {
+            "word": "incertitude",
+            "start": 66.988,
+            "end": 67.689,
+            "score": 0.925
+          },
+          {
+            "word": "autour",
+            "start": 67.729,
+            "end": 67.989,
+            "score": 0.877
+          },
+          {
+            "word": "des",
+            "start": 68.029,
+            "end": 68.129,
+            "score": 0.781
+          },
+          {
+            "word": "droits",
+            "start": 68.169,
+            "end": 68.389,
+            "score": 0.669
+          },
+          {
+            "word": "de",
+            "start": 68.429,
+            "end": 68.509,
+            "score": 0.942
+          },
+          {
+            "word": "doigts",
+            "start": 68.549,
+            "end": 68.809,
+            "score": 0.478
+          },
+          {
+            "word": "américains.",
+            "start": 68.85,
+            "end": 69.83,
+            "score": 0.893
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 69.89,
+        "end": 72.212,
+        "text": "Pour autant, ces marchands restent confiants.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 69.89,
+            "end": 70.03,
+            "score": 0.962
+          },
+          {
+            "word": "autant,",
+            "start": 70.07,
+            "end": 70.331,
+            "score": 0.873
+          },
+          {
+            "word": "ces",
+            "start": 70.391,
+            "end": 70.511,
+            "score": 0.94
+          },
+          {
+            "word": "marchands",
+            "start": 70.551,
+            "end": 70.871,
+            "score": 0.787
+          },
+          {
+            "word": "restent",
+            "start": 70.931,
+            "end": 71.291,
+            "score": 0.846
+          },
+          {
+            "word": "confiants.",
+            "start": 71.331,
+            "end": 72.212,
+            "score": 0.918
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 72.272,
+        "end": 74.434,
+        "text": "La réputation du lieu est d'en.",
+        "words": [
+          {
+            "word": "La",
+            "start": 72.272,
+            "end": 72.352,
+            "score": 0.996
+          },
+          {
+            "word": "réputation",
+            "start": 72.412,
+            "end": 72.973,
+            "score": 0.944
+          },
+          {
+            "word": "du",
+            "start": 73.013,
+            "end": 73.133,
+            "score": 0.91
+          },
+          {
+            "word": "lieu",
+            "start": 73.153,
+            "end": 73.673,
+            "score": 0.846
+          },
+          {
+            "word": "est",
+            "start": 73.733,
+            "end": 73.853,
+            "score": 0.57
+          },
+          {
+            "word": "d'en.",
+            "start": 73.893,
+            "end": 74.434,
+            "score": 0.626
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 74.514,
+        "end": 78.357,
+        "text": "Nous, on est spécialisés dans les sculptures 19e et 20e.",
+        "words": [
+          {
+            "word": "Nous,",
+            "start": 74.514,
+            "end": 74.954,
+            "score": 0.735
+          },
+          {
+            "word": "on",
+            "start": 75.014,
+            "end": 75.174,
+            "score": 0.918
+          },
+          {
+            "word": "est",
+            "start": 75.214,
+            "end": 75.294,
+            "score": 0.414
+          },
+          {
+            "word": "spécialisés",
+            "start": 75.334,
+            "end": 75.835,
+            "score": 0.847
+          },
+          {
+            "word": "dans",
+            "start": 75.855,
+            "end": 75.975,
+            "score": 0.776
+          },
+          {
+            "word": "les",
+            "start": 76.015,
+            "end": 76.095,
+            "score": 0.746
+          },
+          {
+            "word": "sculptures",
+            "start": 76.115,
+            "end": 76.435,
+            "score": 0.854
+          },
+          {
+            "word": "19e",
+            "start": 77.296,
+            "end": 77.376,
+            "score": 0.789
+          },
+          {
+            "word": "et",
+            "start": 77.456,
+            "end": 77.796,
+            "score": 0.71
+          },
+          {
+            "word": "20e.",
+            "start": 77.816,
+            "end": 78.357,
+            "score": 0.96
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 78.397,
+        "end": 83.741,
+        "text": "Vous avez des marchands spécialisés dans les sculptures, dans l'argenterie, dans le Lalik.",
+        "words": [
+          {
+            "word": "Vous",
+            "start": 78.397,
+            "end": 78.497,
+            "score": 0.984
+          },
+          {
+            "word": "avez",
+            "start": 78.537,
+            "end": 78.717,
+            "score": 0.537
+          },
+          {
+            "word": "des",
+            "start": 78.737,
+            "end": 78.817,
+            "score": 0.833
+          },
+          {
+            "word": "marchands",
+            "start": 78.837,
+            "end": 79.097,
+            "score": 0.732
+          },
+          {
+            "word": "spécialisés",
+            "start": 79.137,
+            "end": 80.618,
+            "score": 0.914
+          },
+          {
+            "word": "dans",
+            "start": 80.638,
+            "end": 80.778,
+            "score": 0.852
+          },
+          {
+            "word": "les",
+            "start": 80.798,
+            "end": 80.898,
+            "score": 0.949
+          },
+          {
+            "word": "sculptures,",
+            "start": 80.938,
+            "end": 81.419,
+            "score": 0.764
+          },
+          {
+            "word": "dans",
+            "start": 81.459,
+            "end": 81.579,
+            "score": 0.928
+          },
+          {
+            "word": "l'argenterie,",
+            "start": 81.619,
+            "end": 82.4,
+            "score": 0.873
+          },
+          {
+            "word": "dans",
+            "start": 82.44,
+            "end": 82.58,
+            "score": 0.89
+          },
+          {
+            "word": "le",
+            "start": 82.6,
+            "end": 82.7,
+            "score": 0.987
+          },
+          {
+            "word": "Lalik.",
+            "start": 82.74,
+            "end": 83.741,
+            "score": 0.968
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 83.781,
+        "end": 86.923,
+        "text": "Donc les gens viennent vraiment pour nous du fait d'être spécialistes.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 83.781,
+            "end": 84.141,
+            "score": 0.912
+          },
+          {
+            "word": "les",
+            "start": 84.181,
+            "end": 84.261,
+            "score": 0.838
+          },
+          {
+            "word": "gens",
+            "start": 84.281,
+            "end": 84.441,
+            "score": 0.78
+          },
+          {
+            "word": "viennent",
+            "start": 84.481,
+            "end": 84.721,
+            "score": 0.846
+          },
+          {
+            "word": "vraiment",
+            "start": 84.741,
+            "end": 85.142,
+            "score": 0.902
+          },
+          {
+            "word": "pour",
+            "start": 85.182,
+            "end": 85.362,
+            "score": 0.848
+          },
+          {
+            "word": "nous",
+            "start": 85.402,
+            "end": 85.742,
+            "score": 0.96
+          },
+          {
+            "word": "du",
+            "start": 85.782,
+            "end": 85.862,
+            "score": 0.851
+          },
+          {
+            "word": "fait",
+            "start": 85.882,
+            "end": 86.042,
+            "score": 0.909
+          },
+          {
+            "word": "d'être",
+            "start": 86.062,
+            "end": 86.262,
+            "score": 0.668
+          },
+          {
+            "word": "spécialistes.",
+            "start": 86.302,
+            "end": 86.923,
+            "score": 0.92
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 87.561,
+        "end": 93.345,
+        "text": "Nous avons des clients qui sont quand même assez récurrents et qui sont quand même assez fidèles.",
+        "words": [
+          {
+            "word": "Nous",
+            "start": 87.561,
+            "end": 87.681,
+            "score": 0.869
+          },
+          {
+            "word": "avons",
+            "start": 87.741,
+            "end": 88.842,
+            "score": 0.921
+          },
+          {
+            "word": "des",
+            "start": 88.882,
+            "end": 88.962,
+            "score": 0.865
+          },
+          {
+            "word": "clients",
+            "start": 88.982,
+            "end": 89.242,
+            "score": 0.825
+          },
+          {
+            "word": "qui",
+            "start": 89.282,
+            "end": 89.362,
+            "score": 0.757
+          },
+          {
+            "word": "sont",
+            "start": 89.383,
+            "end": 89.463,
+            "score": 0.905
+          },
+          {
+            "word": "quand",
+            "start": 89.483,
+            "end": 89.583,
+            "score": 0.204
+          },
+          {
+            "word": "même",
+            "start": 89.623,
+            "end": 89.703,
+            "score": 0.273
+          },
+          {
+            "word": "assez",
+            "start": 89.723,
+            "end": 89.923,
+            "score": 0.88
+          },
+          {
+            "word": "récurrents",
+            "start": 89.963,
+            "end": 90.563,
+            "score": 0.826
+          },
+          {
+            "word": "et",
+            "start": 90.623,
+            "end": 91.344,
+            "score": 0.889
+          },
+          {
+            "word": "qui",
+            "start": 91.364,
+            "end": 91.644,
+            "score": 0.821
+          },
+          {
+            "word": "sont",
+            "start": 91.684,
+            "end": 91.824,
+            "score": 0.7
+          },
+          {
+            "word": "quand",
+            "start": 91.864,
+            "end": 91.964,
+            "score": 0.089
+          },
+          {
+            "word": "même",
+            "start": 92.004,
+            "end": 92.084,
+            "score": 0.266
+          },
+          {
+            "word": "assez",
+            "start": 92.104,
+            "end": 92.325,
+            "score": 0.923
+          },
+          {
+            "word": "fidèles.",
+            "start": 92.365,
+            "end": 93.345,
+            "score": 0.906
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 93.405,
+        "end": 95.507,
+        "text": "Et donc nous faisons aussi des salons,",
+        "words": [
+          {
+            "word": "Et",
+            "start": 93.405,
+            "end": 93.525,
+            "score": 0.885
+          },
+          {
+            "word": "donc",
+            "start": 93.565,
+            "end": 94.386,
+            "score": 0.787
+          },
+          {
+            "word": "nous",
+            "start": 94.406,
+            "end": 94.526,
+            "score": 0.829
+          },
+          {
+            "word": "faisons",
+            "start": 94.546,
+            "end": 94.706,
+            "score": 0.837
+          },
+          {
+            "word": "aussi",
+            "start": 94.726,
+            "end": 94.886,
+            "score": 0.767
+          },
+          {
+            "word": "des",
+            "start": 94.906,
+            "end": 95.006,
+            "score": 0.666
+          },
+          {
+            "word": "salons,",
+            "start": 95.026,
+            "end": 95.507,
+            "score": 0.955
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 95.527,
+        "end": 97.308,
+        "text": "donc salons internationaux,",
+        "words": [
+          {
+            "word": "donc",
+            "start": 95.527,
+            "end": 95.807,
+            "score": 0.642
+          },
+          {
+            "word": "salons",
+            "start": 95.847,
+            "end": 96.067,
+            "score": 0.683
+          },
+          {
+            "word": "internationaux,",
+            "start": 96.107,
+            "end": 97.308,
+            "score": 0.909
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 97.328,
+        "end": 99.169,
+        "text": "qui nous permettent aussi d'aller au contact des clients.",
+        "words": [
+          {
+            "word": "qui",
+            "start": 97.328,
+            "end": 97.448,
+            "score": 0.874
+          },
+          {
+            "word": "nous",
+            "start": 97.488,
+            "end": 97.588,
+            "score": 0.953
+          },
+          {
+            "word": "permettent",
+            "start": 97.608,
+            "end": 97.828,
+            "score": 0.593
+          },
+          {
+            "word": "aussi",
+            "start": 97.848,
+            "end": 97.989,
+            "score": 0.902
+          },
+          {
+            "word": "d'aller",
+            "start": 98.009,
+            "end": 98.169,
+            "score": 0.574
+          },
+          {
+            "word": "au",
+            "start": 98.189,
+            "end": 98.289,
+            "score": 0.615
+          },
+          {
+            "word": "contact",
+            "start": 98.329,
+            "end": 98.669,
+            "score": 0.95
+          },
+          {
+            "word": "des",
+            "start": 98.709,
+            "end": 98.789,
+            "score": 0.769
+          },
+          {
+            "word": "clients.",
+            "start": 98.809,
+            "end": 99.169,
+            "score": 0.81
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 99.209,
+        "end": 103.873,
+        "text": "Donc forcément, il faut quand même assez proactif dans cette profession-là.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 99.209,
+            "end": 99.87,
+            "score": 0.798
+          },
+          {
+            "word": "forcément,",
+            "start": 99.91,
+            "end": 100.29,
+            "score": 0.911
+          },
+          {
+            "word": "il",
+            "start": 100.33,
+            "end": 100.41,
+            "score": 0.548
+          },
+          {
+            "word": "faut",
+            "start": 100.43,
+            "end": 100.53,
+            "score": 0.842
+          },
+          {
+            "word": "quand",
+            "start": 100.57,
+            "end": 100.67,
+            "score": 0.351
+          },
+          {
+            "word": "même",
+            "start": 100.69,
+            "end": 100.771,
+            "score": 0.192
+          },
+          {
+            "word": "assez",
+            "start": 100.791,
+            "end": 100.991,
+            "score": 0.694
+          },
+          {
+            "word": "proactif",
+            "start": 101.031,
+            "end": 102.552,
+            "score": 0.904
+          },
+          {
+            "word": "dans",
+            "start": 102.572,
+            "end": 102.652,
+            "score": 0.94
+          },
+          {
+            "word": "cette",
+            "start": 102.672,
+            "end": 102.812,
+            "score": 0.45
+          },
+          {
+            "word": "profession-là.",
+            "start": 102.832,
+            "end": 103.873,
+            "score": 0.854
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 103.933,
+        "end": 105.754,
+        "text": "Et pour attirer davantage de touristes,",
+        "words": [
+          {
+            "word": "Et",
+            "start": 103.933,
+            "end": 104.053,
+            "score": 0.81
+          },
+          {
+            "word": "pour",
+            "start": 104.093,
+            "end": 104.253,
+            "score": 0.843
+          },
+          {
+            "word": "attirer",
+            "start": 104.293,
+            "end": 104.673,
+            "score": 0.923
+          },
+          {
+            "word": "davantage",
+            "start": 104.733,
+            "end": 105.194,
+            "score": 0.941
+          },
+          {
+            "word": "de",
+            "start": 105.214,
+            "end": 105.314,
+            "score": 0.933
+          },
+          {
+            "word": "touristes,",
+            "start": 105.354,
+            "end": 105.754,
+            "score": 0.74
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 105.814,
+        "end": 112.299,
+        "text": "cette association de commerçants espère avec la mairie renforcer la communication autour de ce lieu en éditant un guide.",
+        "words": [
+          {
+            "word": "cette",
+            "start": 105.814,
+            "end": 105.974,
+            "score": 0.929
+          },
+          {
+            "word": "association",
+            "start": 106.014,
+            "end": 106.635,
+            "score": 0.874
+          },
+          {
+            "word": "de",
+            "start": 106.675,
+            "end": 106.775,
+            "score": 0.97
+          },
+          {
+            "word": "commerçants",
+            "start": 106.815,
+            "end": 107.335,
+            "score": 0.808
+          },
+          {
+            "word": "espère",
+            "start": 107.395,
+            "end": 107.755,
+            "score": 0.92
+          },
+          {
+            "word": "avec",
+            "start": 107.816,
+            "end": 108.016,
+            "score": 0.975
+          },
+          {
+            "word": "la",
+            "start": 108.056,
+            "end": 108.136,
+            "score": 0.802
+          },
+          {
+            "word": "mairie",
+            "start": 108.156,
+            "end": 108.536,
+            "score": 0.364
+          },
+          {
+            "word": "renforcer",
+            "start": 108.596,
+            "end": 109.096,
+            "score": 0.835
+          },
+          {
+            "word": "la",
+            "start": 109.136,
+            "end": 109.237,
+            "score": 0.594
+          },
+          {
+            "word": "communication",
+            "start": 109.277,
+            "end": 110.037,
+            "score": 0.935
+          },
+          {
+            "word": "autour",
+            "start": 110.077,
+            "end": 110.317,
+            "score": 0.835
+          },
+          {
+            "word": "de",
+            "start": 110.337,
+            "end": 110.437,
+            "score": 0.865
+          },
+          {
+            "word": "ce",
+            "start": 110.457,
+            "end": 110.597,
+            "score": 0.916
+          },
+          {
+            "word": "lieu",
+            "start": 110.638,
+            "end": 111.278,
+            "score": 0.947
+          },
+          {
+            "word": "en",
+            "start": 111.318,
+            "end": 111.418,
+            "score": 0.951
+          },
+          {
+            "word": "éditant",
+            "start": 111.478,
+            "end": 111.878,
+            "score": 0.881
+          },
+          {
+            "word": "un",
+            "start": 111.938,
+            "end": 111.998,
+            "score": 0.186
+          },
+          {
+            "word": "guide.",
+            "start": 112.039,
+            "end": 112.299,
+            "score": 0.585
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 113.255,
+        "end": 116.517,
+        "text": "Nous allons mettre en œuvre une action pour faire venir,",
+        "words": [
+          {
+            "word": "Nous",
+            "start": 113.255,
+            "end": 113.375,
+            "score": 0.758
+          },
+          {
+            "word": "allons",
+            "start": 113.395,
+            "end": 113.635,
+            "score": 0.857
+          },
+          {
+            "word": "mettre",
+            "start": 113.655,
+            "end": 113.875,
+            "score": 0.945
+          },
+          {
+            "word": "en",
+            "start": 113.935,
+            "end": 113.995,
+            "score": 0.992
+          },
+          {
+            "word": "œuvre",
+            "start": 114.035,
+            "end": 114.356,
+            "score": 0.809
+          },
+          {
+            "word": "une",
+            "start": 114.416,
+            "end": 114.516,
+            "score": 0.97
+          },
+          {
+            "word": "action",
+            "start": 114.576,
+            "end": 115.236,
+            "score": 0.925
+          },
+          {
+            "word": "pour",
+            "start": 115.276,
+            "end": 115.436,
+            "score": 0.842
+          },
+          {
+            "word": "faire",
+            "start": 115.476,
+            "end": 115.696,
+            "score": 0.919
+          },
+          {
+            "word": "venir,",
+            "start": 115.756,
+            "end": 116.517,
+            "score": 0.832
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 116.597,
+        "end": 117.837,
+        "text": "une action concrète évidemment,",
+        "words": [
+          {
+            "word": "une",
+            "start": 116.597,
+            "end": 116.677,
+            "score": 0.652
+          },
+          {
+            "word": "action",
+            "start": 116.717,
+            "end": 117.017,
+            "score": 0.882
+          },
+          {
+            "word": "concrète",
+            "start": 117.057,
+            "end": 117.457,
+            "score": 0.884
+          },
+          {
+            "word": "évidemment,",
+            "start": 117.497,
+            "end": 117.837,
+            "score": 0.719
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 117.857,
+        "end": 123.44,
+        "text": "pour faire venir les touristes qui sont dans les grands hôtels parisiens et de la région Île-de-France,",
+        "words": [
+          {
+            "word": "pour",
+            "start": 117.857,
+            "end": 117.997,
+            "score": 0.902
+          },
+          {
+            "word": "faire",
+            "start": 118.017,
+            "end": 118.197,
+            "score": 0.839
+          },
+          {
+            "word": "venir",
+            "start": 118.237,
+            "end": 118.678,
+            "score": 0.9
+          },
+          {
+            "word": "les",
+            "start": 118.718,
+            "end": 118.818,
+            "score": 0.93
+          },
+          {
+            "word": "touristes",
+            "start": 118.858,
+            "end": 119.298,
+            "score": 0.879
+          },
+          {
+            "word": "qui",
+            "start": 119.338,
+            "end": 119.458,
+            "score": 0.835
+          },
+          {
+            "word": "sont",
+            "start": 119.518,
+            "end": 119.658,
+            "score": 0.785
+          },
+          {
+            "word": "dans",
+            "start": 119.678,
+            "end": 119.898,
+            "score": 0.365
+          },
+          {
+            "word": "les",
+            "start": 119.938,
+            "end": 120.018,
+            "score": 0.202
+          },
+          {
+            "word": "grands",
+            "start": 120.038,
+            "end": 120.218,
+            "score": 0.812
+          },
+          {
+            "word": "hôtels",
+            "start": 120.258,
+            "end": 120.659,
+            "score": 0.521
+          },
+          {
+            "word": "parisiens",
+            "start": 120.679,
+            "end": 121.219,
+            "score": 0.871
+          },
+          {
+            "word": "et",
+            "start": 121.279,
+            "end": 121.399,
+            "score": 0.791
+          },
+          {
+            "word": "de",
+            "start": 121.419,
+            "end": 121.499,
+            "score": 0.778
+          },
+          {
+            "word": "la",
+            "start": 121.539,
+            "end": 121.619,
+            "score": 0.969
+          },
+          {
+            "word": "région",
+            "start": 121.639,
+            "end": 121.919,
+            "score": 0.797
+          },
+          {
+            "word": "Île-de-France,",
+            "start": 122.019,
+            "end": 123.44,
+            "score": 0.75
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 123.5,
+        "end": 127.402,
+        "text": "au Pus pour effectivement essayer de redynamiser le commerce.",
+        "words": [
+          {
+            "word": "au",
+            "start": 123.5,
+            "end": 123.62,
+            "score": 0.766
+          },
+          {
+            "word": "Pus",
+            "start": 123.66,
+            "end": 124.26,
+            "score": 0.915
+          },
+          {
+            "word": "pour",
+            "start": 124.3,
+            "end": 124.5,
+            "score": 0.82
+          },
+          {
+            "word": "effectivement",
+            "start": 124.54,
+            "end": 125.221,
+            "score": 0.875
+          },
+          {
+            "word": "essayer",
+            "start": 125.261,
+            "end": 125.601,
+            "score": 0.727
+          },
+          {
+            "word": "de",
+            "start": 125.621,
+            "end": 125.961,
+            "score": 0.958
+          },
+          {
+            "word": "redynamiser",
+            "start": 126.001,
+            "end": 126.822,
+            "score": 0.93
+          },
+          {
+            "word": "le",
+            "start": 126.862,
+            "end": 126.962,
+            "score": 0.985
+          },
+          {
+            "word": "commerce.",
+            "start": 127.002,
+            "end": 127.402,
+            "score": 0.959
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 127.442,
+        "end": 129.363,
+        "text": "Créé il y a 150 ans,",
+        "words": [
+          {
+            "word": "Créé",
+            "start": 127.442,
+            "end": 128.242,
+            "score": 0.243
+          },
+          {
+            "word": "il",
+            "start": 128.282,
+            "end": 128.362,
+            "score": 0.693
+          },
+          {
+            "word": "y",
+            "start": 128.382,
+            "end": 128.402,
+            "score": 0.903
+          },
+          {
+            "word": "a",
+            "start": 128.462,
+            "end": 128.602,
+            "score": 0.934
+          },
+          {
+            "word": "150"
+          },
+          {
+            "word": "ans,",
+            "start": 129.003,
+            "end": 129.363,
+            "score": 0.675
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 129.403,
+        "end": 133.645,
+        "text": "le marché au Pus de Saint-Trois attire encore jusqu'à 5 millions de personnes par an.",
+        "words": [
+          {
+            "word": "le",
+            "start": 129.403,
+            "end": 129.483,
+            "score": 0.984
+          },
+          {
+            "word": "marché",
+            "start": 129.543,
+            "end": 129.763,
+            "score": 0.812
+          },
+          {
+            "word": "au",
+            "start": 129.783,
+            "end": 129.863,
+            "score": 0.276
+          },
+          {
+            "word": "Pus",
+            "start": 129.903,
+            "end": 130.103,
+            "score": 0.723
+          },
+          {
+            "word": "de",
+            "start": 130.143,
+            "end": 130.243,
+            "score": 0.984
+          },
+          {
+            "word": "Saint-Trois",
+            "start": 130.283,
+            "end": 130.703,
+            "score": 0.577
+          },
+          {
+            "word": "attire",
+            "start": 130.743,
+            "end": 131.064,
+            "score": 0.913
+          },
+          {
+            "word": "encore",
+            "start": 131.104,
+            "end": 131.364,
+            "score": 0.917
+          },
+          {
+            "word": "jusqu'à",
+            "start": 131.384,
+            "end": 131.804,
+            "score": 0.913
+          },
+          {
+            "word": "5"
+          },
+          {
+            "word": "millions",
+            "start": 132.124,
+            "end": 132.424,
+            "score": 0.887
+          },
+          {
+            "word": "de",
+            "start": 132.464,
+            "end": 132.564,
+            "score": 0.926
+          },
+          {
+            "word": "personnes",
+            "start": 132.584,
+            "end": 133.385,
+            "score": 0.874
+          },
+          {
+            "word": "par",
+            "start": 133.425,
+            "end": 133.565,
+            "score": 0.843
+          },
+          {
+            "word": "an.",
+            "start": 133.605,
+            "end": 133.645,
+            "score": 0.528
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 134,
+  "transcription_duration": 39
+}

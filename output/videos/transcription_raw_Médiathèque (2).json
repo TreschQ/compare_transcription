@@ -1,0 +1,2131 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.571,
+        "end": 11.08,
+        "text": " Juché à 625 mètres, deux fois la tour Eiffel, le pont le plus haut du monde, à peine ouvert aux voitures, est déjà terrain de jeu pour amateurs de sensations fortes.",
+        "words": [
+          {
+            "word": "Juché",
+            "start": 0.571,
+            "end": 0.952,
+            "score": 0.841
+          },
+          {
+            "word": "à",
+            "start": 0.972,
+            "end": 1.052,
+            "score": 0.73
+          },
+          {
+            "word": "625"
+          },
+          {
+            "word": "mètres,",
+            "start": 1.872,
+            "end": 2.373,
+            "score": 0.877
+          },
+          {
+            "word": "deux",
+            "start": 2.393,
+            "end": 2.513,
+            "score": 0.798
+          },
+          {
+            "word": "fois",
+            "start": 2.553,
+            "end": 2.713,
+            "score": 0.783
+          },
+          {
+            "word": "la",
+            "start": 2.773,
+            "end": 2.833,
+            "score": 0.986
+          },
+          {
+            "word": "tour",
+            "start": 2.873,
+            "end": 3.033,
+            "score": 0.879
+          },
+          {
+            "word": "Eiffel,",
+            "start": 3.073,
+            "end": 3.794,
+            "score": 0.736
+          },
+          {
+            "word": "le",
+            "start": 3.834,
+            "end": 3.954,
+            "score": 0.906
+          },
+          {
+            "word": "pont",
+            "start": 3.994,
+            "end": 4.314,
+            "score": 0.939
+          },
+          {
+            "word": "le",
+            "start": 4.334,
+            "end": 4.415,
+            "score": 0.997
+          },
+          {
+            "word": "plus",
+            "start": 4.455,
+            "end": 4.735,
+            "score": 0.903
+          },
+          {
+            "word": "haut",
+            "start": 4.775,
+            "end": 4.995,
+            "score": 0.871
+          },
+          {
+            "word": "du",
+            "start": 5.035,
+            "end": 5.155,
+            "score": 0.972
+          },
+          {
+            "word": "monde,",
+            "start": 5.215,
+            "end": 5.716,
+            "score": 0.872
+          },
+          {
+            "word": "à",
+            "start": 5.756,
+            "end": 5.816,
+            "score": 0.894
+          },
+          {
+            "word": "peine",
+            "start": 5.876,
+            "end": 6.116,
+            "score": 0.841
+          },
+          {
+            "word": "ouvert",
+            "start": 6.176,
+            "end": 6.436,
+            "score": 0.877
+          },
+          {
+            "word": "aux",
+            "start": 6.456,
+            "end": 6.536,
+            "score": 0.802
+          },
+          {
+            "word": "voitures,",
+            "start": 6.576,
+            "end": 7.297,
+            "score": 0.892
+          },
+          {
+            "word": "est",
+            "start": 7.337,
+            "end": 7.497,
+            "score": 0.644
+          },
+          {
+            "word": "déjà",
+            "start": 7.517,
+            "end": 8.218,
+            "score": 0.887
+          },
+          {
+            "word": "terrain",
+            "start": 8.238,
+            "end": 8.558,
+            "score": 0.856
+          },
+          {
+            "word": "de",
+            "start": 8.578,
+            "end": 8.698,
+            "score": 0.966
+          },
+          {
+            "word": "jeu",
+            "start": 8.738,
+            "end": 9.078,
+            "score": 0.839
+          },
+          {
+            "word": "pour",
+            "start": 9.118,
+            "end": 9.258,
+            "score": 0.859
+          },
+          {
+            "word": "amateurs",
+            "start": 9.298,
+            "end": 10.039,
+            "score": 0.867
+          },
+          {
+            "word": "de",
+            "start": 10.079,
+            "end": 10.179,
+            "score": 0.988
+          },
+          {
+            "word": "sensations",
+            "start": 10.219,
+            "end": 10.76,
+            "score": 0.87
+          },
+          {
+            "word": "fortes.",
+            "start": 10.82,
+            "end": 11.08,
+            "score": 0.878
+          }
+        ]
+      },
+      {
+        "start": 11.1,
+        "end": 22.929,
+        "text": "3, 2, 1... Un saut à l'élastique vertigineux au-dessus du Grand Canyon de Huaqiang.",
+        "words": [
+          {
+            "word": "3,"
+          },
+          {
+            "word": "2,"
+          },
+          {
+            "word": "1..."
+          },
+          {
+            "word": "Un",
+            "start": 17.065,
+            "end": 17.165,
+            "score": 0.632
+          },
+          {
+            "word": "saut",
+            "start": 17.185,
+            "end": 17.385,
+            "score": 0.67
+          },
+          {
+            "word": "à",
+            "start": 17.405,
+            "end": 17.485,
+            "score": 0.599
+          },
+          {
+            "word": "l'élastique",
+            "start": 17.505,
+            "end": 18.246,
+            "score": 0.802
+          },
+          {
+            "word": "vertigineux",
+            "start": 18.286,
+            "end": 19.166,
+            "score": 0.89
+          },
+          {
+            "word": "au-dessus",
+            "start": 19.206,
+            "end": 19.787,
+            "score": 0.918
+          },
+          {
+            "word": "du",
+            "start": 19.807,
+            "end": 19.947,
+            "score": 0.984
+          },
+          {
+            "word": "Grand",
+            "start": 19.987,
+            "end": 20.187,
+            "score": 0.944
+          },
+          {
+            "word": "Canyon",
+            "start": 20.247,
+            "end": 21.028,
+            "score": 0.827
+          },
+          {
+            "word": "de",
+            "start": 21.048,
+            "end": 21.168,
+            "score": 0.885
+          },
+          {
+            "word": "Huaqiang.",
+            "start": 21.208,
+            "end": 22.929,
+            "score": 0.712
+          }
+        ]
+      },
+      {
+        "start": 22.989,
+        "end": 26.232,
+        "text": "Et malgré le prix très élevé, 362 euros la plongée.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 22.989,
+            "end": 23.13,
+            "score": 0.932
+          },
+          {
+            "word": "malgré",
+            "start": 23.17,
+            "end": 23.85,
+            "score": 0.894
+          },
+          {
+            "word": "le",
+            "start": 23.89,
+            "end": 24.01,
+            "score": 0.972
+          },
+          {
+            "word": "prix",
+            "start": 24.07,
+            "end": 24.511,
+            "score": 0.945
+          },
+          {
+            "word": "très",
+            "start": 24.551,
+            "end": 24.771,
+            "score": 0.929
+          },
+          {
+            "word": "élevé,",
+            "start": 24.811,
+            "end": 25.492,
+            "score": 0.936
+          },
+          {
+            "word": "362"
+          },
+          {
+            "word": "euros",
+            "start": 25.532,
+            "end": 25.752,
+            "score": 0.443
+          },
+          {
+            "word": "la",
+            "start": 25.792,
+            "end": 25.972,
+            "score": 0.166
+          },
+          {
+            "word": "plongée.",
+            "start": 25.992,
+            "end": 26.232,
+            "score": 0.366
+          }
+        ]
+      },
+      {
+        "start": 26.272,
+        "end": 26.572,
+        "text": "T'as peur ?",
+        "words": [
+          {
+            "word": "T'as",
+            "start": 26.272,
+            "end": 26.392,
+            "score": 0.498
+          },
+          {
+            "word": "peur",
+            "start": 26.412,
+            "end": 26.572,
+            "score": 0.694
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 31.571,
+        "end": 42.922,
+        "text": " Ils sont nombreux à se jeter un par un en hurlant dans le vide.",
+        "words": [
+          {
+            "word": "Ils",
+            "start": 31.571,
+            "end": 34.114,
+            "score": 0.387
+          },
+          {
+            "word": "sont",
+            "start": 34.174,
+            "end": 34.334,
+            "score": 0.804
+          },
+          {
+            "word": "nombreux",
+            "start": 34.374,
+            "end": 34.894,
+            "score": 0.937
+          },
+          {
+            "word": "à",
+            "start": 34.914,
+            "end": 34.974,
+            "score": 0.671
+          },
+          {
+            "word": "se",
+            "start": 35.034,
+            "end": 35.175,
+            "score": 0.91
+          },
+          {
+            "word": "jeter",
+            "start": 35.215,
+            "end": 35.735,
+            "score": 0.985
+          },
+          {
+            "word": "un",
+            "start": 35.795,
+            "end": 35.875,
+            "score": 0.934
+          },
+          {
+            "word": "par",
+            "start": 35.935,
+            "end": 36.095,
+            "score": 0.977
+          },
+          {
+            "word": "un",
+            "start": 36.115,
+            "end": 36.736,
+            "score": 0.745
+          },
+          {
+            "word": "en",
+            "start": 36.776,
+            "end": 36.936,
+            "score": 0.957
+          },
+          {
+            "word": "hurlant",
+            "start": 36.976,
+            "end": 37.557,
+            "score": 0.793
+          },
+          {
+            "word": "dans",
+            "start": 37.577,
+            "end": 37.717,
+            "score": 0.938
+          },
+          {
+            "word": "le",
+            "start": 37.737,
+            "end": 37.817,
+            "score": 0.883
+          },
+          {
+            "word": "vide.",
+            "start": 37.857,
+            "end": 42.922,
+            "score": 0.878
+          }
+        ]
+      },
+      {
+        "start": 42.962,
+        "end": 54.933,
+        "text": "Pour faire la promotion du pont et de la région, les autorités ont même invité 31 parachutistes de 21 pays pour sauter en wingsuit, une combinaison en forme d'aile.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 42.962,
+            "end": 43.162,
+            "score": 0.895
+          },
+          {
+            "word": "faire",
+            "start": 43.202,
+            "end": 43.442,
+            "score": 0.698
+          },
+          {
+            "word": "la",
+            "start": 43.502,
+            "end": 43.582,
+            "score": 0.849
+          },
+          {
+            "word": "promotion",
+            "start": 43.622,
+            "end": 44.303,
+            "score": 0.921
+          },
+          {
+            "word": "du",
+            "start": 44.343,
+            "end": 44.503,
+            "score": 0.982
+          },
+          {
+            "word": "pont",
+            "start": 44.543,
+            "end": 44.964,
+            "score": 0.981
+          },
+          {
+            "word": "et",
+            "start": 45.004,
+            "end": 45.124,
+            "score": 0.844
+          },
+          {
+            "word": "de",
+            "start": 45.164,
+            "end": 45.224,
+            "score": 0.993
+          },
+          {
+            "word": "la",
+            "start": 45.284,
+            "end": 45.364,
+            "score": 0.996
+          },
+          {
+            "word": "région,",
+            "start": 45.404,
+            "end": 46.005,
+            "score": 0.915
+          },
+          {
+            "word": "les",
+            "start": 46.045,
+            "end": 46.145,
+            "score": 0.989
+          },
+          {
+            "word": "autorités",
+            "start": 46.185,
+            "end": 46.805,
+            "score": 0.911
+          },
+          {
+            "word": "ont",
+            "start": 46.865,
+            "end": 47.006,
+            "score": 0.987
+          },
+          {
+            "word": "même",
+            "start": 47.046,
+            "end": 47.346,
+            "score": 0.88
+          },
+          {
+            "word": "invité",
+            "start": 47.406,
+            "end": 48.046,
+            "score": 0.945
+          },
+          {
+            "word": "31"
+          },
+          {
+            "word": "parachutistes",
+            "start": 48.727,
+            "end": 49.548,
+            "score": 0.726
+          },
+          {
+            "word": "de",
+            "start": 49.588,
+            "end": 49.988,
+            "score": 0.267
+          },
+          {
+            "word": "21"
+          },
+          {
+            "word": "pays",
+            "start": 50.168,
+            "end": 50.809,
+            "score": 0.907
+          },
+          {
+            "word": "pour",
+            "start": 50.849,
+            "end": 51.009,
+            "score": 0.989
+          },
+          {
+            "word": "sauter",
+            "start": 51.049,
+            "end": 51.63,
+            "score": 0.9
+          },
+          {
+            "word": "en",
+            "start": 51.69,
+            "end": 51.77,
+            "score": 0.968
+          },
+          {
+            "word": "wingsuit,",
+            "start": 51.83,
+            "end": 52.691,
+            "score": 0.751
+          },
+          {
+            "word": "une",
+            "start": 52.731,
+            "end": 52.871,
+            "score": 0.91
+          },
+          {
+            "word": "combinaison",
+            "start": 52.911,
+            "end": 53.451,
+            "score": 0.918
+          },
+          {
+            "word": "en",
+            "start": 53.512,
+            "end": 53.592,
+            "score": 0.448
+          },
+          {
+            "word": "forme",
+            "start": 53.632,
+            "end": 53.912,
+            "score": 0.962
+          },
+          {
+            "word": "d'aile.",
+            "start": 53.932,
+            "end": 54.933,
+            "score": 0.79
+          }
+        ]
+      },
+      {
+        "start": 54.993,
+        "end": 55.874,
+        "text": "Un sport extrême ?",
+        "words": [
+          {
+            "word": "Un",
+            "start": 54.993,
+            "end": 55.053,
+            "score": 0.594
+          },
+          {
+            "word": "sport",
+            "start": 55.093,
+            "end": 55.433,
+            "score": 0.758
+          },
+          {
+            "word": "extrême",
+            "start": 55.473,
+            "end": 55.874,
+            "score": 0.903
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 57.122,
+        "end": 61.424,
+        "text": " et des pratiquants étrangers conquis par la nouvelle expérience.",
+        "words": [
+          {
+            "word": "et",
+            "start": 57.122,
+            "end": 57.382,
+            "score": 0.602
+          },
+          {
+            "word": "des",
+            "start": 57.402,
+            "end": 57.502,
+            "score": 0.56
+          },
+          {
+            "word": "pratiquants",
+            "start": 57.522,
+            "end": 58.002,
+            "score": 0.727
+          },
+          {
+            "word": "étrangers",
+            "start": 58.042,
+            "end": 59.163,
+            "score": 0.892
+          },
+          {
+            "word": "conquis",
+            "start": 59.203,
+            "end": 60.363,
+            "score": 0.865
+          },
+          {
+            "word": "par",
+            "start": 60.403,
+            "end": 60.523,
+            "score": 0.949
+          },
+          {
+            "word": "la",
+            "start": 60.563,
+            "end": 60.603,
+            "score": 0.972
+          },
+          {
+            "word": "nouvelle",
+            "start": 60.643,
+            "end": 60.884,
+            "score": 0.897
+          },
+          {
+            "word": "expérience.",
+            "start": 60.904,
+            "end": 61.424,
+            "score": 0.863
+          }
+        ]
+      },
+      {
+        "start": 64.405,
+        "end": 66.726,
+        "text": "C'est complètement fou.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 64.405,
+            "end": 64.665,
+            "score": 0.803
+          },
+          {
+            "word": "complètement",
+            "start": 64.705,
+            "end": 65.225,
+            "score": 0.749
+          },
+          {
+            "word": "fou.",
+            "start": 65.265,
+            "end": 66.726,
+            "score": 0.628
+          }
+        ]
+      },
+      {
+        "start": 66.746,
+        "end": 68.867,
+        "text": "C'est mon pont préféré.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 66.746,
+            "end": 66.866,
+            "score": 0.527
+          },
+          {
+            "word": "mon",
+            "start": 66.886,
+            "end": 67.066,
+            "score": 0.639
+          },
+          {
+            "word": "pont",
+            "start": 67.086,
+            "end": 67.226,
+            "score": 0.292
+          },
+          {
+            "word": "préféré.",
+            "start": 67.266,
+            "end": 68.867,
+            "score": 0.68
+          }
+        ]
+      },
+      {
+        "start": 68.887,
+        "end": 74.409,
+        "text": "Pour les visiteurs, il y a aussi le plancher de verre ou la traversée au-dessus du vide.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 68.887,
+            "end": 69.047,
+            "score": 0.916
+          },
+          {
+            "word": "les",
+            "start": 69.067,
+            "end": 69.167,
+            "score": 0.986
+          },
+          {
+            "word": "visiteurs,",
+            "start": 69.207,
+            "end": 69.687,
+            "score": 0.966
+          },
+          {
+            "word": "il",
+            "start": 69.747,
+            "end": 69.807,
+            "score": 0.724
+          },
+          {
+            "word": "y",
+            "start": 69.827,
+            "end": 69.847,
+            "score": 0.941
+          },
+          {
+            "word": "a",
+            "start": 69.887,
+            "end": 69.947,
+            "score": 0.699
+          },
+          {
+            "word": "aussi",
+            "start": 69.987,
+            "end": 70.307,
+            "score": 0.946
+          },
+          {
+            "word": "le",
+            "start": 70.327,
+            "end": 70.427,
+            "score": 0.936
+          },
+          {
+            "word": "plancher",
+            "start": 70.467,
+            "end": 70.888,
+            "score": 0.875
+          },
+          {
+            "word": "de",
+            "start": 70.928,
+            "end": 71.048,
+            "score": 0.975
+          },
+          {
+            "word": "verre",
+            "start": 71.108,
+            "end": 71.668,
+            "score": 0.795
+          },
+          {
+            "word": "ou",
+            "start": 71.728,
+            "end": 71.908,
+            "score": 0.906
+          },
+          {
+            "word": "la",
+            "start": 71.928,
+            "end": 72.028,
+            "score": 0.742
+          },
+          {
+            "word": "traversée",
+            "start": 72.068,
+            "end": 72.808,
+            "score": 0.94
+          },
+          {
+            "word": "au-dessus",
+            "start": 72.868,
+            "end": 73.369,
+            "score": 0.849
+          },
+          {
+            "word": "du",
+            "start": 73.409,
+            "end": 73.529,
+            "score": 0.984
+          },
+          {
+            "word": "vide.",
+            "start": 73.589,
+            "end": 74.409,
+            "score": 0.978
+          }
+        ]
+      },
+      {
+        "start": 74.429,
+        "end": 76.31,
+        "text": "Les ateliers frissons sont légion.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 74.429,
+            "end": 74.529,
+            "score": 0.949
+          },
+          {
+            "word": "ateliers",
+            "start": 74.589,
+            "end": 75.009,
+            "score": 0.861
+          },
+          {
+            "word": "frissons",
+            "start": 75.049,
+            "end": 75.77,
+            "score": 0.832
+          },
+          {
+            "word": "sont",
+            "start": 75.81,
+            "end": 75.97,
+            "score": 0.894
+          },
+          {
+            "word": "légion.",
+            "start": 76.01,
+            "end": 76.31,
+            "score": 0.647
+          }
+        ]
+      },
+      {
+        "start": 77.971,
+        "end": 82.619,
+        "text": " Ce pont offre même un rideau de pluie qui marque sa hauteur.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 77.971,
+            "end": 78.112,
+            "score": 0.937
+          },
+          {
+            "word": "pont",
+            "start": 78.152,
+            "end": 78.492,
+            "score": 0.94
+          },
+          {
+            "word": "offre",
+            "start": 78.552,
+            "end": 78.953,
+            "score": 0.922
+          },
+          {
+            "word": "même",
+            "start": 78.993,
+            "end": 79.374,
+            "score": 0.978
+          },
+          {
+            "word": "un",
+            "start": 79.434,
+            "end": 79.534,
+            "score": 0.68
+          },
+          {
+            "word": "rideau",
+            "start": 79.574,
+            "end": 79.935,
+            "score": 0.855
+          },
+          {
+            "word": "de",
+            "start": 79.995,
+            "end": 80.115,
+            "score": 0.943
+          },
+          {
+            "word": "pluie",
+            "start": 80.155,
+            "end": 80.656,
+            "score": 0.612
+          },
+          {
+            "word": "qui",
+            "start": 80.676,
+            "end": 80.876,
+            "score": 0.827
+          },
+          {
+            "word": "marque",
+            "start": 80.916,
+            "end": 81.257,
+            "score": 0.955
+          },
+          {
+            "word": "sa",
+            "start": 81.297,
+            "end": 81.397,
+            "score": 0.984
+          },
+          {
+            "word": "hauteur.",
+            "start": 81.437,
+            "end": 82.619,
+            "score": 0.951
+          }
+        ]
+      },
+      {
+        "start": 82.639,
+        "end": 90.532,
+        "text": "Depuis son inauguration il y a quelques jours, l'État chinois présente cette structure comme une véritable fierté nationale.",
+        "words": [
+          {
+            "word": "Depuis",
+            "start": 82.639,
+            "end": 83.02,
+            "score": 0.884
+          },
+          {
+            "word": "son",
+            "start": 83.06,
+            "end": 83.28,
+            "score": 0.868
+          },
+          {
+            "word": "inauguration",
+            "start": 83.34,
+            "end": 84.402,
+            "score": 0.888
+          },
+          {
+            "word": "il",
+            "start": 84.442,
+            "end": 84.522,
+            "score": 0.742
+          },
+          {
+            "word": "y",
+            "start": 84.542,
+            "end": 84.562,
+            "score": 0.997
+          },
+          {
+            "word": "a",
+            "start": 84.622,
+            "end": 84.662,
+            "score": 0.972
+          },
+          {
+            "word": "quelques",
+            "start": 84.703,
+            "end": 85.063,
+            "score": 0.852
+          },
+          {
+            "word": "jours,",
+            "start": 85.103,
+            "end": 85.764,
+            "score": 0.977
+          },
+          {
+            "word": "l'État",
+            "start": 85.804,
+            "end": 86.145,
+            "score": 0.983
+          },
+          {
+            "word": "chinois",
+            "start": 86.185,
+            "end": 86.746,
+            "score": 0.885
+          },
+          {
+            "word": "présente",
+            "start": 86.786,
+            "end": 87.427,
+            "score": 0.937
+          },
+          {
+            "word": "cette",
+            "start": 87.467,
+            "end": 87.668,
+            "score": 0.831
+          },
+          {
+            "word": "structure",
+            "start": 87.708,
+            "end": 88.729,
+            "score": 0.874
+          },
+          {
+            "word": "comme",
+            "start": 88.769,
+            "end": 88.95,
+            "score": 0.939
+          },
+          {
+            "word": "une",
+            "start": 88.99,
+            "end": 89.11,
+            "score": 0.956
+          },
+          {
+            "word": "véritable",
+            "start": 89.15,
+            "end": 89.691,
+            "score": 0.907
+          },
+          {
+            "word": "fierté",
+            "start": 89.731,
+            "end": 90.112,
+            "score": 0.892
+          },
+          {
+            "word": "nationale.",
+            "start": 90.132,
+            "end": 90.532,
+            "score": 0.849
+          }
+        ]
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Juché",
+        "start": 0.571,
+        "end": 0.952,
+        "score": 0.841
+      },
+      {
+        "word": "à",
+        "start": 0.972,
+        "end": 1.052,
+        "score": 0.73
+      },
+      {
+        "word": "625"
+      },
+      {
+        "word": "mètres,",
+        "start": 1.872,
+        "end": 2.373,
+        "score": 0.877
+      },
+      {
+        "word": "deux",
+        "start": 2.393,
+        "end": 2.513,
+        "score": 0.798
+      },
+      {
+        "word": "fois",
+        "start": 2.553,
+        "end": 2.713,
+        "score": 0.783
+      },
+      {
+        "word": "la",
+        "start": 2.773,
+        "end": 2.833,
+        "score": 0.986
+      },
+      {
+        "word": "tour",
+        "start": 2.873,
+        "end": 3.033,
+        "score": 0.879
+      },
+      {
+        "word": "Eiffel,",
+        "start": 3.073,
+        "end": 3.794,
+        "score": 0.736
+      },
+      {
+        "word": "le",
+        "start": 3.834,
+        "end": 3.954,
+        "score": 0.906
+      },
+      {
+        "word": "pont",
+        "start": 3.994,
+        "end": 4.314,
+        "score": 0.939
+      },
+      {
+        "word": "le",
+        "start": 4.334,
+        "end": 4.415,
+        "score": 0.997
+      },
+      {
+        "word": "plus",
+        "start": 4.455,
+        "end": 4.735,
+        "score": 0.903
+      },
+      {
+        "word": "haut",
+        "start": 4.775,
+        "end": 4.995,
+        "score": 0.871
+      },
+      {
+        "word": "du",
+        "start": 5.035,
+        "end": 5.155,
+        "score": 0.972
+      },
+      {
+        "word": "monde,",
+        "start": 5.215,
+        "end": 5.716,
+        "score": 0.872
+      },
+      {
+        "word": "à",
+        "start": 5.756,
+        "end": 5.816,
+        "score": 0.894
+      },
+      {
+        "word": "peine",
+        "start": 5.876,
+        "end": 6.116,
+        "score": 0.841
+      },
+      {
+        "word": "ouvert",
+        "start": 6.176,
+        "end": 6.436,
+        "score": 0.877
+      },
+      {
+        "word": "aux",
+        "start": 6.456,
+        "end": 6.536,
+        "score": 0.802
+      },
+      {
+        "word": "voitures,",
+        "start": 6.576,
+        "end": 7.297,
+        "score": 0.892
+      },
+      {
+        "word": "est",
+        "start": 7.337,
+        "end": 7.497,
+        "score": 0.644
+      },
+      {
+        "word": "déjà",
+        "start": 7.517,
+        "end": 8.218,
+        "score": 0.887
+      },
+      {
+        "word": "terrain",
+        "start": 8.238,
+        "end": 8.558,
+        "score": 0.856
+      },
+      {
+        "word": "de",
+        "start": 8.578,
+        "end": 8.698,
+        "score": 0.966
+      },
+      {
+        "word": "jeu",
+        "start": 8.738,
+        "end": 9.078,
+        "score": 0.839
+      },
+      {
+        "word": "pour",
+        "start": 9.118,
+        "end": 9.258,
+        "score": 0.859
+      },
+      {
+        "word": "amateurs",
+        "start": 9.298,
+        "end": 10.039,
+        "score": 0.867
+      },
+      {
+        "word": "de",
+        "start": 10.079,
+        "end": 10.179,
+        "score": 0.988
+      },
+      {
+        "word": "sensations",
+        "start": 10.219,
+        "end": 10.76,
+        "score": 0.87
+      },
+      {
+        "word": "fortes.",
+        "start": 10.82,
+        "end": 11.08,
+        "score": 0.878
+      },
+      {
+        "word": "3,"
+      },
+      {
+        "word": "2,"
+      },
+      {
+        "word": "1..."
+      },
+      {
+        "word": "Un",
+        "start": 17.065,
+        "end": 17.165,
+        "score": 0.632
+      },
+      {
+        "word": "saut",
+        "start": 17.185,
+        "end": 17.385,
+        "score": 0.67
+      },
+      {
+        "word": "à",
+        "start": 17.405,
+        "end": 17.485,
+        "score": 0.599
+      },
+      {
+        "word": "l'élastique",
+        "start": 17.505,
+        "end": 18.246,
+        "score": 0.802
+      },
+      {
+        "word": "vertigineux",
+        "start": 18.286,
+        "end": 19.166,
+        "score": 0.89
+      },
+      {
+        "word": "au-dessus",
+        "start": 19.206,
+        "end": 19.787,
+        "score": 0.918
+      },
+      {
+        "word": "du",
+        "start": 19.807,
+        "end": 19.947,
+        "score": 0.984
+      },
+      {
+        "word": "Grand",
+        "start": 19.987,
+        "end": 20.187,
+        "score": 0.944
+      },
+      {
+        "word": "Canyon",
+        "start": 20.247,
+        "end": 21.028,
+        "score": 0.827
+      },
+      {
+        "word": "de",
+        "start": 21.048,
+        "end": 21.168,
+        "score": 0.885
+      },
+      {
+        "word": "Huaqiang.",
+        "start": 21.208,
+        "end": 22.929,
+        "score": 0.712
+      },
+      {
+        "word": "Et",
+        "start": 22.989,
+        "end": 23.13,
+        "score": 0.932
+      },
+      {
+        "word": "malgré",
+        "start": 23.17,
+        "end": 23.85,
+        "score": 0.894
+      },
+      {
+        "word": "le",
+        "start": 23.89,
+        "end": 24.01,
+        "score": 0.972
+      },
+      {
+        "word": "prix",
+        "start": 24.07,
+        "end": 24.511,
+        "score": 0.945
+      },
+      {
+        "word": "très",
+        "start": 24.551,
+        "end": 24.771,
+        "score": 0.929
+      },
+      {
+        "word": "élevé,",
+        "start": 24.811,
+        "end": 25.492,
+        "score": 0.936
+      },
+      {
+        "word": "362"
+      },
+      {
+        "word": "euros",
+        "start": 25.532,
+        "end": 25.752,
+        "score": 0.443
+      },
+      {
+        "word": "la",
+        "start": 25.792,
+        "end": 25.972,
+        "score": 0.166
+      },
+      {
+        "word": "plongée.",
+        "start": 25.992,
+        "end": 26.232,
+        "score": 0.366
+      },
+      {
+        "word": "T'as",
+        "start": 26.272,
+        "end": 26.392,
+        "score": 0.498
+      },
+      {
+        "word": "peur",
+        "start": 26.412,
+        "end": 26.572,
+        "score": 0.694
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Ils",
+        "start": 31.571,
+        "end": 34.114,
+        "score": 0.387
+      },
+      {
+        "word": "sont",
+        "start": 34.174,
+        "end": 34.334,
+        "score": 0.804
+      },
+      {
+        "word": "nombreux",
+        "start": 34.374,
+        "end": 34.894,
+        "score": 0.937
+      },
+      {
+        "word": "à",
+        "start": 34.914,
+        "end": 34.974,
+        "score": 0.671
+      },
+      {
+        "word": "se",
+        "start": 35.034,
+        "end": 35.175,
+        "score": 0.91
+      },
+      {
+        "word": "jeter",
+        "start": 35.215,
+        "end": 35.735,
+        "score": 0.985
+      },
+      {
+        "word": "un",
+        "start": 35.795,
+        "end": 35.875,
+        "score": 0.934
+      },
+      {
+        "word": "par",
+        "start": 35.935,
+        "end": 36.095,
+        "score": 0.977
+      },
+      {
+        "word": "un",
+        "start": 36.115,
+        "end": 36.736,
+        "score": 0.745
+      },
+      {
+        "word": "en",
+        "start": 36.776,
+        "end": 36.936,
+        "score": 0.957
+      },
+      {
+        "word": "hurlant",
+        "start": 36.976,
+        "end": 37.557,
+        "score": 0.793
+      },
+      {
+        "word": "dans",
+        "start": 37.577,
+        "end": 37.717,
+        "score": 0.938
+      },
+      {
+        "word": "le",
+        "start": 37.737,
+        "end": 37.817,
+        "score": 0.883
+      },
+      {
+        "word": "vide.",
+        "start": 37.857,
+        "end": 42.922,
+        "score": 0.878
+      },
+      {
+        "word": "Pour",
+        "start": 42.962,
+        "end": 43.162,
+        "score": 0.895
+      },
+      {
+        "word": "faire",
+        "start": 43.202,
+        "end": 43.442,
+        "score": 0.698
+      },
+      {
+        "word": "la",
+        "start": 43.502,
+        "end": 43.582,
+        "score": 0.849
+      },
+      {
+        "word": "promotion",
+        "start": 43.622,
+        "end": 44.303,
+        "score": 0.921
+      },
+      {
+        "word": "du",
+        "start": 44.343,
+        "end": 44.503,
+        "score": 0.982
+      },
+      {
+        "word": "pont",
+        "start": 44.543,
+        "end": 44.964,
+        "score": 0.981
+      },
+      {
+        "word": "et",
+        "start": 45.004,
+        "end": 45.124,
+        "score": 0.844
+      },
+      {
+        "word": "de",
+        "start": 45.164,
+        "end": 45.224,
+        "score": 0.993
+      },
+      {
+        "word": "la",
+        "start": 45.284,
+        "end": 45.364,
+        "score": 0.996
+      },
+      {
+        "word": "région,",
+        "start": 45.404,
+        "end": 46.005,
+        "score": 0.915
+      },
+      {
+        "word": "les",
+        "start": 46.045,
+        "end": 46.145,
+        "score": 0.989
+      },
+      {
+        "word": "autorités",
+        "start": 46.185,
+        "end": 46.805,
+        "score": 0.911
+      },
+      {
+        "word": "ont",
+        "start": 46.865,
+        "end": 47.006,
+        "score": 0.987
+      },
+      {
+        "word": "même",
+        "start": 47.046,
+        "end": 47.346,
+        "score": 0.88
+      },
+      {
+        "word": "invité",
+        "start": 47.406,
+        "end": 48.046,
+        "score": 0.945
+      },
+      {
+        "word": "31"
+      },
+      {
+        "word": "parachutistes",
+        "start": 48.727,
+        "end": 49.548,
+        "score": 0.726
+      },
+      {
+        "word": "de",
+        "start": 49.588,
+        "end": 49.988,
+        "score": 0.267
+      },
+      {
+        "word": "21"
+      },
+      {
+        "word": "pays",
+        "start": 50.168,
+        "end": 50.809,
+        "score": 0.907
+      },
+      {
+        "word": "pour",
+        "start": 50.849,
+        "end": 51.009,
+        "score": 0.989
+      },
+      {
+        "word": "sauter",
+        "start": 51.049,
+        "end": 51.63,
+        "score": 0.9
+      },
+      {
+        "word": "en",
+        "start": 51.69,
+        "end": 51.77,
+        "score": 0.968
+      },
+      {
+        "word": "wingsuit,",
+        "start": 51.83,
+        "end": 52.691,
+        "score": 0.751
+      },
+      {
+        "word": "une",
+        "start": 52.731,
+        "end": 52.871,
+        "score": 0.91
+      },
+      {
+        "word": "combinaison",
+        "start": 52.911,
+        "end": 53.451,
+        "score": 0.918
+      },
+      {
+        "word": "en",
+        "start": 53.512,
+        "end": 53.592,
+        "score": 0.448
+      },
+      {
+        "word": "forme",
+        "start": 53.632,
+        "end": 53.912,
+        "score": 0.962
+      },
+      {
+        "word": "d'aile.",
+        "start": 53.932,
+        "end": 54.933,
+        "score": 0.79
+      },
+      {
+        "word": "Un",
+        "start": 54.993,
+        "end": 55.053,
+        "score": 0.594
+      },
+      {
+        "word": "sport",
+        "start": 55.093,
+        "end": 55.433,
+        "score": 0.758
+      },
+      {
+        "word": "extrême",
+        "start": 55.473,
+        "end": 55.874,
+        "score": 0.903
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "et",
+        "start": 57.122,
+        "end": 57.382,
+        "score": 0.602
+      },
+      {
+        "word": "des",
+        "start": 57.402,
+        "end": 57.502,
+        "score": 0.56
+      },
+      {
+        "word": "pratiquants",
+        "start": 57.522,
+        "end": 58.002,
+        "score": 0.727
+      },
+      {
+        "word": "étrangers",
+        "start": 58.042,
+        "end": 59.163,
+        "score": 0.892
+      },
+      {
+        "word": "conquis",
+        "start": 59.203,
+        "end": 60.363,
+        "score": 0.865
+      },
+      {
+        "word": "par",
+        "start": 60.403,
+        "end": 60.523,
+        "score": 0.949
+      },
+      {
+        "word": "la",
+        "start": 60.563,
+        "end": 60.603,
+        "score": 0.972
+      },
+      {
+        "word": "nouvelle",
+        "start": 60.643,
+        "end": 60.884,
+        "score": 0.897
+      },
+      {
+        "word": "expérience.",
+        "start": 60.904,
+        "end": 61.424,
+        "score": 0.863
+      },
+      {
+        "word": "C'est",
+        "start": 64.405,
+        "end": 64.665,
+        "score": 0.803
+      },
+      {
+        "word": "complètement",
+        "start": 64.705,
+        "end": 65.225,
+        "score": 0.749
+      },
+      {
+        "word": "fou.",
+        "start": 65.265,
+        "end": 66.726,
+        "score": 0.628
+      },
+      {
+        "word": "C'est",
+        "start": 66.746,
+        "end": 66.866,
+        "score": 0.527
+      },
+      {
+        "word": "mon",
+        "start": 66.886,
+        "end": 67.066,
+        "score": 0.639
+      },
+      {
+        "word": "pont",
+        "start": 67.086,
+        "end": 67.226,
+        "score": 0.292
+      },
+      {
+        "word": "préféré.",
+        "start": 67.266,
+        "end": 68.867,
+        "score": 0.68
+      },
+      {
+        "word": "Pour",
+        "start": 68.887,
+        "end": 69.047,
+        "score": 0.916
+      },
+      {
+        "word": "les",
+        "start": 69.067,
+        "end": 69.167,
+        "score": 0.986
+      },
+      {
+        "word": "visiteurs,",
+        "start": 69.207,
+        "end": 69.687,
+        "score": 0.966
+      },
+      {
+        "word": "il",
+        "start": 69.747,
+        "end": 69.807,
+        "score": 0.724
+      },
+      {
+        "word": "y",
+        "start": 69.827,
+        "end": 69.847,
+        "score": 0.941
+      },
+      {
+        "word": "a",
+        "start": 69.887,
+        "end": 69.947,
+        "score": 0.699
+      },
+      {
+        "word": "aussi",
+        "start": 69.987,
+        "end": 70.307,
+        "score": 0.946
+      },
+      {
+        "word": "le",
+        "start": 70.327,
+        "end": 70.427,
+        "score": 0.936
+      },
+      {
+        "word": "plancher",
+        "start": 70.467,
+        "end": 70.888,
+        "score": 0.875
+      },
+      {
+        "word": "de",
+        "start": 70.928,
+        "end": 71.048,
+        "score": 0.975
+      },
+      {
+        "word": "verre",
+        "start": 71.108,
+        "end": 71.668,
+        "score": 0.795
+      },
+      {
+        "word": "ou",
+        "start": 71.728,
+        "end": 71.908,
+        "score": 0.906
+      },
+      {
+        "word": "la",
+        "start": 71.928,
+        "end": 72.028,
+        "score": 0.742
+      },
+      {
+        "word": "traversée",
+        "start": 72.068,
+        "end": 72.808,
+        "score": 0.94
+      },
+      {
+        "word": "au-dessus",
+        "start": 72.868,
+        "end": 73.369,
+        "score": 0.849
+      },
+      {
+        "word": "du",
+        "start": 73.409,
+        "end": 73.529,
+        "score": 0.984
+      },
+      {
+        "word": "vide.",
+        "start": 73.589,
+        "end": 74.409,
+        "score": 0.978
+      },
+      {
+        "word": "Les",
+        "start": 74.429,
+        "end": 74.529,
+        "score": 0.949
+      },
+      {
+        "word": "ateliers",
+        "start": 74.589,
+        "end": 75.009,
+        "score": 0.861
+      },
+      {
+        "word": "frissons",
+        "start": 75.049,
+        "end": 75.77,
+        "score": 0.832
+      },
+      {
+        "word": "sont",
+        "start": 75.81,
+        "end": 75.97,
+        "score": 0.894
+      },
+      {
+        "word": "légion.",
+        "start": 76.01,
+        "end": 76.31,
+        "score": 0.647
+      },
+      {
+        "word": "Ce",
+        "start": 77.971,
+        "end": 78.112,
+        "score": 0.937
+      },
+      {
+        "word": "pont",
+        "start": 78.152,
+        "end": 78.492,
+        "score": 0.94
+      },
+      {
+        "word": "offre",
+        "start": 78.552,
+        "end": 78.953,
+        "score": 0.922
+      },
+      {
+        "word": "même",
+        "start": 78.993,
+        "end": 79.374,
+        "score": 0.978
+      },
+      {
+        "word": "un",
+        "start": 79.434,
+        "end": 79.534,
+        "score": 0.68
+      },
+      {
+        "word": "rideau",
+        "start": 79.574,
+        "end": 79.935,
+        "score": 0.855
+      },
+      {
+        "word": "de",
+        "start": 79.995,
+        "end": 80.115,
+        "score": 0.943
+      },
+      {
+        "word": "pluie",
+        "start": 80.155,
+        "end": 80.656,
+        "score": 0.612
+      },
+      {
+        "word": "qui",
+        "start": 80.676,
+        "end": 80.876,
+        "score": 0.827
+      },
+      {
+        "word": "marque",
+        "start": 80.916,
+        "end": 81.257,
+        "score": 0.955
+      },
+      {
+        "word": "sa",
+        "start": 81.297,
+        "end": 81.397,
+        "score": 0.984
+      },
+      {
+        "word": "hauteur.",
+        "start": 81.437,
+        "end": 82.619,
+        "score": 0.951
+      },
+      {
+        "word": "Depuis",
+        "start": 82.639,
+        "end": 83.02,
+        "score": 0.884
+      },
+      {
+        "word": "son",
+        "start": 83.06,
+        "end": 83.28,
+        "score": 0.868
+      },
+      {
+        "word": "inauguration",
+        "start": 83.34,
+        "end": 84.402,
+        "score": 0.888
+      },
+      {
+        "word": "il",
+        "start": 84.442,
+        "end": 84.522,
+        "score": 0.742
+      },
+      {
+        "word": "y",
+        "start": 84.542,
+        "end": 84.562,
+        "score": 0.997
+      },
+      {
+        "word": "a",
+        "start": 84.622,
+        "end": 84.662,
+        "score": 0.972
+      },
+      {
+        "word": "quelques",
+        "start": 84.703,
+        "end": 85.063,
+        "score": 0.852
+      },
+      {
+        "word": "jours,",
+        "start": 85.103,
+        "end": 85.764,
+        "score": 0.977
+      },
+      {
+        "word": "l'État",
+        "start": 85.804,
+        "end": 86.145,
+        "score": 0.983
+      },
+      {
+        "word": "chinois",
+        "start": 86.185,
+        "end": 86.746,
+        "score": 0.885
+      },
+      {
+        "word": "présente",
+        "start": 86.786,
+        "end": 87.427,
+        "score": 0.937
+      },
+      {
+        "word": "cette",
+        "start": 87.467,
+        "end": 87.668,
+        "score": 0.831
+      },
+      {
+        "word": "structure",
+        "start": 87.708,
+        "end": 88.729,
+        "score": 0.874
+      },
+      {
+        "word": "comme",
+        "start": 88.769,
+        "end": 88.95,
+        "score": 0.939
+      },
+      {
+        "word": "une",
+        "start": 88.99,
+        "end": 89.11,
+        "score": 0.956
+      },
+      {
+        "word": "véritable",
+        "start": 89.15,
+        "end": 89.691,
+        "score": 0.907
+      },
+      {
+        "word": "fierté",
+        "start": 89.731,
+        "end": 90.112,
+        "score": 0.892
+      },
+      {
+        "word": "nationale.",
+        "start": 90.132,
+        "end": 90.532,
+        "score": 0.849
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 91,
+  "transcription_duration": 59
+}

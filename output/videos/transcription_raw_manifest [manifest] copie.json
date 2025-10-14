@@ -1,0 +1,3042 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.451,
+        "end": 4.456,
+        "text": " Ces images ont été filmées quelques minutes après l'accident.",
+        "words": [
+          {
+            "word": "Ces",
+            "start": 0.451,
+            "end": 0.592,
+            "score": 0.889
+          },
+          {
+            "word": "images",
+            "start": 0.652,
+            "end": 1.212,
+            "score": 0.914
+          },
+          {
+            "word": "ont",
+            "start": 1.272,
+            "end": 1.412,
+            "score": 0.873
+          },
+          {
+            "word": "été",
+            "start": 1.452,
+            "end": 1.653,
+            "score": 0.905
+          },
+          {
+            "word": "filmées",
+            "start": 1.713,
+            "end": 2.013,
+            "score": 0.698
+          },
+          {
+            "word": "quelques",
+            "start": 2.053,
+            "end": 2.373,
+            "score": 0.914
+          },
+          {
+            "word": "minutes",
+            "start": 2.413,
+            "end": 2.894,
+            "score": 0.998
+          },
+          {
+            "word": "après",
+            "start": 2.954,
+            "end": 3.194,
+            "score": 0.862
+          },
+          {
+            "word": "l'accident.",
+            "start": 3.234,
+            "end": 4.456,
+            "score": 0.956
+          }
+        ]
+      },
+      {
+        "start": 4.516,
+        "end": 9.401,
+        "text": "On distingue un car scolaire de biais, l'arrière du véhicule dans le fossé.",
+        "words": [
+          {
+            "word": "On",
+            "start": 4.516,
+            "end": 4.636,
+            "score": 0.934
+          },
+          {
+            "word": "distingue",
+            "start": 4.696,
+            "end": 5.076,
+            "score": 0.849
+          },
+          {
+            "word": "un",
+            "start": 5.116,
+            "end": 5.216,
+            "score": 0.623
+          },
+          {
+            "word": "car",
+            "start": 5.256,
+            "end": 5.477,
+            "score": 0.797
+          },
+          {
+            "word": "scolaire",
+            "start": 5.497,
+            "end": 5.857,
+            "score": 0.776
+          },
+          {
+            "word": "de",
+            "start": 5.897,
+            "end": 5.997,
+            "score": 0.98
+          },
+          {
+            "word": "biais,",
+            "start": 6.037,
+            "end": 6.858,
+            "score": 0.716
+          },
+          {
+            "word": "l'arrière",
+            "start": 6.878,
+            "end": 7.258,
+            "score": 0.805
+          },
+          {
+            "word": "du",
+            "start": 7.299,
+            "end": 7.399,
+            "score": 0.926
+          },
+          {
+            "word": "véhicule",
+            "start": 7.439,
+            "end": 7.859,
+            "score": 0.793
+          },
+          {
+            "word": "dans",
+            "start": 7.919,
+            "end": 8.059,
+            "score": 0.871
+          },
+          {
+            "word": "le",
+            "start": 8.079,
+            "end": 8.179,
+            "score": 0.992
+          },
+          {
+            "word": "fossé.",
+            "start": 8.219,
+            "end": 9.401,
+            "score": 0.935
+          }
+        ]
+      },
+      {
+        "start": 9.441,
+        "end": 12.984,
+        "text": "Tout autour, une dizaine de camions de pompiers.",
+        "words": [
+          {
+            "word": "Tout",
+            "start": 9.441,
+            "end": 9.601,
+            "score": 0.865
+          },
+          {
+            "word": "autour,",
+            "start": 9.641,
+            "end": 10.402,
+            "score": 0.983
+          },
+          {
+            "word": "une",
+            "start": 10.462,
+            "end": 10.602,
+            "score": 0.859
+          },
+          {
+            "word": "dizaine",
+            "start": 10.622,
+            "end": 10.982,
+            "score": 0.806
+          },
+          {
+            "word": "de",
+            "start": 11.042,
+            "end": 11.122,
+            "score": 0.996
+          },
+          {
+            "word": "camions",
+            "start": 11.163,
+            "end": 11.483,
+            "score": 0.907
+          },
+          {
+            "word": "de",
+            "start": 11.523,
+            "end": 11.623,
+            "score": 0.988
+          },
+          {
+            "word": "pompiers.",
+            "start": 11.663,
+            "end": 12.984,
+            "score": 0.927
+          }
+        ]
+      },
+      {
+        "start": 13.024,
+        "end": 16.408,
+        "text": "Une voiture a percuté le véhicule vers 9h ce matin.",
+        "words": [
+          {
+            "word": "Une",
+            "start": 13.024,
+            "end": 13.165,
+            "score": 0.711
+          },
+          {
+            "word": "voiture",
+            "start": 13.205,
+            "end": 13.525,
+            "score": 0.875
+          },
+          {
+            "word": "a",
+            "start": 13.565,
+            "end": 13.605,
+            "score": 0.914
+          },
+          {
+            "word": "percuté",
+            "start": 13.665,
+            "end": 14.086,
+            "score": 0.925
+          },
+          {
+            "word": "le",
+            "start": 14.106,
+            "end": 14.186,
+            "score": 0.826
+          },
+          {
+            "word": "véhicule",
+            "start": 14.226,
+            "end": 14.666,
+            "score": 0.727
+          },
+          {
+            "word": "vers",
+            "start": 14.706,
+            "end": 15.027,
+            "score": 0.82
+          },
+          {
+            "word": "9h",
+            "start": 15.047,
+            "end": 15.287,
+            "score": 0.621
+          },
+          {
+            "word": "ce",
+            "start": 15.307,
+            "end": 15.427,
+            "score": 0.963
+          },
+          {
+            "word": "matin.",
+            "start": 15.467,
+            "end": 16.408,
+            "score": 0.935
+          }
+        ]
+      },
+      {
+        "start": 16.448,
+        "end": 20.732,
+        "text": "A bord du car, une cinquantaine d'élèves d'un établissement scolaire partaient en sortie.",
+        "words": [
+          {
+            "word": "A",
+            "start": 16.448,
+            "end": 16.488,
+            "score": 0.872
+          },
+          {
+            "word": "bord",
+            "start": 16.528,
+            "end": 16.688,
+            "score": 0.84
+          },
+          {
+            "word": "du",
+            "start": 16.728,
+            "end": 16.848,
+            "score": 0.818
+          },
+          {
+            "word": "car,",
+            "start": 16.888,
+            "end": 17.489,
+            "score": 0.886
+          },
+          {
+            "word": "une",
+            "start": 17.549,
+            "end": 17.709,
+            "score": 0.947
+          },
+          {
+            "word": "cinquantaine",
+            "start": 17.749,
+            "end": 18.25,
+            "score": 0.898
+          },
+          {
+            "word": "d'élèves",
+            "start": 18.29,
+            "end": 18.61,
+            "score": 0.789
+          },
+          {
+            "word": "d'un",
+            "start": 18.67,
+            "end": 18.79,
+            "score": 0.911
+          },
+          {
+            "word": "établissement",
+            "start": 18.85,
+            "end": 19.411,
+            "score": 0.847
+          },
+          {
+            "word": "scolaire",
+            "start": 19.431,
+            "end": 19.831,
+            "score": 0.855
+          },
+          {
+            "word": "partaient",
+            "start": 19.872,
+            "end": 20.232,
+            "score": 0.693
+          },
+          {
+            "word": "en",
+            "start": 20.292,
+            "end": 20.392,
+            "score": 0.846
+          },
+          {
+            "word": "sortie.",
+            "start": 20.432,
+            "end": 20.732,
+            "score": 0.727
+          }
+        ]
+      },
+      {
+        "start": 21.599,
+        "end": 26.603,
+        "text": " La conductrice de la voiture a été évacuée vers un hôpital de la région dans un état grave.",
+        "words": [
+          {
+            "word": "La",
+            "start": 21.599,
+            "end": 21.679,
+            "score": 0.976
+          },
+          {
+            "word": "conductrice",
+            "start": 21.719,
+            "end": 22.18,
+            "score": 0.885
+          },
+          {
+            "word": "de",
+            "start": 22.2,
+            "end": 22.3,
+            "score": 0.592
+          },
+          {
+            "word": "la",
+            "start": 22.32,
+            "end": 22.38,
+            "score": 0.906
+          },
+          {
+            "word": "voiture",
+            "start": 22.42,
+            "end": 23.22,
+            "score": 0.867
+          },
+          {
+            "word": "a",
+            "start": 23.26,
+            "end": 23.36,
+            "score": 0.993
+          },
+          {
+            "word": "été",
+            "start": 23.42,
+            "end": 23.581,
+            "score": 0.989
+          },
+          {
+            "word": "évacuée",
+            "start": 23.621,
+            "end": 23.981,
+            "score": 0.856
+          },
+          {
+            "word": "vers",
+            "start": 24.021,
+            "end": 24.161,
+            "score": 0.88
+          },
+          {
+            "word": "un",
+            "start": 24.201,
+            "end": 24.281,
+            "score": 0.514
+          },
+          {
+            "word": "hôpital",
+            "start": 24.301,
+            "end": 24.721,
+            "score": 0.836
+          },
+          {
+            "word": "de",
+            "start": 24.761,
+            "end": 24.861,
+            "score": 0.974
+          },
+          {
+            "word": "la",
+            "start": 24.902,
+            "end": 24.982,
+            "score": 0.992
+          },
+          {
+            "word": "région",
+            "start": 25.022,
+            "end": 25.382,
+            "score": 0.937
+          },
+          {
+            "word": "dans",
+            "start": 25.422,
+            "end": 25.582,
+            "score": 0.866
+          },
+          {
+            "word": "un",
+            "start": 25.622,
+            "end": 25.702,
+            "score": 0.972
+          },
+          {
+            "word": "état",
+            "start": 25.742,
+            "end": 25.942,
+            "score": 0.907
+          },
+          {
+            "word": "grave.",
+            "start": 26.002,
+            "end": 26.603,
+            "score": 0.894
+          }
+        ]
+      },
+      {
+        "start": 26.643,
+        "end": 28.844,
+        "text": "Quatre adolescents sont légèrement blessés.",
+        "words": [
+          {
+            "word": "Quatre",
+            "start": 26.643,
+            "end": 26.863,
+            "score": 0.807
+          },
+          {
+            "word": "adolescents",
+            "start": 26.903,
+            "end": 27.443,
+            "score": 0.787
+          },
+          {
+            "word": "sont",
+            "start": 27.503,
+            "end": 27.644,
+            "score": 0.844
+          },
+          {
+            "word": "légèrement",
+            "start": 27.684,
+            "end": 28.044,
+            "score": 0.578
+          },
+          {
+            "word": "blessés.",
+            "start": 28.084,
+            "end": 28.844,
+            "score": 0.832
+          }
+        ]
+      },
+      {
+        "start": 28.904,
+        "end": 32.107,
+        "text": "Le bilan aurait pu être encore plus grave, selon l'adjoint au maire.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 28.904,
+            "end": 28.985,
+            "score": 0.834
+          },
+          {
+            "word": "bilan",
+            "start": 29.005,
+            "end": 29.585,
+            "score": 0.976
+          },
+          {
+            "word": "aurait",
+            "start": 29.645,
+            "end": 29.865,
+            "score": 0.824
+          },
+          {
+            "word": "pu",
+            "start": 29.885,
+            "end": 30.005,
+            "score": 0.984
+          },
+          {
+            "word": "être",
+            "start": 30.045,
+            "end": 30.185,
+            "score": 0.88
+          },
+          {
+            "word": "encore",
+            "start": 30.225,
+            "end": 30.526,
+            "score": 0.84
+          },
+          {
+            "word": "plus",
+            "start": 30.566,
+            "end": 30.686,
+            "score": 0.886
+          },
+          {
+            "word": "grave,",
+            "start": 30.726,
+            "end": 31.246,
+            "score": 0.855
+          },
+          {
+            "word": "selon",
+            "start": 31.286,
+            "end": 31.526,
+            "score": 0.992
+          },
+          {
+            "word": "l'adjoint",
+            "start": 31.586,
+            "end": 31.827,
+            "score": 0.61
+          },
+          {
+            "word": "au",
+            "start": 31.867,
+            "end": 31.927,
+            "score": 0.903
+          },
+          {
+            "word": "maire.",
+            "start": 31.947,
+            "end": 32.107,
+            "score": 0.302
+          }
+        ]
+      },
+      {
+        "start": 32.662,
+        "end": 35.625,
+        "text": " Là, vous avez les traces de freinage du bus, en fait.",
+        "words": [
+          {
+            "word": "Là,",
+            "start": 32.662,
+            "end": 32.822,
+            "score": 0.139
+          },
+          {
+            "word": "vous",
+            "start": 32.842,
+            "end": 32.922,
+            "score": 0.047
+          },
+          {
+            "word": "avez",
+            "start": 32.942,
+            "end": 33.042,
+            "score": 0.095
+          },
+          {
+            "word": "les",
+            "start": 33.083,
+            "end": 33.163,
+            "score": 0.128
+          },
+          {
+            "word": "traces",
+            "start": 33.183,
+            "end": 33.403,
+            "score": 0.116
+          },
+          {
+            "word": "de",
+            "start": 33.423,
+            "end": 33.483,
+            "score": 0.258
+          },
+          {
+            "word": "freinage",
+            "start": 33.503,
+            "end": 33.903,
+            "score": 0.705
+          },
+          {
+            "word": "du",
+            "start": 33.923,
+            "end": 34.564,
+            "score": 0.863
+          },
+          {
+            "word": "bus,",
+            "start": 34.724,
+            "end": 35.304,
+            "score": 0.802
+          },
+          {
+            "word": "en",
+            "start": 35.364,
+            "end": 35.444,
+            "score": 0.501
+          },
+          {
+            "word": "fait.",
+            "start": 35.485,
+            "end": 35.625,
+            "score": 0.669
+          }
+        ]
+      },
+      {
+        "start": 35.645,
+        "end": 39.007,
+        "text": "Donc la voiture qui est arrivée là-bas, mais qui n'a pas de traces de freinage.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 35.645,
+            "end": 36.585,
+            "score": 0.576
+          },
+          {
+            "word": "la",
+            "start": 36.605,
+            "end": 36.645,
+            "score": 0.932
+          },
+          {
+            "word": "voiture",
+            "start": 36.686,
+            "end": 36.926,
+            "score": 0.87
+          },
+          {
+            "word": "qui",
+            "start": 36.946,
+            "end": 37.006,
+            "score": 0.656
+          },
+          {
+            "word": "est",
+            "start": 37.026,
+            "end": 37.086,
+            "score": 0.002
+          },
+          {
+            "word": "arrivée",
+            "start": 37.106,
+            "end": 37.306,
+            "score": 0.404
+          },
+          {
+            "word": "là-bas,",
+            "start": 37.326,
+            "end": 37.546,
+            "score": 0.599
+          },
+          {
+            "word": "mais",
+            "start": 37.566,
+            "end": 37.666,
+            "score": 0.748
+          },
+          {
+            "word": "qui",
+            "start": 37.706,
+            "end": 37.806,
+            "score": 0.799
+          },
+          {
+            "word": "n'a",
+            "start": 37.826,
+            "end": 38.047,
+            "score": 0.572
+          },
+          {
+            "word": "pas",
+            "start": 38.087,
+            "end": 38.227,
+            "score": 0.794
+          },
+          {
+            "word": "de",
+            "start": 38.247,
+            "end": 38.327,
+            "score": 0.91
+          },
+          {
+            "word": "traces",
+            "start": 38.347,
+            "end": 38.567,
+            "score": 0.562
+          },
+          {
+            "word": "de",
+            "start": 38.587,
+            "end": 38.667,
+            "score": 0.928
+          },
+          {
+            "word": "freinage.",
+            "start": 38.707,
+            "end": 39.007,
+            "score": 0.801
+          }
+        ]
+      },
+      {
+        "start": 39.047,
+        "end": 45.993,
+        "text": "Et ça, c'est la trace de freinage du bus qui a fini... Pas dans le champ, heureusement.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 39.047,
+            "end": 39.128,
+            "score": 0.656
+          },
+          {
+            "word": "ça,",
+            "start": 39.168,
+            "end": 39.328,
+            "score": 0.669
+          },
+          {
+            "word": "c'est",
+            "start": 39.368,
+            "end": 39.488,
+            "score": 0.666
+          },
+          {
+            "word": "la",
+            "start": 39.528,
+            "end": 39.648,
+            "score": 0.873
+          },
+          {
+            "word": "trace",
+            "start": 39.688,
+            "end": 39.888,
+            "score": 0.593
+          },
+          {
+            "word": "de",
+            "start": 39.908,
+            "end": 39.968,
+            "score": 0.884
+          },
+          {
+            "word": "freinage",
+            "start": 40.008,
+            "end": 40.309,
+            "score": 0.812
+          },
+          {
+            "word": "du",
+            "start": 40.329,
+            "end": 40.429,
+            "score": 0.84
+          },
+          {
+            "word": "bus",
+            "start": 40.469,
+            "end": 40.649,
+            "score": 0.758
+          },
+          {
+            "word": "qui",
+            "start": 40.669,
+            "end": 40.769,
+            "score": 0.391
+          },
+          {
+            "word": "a",
+            "start": 40.829,
+            "end": 40.889,
+            "score": 0.77
+          },
+          {
+            "word": "fini...",
+            "start": 40.929,
+            "end": 42.37,
+            "score": 0.85
+          },
+          {
+            "word": "Pas",
+            "start": 43.932,
+            "end": 44.072,
+            "score": 0.483
+          },
+          {
+            "word": "dans",
+            "start": 44.112,
+            "end": 44.232,
+            "score": 0.463
+          },
+          {
+            "word": "le",
+            "start": 44.252,
+            "end": 44.312,
+            "score": 0.635
+          },
+          {
+            "word": "champ,",
+            "start": 44.352,
+            "end": 44.692,
+            "score": 0.512
+          },
+          {
+            "word": "heureusement.",
+            "start": 44.732,
+            "end": 45.993,
+            "score": 0.751
+          }
+        ]
+      },
+      {
+        "start": 46.053,
+        "end": 50.677,
+        "text": "Heureusement, parce que ça aurait été probablement dramatique.",
+        "words": [
+          {
+            "word": "Heureusement,",
+            "start": 46.053,
+            "end": 46.474,
+            "score": 0.902
+          },
+          {
+            "word": "parce",
+            "start": 46.514,
+            "end": 46.654,
+            "score": 0.906
+          },
+          {
+            "word": "que",
+            "start": 46.694,
+            "end": 46.754,
+            "score": 0.773
+          },
+          {
+            "word": "ça",
+            "start": 46.794,
+            "end": 46.854,
+            "score": 0.217
+          },
+          {
+            "word": "aurait",
+            "start": 46.914,
+            "end": 47.114,
+            "score": 0.494
+          },
+          {
+            "word": "été",
+            "start": 47.154,
+            "end": 47.795,
+            "score": 0.853
+          },
+          {
+            "word": "probablement",
+            "start": 47.835,
+            "end": 49.476,
+            "score": 0.72
+          },
+          {
+            "word": "dramatique.",
+            "start": 49.516,
+            "end": 50.677,
+            "score": 0.735
+          }
+        ]
+      },
+      {
+        "start": 50.717,
+        "end": 56.542,
+        "text": "L'accident s'est produit au nord du département de l'Isère, sur cette départementale à Vézron-Scurtin.",
+        "words": [
+          {
+            "word": "L'accident",
+            "start": 50.717,
+            "end": 51.218,
+            "score": 0.975
+          },
+          {
+            "word": "s'est",
+            "start": 51.258,
+            "end": 51.398,
+            "score": 0.735
+          },
+          {
+            "word": "produit",
+            "start": 51.418,
+            "end": 51.658,
+            "score": 0.827
+          },
+          {
+            "word": "au",
+            "start": 51.698,
+            "end": 51.778,
+            "score": 0.616
+          },
+          {
+            "word": "nord",
+            "start": 51.798,
+            "end": 51.958,
+            "score": 0.961
+          },
+          {
+            "word": "du",
+            "start": 51.998,
+            "end": 52.098,
+            "score": 0.872
+          },
+          {
+            "word": "département",
+            "start": 52.138,
+            "end": 52.699,
+            "score": 0.959
+          },
+          {
+            "word": "de",
+            "start": 52.739,
+            "end": 52.839,
+            "score": 0.904
+          },
+          {
+            "word": "l'Isère,",
+            "start": 52.859,
+            "end": 53.339,
+            "score": 0.876
+          },
+          {
+            "word": "sur",
+            "start": 53.379,
+            "end": 53.52,
+            "score": 0.866
+          },
+          {
+            "word": "cette",
+            "start": 53.56,
+            "end": 53.74,
+            "score": 0.945
+          },
+          {
+            "word": "départementale",
+            "start": 53.78,
+            "end": 54.741,
+            "score": 0.92
+          },
+          {
+            "word": "à",
+            "start": 54.801,
+            "end": 54.841,
+            "score": 0.566
+          },
+          {
+            "word": "Vézron-Scurtin.",
+            "start": 54.881,
+            "end": 56.542,
+            "score": 0.805
+          }
+        ]
+      },
+      {
+        "start": 56.582,
+        "end": 60.946,
+        "text": "Selon une habitante que nous avons pu joindre, cette route est connue dans le secteur pour être dangereuse.",
+        "words": [
+          {
+            "word": "Selon",
+            "start": 56.582,
+            "end": 56.802,
+            "score": 0.928
+          },
+          {
+            "word": "une",
+            "start": 56.842,
+            "end": 56.922,
+            "score": 0.549
+          },
+          {
+            "word": "habitante",
+            "start": 56.942,
+            "end": 57.323,
+            "score": 0.812
+          },
+          {
+            "word": "que",
+            "start": 57.403,
+            "end": 57.483,
+            "score": 0.997
+          },
+          {
+            "word": "nous",
+            "start": 57.523,
+            "end": 57.643,
+            "score": 0.873
+          },
+          {
+            "word": "avons",
+            "start": 57.683,
+            "end": 57.843,
+            "score": 0.944
+          },
+          {
+            "word": "pu",
+            "start": 57.883,
+            "end": 58.003,
+            "score": 0.91
+          },
+          {
+            "word": "joindre,",
+            "start": 58.043,
+            "end": 58.564,
+            "score": 0.79
+          },
+          {
+            "word": "cette",
+            "start": 58.584,
+            "end": 58.744,
+            "score": 0.705
+          },
+          {
+            "word": "route",
+            "start": 58.784,
+            "end": 58.944,
+            "score": 0.709
+          },
+          {
+            "word": "est",
+            "start": 58.964,
+            "end": 59.064,
+            "score": 0.84
+          },
+          {
+            "word": "connue",
+            "start": 59.084,
+            "end": 59.304,
+            "score": 0.858
+          },
+          {
+            "word": "dans",
+            "start": 59.324,
+            "end": 59.445,
+            "score": 0.984
+          },
+          {
+            "word": "le",
+            "start": 59.485,
+            "end": 59.565,
+            "score": 0.865
+          },
+          {
+            "word": "secteur",
+            "start": 59.605,
+            "end": 60.045,
+            "score": 0.909
+          },
+          {
+            "word": "pour",
+            "start": 60.085,
+            "end": 60.245,
+            "score": 0.946
+          },
+          {
+            "word": "être",
+            "start": 60.305,
+            "end": 60.485,
+            "score": 0.882
+          },
+          {
+            "word": "dangereuse.",
+            "start": 60.525,
+            "end": 60.946,
+            "score": 0.817
+          }
+        ]
+      },
+      {
+        "start": 62.654,
+        "end": 65.636,
+        "text": " Cette intersection, elle est régulièrement touchée par des accidents.",
+        "words": [
+          {
+            "word": "Cette",
+            "start": 62.654,
+            "end": 62.914,
+            "score": 0.211
+          },
+          {
+            "word": "intersection,",
+            "start": 62.934,
+            "end": 63.835,
+            "score": 0.652
+          },
+          {
+            "word": "elle",
+            "start": 63.875,
+            "end": 63.995,
+            "score": 0.801
+          },
+          {
+            "word": "est",
+            "start": 64.035,
+            "end": 64.255,
+            "score": 0.868
+          },
+          {
+            "word": "régulièrement",
+            "start": 64.295,
+            "end": 64.775,
+            "score": 0.859
+          },
+          {
+            "word": "touchée",
+            "start": 64.795,
+            "end": 64.975,
+            "score": 0.718
+          },
+          {
+            "word": "par",
+            "start": 64.995,
+            "end": 65.075,
+            "score": 0.95
+          },
+          {
+            "word": "des",
+            "start": 65.095,
+            "end": 65.336,
+            "score": 0.731
+          },
+          {
+            "word": "accidents.",
+            "start": 65.376,
+            "end": 65.636,
+            "score": 0.928
+          }
+        ]
+      },
+      {
+        "start": 66.756,
+        "end": 71.059,
+        "text": "Je dirais, elle est en moyenne une fois par semaine, une fois toutes les deux semaines.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 66.756,
+            "end": 66.856,
+            "score": 0.74
+          },
+          {
+            "word": "dirais,",
+            "start": 66.876,
+            "end": 67.197,
+            "score": 0.824
+          },
+          {
+            "word": "elle",
+            "start": 67.237,
+            "end": 67.337,
+            "score": 0.314
+          },
+          {
+            "word": "est",
+            "start": 67.357,
+            "end": 67.417,
+            "score": 0.33
+          },
+          {
+            "word": "en",
+            "start": 67.457,
+            "end": 67.537,
+            "score": 0.838
+          },
+          {
+            "word": "moyenne",
+            "start": 67.577,
+            "end": 68.517,
+            "score": 0.928
+          },
+          {
+            "word": "une",
+            "start": 68.577,
+            "end": 68.677,
+            "score": 0.833
+          },
+          {
+            "word": "fois",
+            "start": 68.698,
+            "end": 68.878,
+            "score": 0.738
+          },
+          {
+            "word": "par",
+            "start": 68.898,
+            "end": 69.058,
+            "score": 0.908
+          },
+          {
+            "word": "semaine,",
+            "start": 69.118,
+            "end": 69.478,
+            "score": 0.866
+          },
+          {
+            "word": "une",
+            "start": 69.518,
+            "end": 69.598,
+            "score": 0.885
+          },
+          {
+            "word": "fois",
+            "start": 69.618,
+            "end": 69.738,
+            "score": 0.816
+          },
+          {
+            "word": "toutes",
+            "start": 69.758,
+            "end": 69.898,
+            "score": 0.903
+          },
+          {
+            "word": "les",
+            "start": 69.918,
+            "end": 69.978,
+            "score": 0.998
+          },
+          {
+            "word": "deux",
+            "start": 70.018,
+            "end": 70.118,
+            "score": 0.891
+          },
+          {
+            "word": "semaines.",
+            "start": 70.158,
+            "end": 71.059,
+            "score": 0.745
+          }
+        ]
+      },
+      {
+        "start": 71.079,
+        "end": 73.7,
+        "text": "Mais c'est minimum une fois ou deux fois par mois.",
+        "words": [
+          {
+            "word": "Mais",
+            "start": 71.079,
+            "end": 71.219,
+            "score": 0.593
+          },
+          {
+            "word": "c'est",
+            "start": 71.239,
+            "end": 71.379,
+            "score": 0.768
+          },
+          {
+            "word": "minimum",
+            "start": 71.419,
+            "end": 72.019,
+            "score": 0.925
+          },
+          {
+            "word": "une",
+            "start": 72.059,
+            "end": 72.16,
+            "score": 0.867
+          },
+          {
+            "word": "fois",
+            "start": 72.18,
+            "end": 72.32,
+            "score": 0.902
+          },
+          {
+            "word": "ou",
+            "start": 72.38,
+            "end": 72.46,
+            "score": 0.908
+          },
+          {
+            "word": "deux",
+            "start": 72.48,
+            "end": 72.56,
+            "score": 0.254
+          },
+          {
+            "word": "fois",
+            "start": 72.58,
+            "end": 72.74,
+            "score": 0.887
+          },
+          {
+            "word": "par",
+            "start": 72.78,
+            "end": 72.9,
+            "score": 0.891
+          },
+          {
+            "word": "mois.",
+            "start": 72.92,
+            "end": 73.7,
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "start": 73.76,
+        "end": 78.883,
+        "text": "Et il y a une intersection identique, elle est à 100 mètres de celle-ci et c'est la même histoire aussi.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 73.76,
+            "end": 73.861,
+            "score": 0.748
+          },
+          {
+            "word": "il",
+            "start": 73.921,
+            "end": 73.981,
+            "score": 0.69
+          },
+          {
+            "word": "y",
+            "start": 74.001,
+            "end": 74.021,
+            "score": 0.828
+          },
+          {
+            "word": "a",
+            "start": 74.061,
+            "end": 74.621,
+            "score": 0.986
+          },
+          {
+            "word": "une",
+            "start": 74.681,
+            "end": 74.781,
+            "score": 0.852
+          },
+          {
+            "word": "intersection",
+            "start": 74.821,
+            "end": 75.241,
+            "score": 0.949
+          },
+          {
+            "word": "identique,",
+            "start": 75.281,
+            "end": 75.862,
+            "score": 0.789
+          },
+          {
+            "word": "elle",
+            "start": 75.902,
+            "end": 76.022,
+            "score": 0.572
+          },
+          {
+            "word": "est",
+            "start": 76.042,
+            "end": 76.122,
+            "score": 0.381
+          },
+          {
+            "word": "à",
+            "start": 76.162,
+            "end": 76.242,
+            "score": 0.959
+          },
+          {
+            "word": "100"
+          },
+          {
+            "word": "mètres",
+            "start": 76.442,
+            "end": 76.702,
+            "score": 0.71
+          },
+          {
+            "word": "de",
+            "start": 76.722,
+            "end": 76.802,
+            "score": 0.716
+          },
+          {
+            "word": "celle-ci",
+            "start": 76.822,
+            "end": 77.242,
+            "score": 0.815
+          },
+          {
+            "word": "et",
+            "start": 77.303,
+            "end": 77.403,
+            "score": 0.72
+          },
+          {
+            "word": "c'est",
+            "start": 77.423,
+            "end": 77.603,
+            "score": 0.818
+          },
+          {
+            "word": "la",
+            "start": 77.643,
+            "end": 77.703,
+            "score": 0.78
+          },
+          {
+            "word": "même",
+            "start": 77.723,
+            "end": 77.863,
+            "score": 0.856
+          },
+          {
+            "word": "histoire",
+            "start": 77.883,
+            "end": 78.143,
+            "score": 0.938
+          },
+          {
+            "word": "aussi.",
+            "start": 78.203,
+            "end": 78.883,
+            "score": 0.958
+          }
+        ]
+      },
+      {
+        "start": 78.923,
+        "end": 83.126,
+        "text": "Les élèves ont été pris en charge par les autorités et évacués du lieu de l'accident.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 78.923,
+            "end": 79.044,
+            "score": 0.942
+          },
+          {
+            "word": "élèves",
+            "start": 79.104,
+            "end": 79.344,
+            "score": 0.722
+          },
+          {
+            "word": "ont",
+            "start": 79.404,
+            "end": 79.504,
+            "score": 0.813
+          },
+          {
+            "word": "été",
+            "start": 79.544,
+            "end": 79.724,
+            "score": 0.878
+          },
+          {
+            "word": "pris",
+            "start": 79.764,
+            "end": 79.964,
+            "score": 0.82
+          },
+          {
+            "word": "en",
+            "start": 80.004,
+            "end": 80.084,
+            "score": 0.84
+          },
+          {
+            "word": "charge",
+            "start": 80.124,
+            "end": 80.364,
+            "score": 0.87
+          },
+          {
+            "word": "par",
+            "start": 80.384,
+            "end": 80.524,
+            "score": 0.883
+          },
+          {
+            "word": "les",
+            "start": 80.544,
+            "end": 80.664,
+            "score": 0.786
+          },
+          {
+            "word": "autorités",
+            "start": 80.704,
+            "end": 81.565,
+            "score": 0.948
+          },
+          {
+            "word": "et",
+            "start": 81.605,
+            "end": 81.705,
+            "score": 0.902
+          },
+          {
+            "word": "évacués",
+            "start": 81.765,
+            "end": 82.305,
+            "score": 0.838
+          },
+          {
+            "word": "du",
+            "start": 82.325,
+            "end": 82.405,
+            "score": 0.434
+          },
+          {
+            "word": "lieu",
+            "start": 82.425,
+            "end": 82.586,
+            "score": 0.864
+          },
+          {
+            "word": "de",
+            "start": 82.626,
+            "end": 82.706,
+            "score": 0.871
+          },
+          {
+            "word": "l'accident.",
+            "start": 82.726,
+            "end": 83.126,
+            "score": 0.936
+          }
+        ]
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Ces",
+        "start": 0.451,
+        "end": 0.592,
+        "score": 0.889
+      },
+      {
+        "word": "images",
+        "start": 0.652,
+        "end": 1.212,
+        "score": 0.914
+      },
+      {
+        "word": "ont",
+        "start": 1.272,
+        "end": 1.412,
+        "score": 0.873
+      },
+      {
+        "word": "été",
+        "start": 1.452,
+        "end": 1.653,
+        "score": 0.905
+      },
+      {
+        "word": "filmées",
+        "start": 1.713,
+        "end": 2.013,
+        "score": 0.698
+      },
+      {
+        "word": "quelques",
+        "start": 2.053,
+        "end": 2.373,
+        "score": 0.914
+      },
+      {
+        "word": "minutes",
+        "start": 2.413,
+        "end": 2.894,
+        "score": 0.998
+      },
+      {
+        "word": "après",
+        "start": 2.954,
+        "end": 3.194,
+        "score": 0.862
+      },
+      {
+        "word": "l'accident.",
+        "start": 3.234,
+        "end": 4.456,
+        "score": 0.956
+      },
+      {
+        "word": "On",
+        "start": 4.516,
+        "end": 4.636,
+        "score": 0.934
+      },
+      {
+        "word": "distingue",
+        "start": 4.696,
+        "end": 5.076,
+        "score": 0.849
+      },
+      {
+        "word": "un",
+        "start": 5.116,
+        "end": 5.216,
+        "score": 0.623
+      },
+      {
+        "word": "car",
+        "start": 5.256,
+        "end": 5.477,
+        "score": 0.797
+      },
+      {
+        "word": "scolaire",
+        "start": 5.497,
+        "end": 5.857,
+        "score": 0.776
+      },
+      {
+        "word": "de",
+        "start": 5.897,
+        "end": 5.997,
+        "score": 0.98
+      },
+      {
+        "word": "biais,",
+        "start": 6.037,
+        "end": 6.858,
+        "score": 0.716
+      },
+      {
+        "word": "l'arrière",
+        "start": 6.878,
+        "end": 7.258,
+        "score": 0.805
+      },
+      {
+        "word": "du",
+        "start": 7.299,
+        "end": 7.399,
+        "score": 0.926
+      },
+      {
+        "word": "véhicule",
+        "start": 7.439,
+        "end": 7.859,
+        "score": 0.793
+      },
+      {
+        "word": "dans",
+        "start": 7.919,
+        "end": 8.059,
+        "score": 0.871
+      },
+      {
+        "word": "le",
+        "start": 8.079,
+        "end": 8.179,
+        "score": 0.992
+      },
+      {
+        "word": "fossé.",
+        "start": 8.219,
+        "end": 9.401,
+        "score": 0.935
+      },
+      {
+        "word": "Tout",
+        "start": 9.441,
+        "end": 9.601,
+        "score": 0.865
+      },
+      {
+        "word": "autour,",
+        "start": 9.641,
+        "end": 10.402,
+        "score": 0.983
+      },
+      {
+        "word": "une",
+        "start": 10.462,
+        "end": 10.602,
+        "score": 0.859
+      },
+      {
+        "word": "dizaine",
+        "start": 10.622,
+        "end": 10.982,
+        "score": 0.806
+      },
+      {
+        "word": "de",
+        "start": 11.042,
+        "end": 11.122,
+        "score": 0.996
+      },
+      {
+        "word": "camions",
+        "start": 11.163,
+        "end": 11.483,
+        "score": 0.907
+      },
+      {
+        "word": "de",
+        "start": 11.523,
+        "end": 11.623,
+        "score": 0.988
+      },
+      {
+        "word": "pompiers.",
+        "start": 11.663,
+        "end": 12.984,
+        "score": 0.927
+      },
+      {
+        "word": "Une",
+        "start": 13.024,
+        "end": 13.165,
+        "score": 0.711
+      },
+      {
+        "word": "voiture",
+        "start": 13.205,
+        "end": 13.525,
+        "score": 0.875
+      },
+      {
+        "word": "a",
+        "start": 13.565,
+        "end": 13.605,
+        "score": 0.914
+      },
+      {
+        "word": "percuté",
+        "start": 13.665,
+        "end": 14.086,
+        "score": 0.925
+      },
+      {
+        "word": "le",
+        "start": 14.106,
+        "end": 14.186,
+        "score": 0.826
+      },
+      {
+        "word": "véhicule",
+        "start": 14.226,
+        "end": 14.666,
+        "score": 0.727
+      },
+      {
+        "word": "vers",
+        "start": 14.706,
+        "end": 15.027,
+        "score": 0.82
+      },
+      {
+        "word": "9h",
+        "start": 15.047,
+        "end": 15.287,
+        "score": 0.621
+      },
+      {
+        "word": "ce",
+        "start": 15.307,
+        "end": 15.427,
+        "score": 0.963
+      },
+      {
+        "word": "matin.",
+        "start": 15.467,
+        "end": 16.408,
+        "score": 0.935
+      },
+      {
+        "word": "A",
+        "start": 16.448,
+        "end": 16.488,
+        "score": 0.872
+      },
+      {
+        "word": "bord",
+        "start": 16.528,
+        "end": 16.688,
+        "score": 0.84
+      },
+      {
+        "word": "du",
+        "start": 16.728,
+        "end": 16.848,
+        "score": 0.818
+      },
+      {
+        "word": "car,",
+        "start": 16.888,
+        "end": 17.489,
+        "score": 0.886
+      },
+      {
+        "word": "une",
+        "start": 17.549,
+        "end": 17.709,
+        "score": 0.947
+      },
+      {
+        "word": "cinquantaine",
+        "start": 17.749,
+        "end": 18.25,
+        "score": 0.898
+      },
+      {
+        "word": "d'élèves",
+        "start": 18.29,
+        "end": 18.61,
+        "score": 0.789
+      },
+      {
+        "word": "d'un",
+        "start": 18.67,
+        "end": 18.79,
+        "score": 0.911
+      },
+      {
+        "word": "établissement",
+        "start": 18.85,
+        "end": 19.411,
+        "score": 0.847
+      },
+      {
+        "word": "scolaire",
+        "start": 19.431,
+        "end": 19.831,
+        "score": 0.855
+      },
+      {
+        "word": "partaient",
+        "start": 19.872,
+        "end": 20.232,
+        "score": 0.693
+      },
+      {
+        "word": "en",
+        "start": 20.292,
+        "end": 20.392,
+        "score": 0.846
+      },
+      {
+        "word": "sortie.",
+        "start": 20.432,
+        "end": 20.732,
+        "score": 0.727
+      },
+      {
+        "word": "La",
+        "start": 21.599,
+        "end": 21.679,
+        "score": 0.976
+      },
+      {
+        "word": "conductrice",
+        "start": 21.719,
+        "end": 22.18,
+        "score": 0.885
+      },
+      {
+        "word": "de",
+        "start": 22.2,
+        "end": 22.3,
+        "score": 0.592
+      },
+      {
+        "word": "la",
+        "start": 22.32,
+        "end": 22.38,
+        "score": 0.906
+      },
+      {
+        "word": "voiture",
+        "start": 22.42,
+        "end": 23.22,
+        "score": 0.867
+      },
+      {
+        "word": "a",
+        "start": 23.26,
+        "end": 23.36,
+        "score": 0.993
+      },
+      {
+        "word": "été",
+        "start": 23.42,
+        "end": 23.581,
+        "score": 0.989
+      },
+      {
+        "word": "évacuée",
+        "start": 23.621,
+        "end": 23.981,
+        "score": 0.856
+      },
+      {
+        "word": "vers",
+        "start": 24.021,
+        "end": 24.161,
+        "score": 0.88
+      },
+      {
+        "word": "un",
+        "start": 24.201,
+        "end": 24.281,
+        "score": 0.514
+      },
+      {
+        "word": "hôpital",
+        "start": 24.301,
+        "end": 24.721,
+        "score": 0.836
+      },
+      {
+        "word": "de",
+        "start": 24.761,
+        "end": 24.861,
+        "score": 0.974
+      },
+      {
+        "word": "la",
+        "start": 24.902,
+        "end": 24.982,
+        "score": 0.992
+      },
+      {
+        "word": "région",
+        "start": 25.022,
+        "end": 25.382,
+        "score": 0.937
+      },
+      {
+        "word": "dans",
+        "start": 25.422,
+        "end": 25.582,
+        "score": 0.866
+      },
+      {
+        "word": "un",
+        "start": 25.622,
+        "end": 25.702,
+        "score": 0.972
+      },
+      {
+        "word": "état",
+        "start": 25.742,
+        "end": 25.942,
+        "score": 0.907
+      },
+      {
+        "word": "grave.",
+        "start": 26.002,
+        "end": 26.603,
+        "score": 0.894
+      },
+      {
+        "word": "Quatre",
+        "start": 26.643,
+        "end": 26.863,
+        "score": 0.807
+      },
+      {
+        "word": "adolescents",
+        "start": 26.903,
+        "end": 27.443,
+        "score": 0.787
+      },
+      {
+        "word": "sont",
+        "start": 27.503,
+        "end": 27.644,
+        "score": 0.844
+      },
+      {
+        "word": "légèrement",
+        "start": 27.684,
+        "end": 28.044,
+        "score": 0.578
+      },
+      {
+        "word": "blessés.",
+        "start": 28.084,
+        "end": 28.844,
+        "score": 0.832
+      },
+      {
+        "word": "Le",
+        "start": 28.904,
+        "end": 28.985,
+        "score": 0.834
+      },
+      {
+        "word": "bilan",
+        "start": 29.005,
+        "end": 29.585,
+        "score": 0.976
+      },
+      {
+        "word": "aurait",
+        "start": 29.645,
+        "end": 29.865,
+        "score": 0.824
+      },
+      {
+        "word": "pu",
+        "start": 29.885,
+        "end": 30.005,
+        "score": 0.984
+      },
+      {
+        "word": "être",
+        "start": 30.045,
+        "end": 30.185,
+        "score": 0.88
+      },
+      {
+        "word": "encore",
+        "start": 30.225,
+        "end": 30.526,
+        "score": 0.84
+      },
+      {
+        "word": "plus",
+        "start": 30.566,
+        "end": 30.686,
+        "score": 0.886
+      },
+      {
+        "word": "grave,",
+        "start": 30.726,
+        "end": 31.246,
+        "score": 0.855
+      },
+      {
+        "word": "selon",
+        "start": 31.286,
+        "end": 31.526,
+        "score": 0.992
+      },
+      {
+        "word": "l'adjoint",
+        "start": 31.586,
+        "end": 31.827,
+        "score": 0.61
+      },
+      {
+        "word": "au",
+        "start": 31.867,
+        "end": 31.927,
+        "score": 0.903
+      },
+      {
+        "word": "maire.",
+        "start": 31.947,
+        "end": 32.107,
+        "score": 0.302
+      },
+      {
+        "word": "Là,",
+        "start": 32.662,
+        "end": 32.822,
+        "score": 0.139
+      },
+      {
+        "word": "vous",
+        "start": 32.842,
+        "end": 32.922,
+        "score": 0.047
+      },
+      {
+        "word": "avez",
+        "start": 32.942,
+        "end": 33.042,
+        "score": 0.095
+      },
+      {
+        "word": "les",
+        "start": 33.083,
+        "end": 33.163,
+        "score": 0.128
+      },
+      {
+        "word": "traces",
+        "start": 33.183,
+        "end": 33.403,
+        "score": 0.116
+      },
+      {
+        "word": "de",
+        "start": 33.423,
+        "end": 33.483,
+        "score": 0.258
+      },
+      {
+        "word": "freinage",
+        "start": 33.503,
+        "end": 33.903,
+        "score": 0.705
+      },
+      {
+        "word": "du",
+        "start": 33.923,
+        "end": 34.564,
+        "score": 0.863
+      },
+      {
+        "word": "bus,",
+        "start": 34.724,
+        "end": 35.304,
+        "score": 0.802
+      },
+      {
+        "word": "en",
+        "start": 35.364,
+        "end": 35.444,
+        "score": 0.501
+      },
+      {
+        "word": "fait.",
+        "start": 35.485,
+        "end": 35.625,
+        "score": 0.669
+      },
+      {
+        "word": "Donc",
+        "start": 35.645,
+        "end": 36.585,
+        "score": 0.576
+      },
+      {
+        "word": "la",
+        "start": 36.605,
+        "end": 36.645,
+        "score": 0.932
+      },
+      {
+        "word": "voiture",
+        "start": 36.686,
+        "end": 36.926,
+        "score": 0.87
+      },
+      {
+        "word": "qui",
+        "start": 36.946,
+        "end": 37.006,
+        "score": 0.656
+      },
+      {
+        "word": "est",
+        "start": 37.026,
+        "end": 37.086,
+        "score": 0.002
+      },
+      {
+        "word": "arrivée",
+        "start": 37.106,
+        "end": 37.306,
+        "score": 0.404
+      },
+      {
+        "word": "là-bas,",
+        "start": 37.326,
+        "end": 37.546,
+        "score": 0.599
+      },
+      {
+        "word": "mais",
+        "start": 37.566,
+        "end": 37.666,
+        "score": 0.748
+      },
+      {
+        "word": "qui",
+        "start": 37.706,
+        "end": 37.806,
+        "score": 0.799
+      },
+      {
+        "word": "n'a",
+        "start": 37.826,
+        "end": 38.047,
+        "score": 0.572
+      },
+      {
+        "word": "pas",
+        "start": 38.087,
+        "end": 38.227,
+        "score": 0.794
+      },
+      {
+        "word": "de",
+        "start": 38.247,
+        "end": 38.327,
+        "score": 0.91
+      },
+      {
+        "word": "traces",
+        "start": 38.347,
+        "end": 38.567,
+        "score": 0.562
+      },
+      {
+        "word": "de",
+        "start": 38.587,
+        "end": 38.667,
+        "score": 0.928
+      },
+      {
+        "word": "freinage.",
+        "start": 38.707,
+        "end": 39.007,
+        "score": 0.801
+      },
+      {
+        "word": "Et",
+        "start": 39.047,
+        "end": 39.128,
+        "score": 0.656
+      },
+      {
+        "word": "ça,",
+        "start": 39.168,
+        "end": 39.328,
+        "score": 0.669
+      },
+      {
+        "word": "c'est",
+        "start": 39.368,
+        "end": 39.488,
+        "score": 0.666
+      },
+      {
+        "word": "la",
+        "start": 39.528,
+        "end": 39.648,
+        "score": 0.873
+      },
+      {
+        "word": "trace",
+        "start": 39.688,
+        "end": 39.888,
+        "score": 0.593
+      },
+      {
+        "word": "de",
+        "start": 39.908,
+        "end": 39.968,
+        "score": 0.884
+      },
+      {
+        "word": "freinage",
+        "start": 40.008,
+        "end": 40.309,
+        "score": 0.812
+      },
+      {
+        "word": "du",
+        "start": 40.329,
+        "end": 40.429,
+        "score": 0.84
+      },
+      {
+        "word": "bus",
+        "start": 40.469,
+        "end": 40.649,
+        "score": 0.758
+      },
+      {
+        "word": "qui",
+        "start": 40.669,
+        "end": 40.769,
+        "score": 0.391
+      },
+      {
+        "word": "a",
+        "start": 40.829,
+        "end": 40.889,
+        "score": 0.77
+      },
+      {
+        "word": "fini...",
+        "start": 40.929,
+        "end": 42.37,
+        "score": 0.85
+      },
+      {
+        "word": "Pas",
+        "start": 43.932,
+        "end": 44.072,
+        "score": 0.483
+      },
+      {
+        "word": "dans",
+        "start": 44.112,
+        "end": 44.232,
+        "score": 0.463
+      },
+      {
+        "word": "le",
+        "start": 44.252,
+        "end": 44.312,
+        "score": 0.635
+      },
+      {
+        "word": "champ,",
+        "start": 44.352,
+        "end": 44.692,
+        "score": 0.512
+      },
+      {
+        "word": "heureusement.",
+        "start": 44.732,
+        "end": 45.993,
+        "score": 0.751
+      },
+      {
+        "word": "Heureusement,",
+        "start": 46.053,
+        "end": 46.474,
+        "score": 0.902
+      },
+      {
+        "word": "parce",
+        "start": 46.514,
+        "end": 46.654,
+        "score": 0.906
+      },
+      {
+        "word": "que",
+        "start": 46.694,
+        "end": 46.754,
+        "score": 0.773
+      },
+      {
+        "word": "ça",
+        "start": 46.794,
+        "end": 46.854,
+        "score": 0.217
+      },
+      {
+        "word": "aurait",
+        "start": 46.914,
+        "end": 47.114,
+        "score": 0.494
+      },
+      {
+        "word": "été",
+        "start": 47.154,
+        "end": 47.795,
+        "score": 0.853
+      },
+      {
+        "word": "probablement",
+        "start": 47.835,
+        "end": 49.476,
+        "score": 0.72
+      },
+      {
+        "word": "dramatique.",
+        "start": 49.516,
+        "end": 50.677,
+        "score": 0.735
+      },
+      {
+        "word": "L'accident",
+        "start": 50.717,
+        "end": 51.218,
+        "score": 0.975
+      },
+      {
+        "word": "s'est",
+        "start": 51.258,
+        "end": 51.398,
+        "score": 0.735
+      },
+      {
+        "word": "produit",
+        "start": 51.418,
+        "end": 51.658,
+        "score": 0.827
+      },
+      {
+        "word": "au",
+        "start": 51.698,
+        "end": 51.778,
+        "score": 0.616
+      },
+      {
+        "word": "nord",
+        "start": 51.798,
+        "end": 51.958,
+        "score": 0.961
+      },
+      {
+        "word": "du",
+        "start": 51.998,
+        "end": 52.098,
+        "score": 0.872
+      },
+      {
+        "word": "département",
+        "start": 52.138,
+        "end": 52.699,
+        "score": 0.959
+      },
+      {
+        "word": "de",
+        "start": 52.739,
+        "end": 52.839,
+        "score": 0.904
+      },
+      {
+        "word": "l'Isère,",
+        "start": 52.859,
+        "end": 53.339,
+        "score": 0.876
+      },
+      {
+        "word": "sur",
+        "start": 53.379,
+        "end": 53.52,
+        "score": 0.866
+      },
+      {
+        "word": "cette",
+        "start": 53.56,
+        "end": 53.74,
+        "score": 0.945
+      },
+      {
+        "word": "départementale",
+        "start": 53.78,
+        "end": 54.741,
+        "score": 0.92
+      },
+      {
+        "word": "à",
+        "start": 54.801,
+        "end": 54.841,
+        "score": 0.566
+      },
+      {
+        "word": "Vézron-Scurtin.",
+        "start": 54.881,
+        "end": 56.542,
+        "score": 0.805
+      },
+      {
+        "word": "Selon",
+        "start": 56.582,
+        "end": 56.802,
+        "score": 0.928
+      },
+      {
+        "word": "une",
+        "start": 56.842,
+        "end": 56.922,
+        "score": 0.549
+      },
+      {
+        "word": "habitante",
+        "start": 56.942,
+        "end": 57.323,
+        "score": 0.812
+      },
+      {
+        "word": "que",
+        "start": 57.403,
+        "end": 57.483,
+        "score": 0.997
+      },
+      {
+        "word": "nous",
+        "start": 57.523,
+        "end": 57.643,
+        "score": 0.873
+      },
+      {
+        "word": "avons",
+        "start": 57.683,
+        "end": 57.843,
+        "score": 0.944
+      },
+      {
+        "word": "pu",
+        "start": 57.883,
+        "end": 58.003,
+        "score": 0.91
+      },
+      {
+        "word": "joindre,",
+        "start": 58.043,
+        "end": 58.564,
+        "score": 0.79
+      },
+      {
+        "word": "cette",
+        "start": 58.584,
+        "end": 58.744,
+        "score": 0.705
+      },
+      {
+        "word": "route",
+        "start": 58.784,
+        "end": 58.944,
+        "score": 0.709
+      },
+      {
+        "word": "est",
+        "start": 58.964,
+        "end": 59.064,
+        "score": 0.84
+      },
+      {
+        "word": "connue",
+        "start": 59.084,
+        "end": 59.304,
+        "score": 0.858
+      },
+      {
+        "word": "dans",
+        "start": 59.324,
+        "end": 59.445,
+        "score": 0.984
+      },
+      {
+        "word": "le",
+        "start": 59.485,
+        "end": 59.565,
+        "score": 0.865
+      },
+      {
+        "word": "secteur",
+        "start": 59.605,
+        "end": 60.045,
+        "score": 0.909
+      },
+      {
+        "word": "pour",
+        "start": 60.085,
+        "end": 60.245,
+        "score": 0.946
+      },
+      {
+        "word": "être",
+        "start": 60.305,
+        "end": 60.485,
+        "score": 0.882
+      },
+      {
+        "word": "dangereuse.",
+        "start": 60.525,
+        "end": 60.946,
+        "score": 0.817
+      },
+      {
+        "word": "Cette",
+        "start": 62.654,
+        "end": 62.914,
+        "score": 0.211
+      },
+      {
+        "word": "intersection,",
+        "start": 62.934,
+        "end": 63.835,
+        "score": 0.652
+      },
+      {
+        "word": "elle",
+        "start": 63.875,
+        "end": 63.995,
+        "score": 0.801
+      },
+      {
+        "word": "est",
+        "start": 64.035,
+        "end": 64.255,
+        "score": 0.868
+      },
+      {
+        "word": "régulièrement",
+        "start": 64.295,
+        "end": 64.775,
+        "score": 0.859
+      },
+      {
+        "word": "touchée",
+        "start": 64.795,
+        "end": 64.975,
+        "score": 0.718
+      },
+      {
+        "word": "par",
+        "start": 64.995,
+        "end": 65.075,
+        "score": 0.95
+      },
+      {
+        "word": "des",
+        "start": 65.095,
+        "end": 65.336,
+        "score": 0.731
+      },
+      {
+        "word": "accidents.",
+        "start": 65.376,
+        "end": 65.636,
+        "score": 0.928
+      },
+      {
+        "word": "Je",
+        "start": 66.756,
+        "end": 66.856,
+        "score": 0.74
+      },
+      {
+        "word": "dirais,",
+        "start": 66.876,
+        "end": 67.197,
+        "score": 0.824
+      },
+      {
+        "word": "elle",
+        "start": 67.237,
+        "end": 67.337,
+        "score": 0.314
+      },
+      {
+        "word": "est",
+        "start": 67.357,
+        "end": 67.417,
+        "score": 0.33
+      },
+      {
+        "word": "en",
+        "start": 67.457,
+        "end": 67.537,
+        "score": 0.838
+      },
+      {
+        "word": "moyenne",
+        "start": 67.577,
+        "end": 68.517,
+        "score": 0.928
+      },
+      {
+        "word": "une",
+        "start": 68.577,
+        "end": 68.677,
+        "score": 0.833
+      },
+      {
+        "word": "fois",
+        "start": 68.698,
+        "end": 68.878,
+        "score": 0.738
+      },
+      {
+        "word": "par",
+        "start": 68.898,
+        "end": 69.058,
+        "score": 0.908
+      },
+      {
+        "word": "semaine,",
+        "start": 69.118,
+        "end": 69.478,
+        "score": 0.866
+      },
+      {
+        "word": "une",
+        "start": 69.518,
+        "end": 69.598,
+        "score": 0.885
+      },
+      {
+        "word": "fois",
+        "start": 69.618,
+        "end": 69.738,
+        "score": 0.816
+      },
+      {
+        "word": "toutes",
+        "start": 69.758,
+        "end": 69.898,
+        "score": 0.903
+      },
+      {
+        "word": "les",
+        "start": 69.918,
+        "end": 69.978,
+        "score": 0.998
+      },
+      {
+        "word": "deux",
+        "start": 70.018,
+        "end": 70.118,
+        "score": 0.891
+      },
+      {
+        "word": "semaines.",
+        "start": 70.158,
+        "end": 71.059,
+        "score": 0.745
+      },
+      {
+        "word": "Mais",
+        "start": 71.079,
+        "end": 71.219,
+        "score": 0.593
+      },
+      {
+        "word": "c'est",
+        "start": 71.239,
+        "end": 71.379,
+        "score": 0.768
+      },
+      {
+        "word": "minimum",
+        "start": 71.419,
+        "end": 72.019,
+        "score": 0.925
+      },
+      {
+        "word": "une",
+        "start": 72.059,
+        "end": 72.16,
+        "score": 0.867
+      },
+      {
+        "word": "fois",
+        "start": 72.18,
+        "end": 72.32,
+        "score": 0.902
+      },
+      {
+        "word": "ou",
+        "start": 72.38,
+        "end": 72.46,
+        "score": 0.908
+      },
+      {
+        "word": "deux",
+        "start": 72.48,
+        "end": 72.56,
+        "score": 0.254
+      },
+      {
+        "word": "fois",
+        "start": 72.58,
+        "end": 72.74,
+        "score": 0.887
+      },
+      {
+        "word": "par",
+        "start": 72.78,
+        "end": 72.9,
+        "score": 0.891
+      },
+      {
+        "word": "mois.",
+        "start": 72.92,
+        "end": 73.7,
+        "score": 0.844
+      },
+      {
+        "word": "Et",
+        "start": 73.76,
+        "end": 73.861,
+        "score": 0.748
+      },
+      {
+        "word": "il",
+        "start": 73.921,
+        "end": 73.981,
+        "score": 0.69
+      },
+      {
+        "word": "y",
+        "start": 74.001,
+        "end": 74.021,
+        "score": 0.828
+      },
+      {
+        "word": "a",
+        "start": 74.061,
+        "end": 74.621,
+        "score": 0.986
+      },
+      {
+        "word": "une",
+        "start": 74.681,
+        "end": 74.781,
+        "score": 0.852
+      },
+      {
+        "word": "intersection",
+        "start": 74.821,
+        "end": 75.241,
+        "score": 0.949
+      },
+      {
+        "word": "identique,",
+        "start": 75.281,
+        "end": 75.862,
+        "score": 0.789
+      },
+      {
+        "word": "elle",
+        "start": 75.902,
+        "end": 76.022,
+        "score": 0.572
+      },
+      {
+        "word": "est",
+        "start": 76.042,
+        "end": 76.122,
+        "score": 0.381
+      },
+      {
+        "word": "à",
+        "start": 76.162,
+        "end": 76.242,
+        "score": 0.959
+      },
+      {
+        "word": "100"
+      },
+      {
+        "word": "mètres",
+        "start": 76.442,
+        "end": 76.702,
+        "score": 0.71
+      },
+      {
+        "word": "de",
+        "start": 76.722,
+        "end": 76.802,
+        "score": 0.716
+      },
+      {
+        "word": "celle-ci",
+        "start": 76.822,
+        "end": 77.242,
+        "score": 0.815
+      },
+      {
+        "word": "et",
+        "start": 77.303,
+        "end": 77.403,
+        "score": 0.72
+      },
+      {
+        "word": "c'est",
+        "start": 77.423,
+        "end": 77.603,
+        "score": 0.818
+      },
+      {
+        "word": "la",
+        "start": 77.643,
+        "end": 77.703,
+        "score": 0.78
+      },
+      {
+        "word": "même",
+        "start": 77.723,
+        "end": 77.863,
+        "score": 0.856
+      },
+      {
+        "word": "histoire",
+        "start": 77.883,
+        "end": 78.143,
+        "score": 0.938
+      },
+      {
+        "word": "aussi.",
+        "start": 78.203,
+        "end": 78.883,
+        "score": 0.958
+      },
+      {
+        "word": "Les",
+        "start": 78.923,
+        "end": 79.044,
+        "score": 0.942
+      },
+      {
+        "word": "élèves",
+        "start": 79.104,
+        "end": 79.344,
+        "score": 0.722
+      },
+      {
+        "word": "ont",
+        "start": 79.404,
+        "end": 79.504,
+        "score": 0.813
+      },
+      {
+        "word": "été",
+        "start": 79.544,
+        "end": 79.724,
+        "score": 0.878
+      },
+      {
+        "word": "pris",
+        "start": 79.764,
+        "end": 79.964,
+        "score": 0.82
+      },
+      {
+        "word": "en",
+        "start": 80.004,
+        "end": 80.084,
+        "score": 0.84
+      },
+      {
+        "word": "charge",
+        "start": 80.124,
+        "end": 80.364,
+        "score": 0.87
+      },
+      {
+        "word": "par",
+        "start": 80.384,
+        "end": 80.524,
+        "score": 0.883
+      },
+      {
+        "word": "les",
+        "start": 80.544,
+        "end": 80.664,
+        "score": 0.786
+      },
+      {
+        "word": "autorités",
+        "start": 80.704,
+        "end": 81.565,
+        "score": 0.948
+      },
+      {
+        "word": "et",
+        "start": 81.605,
+        "end": 81.705,
+        "score": 0.902
+      },
+      {
+        "word": "évacués",
+        "start": 81.765,
+        "end": 82.305,
+        "score": 0.838
+      },
+      {
+        "word": "du",
+        "start": 82.325,
+        "end": 82.405,
+        "score": 0.434
+      },
+      {
+        "word": "lieu",
+        "start": 82.425,
+        "end": 82.586,
+        "score": 0.864
+      },
+      {
+        "word": "de",
+        "start": 82.626,
+        "end": 82.706,
+        "score": 0.871
+      },
+      {
+        "word": "l'accident.",
+        "start": 82.726,
+        "end": 83.126,
+        "score": 0.936
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 83,
+  "transcription_duration": 69
+}

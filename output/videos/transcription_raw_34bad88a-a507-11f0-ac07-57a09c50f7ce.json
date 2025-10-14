@@ -1,0 +1,5141 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.071,
+        "end": 5.996,
+        "text": " Aujourd'hui, les clients sont de retour après 4 ans de faible fréquentation dans ce magasin bio.",
+        "words": [
+          {
+            "word": "Aujourd'hui,",
+            "start": 0.071,
+            "end": 0.792,
+            "score": 0.234,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 0.812,
+            "end": 0.912,
+            "score": 0.499,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "clients",
+            "start": 0.932,
+            "end": 1.252,
+            "score": 0.412,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sont",
+            "start": 1.272,
+            "end": 1.392,
+            "score": 0.593,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 1.412,
+            "end": 1.512,
+            "score": 0.893,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "retour",
+            "start": 1.552,
+            "end": 2.333,
+            "score": 0.916,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "après",
+            "start": 2.373,
+            "end": 2.633,
+            "score": 0.99,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "4"
+          },
+          {
+            "word": "ans",
+            "start": 2.933,
+            "end": 3.054,
+            "score": 0.76,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 3.074,
+            "end": 3.154,
+            "score": 0.988,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "faible",
+            "start": 3.194,
+            "end": 3.454,
+            "score": 0.75,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "fréquentation",
+            "start": 3.494,
+            "end": 4.014,
+            "score": 0.865,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 4.054,
+            "end": 4.194,
+            "score": 0.911,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 4.214,
+            "end": 4.355,
+            "score": 0.979,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "magasin",
+            "start": 4.395,
+            "end": 4.775,
+            "score": 0.736,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bio.",
+            "start": 4.795,
+            "end": 5.996,
+            "score": 0.871,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 6.016,
+        "end": 10.34,
+        "text": "Ce qui a changé, des prix plus attractifs sur certains produits.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 6.016,
+            "end": 6.116,
+            "score": 0.989,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "qui",
+            "start": 6.156,
+            "end": 6.236,
+            "score": 0.856,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 6.276,
+            "end": 6.356,
+            "score": 0.932,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "changé,",
+            "start": 6.396,
+            "end": 7.197,
+            "score": 0.921,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 7.237,
+            "end": 7.357,
+            "score": 0.814,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "prix",
+            "start": 7.397,
+            "end": 7.697,
+            "score": 0.864,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 7.737,
+            "end": 7.958,
+            "score": 0.84,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "attractifs",
+            "start": 7.998,
+            "end": 8.498,
+            "score": 0.879,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sur",
+            "start": 8.518,
+            "end": 8.698,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "certains",
+            "start": 8.738,
+            "end": 9.039,
+            "score": 0.858,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "produits.",
+            "start": 9.079,
+            "end": 10.34,
+            "score": 0.883,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 10.36,
+        "end": 12.521,
+        "text": "Cet habitué l'a bien remarqué.",
+        "words": [
+          {
+            "word": "Cet",
+            "start": 10.36,
+            "end": 10.54,
+            "score": 0.682,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "habitué",
+            "start": 10.56,
+            "end": 10.98,
+            "score": 0.91,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "l'a",
+            "start": 11.02,
+            "end": 11.1,
+            "score": 0.965,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bien",
+            "start": 11.14,
+            "end": 11.3,
+            "score": 0.732,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "remarqué.",
+            "start": 11.34,
+            "end": 12.521,
+            "score": 0.814,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 12.541,
+        "end": 15.264,
+        "text": "C'est quand même des prix qui sont plutôt modérés.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 12.541,
+            "end": 12.642,
+            "score": 0.727,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "quand",
+            "start": 12.662,
+            "end": 12.902,
+            "score": 0.541,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "même",
+            "start": 12.922,
+            "end": 13.222,
+            "score": 0.498,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 13.262,
+            "end": 13.342,
+            "score": 0.199,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "prix",
+            "start": 13.382,
+            "end": 13.562,
+            "score": 0.396,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "qui",
+            "start": 13.582,
+            "end": 13.682,
+            "score": 0.33,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sont",
+            "start": 13.722,
+            "end": 13.863,
+            "score": 0.569,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plutôt",
+            "start": 13.903,
+            "end": 14.363,
+            "score": 0.463,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "modérés.",
+            "start": 14.383,
+            "end": 15.264,
+            "score": 0.721,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 15.284,
+        "end": 19.007,
+        "text": "Donc par rapport au supermarché, je trouve que moi je m'y retrouve bien.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 15.284,
+            "end": 15.664,
+            "score": 0.369,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "par",
+            "start": 15.704,
+            "end": 15.804,
+            "score": 0.726,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rapport",
+            "start": 15.824,
+            "end": 16.064,
+            "score": 0.73,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "au",
+            "start": 16.084,
+            "end": 16.144,
+            "score": 0.502,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "supermarché,",
+            "start": 16.184,
+            "end": 16.945,
+            "score": 0.556,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "je",
+            "start": 16.965,
+            "end": 17.025,
+            "score": 0.712,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "trouve",
+            "start": 17.045,
+            "end": 17.245,
+            "score": 0.744,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 17.265,
+            "end": 17.926,
+            "score": 0.599,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "moi",
+            "start": 18.066,
+            "end": 18.146,
+            "score": 0.442,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "je",
+            "start": 18.166,
+            "end": 18.226,
+            "score": 0.859,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "m'y",
+            "start": 18.246,
+            "end": 18.366,
+            "score": 0.762,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "retrouve",
+            "start": 18.386,
+            "end": 18.647,
+            "score": 0.833,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bien.",
+            "start": 18.667,
+            "end": 19.007,
+            "score": 0.236,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 19.027,
+        "end": 21.849,
+        "text": "Quand je ne faisais pas vraiment mes courses pour moi-même, je trouvais que c'était cher.",
+        "words": [
+          {
+            "word": "Quand",
+            "start": 19.027,
+            "end": 19.127,
+            "score": 0.483,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "je",
+            "start": 19.147,
+            "end": 19.187,
+            "score": 0.161,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ne",
+            "start": 19.207,
+            "end": 19.247,
+            "score": 0.1,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "faisais",
+            "start": 19.267,
+            "end": 19.427,
+            "score": 0.449,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pas",
+            "start": 19.447,
+            "end": 19.507,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vraiment",
+            "start": 19.527,
+            "end": 19.727,
+            "score": 0.835,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mes",
+            "start": 19.747,
+            "end": 19.828,
+            "score": 0.662,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "courses",
+            "start": 19.848,
+            "end": 19.988,
+            "score": 0.484,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pour",
+            "start": 20.008,
+            "end": 20.088,
+            "score": 0.055,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "moi-même,",
+            "start": 20.108,
+            "end": 20.568,
+            "score": 0.76,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "je",
+            "start": 20.588,
+            "end": 20.648,
+            "score": 0.087,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "trouvais",
+            "start": 20.668,
+            "end": 20.908,
+            "score": 0.194,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 20.928,
+            "end": 20.989,
+            "score": 0.113,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "c'était",
+            "start": 21.009,
+            "end": 21.129,
+            "score": 0.009,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "cher.",
+            "start": 21.149,
+            "end": 21.849,
+            "score": 0.834,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 21.909,
+        "end": 25.913,
+        "text": "Et puis j'ai vu que sur mon panier final, ce n'était pas plus que ça.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 21.909,
+            "end": 21.989,
+            "score": 0.799,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "puis",
+            "start": 22.029,
+            "end": 22.169,
+            "score": 0.682,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "j'ai",
+            "start": 22.19,
+            "end": 22.29,
+            "score": 0.877,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vu",
+            "start": 22.31,
+            "end": 22.39,
+            "score": 0.678,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 22.41,
+            "end": 22.47,
+            "score": 0.964,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 23.25,
+            "end": 23.37,
+            "score": 0.932,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mon",
+            "start": 23.411,
+            "end": 23.491,
+            "score": 0.895,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "panier",
+            "start": 23.511,
+            "end": 23.751,
+            "score": 0.62,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "final,",
+            "start": 23.791,
+            "end": 23.971,
+            "score": 0.951,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ce",
+            "start": 24.011,
+            "end": 24.051,
+            "score": 0.702,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "n'était",
+            "start": 24.071,
+            "end": 24.251,
+            "score": 0.255,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pas",
+            "start": 24.291,
+            "end": 25.572,
+            "score": 0.862,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 25.592,
+            "end": 25.712,
+            "score": 0.792,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 25.752,
+            "end": 25.833,
+            "score": 0.189,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ça.",
+            "start": 25.853,
+            "end": 25.913,
+            "score": 0.238,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 27.05,
+        "end": 31.412,
+        "text": " Ici, plus de 200 produits sont en promotion toute l'année.",
+        "words": [
+          {
+            "word": "Ici,",
+            "start": 27.05,
+            "end": 28.03,
+            "score": 0.316,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 28.05,
+            "end": 28.411,
+            "score": 0.798,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 28.451,
+            "end": 28.551,
+            "score": 0.72,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "200"
+          },
+          {
+            "word": "produits",
+            "start": 28.791,
+            "end": 29.011,
+            "score": 0.812,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sont",
+            "start": 29.071,
+            "end": 29.211,
+            "score": 0.8,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 29.251,
+            "end": 29.351,
+            "score": 0.782,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "promotion",
+            "start": 29.371,
+            "end": 29.891,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "toute",
+            "start": 29.911,
+            "end": 30.131,
+            "score": 0.887,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "l'année.",
+            "start": 30.171,
+            "end": 31.412,
+            "score": 0.857,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 31.512,
+        "end": 35.773,
+        "text": "Là, nous avons des champignons bruns de Paris, au prix de 10,95.",
+        "words": [
+          {
+            "word": "Là,",
+            "start": 31.512,
+            "end": 31.592,
+            "score": 0.358,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nous",
+            "start": 31.632,
+            "end": 31.712,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "avons",
+            "start": 31.752,
+            "end": 31.932,
+            "score": 0.832,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 31.972,
+            "end": 32.092,
+            "score": 0.97,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "champignons",
+            "start": 32.132,
+            "end": 32.592,
+            "score": 0.662,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bruns",
+            "start": 32.632,
+            "end": 33.512,
+            "score": 0.807,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 33.552,
+            "end": 33.652,
+            "score": 0.989,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Paris,",
+            "start": 33.692,
+            "end": 34.553,
+            "score": 0.899,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "au",
+            "start": 34.573,
+            "end": 34.653,
+            "score": 0.836,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prix",
+            "start": 34.673,
+            "end": 35.253,
+            "score": 0.916,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 35.273,
+            "end": 35.773,
+            "score": 0.569,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "10,95."
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 35.813,
+        "end": 38.554,
+        "text": "C'est les prix engagés de la semaine.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 35.813,
+            "end": 35.973,
+            "score": 0.13,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 36.053,
+            "end": 37.114,
+            "score": 0.405,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prix",
+            "start": 37.134,
+            "end": 37.274,
+            "score": 0.747,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "engagés",
+            "start": 37.334,
+            "end": 37.634,
+            "score": 0.933,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 37.674,
+            "end": 37.714,
+            "score": 0.994,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 37.734,
+            "end": 37.794,
+            "score": 0.778,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "semaine.",
+            "start": 37.854,
+            "end": 38.554,
+            "score": 0.883,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 38.874,
+        "end": 39.975,
+        "text": "Ça change assez régulièrement.",
+        "words": [
+          {
+            "word": "Ça",
+            "start": 38.874,
+            "end": 38.994,
+            "score": 0.697,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "change",
+            "start": 39.054,
+            "end": 39.254,
+            "score": 0.882,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "assez",
+            "start": 39.355,
+            "end": 39.555,
+            "score": 0.819,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "régulièrement.",
+            "start": 39.595,
+            "end": 39.975,
+            "score": 0.924,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 40.055,
+        "end": 42.816,
+        "text": "Vous pouvez le voir, ils sont victimes de leur succès.",
+        "words": [
+          {
+            "word": "Vous",
+            "start": 40.055,
+            "end": 40.195,
+            "score": 0.365,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pouvez",
+            "start": 40.215,
+            "end": 40.415,
+            "score": 0.59,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 40.435,
+            "end": 40.475,
+            "score": 0.155,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "voir,",
+            "start": 40.495,
+            "end": 40.715,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ils",
+            "start": 40.855,
+            "end": 40.975,
+            "score": 0.472,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 41.015,
+            "end": 41.135,
+            "score": 0.863,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "victimes",
+            "start": 41.155,
+            "end": 42.035,
+            "score": 0.903,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 42.055,
+            "end": 42.136,
+            "score": 0.753,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "leur",
+            "start": 42.156,
+            "end": 42.296,
+            "score": 0.805,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "succès.",
+            "start": 42.316,
+            "end": 42.816,
+            "score": 0.963,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 42.856,
+        "end": 45.997,
+        "text": "Nous avons des prix engagés, des petits yaourts vanille 1,75.",
+        "words": [
+          {
+            "word": "Nous",
+            "start": 42.856,
+            "end": 42.956,
+            "score": 0.92,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "avons",
+            "start": 43.016,
+            "end": 43.576,
+            "score": 0.922,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 43.616,
+            "end": 43.696,
+            "score": 0.785,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prix",
+            "start": 43.716,
+            "end": 43.876,
+            "score": 0.868,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "engagés,",
+            "start": 43.916,
+            "end": 44.656,
+            "score": 0.939,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 44.676,
+            "end": 44.756,
+            "score": 0.816,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "petits",
+            "start": 44.776,
+            "end": 44.977,
+            "score": 0.731,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "yaourts",
+            "start": 44.997,
+            "end": 45.457,
+            "score": 0.755,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vanille",
+            "start": 45.497,
+            "end": 45.997,
+            "score": 0.697,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "1,75."
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 46.037,
+        "end": 47.998,
+        "text": "Les prix engagés, c'est quoi ?",
+        "words": [
+          {
+            "word": "Les",
+            "start": 46.037,
+            "end": 46.097,
+            "score": 0.002,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prix",
+            "start": 46.237,
+            "end": 46.477,
+            "score": 0.387,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "engagés,",
+            "start": 46.517,
+            "end": 47.577,
+            "score": 0.681,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "c'est",
+            "start": 47.617,
+            "end": 47.738,
+            "score": 0.593,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "quoi",
+            "start": 47.758,
+            "end": 47.998,
+            "score": 0.863,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 48.058,
+        "end": 53.059,
+        "text": "C'est des prix accessibles, des prix justes pour nos clients.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 48.058,
+            "end": 48.198,
+            "score": 0.716,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 48.218,
+            "end": 48.298,
+            "score": 0.758,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prix",
+            "start": 48.318,
+            "end": 48.438,
+            "score": 0.848,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "accessibles,",
+            "start": 48.798,
+            "end": 49.338,
+            "score": 0.772,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 49.378,
+            "end": 49.458,
+            "score": 0.866,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prix",
+            "start": 49.498,
+            "end": 49.678,
+            "score": 0.764,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "justes",
+            "start": 49.718,
+            "end": 51.699,
+            "score": 0.907,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pour",
+            "start": 51.739,
+            "end": 51.859,
+            "score": 0.866,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nos",
+            "start": 51.899,
+            "end": 51.999,
+            "score": 0.835,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "clients.",
+            "start": 52.019,
+            "end": 53.059,
+            "score": 0.886,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 53.36,
+        "end": 54.16,
+        "text": "Des produits du quotidien.",
+        "words": [
+          {
+            "word": "Des",
+            "start": 53.36,
+            "end": 53.44,
+            "score": 0.829,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "produits",
+            "start": 53.46,
+            "end": 53.66,
+            "score": 0.542,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 53.68,
+            "end": 53.78,
+            "score": 0.278,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "quotidien.",
+            "start": 53.8,
+            "end": 54.16,
+            "score": 0.932,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 54.913,
+        "end": 58.816,
+        "text": " Pour attirer de nouveaux clients, ce magasin a dû changer de stratégie.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 54.913,
+            "end": 55.053,
+            "score": 0.778,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "attirer",
+            "start": 55.093,
+            "end": 55.393,
+            "score": 0.9,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 55.433,
+            "end": 55.514,
+            "score": 0.966,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "nouveaux",
+            "start": 55.554,
+            "end": 55.754,
+            "score": 0.923,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "clients,",
+            "start": 55.794,
+            "end": 56.734,
+            "score": 0.876,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 56.754,
+            "end": 56.875,
+            "score": 0.714,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "magasin",
+            "start": 56.915,
+            "end": 57.295,
+            "score": 0.913,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 57.335,
+            "end": 57.415,
+            "score": 0.698,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dû",
+            "start": 57.435,
+            "end": 57.555,
+            "score": 0.856,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "changer",
+            "start": 57.595,
+            "end": 57.875,
+            "score": 0.748,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 57.895,
+            "end": 57.995,
+            "score": 0.972,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "stratégie.",
+            "start": 58.035,
+            "end": 58.816,
+            "score": 0.871,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 58.856,
+        "end": 65.181,
+        "text": "Pour baisser les prix, on a fait des efforts sur la marge des magasins, on a fait des efforts sur la marge de la coopérative.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 58.856,
+            "end": 58.976,
+            "score": 0.836,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "baisser",
+            "start": 59.016,
+            "end": 59.256,
+            "score": 0.869,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 59.276,
+            "end": 59.356,
+            "score": 0.905,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prix,",
+            "start": 59.376,
+            "end": 59.556,
+            "score": 0.856,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 59.617,
+            "end": 59.697,
+            "score": 0.822,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 59.737,
+            "end": 59.797,
+            "score": 0.758,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fait",
+            "start": 59.817,
+            "end": 59.977,
+            "score": 0.816,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 59.997,
+            "end": 60.077,
+            "score": 0.819,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "efforts",
+            "start": 60.117,
+            "end": 60.717,
+            "score": 0.873,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sur",
+            "start": 60.757,
+            "end": 61.378,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 61.418,
+            "end": 61.478,
+            "score": 0.881,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "marge",
+            "start": 61.498,
+            "end": 61.658,
+            "score": 0.754,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 61.678,
+            "end": 61.738,
+            "score": 0.921,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "magasins,",
+            "start": 61.758,
+            "end": 62.118,
+            "score": 0.791,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 62.178,
+            "end": 62.238,
+            "score": 0.775,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 62.278,
+            "end": 62.319,
+            "score": 0.836,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fait",
+            "start": 62.359,
+            "end": 62.519,
+            "score": 0.85,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 62.539,
+            "end": 62.659,
+            "score": 0.918,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "efforts",
+            "start": 62.699,
+            "end": 62.999,
+            "score": 0.868,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sur",
+            "start": 63.039,
+            "end": 63.179,
+            "score": 0.602,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 63.199,
+            "end": 63.279,
+            "score": 0.95,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "marge",
+            "start": 63.319,
+            "end": 64.0,
+            "score": 0.868,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 64.04,
+            "end": 64.1,
+            "score": 0.948,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 64.14,
+            "end": 64.22,
+            "score": 0.788,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "coopérative.",
+            "start": 64.24,
+            "end": 65.181,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 65.241,
+        "end": 70.665,
+        "text": "Et l'effort qu'on a pu faire comme ça, on a pu le faire grâce aussi à la hausse de fréquentation.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 65.241,
+            "end": 66.842,
+            "score": 0.908,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'effort",
+            "start": 66.862,
+            "end": 67.122,
+            "score": 0.864,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'on",
+            "start": 67.142,
+            "end": 67.222,
+            "score": 0.027,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 67.242,
+            "end": 67.322,
+            "score": 0.58,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pu",
+            "start": 67.362,
+            "end": 67.462,
+            "score": 0.704,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faire",
+            "start": 67.502,
+            "end": 67.662,
+            "score": 0.839,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "comme",
+            "start": 67.682,
+            "end": 67.823,
+            "score": 0.892,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça,",
+            "start": 67.863,
+            "end": 68.003,
+            "score": 0.484,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 68.063,
+            "end": 68.123,
+            "score": 0.759,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 68.163,
+            "end": 68.223,
+            "score": 0.6,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pu",
+            "start": 68.243,
+            "end": 68.303,
+            "score": 0.684,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 68.323,
+            "end": 68.363,
+            "score": 0.008,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faire",
+            "start": 68.403,
+            "end": 68.683,
+            "score": 0.815,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "grâce",
+            "start": 68.723,
+            "end": 68.923,
+            "score": 0.869,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aussi",
+            "start": 68.983,
+            "end": 69.404,
+            "score": 0.783,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 69.424,
+            "end": 69.444,
+            "score": 0.98,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 69.484,
+            "end": 69.524,
+            "score": 0.996,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "hausse",
+            "start": 69.544,
+            "end": 69.684,
+            "score": 0.882,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 69.724,
+            "end": 69.784,
+            "score": 0.801,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fréquentation.",
+            "start": 69.824,
+            "end": 70.665,
+            "score": 0.787,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 70.705,
+        "end": 73.967,
+        "text": "Plus on a de clients, plus on arrive à baisser les prix.",
+        "words": [
+          {
+            "word": "Plus",
+            "start": 70.705,
+            "end": 70.785,
+            "score": 0.705,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 70.845,
+            "end": 70.905,
+            "score": 0.536,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 70.965,
+            "end": 71.005,
+            "score": 0.523,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 71.045,
+            "end": 71.225,
+            "score": 0.296,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "clients,",
+            "start": 71.245,
+            "end": 71.805,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plus",
+            "start": 71.845,
+            "end": 72.086,
+            "score": 0.735,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 72.146,
+            "end": 72.206,
+            "score": 0.833,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "arrive",
+            "start": 72.246,
+            "end": 72.446,
+            "score": 0.764,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 72.486,
+            "end": 72.506,
+            "score": 0.205,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "baisser",
+            "start": 72.526,
+            "end": 72.726,
+            "score": 0.796,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 72.766,
+            "end": 72.826,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prix.",
+            "start": 72.866,
+            "end": 73.967,
+            "score": 0.822,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 74.007,
+        "end": 77.49,
+        "text": "Ces prix attractifs peuvent-ils concurrencer ceux des non-bio des grandes surfaces ?",
+        "words": [
+          {
+            "word": "Ces",
+            "start": 74.007,
+            "end": 74.127,
+            "score": 0.822,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "prix",
+            "start": 74.167,
+            "end": 74.327,
+            "score": 0.849,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "attractifs",
+            "start": 74.347,
+            "end": 74.948,
+            "score": 0.795,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "peuvent-ils",
+            "start": 74.988,
+            "end": 75.408,
+            "score": 0.766,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "concurrencer",
+            "start": 75.448,
+            "end": 75.908,
+            "score": 0.903,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ceux",
+            "start": 75.968,
+            "end": 76.089,
+            "score": 0.434,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 76.109,
+            "end": 76.249,
+            "score": 0.96,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "non-bio",
+            "start": 76.289,
+            "end": 76.589,
+            "score": 0.77,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 76.629,
+            "end": 76.729,
+            "score": 0.716,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "grandes",
+            "start": 76.749,
+            "end": 76.949,
+            "score": 0.968,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "surfaces",
+            "start": 76.969,
+            "end": 77.49,
+            "score": 0.862,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 78.33,
+        "end": 79.071,
+        "text": "Nous avons comparé.",
+        "words": [
+          {
+            "word": "Nous",
+            "start": 78.33,
+            "end": 78.45,
+            "score": 0.814,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "avons",
+            "start": 78.51,
+            "end": 78.751,
+            "score": 0.778,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "comparé.",
+            "start": 78.791,
+            "end": 79.071,
+            "score": 0.742,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 80.23,
+        "end": 89.552,
+        "text": " Dans notre panier bio, plusieurs produits, dont 1 kg de pommes pour 1,95 €, 1 litre de lait demi-écrémé pour 1,20 € et du beurre pour 2,99 €.",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 80.23,
+            "end": 80.35,
+            "score": 0.808,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "notre",
+            "start": 80.37,
+            "end": 80.59,
+            "score": 0.882,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "panier",
+            "start": 80.65,
+            "end": 80.85,
+            "score": 0.603,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bio,",
+            "start": 80.87,
+            "end": 81.27,
+            "score": 0.779,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plusieurs",
+            "start": 81.29,
+            "end": 81.63,
+            "score": 0.83,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "produits,",
+            "start": 81.69,
+            "end": 82.491,
+            "score": 0.788,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dont",
+            "start": 82.511,
+            "end": 82.831,
+            "score": 0.922,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1"
+          },
+          {
+            "word": "kg",
+            "start": 82.971,
+            "end": 83.191,
+            "score": 0.49,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 83.211,
+            "end": 83.331,
+            "score": 0.636,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pommes",
+            "start": 83.351,
+            "end": 83.591,
+            "score": 0.525,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 83.631,
+            "end": 84.351,
+            "score": 0.606,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1,95"
+          },
+          {
+            "word": "€,"
+          },
+          {
+            "word": "1"
+          },
+          {
+            "word": "litre",
+            "start": 85.831,
+            "end": 86.091,
+            "score": 0.901,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 86.111,
+            "end": 86.171,
+            "score": 0.688,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "lait",
+            "start": 86.212,
+            "end": 86.332,
+            "score": 0.884,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "demi-écrémé",
+            "start": 86.352,
+            "end": 86.952,
+            "score": 0.785,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 86.992,
+            "end": 87.132,
+            "score": 0.813,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1,20"
+          },
+          {
+            "word": "€"
+          },
+          {
+            "word": "et",
+            "start": 88.212,
+            "end": 88.312,
+            "score": 0.64,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "du",
+            "start": 88.352,
+            "end": 88.452,
+            "score": 0.964,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "beurre",
+            "start": 88.472,
+            "end": 89.132,
+            "score": 0.651,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 89.172,
+            "end": 89.552,
+            "score": 0.289,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "2,99"
+          },
+          {
+            "word": "€."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 91.133,
+        "end": 92.093,
+        "text": "Coût total, 9,53 €.",
+        "words": [
+          {
+            "word": "Coût",
+            "start": 91.133,
+            "end": 91.273,
+            "score": 0.572,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "total,",
+            "start": 91.313,
+            "end": 92.093,
+            "score": 0.958,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "9,53"
+          },
+          {
+            "word": "€."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 92.713,
+        "end": 98.435,
+        "text": "Un peu plus cher que des produits conventionnels achetés en supermarché juste à côté, 8,34 €.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 92.713,
+            "end": 94.254,
+            "score": 0.552,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "peu",
+            "start": 94.294,
+            "end": 94.414,
+            "score": 0.931,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 94.454,
+            "end": 94.574,
+            "score": 0.814,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cher",
+            "start": 94.614,
+            "end": 94.774,
+            "score": 0.828,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 94.794,
+            "end": 94.934,
+            "score": 0.619,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 94.954,
+            "end": 95.054,
+            "score": 0.681,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "produits",
+            "start": 95.074,
+            "end": 95.314,
+            "score": 0.863,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "conventionnels",
+            "start": 95.354,
+            "end": 95.854,
+            "score": 0.816,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "achetés",
+            "start": 95.894,
+            "end": 96.134,
+            "score": 0.788,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 96.174,
+            "end": 96.254,
+            "score": 0.946,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "supermarché",
+            "start": 96.294,
+            "end": 97.054,
+            "score": 0.874,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "juste",
+            "start": 97.094,
+            "end": 97.314,
+            "score": 0.872,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 97.354,
+            "end": 97.394,
+            "score": 0.985,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "côté,",
+            "start": 97.434,
+            "end": 98.435,
+            "score": 0.968,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "8,34"
+          },
+          {
+            "word": "€."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 100.473,
+        "end": 106.836,
+        "text": " Dans cette grande surface, les clients s'étonnent de ce faible écart, comme cette mère de famille qui n'achète jamais bio.",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 100.473,
+            "end": 100.593,
+            "score": 0.794,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cette",
+            "start": 100.613,
+            "end": 100.753,
+            "score": 0.966,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "grande",
+            "start": 100.773,
+            "end": 100.953,
+            "score": 0.95,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "surface,",
+            "start": 100.973,
+            "end": 101.854,
+            "score": 0.965,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 101.894,
+            "end": 101.954,
+            "score": 0.787,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "clients",
+            "start": 101.994,
+            "end": 102.314,
+            "score": 0.737,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "s'étonnent",
+            "start": 102.334,
+            "end": 102.654,
+            "score": 0.6,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 102.674,
+            "end": 102.774,
+            "score": 0.914,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 102.794,
+            "end": 102.954,
+            "score": 0.992,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "faible",
+            "start": 102.974,
+            "end": 103.174,
+            "score": 0.958,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "écart,",
+            "start": 103.214,
+            "end": 104.195,
+            "score": 0.976,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "comme",
+            "start": 104.215,
+            "end": 104.395,
+            "score": 0.88,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cette",
+            "start": 104.435,
+            "end": 104.575,
+            "score": 0.993,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mère",
+            "start": 104.595,
+            "end": 104.755,
+            "score": 0.625,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 104.795,
+            "end": 104.855,
+            "score": 0.815,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "famille",
+            "start": 104.895,
+            "end": 105.115,
+            "score": 0.872,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "qui",
+            "start": 105.135,
+            "end": 105.255,
+            "score": 0.818,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "n'achète",
+            "start": 105.295,
+            "end": 105.735,
+            "score": 0.961,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jamais",
+            "start": 105.775,
+            "end": 105.995,
+            "score": 0.956,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bio.",
+            "start": 106.035,
+            "end": 106.836,
+            "score": 0.938,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 106.856,
+        "end": 109.377,
+        "text": "C'est pas si énorme au niveau de l'écart, moi, je trouve.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 106.856,
+            "end": 107.116,
+            "score": 0.671,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pas",
+            "start": 107.136,
+            "end": 107.296,
+            "score": 0.9,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "si",
+            "start": 107.356,
+            "end": 107.456,
+            "score": 0.928,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "énorme",
+            "start": 107.496,
+            "end": 108.016,
+            "score": 0.964,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "au",
+            "start": 108.056,
+            "end": 108.116,
+            "score": 0.91,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "niveau",
+            "start": 108.156,
+            "end": 108.337,
+            "score": 0.846,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 108.357,
+            "end": 108.417,
+            "score": 0.818,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "l'écart,",
+            "start": 108.437,
+            "end": 108.717,
+            "score": 0.745,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "moi,",
+            "start": 108.737,
+            "end": 108.797,
+            "score": 0.323,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 108.877,
+            "end": 108.937,
+            "score": 0.202,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "trouve.",
+            "start": 108.957,
+            "end": 109.377,
+            "score": 0.682,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 109.397,
+        "end": 110.698,
+        "text": "Je pensais que c'était plus cher.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 109.397,
+            "end": 109.457,
+            "score": 0.821,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pensais",
+            "start": 109.477,
+            "end": 109.637,
+            "score": 0.496,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 109.657,
+            "end": 109.737,
+            "score": 0.746,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "c'était",
+            "start": 109.757,
+            "end": 109.937,
+            "score": 0.63,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 109.957,
+            "end": 110.057,
+            "score": 0.946,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cher.",
+            "start": 110.077,
+            "end": 110.698,
+            "score": 0.868,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 110.738,
+        "end": 115.78,
+        "text": "Je suis prête à mettre un peu plus pour acheter du bio.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 110.738,
+            "end": 110.798,
+            "score": 0.92,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "suis",
+            "start": 110.838,
+            "end": 110.978,
+            "score": 0.826,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "prête",
+            "start": 111.018,
+            "end": 111.578,
+            "score": 0.94,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 111.618,
+            "end": 111.678,
+            "score": 0.845,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mettre",
+            "start": 111.738,
+            "end": 112.338,
+            "score": 0.858,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 112.398,
+            "end": 112.458,
+            "score": 0.932,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "peu",
+            "start": 112.498,
+            "end": 112.698,
+            "score": 0.858,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 112.718,
+            "end": 113.579,
+            "score": 0.734,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 113.599,
+            "end": 113.739,
+            "score": 0.446,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "acheter",
+            "start": 113.779,
+            "end": 114.359,
+            "score": 0.527,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "du",
+            "start": 114.399,
+            "end": 114.499,
+            "score": 0.618,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bio.",
+            "start": 114.539,
+            "end": 115.78,
+            "score": 0.483,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 115.82,
+        "end": 119.341,
+        "text": "Les enseignes bio espèrent attirer de plus en plus de clients.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 115.82,
+            "end": 115.94,
+            "score": 0.988,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "enseignes",
+            "start": 115.98,
+            "end": 116.34,
+            "score": 0.832,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bio",
+            "start": 116.38,
+            "end": 116.56,
+            "score": 0.9,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "espèrent",
+            "start": 116.62,
+            "end": 116.9,
+            "score": 0.722,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "attirer",
+            "start": 116.94,
+            "end": 117.32,
+            "score": 0.83,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 117.36,
+            "end": 117.541,
+            "score": 0.994,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 117.581,
+            "end": 117.741,
+            "score": 0.878,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 117.781,
+            "end": 117.881,
+            "score": 0.89,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 117.901,
+            "end": 118.101,
+            "score": 0.798,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 118.121,
+            "end": 118.221,
+            "score": 0.99,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "clients.",
+            "start": 118.261,
+            "end": 119.341,
+            "score": 0.953,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 119.381,
+        "end": 122.763,
+        "text": "Leur objectif, ouvrir des magasins dans des zones plus rurales.",
+        "words": [
+          {
+            "word": "Leur",
+            "start": 119.381,
+            "end": 119.541,
+            "score": 0.798,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "objectif,",
+            "start": 119.581,
+            "end": 120.622,
+            "score": 0.976,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ouvrir",
+            "start": 120.662,
+            "end": 121.002,
+            "score": 0.844,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 121.022,
+            "end": 121.122,
+            "score": 0.819,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "magasins",
+            "start": 121.142,
+            "end": 121.602,
+            "score": 0.879,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 121.642,
+            "end": 121.802,
+            "score": 0.896,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 121.822,
+            "end": 121.922,
+            "score": 0.874,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "zones",
+            "start": 121.942,
+            "end": 122.223,
+            "score": 0.833,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 122.263,
+            "end": 122.403,
+            "score": 0.83,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "rurales.",
+            "start": 122.443,
+            "end": 122.763,
+            "score": 0.86,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Aujourd'hui,",
+        "start": 0.071,
+        "end": 0.792,
+        "score": 0.234,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 0.812,
+        "end": 0.912,
+        "score": 0.499,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "clients",
+        "start": 0.932,
+        "end": 1.252,
+        "score": 0.412,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sont",
+        "start": 1.272,
+        "end": 1.392,
+        "score": 0.593,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 1.412,
+        "end": 1.512,
+        "score": 0.893,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "retour",
+        "start": 1.552,
+        "end": 2.333,
+        "score": 0.916,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "après",
+        "start": 2.373,
+        "end": 2.633,
+        "score": 0.99,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "4"
+      },
+      {
+        "word": "ans",
+        "start": 2.933,
+        "end": 3.054,
+        "score": 0.76,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 3.074,
+        "end": 3.154,
+        "score": 0.988,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "faible",
+        "start": 3.194,
+        "end": 3.454,
+        "score": 0.75,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "fréquentation",
+        "start": 3.494,
+        "end": 4.014,
+        "score": 0.865,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 4.054,
+        "end": 4.194,
+        "score": 0.911,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 4.214,
+        "end": 4.355,
+        "score": 0.979,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "magasin",
+        "start": 4.395,
+        "end": 4.775,
+        "score": 0.736,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bio.",
+        "start": 4.795,
+        "end": 5.996,
+        "score": 0.871,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Ce",
+        "start": 6.016,
+        "end": 6.116,
+        "score": 0.989,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "qui",
+        "start": 6.156,
+        "end": 6.236,
+        "score": 0.856,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 6.276,
+        "end": 6.356,
+        "score": 0.932,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "changé,",
+        "start": 6.396,
+        "end": 7.197,
+        "score": 0.921,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 7.237,
+        "end": 7.357,
+        "score": 0.814,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "prix",
+        "start": 7.397,
+        "end": 7.697,
+        "score": 0.864,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 7.737,
+        "end": 7.958,
+        "score": 0.84,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "attractifs",
+        "start": 7.998,
+        "end": 8.498,
+        "score": 0.879,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sur",
+        "start": 8.518,
+        "end": 8.698,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "certains",
+        "start": 8.738,
+        "end": 9.039,
+        "score": 0.858,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "produits.",
+        "start": 9.079,
+        "end": 10.34,
+        "score": 0.883,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Cet",
+        "start": 10.36,
+        "end": 10.54,
+        "score": 0.682,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "habitué",
+        "start": 10.56,
+        "end": 10.98,
+        "score": 0.91,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "l'a",
+        "start": 11.02,
+        "end": 11.1,
+        "score": 0.965,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bien",
+        "start": 11.14,
+        "end": 11.3,
+        "score": 0.732,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "remarqué.",
+        "start": 11.34,
+        "end": 12.521,
+        "score": 0.814,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "C'est",
+        "start": 12.541,
+        "end": 12.642,
+        "score": 0.727,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "quand",
+        "start": 12.662,
+        "end": 12.902,
+        "score": 0.541,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "même",
+        "start": 12.922,
+        "end": 13.222,
+        "score": 0.498,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 13.262,
+        "end": 13.342,
+        "score": 0.199,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "prix",
+        "start": 13.382,
+        "end": 13.562,
+        "score": 0.396,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "qui",
+        "start": 13.582,
+        "end": 13.682,
+        "score": 0.33,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sont",
+        "start": 13.722,
+        "end": 13.863,
+        "score": 0.569,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plutôt",
+        "start": 13.903,
+        "end": 14.363,
+        "score": 0.463,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "modérés.",
+        "start": 14.383,
+        "end": 15.264,
+        "score": 0.721,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Donc",
+        "start": 15.284,
+        "end": 15.664,
+        "score": 0.369,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "par",
+        "start": 15.704,
+        "end": 15.804,
+        "score": 0.726,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rapport",
+        "start": 15.824,
+        "end": 16.064,
+        "score": 0.73,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "au",
+        "start": 16.084,
+        "end": 16.144,
+        "score": 0.502,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "supermarché,",
+        "start": 16.184,
+        "end": 16.945,
+        "score": 0.556,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "je",
+        "start": 16.965,
+        "end": 17.025,
+        "score": 0.712,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "trouve",
+        "start": 17.045,
+        "end": 17.245,
+        "score": 0.744,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 17.265,
+        "end": 17.926,
+        "score": 0.599,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "moi",
+        "start": 18.066,
+        "end": 18.146,
+        "score": 0.442,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "je",
+        "start": 18.166,
+        "end": 18.226,
+        "score": 0.859,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "m'y",
+        "start": 18.246,
+        "end": 18.366,
+        "score": 0.762,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "retrouve",
+        "start": 18.386,
+        "end": 18.647,
+        "score": 0.833,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bien.",
+        "start": 18.667,
+        "end": 19.007,
+        "score": 0.236,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Quand",
+        "start": 19.027,
+        "end": 19.127,
+        "score": 0.483,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "je",
+        "start": 19.147,
+        "end": 19.187,
+        "score": 0.161,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ne",
+        "start": 19.207,
+        "end": 19.247,
+        "score": 0.1,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "faisais",
+        "start": 19.267,
+        "end": 19.427,
+        "score": 0.449,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pas",
+        "start": 19.447,
+        "end": 19.507,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vraiment",
+        "start": 19.527,
+        "end": 19.727,
+        "score": 0.835,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mes",
+        "start": 19.747,
+        "end": 19.828,
+        "score": 0.662,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "courses",
+        "start": 19.848,
+        "end": 19.988,
+        "score": 0.484,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pour",
+        "start": 20.008,
+        "end": 20.088,
+        "score": 0.055,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "moi-même,",
+        "start": 20.108,
+        "end": 20.568,
+        "score": 0.76,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "je",
+        "start": 20.588,
+        "end": 20.648,
+        "score": 0.087,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "trouvais",
+        "start": 20.668,
+        "end": 20.908,
+        "score": 0.194,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 20.928,
+        "end": 20.989,
+        "score": 0.113,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "c'était",
+        "start": 21.009,
+        "end": 21.129,
+        "score": 0.009,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "cher.",
+        "start": 21.149,
+        "end": 21.849,
+        "score": 0.834,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Et",
+        "start": 21.909,
+        "end": 21.989,
+        "score": 0.799,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "puis",
+        "start": 22.029,
+        "end": 22.169,
+        "score": 0.682,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "j'ai",
+        "start": 22.19,
+        "end": 22.29,
+        "score": 0.877,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vu",
+        "start": 22.31,
+        "end": 22.39,
+        "score": 0.678,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 22.41,
+        "end": 22.47,
+        "score": 0.964,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 23.25,
+        "end": 23.37,
+        "score": 0.932,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mon",
+        "start": 23.411,
+        "end": 23.491,
+        "score": 0.895,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "panier",
+        "start": 23.511,
+        "end": 23.751,
+        "score": 0.62,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "final,",
+        "start": 23.791,
+        "end": 23.971,
+        "score": 0.951,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ce",
+        "start": 24.011,
+        "end": 24.051,
+        "score": 0.702,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "n'était",
+        "start": 24.071,
+        "end": 24.251,
+        "score": 0.255,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pas",
+        "start": 24.291,
+        "end": 25.572,
+        "score": 0.862,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 25.592,
+        "end": 25.712,
+        "score": 0.792,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 25.752,
+        "end": 25.833,
+        "score": 0.189,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ça.",
+        "start": 25.853,
+        "end": 25.913,
+        "score": 0.238,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ici,",
+        "start": 27.05,
+        "end": 28.03,
+        "score": 0.316,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 28.05,
+        "end": 28.411,
+        "score": 0.798,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 28.451,
+        "end": 28.551,
+        "score": 0.72,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "200"
+      },
+      {
+        "word": "produits",
+        "start": 28.791,
+        "end": 29.011,
+        "score": 0.812,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sont",
+        "start": 29.071,
+        "end": 29.211,
+        "score": 0.8,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 29.251,
+        "end": 29.351,
+        "score": 0.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "promotion",
+        "start": 29.371,
+        "end": 29.891,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "toute",
+        "start": 29.911,
+        "end": 30.131,
+        "score": 0.887,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "l'année.",
+        "start": 30.171,
+        "end": 31.412,
+        "score": 0.857,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Là,",
+        "start": 31.512,
+        "end": 31.592,
+        "score": 0.358,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nous",
+        "start": 31.632,
+        "end": 31.712,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "avons",
+        "start": 31.752,
+        "end": 31.932,
+        "score": 0.832,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 31.972,
+        "end": 32.092,
+        "score": 0.97,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "champignons",
+        "start": 32.132,
+        "end": 32.592,
+        "score": 0.662,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bruns",
+        "start": 32.632,
+        "end": 33.512,
+        "score": 0.807,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 33.552,
+        "end": 33.652,
+        "score": 0.989,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Paris,",
+        "start": 33.692,
+        "end": 34.553,
+        "score": 0.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "au",
+        "start": 34.573,
+        "end": 34.653,
+        "score": 0.836,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prix",
+        "start": 34.673,
+        "end": 35.253,
+        "score": 0.916,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 35.273,
+        "end": 35.773,
+        "score": 0.569,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "10,95."
+      },
+      {
+        "word": "C'est",
+        "start": 35.813,
+        "end": 35.973,
+        "score": 0.13,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 36.053,
+        "end": 37.114,
+        "score": 0.405,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prix",
+        "start": 37.134,
+        "end": 37.274,
+        "score": 0.747,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "engagés",
+        "start": 37.334,
+        "end": 37.634,
+        "score": 0.933,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 37.674,
+        "end": 37.714,
+        "score": 0.994,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 37.734,
+        "end": 37.794,
+        "score": 0.778,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "semaine.",
+        "start": 37.854,
+        "end": 38.554,
+        "score": 0.883,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ça",
+        "start": 38.874,
+        "end": 38.994,
+        "score": 0.697,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "change",
+        "start": 39.054,
+        "end": 39.254,
+        "score": 0.882,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "assez",
+        "start": 39.355,
+        "end": 39.555,
+        "score": 0.819,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "régulièrement.",
+        "start": 39.595,
+        "end": 39.975,
+        "score": 0.924,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Vous",
+        "start": 40.055,
+        "end": 40.195,
+        "score": 0.365,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pouvez",
+        "start": 40.215,
+        "end": 40.415,
+        "score": 0.59,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 40.435,
+        "end": 40.475,
+        "score": 0.155,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "voir,",
+        "start": 40.495,
+        "end": 40.715,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ils",
+        "start": 40.855,
+        "end": 40.975,
+        "score": 0.472,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 41.015,
+        "end": 41.135,
+        "score": 0.863,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "victimes",
+        "start": 41.155,
+        "end": 42.035,
+        "score": 0.903,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 42.055,
+        "end": 42.136,
+        "score": 0.753,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "leur",
+        "start": 42.156,
+        "end": 42.296,
+        "score": 0.805,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "succès.",
+        "start": 42.316,
+        "end": 42.816,
+        "score": 0.963,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Nous",
+        "start": 42.856,
+        "end": 42.956,
+        "score": 0.92,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "avons",
+        "start": 43.016,
+        "end": 43.576,
+        "score": 0.922,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 43.616,
+        "end": 43.696,
+        "score": 0.785,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prix",
+        "start": 43.716,
+        "end": 43.876,
+        "score": 0.868,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "engagés,",
+        "start": 43.916,
+        "end": 44.656,
+        "score": 0.939,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 44.676,
+        "end": 44.756,
+        "score": 0.816,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "petits",
+        "start": 44.776,
+        "end": 44.977,
+        "score": 0.731,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "yaourts",
+        "start": 44.997,
+        "end": 45.457,
+        "score": 0.755,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vanille",
+        "start": 45.497,
+        "end": 45.997,
+        "score": 0.697,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "1,75."
+      },
+      {
+        "word": "Les",
+        "start": 46.037,
+        "end": 46.097,
+        "score": 0.002,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prix",
+        "start": 46.237,
+        "end": 46.477,
+        "score": 0.387,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "engagés,",
+        "start": 46.517,
+        "end": 47.577,
+        "score": 0.681,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "c'est",
+        "start": 47.617,
+        "end": 47.738,
+        "score": 0.593,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "quoi",
+        "start": 47.758,
+        "end": 47.998,
+        "score": 0.863,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "C'est",
+        "start": 48.058,
+        "end": 48.198,
+        "score": 0.716,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 48.218,
+        "end": 48.298,
+        "score": 0.758,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prix",
+        "start": 48.318,
+        "end": 48.438,
+        "score": 0.848,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "accessibles,",
+        "start": 48.798,
+        "end": 49.338,
+        "score": 0.772,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 49.378,
+        "end": 49.458,
+        "score": 0.866,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prix",
+        "start": 49.498,
+        "end": 49.678,
+        "score": 0.764,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "justes",
+        "start": 49.718,
+        "end": 51.699,
+        "score": 0.907,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pour",
+        "start": 51.739,
+        "end": 51.859,
+        "score": 0.866,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nos",
+        "start": 51.899,
+        "end": 51.999,
+        "score": 0.835,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "clients.",
+        "start": 52.019,
+        "end": 53.059,
+        "score": 0.886,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Des",
+        "start": 53.36,
+        "end": 53.44,
+        "score": 0.829,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "produits",
+        "start": 53.46,
+        "end": 53.66,
+        "score": 0.542,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 53.68,
+        "end": 53.78,
+        "score": 0.278,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "quotidien.",
+        "start": 53.8,
+        "end": 54.16,
+        "score": 0.932,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Pour",
+        "start": 54.913,
+        "end": 55.053,
+        "score": 0.778,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "attirer",
+        "start": 55.093,
+        "end": 55.393,
+        "score": 0.9,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 55.433,
+        "end": 55.514,
+        "score": 0.966,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "nouveaux",
+        "start": 55.554,
+        "end": 55.754,
+        "score": 0.923,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "clients,",
+        "start": 55.794,
+        "end": 56.734,
+        "score": 0.876,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 56.754,
+        "end": 56.875,
+        "score": 0.714,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "magasin",
+        "start": 56.915,
+        "end": 57.295,
+        "score": 0.913,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 57.335,
+        "end": 57.415,
+        "score": 0.698,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dû",
+        "start": 57.435,
+        "end": 57.555,
+        "score": 0.856,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "changer",
+        "start": 57.595,
+        "end": 57.875,
+        "score": 0.748,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 57.895,
+        "end": 57.995,
+        "score": 0.972,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "stratégie.",
+        "start": 58.035,
+        "end": 58.816,
+        "score": 0.871,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Pour",
+        "start": 58.856,
+        "end": 58.976,
+        "score": 0.836,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "baisser",
+        "start": 59.016,
+        "end": 59.256,
+        "score": 0.869,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 59.276,
+        "end": 59.356,
+        "score": 0.905,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prix,",
+        "start": 59.376,
+        "end": 59.556,
+        "score": 0.856,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 59.617,
+        "end": 59.697,
+        "score": 0.822,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 59.737,
+        "end": 59.797,
+        "score": 0.758,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fait",
+        "start": 59.817,
+        "end": 59.977,
+        "score": 0.816,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 59.997,
+        "end": 60.077,
+        "score": 0.819,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "efforts",
+        "start": 60.117,
+        "end": 60.717,
+        "score": 0.873,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sur",
+        "start": 60.757,
+        "end": 61.378,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 61.418,
+        "end": 61.478,
+        "score": 0.881,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "marge",
+        "start": 61.498,
+        "end": 61.658,
+        "score": 0.754,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 61.678,
+        "end": 61.738,
+        "score": 0.921,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "magasins,",
+        "start": 61.758,
+        "end": 62.118,
+        "score": 0.791,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 62.178,
+        "end": 62.238,
+        "score": 0.775,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 62.278,
+        "end": 62.319,
+        "score": 0.836,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fait",
+        "start": 62.359,
+        "end": 62.519,
+        "score": 0.85,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 62.539,
+        "end": 62.659,
+        "score": 0.918,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "efforts",
+        "start": 62.699,
+        "end": 62.999,
+        "score": 0.868,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sur",
+        "start": 63.039,
+        "end": 63.179,
+        "score": 0.602,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 63.199,
+        "end": 63.279,
+        "score": 0.95,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "marge",
+        "start": 63.319,
+        "end": 64.0,
+        "score": 0.868,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 64.04,
+        "end": 64.1,
+        "score": 0.948,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 64.14,
+        "end": 64.22,
+        "score": 0.788,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "coopérative.",
+        "start": 64.24,
+        "end": 65.181,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 65.241,
+        "end": 66.842,
+        "score": 0.908,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'effort",
+        "start": 66.862,
+        "end": 67.122,
+        "score": 0.864,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'on",
+        "start": 67.142,
+        "end": 67.222,
+        "score": 0.027,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 67.242,
+        "end": 67.322,
+        "score": 0.58,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pu",
+        "start": 67.362,
+        "end": 67.462,
+        "score": 0.704,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faire",
+        "start": 67.502,
+        "end": 67.662,
+        "score": 0.839,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "comme",
+        "start": 67.682,
+        "end": 67.823,
+        "score": 0.892,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça,",
+        "start": 67.863,
+        "end": 68.003,
+        "score": 0.484,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 68.063,
+        "end": 68.123,
+        "score": 0.759,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 68.163,
+        "end": 68.223,
+        "score": 0.6,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pu",
+        "start": 68.243,
+        "end": 68.303,
+        "score": 0.684,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 68.323,
+        "end": 68.363,
+        "score": 0.008,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faire",
+        "start": 68.403,
+        "end": 68.683,
+        "score": 0.815,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "grâce",
+        "start": 68.723,
+        "end": 68.923,
+        "score": 0.869,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aussi",
+        "start": 68.983,
+        "end": 69.404,
+        "score": 0.783,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 69.424,
+        "end": 69.444,
+        "score": 0.98,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 69.484,
+        "end": 69.524,
+        "score": 0.996,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "hausse",
+        "start": 69.544,
+        "end": 69.684,
+        "score": 0.882,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 69.724,
+        "end": 69.784,
+        "score": 0.801,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fréquentation.",
+        "start": 69.824,
+        "end": 70.665,
+        "score": 0.787,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Plus",
+        "start": 70.705,
+        "end": 70.785,
+        "score": 0.705,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 70.845,
+        "end": 70.905,
+        "score": 0.536,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 70.965,
+        "end": 71.005,
+        "score": 0.523,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 71.045,
+        "end": 71.225,
+        "score": 0.296,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "clients,",
+        "start": 71.245,
+        "end": 71.805,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plus",
+        "start": 71.845,
+        "end": 72.086,
+        "score": 0.735,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 72.146,
+        "end": 72.206,
+        "score": 0.833,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "arrive",
+        "start": 72.246,
+        "end": 72.446,
+        "score": 0.764,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 72.486,
+        "end": 72.506,
+        "score": 0.205,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "baisser",
+        "start": 72.526,
+        "end": 72.726,
+        "score": 0.796,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 72.766,
+        "end": 72.826,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prix.",
+        "start": 72.866,
+        "end": 73.967,
+        "score": 0.822,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Ces",
+        "start": 74.007,
+        "end": 74.127,
+        "score": 0.822,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "prix",
+        "start": 74.167,
+        "end": 74.327,
+        "score": 0.849,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "attractifs",
+        "start": 74.347,
+        "end": 74.948,
+        "score": 0.795,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "peuvent-ils",
+        "start": 74.988,
+        "end": 75.408,
+        "score": 0.766,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "concurrencer",
+        "start": 75.448,
+        "end": 75.908,
+        "score": 0.903,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ceux",
+        "start": 75.968,
+        "end": 76.089,
+        "score": 0.434,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 76.109,
+        "end": 76.249,
+        "score": 0.96,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "non-bio",
+        "start": 76.289,
+        "end": 76.589,
+        "score": 0.77,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 76.629,
+        "end": 76.729,
+        "score": 0.716,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "grandes",
+        "start": 76.749,
+        "end": 76.949,
+        "score": 0.968,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "surfaces",
+        "start": 76.969,
+        "end": 77.49,
+        "score": 0.862,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Nous",
+        "start": 78.33,
+        "end": 78.45,
+        "score": 0.814,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "avons",
+        "start": 78.51,
+        "end": 78.751,
+        "score": 0.778,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "comparé.",
+        "start": 78.791,
+        "end": 79.071,
+        "score": 0.742,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Dans",
+        "start": 80.23,
+        "end": 80.35,
+        "score": 0.808,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "notre",
+        "start": 80.37,
+        "end": 80.59,
+        "score": 0.882,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "panier",
+        "start": 80.65,
+        "end": 80.85,
+        "score": 0.603,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bio,",
+        "start": 80.87,
+        "end": 81.27,
+        "score": 0.779,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plusieurs",
+        "start": 81.29,
+        "end": 81.63,
+        "score": 0.83,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "produits,",
+        "start": 81.69,
+        "end": 82.491,
+        "score": 0.788,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dont",
+        "start": 82.511,
+        "end": 82.831,
+        "score": 0.922,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1"
+      },
+      {
+        "word": "kg",
+        "start": 82.971,
+        "end": 83.191,
+        "score": 0.49,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 83.211,
+        "end": 83.331,
+        "score": 0.636,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pommes",
+        "start": 83.351,
+        "end": 83.591,
+        "score": 0.525,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 83.631,
+        "end": 84.351,
+        "score": 0.606,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1,95"
+      },
+      {
+        "word": "€,"
+      },
+      {
+        "word": "1"
+      },
+      {
+        "word": "litre",
+        "start": 85.831,
+        "end": 86.091,
+        "score": 0.901,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 86.111,
+        "end": 86.171,
+        "score": 0.688,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "lait",
+        "start": 86.212,
+        "end": 86.332,
+        "score": 0.884,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "demi-écrémé",
+        "start": 86.352,
+        "end": 86.952,
+        "score": 0.785,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 86.992,
+        "end": 87.132,
+        "score": 0.813,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1,20"
+      },
+      {
+        "word": "€"
+      },
+      {
+        "word": "et",
+        "start": 88.212,
+        "end": 88.312,
+        "score": 0.64,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "du",
+        "start": 88.352,
+        "end": 88.452,
+        "score": 0.964,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "beurre",
+        "start": 88.472,
+        "end": 89.132,
+        "score": 0.651,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 89.172,
+        "end": 89.552,
+        "score": 0.289,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "2,99"
+      },
+      {
+        "word": "€."
+      },
+      {
+        "word": "Coût",
+        "start": 91.133,
+        "end": 91.273,
+        "score": 0.572,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "total,",
+        "start": 91.313,
+        "end": 92.093,
+        "score": 0.958,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "9,53"
+      },
+      {
+        "word": "€."
+      },
+      {
+        "word": "Un",
+        "start": 92.713,
+        "end": 94.254,
+        "score": 0.552,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "peu",
+        "start": 94.294,
+        "end": 94.414,
+        "score": 0.931,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 94.454,
+        "end": 94.574,
+        "score": 0.814,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cher",
+        "start": 94.614,
+        "end": 94.774,
+        "score": 0.828,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 94.794,
+        "end": 94.934,
+        "score": 0.619,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 94.954,
+        "end": 95.054,
+        "score": 0.681,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "produits",
+        "start": 95.074,
+        "end": 95.314,
+        "score": 0.863,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "conventionnels",
+        "start": 95.354,
+        "end": 95.854,
+        "score": 0.816,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "achetés",
+        "start": 95.894,
+        "end": 96.134,
+        "score": 0.788,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 96.174,
+        "end": 96.254,
+        "score": 0.946,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "supermarché",
+        "start": 96.294,
+        "end": 97.054,
+        "score": 0.874,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "juste",
+        "start": 97.094,
+        "end": 97.314,
+        "score": 0.872,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 97.354,
+        "end": 97.394,
+        "score": 0.985,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "côté,",
+        "start": 97.434,
+        "end": 98.435,
+        "score": 0.968,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "8,34"
+      },
+      {
+        "word": "€."
+      },
+      {
+        "word": "Dans",
+        "start": 100.473,
+        "end": 100.593,
+        "score": 0.794,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cette",
+        "start": 100.613,
+        "end": 100.753,
+        "score": 0.966,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "grande",
+        "start": 100.773,
+        "end": 100.953,
+        "score": 0.95,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "surface,",
+        "start": 100.973,
+        "end": 101.854,
+        "score": 0.965,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 101.894,
+        "end": 101.954,
+        "score": 0.787,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "clients",
+        "start": 101.994,
+        "end": 102.314,
+        "score": 0.737,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "s'étonnent",
+        "start": 102.334,
+        "end": 102.654,
+        "score": 0.6,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 102.674,
+        "end": 102.774,
+        "score": 0.914,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 102.794,
+        "end": 102.954,
+        "score": 0.992,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "faible",
+        "start": 102.974,
+        "end": 103.174,
+        "score": 0.958,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "écart,",
+        "start": 103.214,
+        "end": 104.195,
+        "score": 0.976,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "comme",
+        "start": 104.215,
+        "end": 104.395,
+        "score": 0.88,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cette",
+        "start": 104.435,
+        "end": 104.575,
+        "score": 0.993,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mère",
+        "start": 104.595,
+        "end": 104.755,
+        "score": 0.625,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 104.795,
+        "end": 104.855,
+        "score": 0.815,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "famille",
+        "start": 104.895,
+        "end": 105.115,
+        "score": 0.872,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "qui",
+        "start": 105.135,
+        "end": 105.255,
+        "score": 0.818,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "n'achète",
+        "start": 105.295,
+        "end": 105.735,
+        "score": 0.961,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jamais",
+        "start": 105.775,
+        "end": 105.995,
+        "score": 0.956,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bio.",
+        "start": 106.035,
+        "end": 106.836,
+        "score": 0.938,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "C'est",
+        "start": 106.856,
+        "end": 107.116,
+        "score": 0.671,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pas",
+        "start": 107.136,
+        "end": 107.296,
+        "score": 0.9,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "si",
+        "start": 107.356,
+        "end": 107.456,
+        "score": 0.928,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "énorme",
+        "start": 107.496,
+        "end": 108.016,
+        "score": 0.964,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "au",
+        "start": 108.056,
+        "end": 108.116,
+        "score": 0.91,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "niveau",
+        "start": 108.156,
+        "end": 108.337,
+        "score": 0.846,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 108.357,
+        "end": 108.417,
+        "score": 0.818,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "l'écart,",
+        "start": 108.437,
+        "end": 108.717,
+        "score": 0.745,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "moi,",
+        "start": 108.737,
+        "end": 108.797,
+        "score": 0.323,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 108.877,
+        "end": 108.937,
+        "score": 0.202,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "trouve.",
+        "start": 108.957,
+        "end": 109.377,
+        "score": 0.682,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Je",
+        "start": 109.397,
+        "end": 109.457,
+        "score": 0.821,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pensais",
+        "start": 109.477,
+        "end": 109.637,
+        "score": 0.496,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 109.657,
+        "end": 109.737,
+        "score": 0.746,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "c'était",
+        "start": 109.757,
+        "end": 109.937,
+        "score": 0.63,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 109.957,
+        "end": 110.057,
+        "score": 0.946,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cher.",
+        "start": 110.077,
+        "end": 110.698,
+        "score": 0.868,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Je",
+        "start": 110.738,
+        "end": 110.798,
+        "score": 0.92,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "suis",
+        "start": 110.838,
+        "end": 110.978,
+        "score": 0.826,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "prête",
+        "start": 111.018,
+        "end": 111.578,
+        "score": 0.94,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 111.618,
+        "end": 111.678,
+        "score": 0.845,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mettre",
+        "start": 111.738,
+        "end": 112.338,
+        "score": 0.858,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 112.398,
+        "end": 112.458,
+        "score": 0.932,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "peu",
+        "start": 112.498,
+        "end": 112.698,
+        "score": 0.858,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 112.718,
+        "end": 113.579,
+        "score": 0.734,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 113.599,
+        "end": 113.739,
+        "score": 0.446,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "acheter",
+        "start": 113.779,
+        "end": 114.359,
+        "score": 0.527,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "du",
+        "start": 114.399,
+        "end": 114.499,
+        "score": 0.618,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bio.",
+        "start": 114.539,
+        "end": 115.78,
+        "score": 0.483,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Les",
+        "start": 115.82,
+        "end": 115.94,
+        "score": 0.988,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "enseignes",
+        "start": 115.98,
+        "end": 116.34,
+        "score": 0.832,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bio",
+        "start": 116.38,
+        "end": 116.56,
+        "score": 0.9,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "espèrent",
+        "start": 116.62,
+        "end": 116.9,
+        "score": 0.722,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "attirer",
+        "start": 116.94,
+        "end": 117.32,
+        "score": 0.83,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 117.36,
+        "end": 117.541,
+        "score": 0.994,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 117.581,
+        "end": 117.741,
+        "score": 0.878,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 117.781,
+        "end": 117.881,
+        "score": 0.89,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 117.901,
+        "end": 118.101,
+        "score": 0.798,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 118.121,
+        "end": 118.221,
+        "score": 0.99,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "clients.",
+        "start": 118.261,
+        "end": 119.341,
+        "score": 0.953,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Leur",
+        "start": 119.381,
+        "end": 119.541,
+        "score": 0.798,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "objectif,",
+        "start": 119.581,
+        "end": 120.622,
+        "score": 0.976,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ouvrir",
+        "start": 120.662,
+        "end": 121.002,
+        "score": 0.844,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 121.022,
+        "end": 121.122,
+        "score": 0.819,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "magasins",
+        "start": 121.142,
+        "end": 121.602,
+        "score": 0.879,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 121.642,
+        "end": 121.802,
+        "score": 0.896,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 121.822,
+        "end": 121.922,
+        "score": 0.874,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "zones",
+        "start": 121.942,
+        "end": 122.223,
+        "score": 0.833,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 122.263,
+        "end": 122.403,
+        "score": 0.83,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "rurales.",
+        "start": 122.443,
+        "end": 122.763,
+        "score": 0.86,
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 123,
+  "transcription_duration": 201
+}

@@ -1,0 +1,3221 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.051,
+        "end": 8.955,
+        "text": " Et quand on organise des expériences au laboratoire avec des groupes de gens, des expériences d'intelligence collective, on se rend compte que spontanément, ce que va faire le groupe, c'est qu'il va se structurer autour d'un leader.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.051,
+            "end": 0.151,
+            "score": 0.566,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "quand",
+            "start": 0.171,
+            "end": 0.291,
+            "score": 0.755,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 0.331,
+            "end": 0.551,
+            "score": 0.683,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "organise",
+            "start": 0.591,
+            "end": 0.911,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 0.931,
+            "end": 1.011,
+            "score": 0.877,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "expériences",
+            "start": 1.051,
+            "end": 1.472,
+            "score": 0.865,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "au",
+            "start": 1.512,
+            "end": 1.612,
+            "score": 0.242,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "laboratoire",
+            "start": 1.652,
+            "end": 2.092,
+            "score": 0.9,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avec",
+            "start": 2.152,
+            "end": 2.332,
+            "score": 0.951,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 2.372,
+            "end": 2.452,
+            "score": 0.921,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "groupes",
+            "start": 2.492,
+            "end": 2.712,
+            "score": 0.886,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 2.772,
+            "end": 2.852,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "gens,",
+            "start": 2.892,
+            "end": 3.052,
+            "score": 0.624,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 3.072,
+            "end": 3.132,
+            "score": 0.533,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "expériences",
+            "start": 3.152,
+            "end": 3.393,
+            "score": 0.329,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'intelligence",
+            "start": 3.413,
+            "end": 3.813,
+            "score": 0.709,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "collective,",
+            "start": 3.853,
+            "end": 4.673,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 4.733,
+            "end": 4.793,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "se",
+            "start": 4.813,
+            "end": 4.873,
+            "score": 0.808,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "rend",
+            "start": 4.893,
+            "end": 4.973,
+            "score": 0.454,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "compte",
+            "start": 4.993,
+            "end": 5.153,
+            "score": 0.55,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 5.173,
+            "end": 5.293,
+            "score": 0.753,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "spontanément,",
+            "start": 5.314,
+            "end": 5.754,
+            "score": 0.755,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ce",
+            "start": 5.774,
+            "end": 5.814,
+            "score": 0.949,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 5.834,
+            "end": 5.934,
+            "score": 0.725,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 5.954,
+            "end": 6.054,
+            "score": 0.732,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faire",
+            "start": 6.074,
+            "end": 6.214,
+            "score": 0.754,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 6.234,
+            "end": 6.294,
+            "score": 0.945,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "groupe,",
+            "start": 6.314,
+            "end": 6.494,
+            "score": 0.773,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 6.534,
+            "end": 6.634,
+            "score": 0.597,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'il",
+            "start": 6.654,
+            "end": 6.754,
+            "score": 0.835,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 6.774,
+            "end": 6.874,
+            "score": 0.78,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "se",
+            "start": 6.914,
+            "end": 7.014,
+            "score": 0.876,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "structurer",
+            "start": 7.074,
+            "end": 7.635,
+            "score": 0.827,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autour",
+            "start": 7.695,
+            "end": 7.995,
+            "score": 0.926,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'un",
+            "start": 8.035,
+            "end": 8.275,
+            "score": 0.988,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "leader.",
+            "start": 8.315,
+            "end": 8.955,
+            "score": 0.826,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 8.975,
+        "end": 11.356,
+        "text": "C'est des gens qui ne se connaissent pas, des participants qu'on recrute.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 8.975,
+            "end": 9.115,
+            "score": 0.156,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 9.135,
+            "end": 9.275,
+            "score": 0.384,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "gens",
+            "start": 9.355,
+            "end": 9.435,
+            "score": 0.327,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 9.455,
+            "end": 9.515,
+            "score": 0.864,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 9.536,
+            "end": 9.576,
+            "score": 0.086,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "se",
+            "start": 9.596,
+            "end": 9.636,
+            "score": 0.574,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "connaissent",
+            "start": 9.656,
+            "end": 9.916,
+            "score": 0.862,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas,",
+            "start": 9.936,
+            "end": 10.156,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 10.196,
+            "end": 10.276,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "participants",
+            "start": 10.296,
+            "end": 10.676,
+            "score": 0.789,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'on",
+            "start": 10.696,
+            "end": 10.816,
+            "score": 0.566,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "recrute.",
+            "start": 10.856,
+            "end": 11.356,
+            "score": 0.902,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 11.376,
+        "end": 14.618,
+        "text": "On les met face à un problème, on ne leur donne pas d'autres instructions, top.",
+        "words": [
+          {
+            "word": "On",
+            "start": 11.376,
+            "end": 11.456,
+            "score": 0.44,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 11.476,
+            "end": 11.556,
+            "score": 0.24,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "met",
+            "start": 11.576,
+            "end": 11.677,
+            "score": 0.795,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "face",
+            "start": 11.697,
+            "end": 11.837,
+            "score": 0.669,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 11.857,
+            "end": 11.877,
+            "score": 0.727,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 11.937,
+            "end": 11.997,
+            "score": 0.786,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "problème,",
+            "start": 12.037,
+            "end": 12.717,
+            "score": 0.872,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 12.757,
+            "end": 12.797,
+            "score": 0.849,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 12.817,
+            "end": 12.857,
+            "score": 0.007,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "leur",
+            "start": 12.877,
+            "end": 12.977,
+            "score": 0.816,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donne",
+            "start": 12.997,
+            "end": 13.157,
+            "score": 0.837,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 13.177,
+            "end": 13.257,
+            "score": 0.819,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'autres",
+            "start": 13.297,
+            "end": 13.437,
+            "score": 0.817,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "instructions,",
+            "start": 13.457,
+            "end": 13.878,
+            "score": 0.842,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "top.",
+            "start": 13.978,
+            "end": 14.618,
+            "score": 0.916,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 14.658,
+        "end": 25.903,
+        "text": "Et là, vous voyez qu'une personne va commencer à se détacher et va prendre un petit peu en main l'organisation, va commencer à prendre des décisions, à distribuer des tâches à des sortes de lieutenants qui vont les distribuer eux-mêmes, à des sortes d'ouvriers, etc.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 14.658,
+            "end": 14.738,
+            "score": 0.756,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "là,",
+            "start": 14.778,
+            "end": 14.838,
+            "score": 0.674,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vous",
+            "start": 14.858,
+            "end": 14.978,
+            "score": 0.732,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "voyez",
+            "start": 14.998,
+            "end": 15.198,
+            "score": 0.542,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'une",
+            "start": 15.238,
+            "end": 15.458,
+            "score": 0.883,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "personne",
+            "start": 15.478,
+            "end": 15.758,
+            "score": 0.858,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 15.778,
+            "end": 15.859,
+            "score": 0.768,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "commencer",
+            "start": 15.879,
+            "end": 16.139,
+            "score": 0.902,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 16.159,
+            "end": 16.179,
+            "score": 0.972,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "se",
+            "start": 16.219,
+            "end": 16.279,
+            "score": 0.696,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "détacher",
+            "start": 16.299,
+            "end": 16.979,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 17.019,
+            "end": 17.139,
+            "score": 0.544,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 17.159,
+            "end": 17.339,
+            "score": 0.905,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prendre",
+            "start": 17.379,
+            "end": 17.699,
+            "score": 0.644,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 17.739,
+            "end": 17.779,
+            "score": 0.99,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "petit",
+            "start": 17.819,
+            "end": 18.0,
+            "score": 0.726,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "peu",
+            "start": 18.02,
+            "end": 18.12,
+            "score": 0.75,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 18.18,
+            "end": 18.26,
+            "score": 0.815,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "main",
+            "start": 18.28,
+            "end": 18.44,
+            "score": 0.571,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'organisation,",
+            "start": 18.48,
+            "end": 19.16,
+            "score": 0.867,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 19.18,
+            "end": 19.26,
+            "score": 0.746,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "commencer",
+            "start": 19.3,
+            "end": 19.6,
+            "score": 0.865,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 19.64,
+            "end": 19.7,
+            "score": 0.585,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prendre",
+            "start": 19.76,
+            "end": 19.98,
+            "score": 0.846,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 20.0,
+            "end": 20.121,
+            "score": 0.563,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "décisions,",
+            "start": 20.141,
+            "end": 21.041,
+            "score": 0.926,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 21.081,
+            "end": 21.261,
+            "score": 0.946,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "distribuer",
+            "start": 21.301,
+            "end": 21.721,
+            "score": 0.908,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 21.761,
+            "end": 21.861,
+            "score": 0.755,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tâches",
+            "start": 21.901,
+            "end": 22.262,
+            "score": 0.85,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 22.282,
+            "end": 22.322,
+            "score": 0.484,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 22.362,
+            "end": 22.442,
+            "score": 0.948,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sortes",
+            "start": 22.482,
+            "end": 22.702,
+            "score": 0.872,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 22.722,
+            "end": 22.822,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "lieutenants",
+            "start": 22.862,
+            "end": 23.322,
+            "score": 0.755,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 23.342,
+            "end": 23.422,
+            "score": 0.965,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vont",
+            "start": 23.462,
+            "end": 23.582,
+            "score": 0.758,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 23.602,
+            "end": 23.682,
+            "score": 0.755,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "distribuer",
+            "start": 23.702,
+            "end": 24.122,
+            "score": 0.86,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "eux-mêmes,",
+            "start": 24.162,
+            "end": 24.503,
+            "score": 0.57,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 24.543,
+            "end": 24.583,
+            "score": 0.482,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 24.623,
+            "end": 24.703,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sortes",
+            "start": 24.743,
+            "end": 24.943,
+            "score": 0.884,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'ouvriers,",
+            "start": 24.963,
+            "end": 25.323,
+            "score": 0.803,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "etc.",
+            "start": 25.343,
+            "end": 25.903,
+            "score": 0.699,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 25.943,
+        "end": 29.345,
+        "text": "Et en fait, très rapidement, vous avez une forme d'organisation pyramidale qui va émerger.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 25.943,
+            "end": 26.003,
+            "score": 0.598,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 26.023,
+            "end": 26.063,
+            "score": 0.284,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fait,",
+            "start": 26.103,
+            "end": 26.263,
+            "score": 0.447,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "très",
+            "start": 26.283,
+            "end": 26.404,
+            "score": 0.776,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "rapidement,",
+            "start": 26.424,
+            "end": 26.744,
+            "score": 0.871,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vous",
+            "start": 26.764,
+            "end": 26.864,
+            "score": 0.821,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avez",
+            "start": 26.904,
+            "end": 27.024,
+            "score": 0.82,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "une",
+            "start": 27.064,
+            "end": 27.164,
+            "score": 0.788,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "forme",
+            "start": 27.184,
+            "end": 27.744,
+            "score": 0.954,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'organisation",
+            "start": 27.784,
+            "end": 28.284,
+            "score": 0.907,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pyramidale",
+            "start": 28.324,
+            "end": 28.805,
+            "score": 0.83,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 28.825,
+            "end": 28.925,
+            "score": 0.867,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 28.945,
+            "end": 29.025,
+            "score": 0.966,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "émerger.",
+            "start": 29.085,
+            "end": 29.345,
+            "score": 0.952,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 29.605,
+        "end": 30.585,
+        "text": " Ça, c'est assez spontané.",
+        "words": [
+          {
+            "word": "Ça,",
+            "start": 29.605,
+            "end": 29.725,
+            "score": 0.576,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 29.745,
+            "end": 29.825,
+            "score": 0.324,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "assez",
+            "start": 29.845,
+            "end": 30.025,
+            "score": 0.25,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "spontané.",
+            "start": 30.105,
+            "end": 30.585,
+            "score": 0.651,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 30.625,
+        "end": 36.447,
+        "text": "Quand on ne donne pas d'instruction aux gens, en tout cas dans notre culture, assez spontanément, ils vont s'organiser autour d'un chef.",
+        "words": [
+          {
+            "word": "Quand",
+            "start": 30.625,
+            "end": 30.725,
+            "score": 0.647,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 30.745,
+            "end": 30.785,
+            "score": 0.731,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 30.805,
+            "end": 30.845,
+            "score": 0.001,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donne",
+            "start": 30.865,
+            "end": 31.005,
+            "score": 0.349,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 31.025,
+            "end": 31.125,
+            "score": 0.777,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'instruction",
+            "start": 31.165,
+            "end": 31.566,
+            "score": 0.806,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aux",
+            "start": 31.606,
+            "end": 31.686,
+            "score": 0.71,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "gens,",
+            "start": 31.706,
+            "end": 31.886,
+            "score": 0.639,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 31.906,
+            "end": 31.966,
+            "score": 0.718,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tout",
+            "start": 31.986,
+            "end": 32.086,
+            "score": 0.887,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cas",
+            "start": 32.106,
+            "end": 32.186,
+            "score": 0.827,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dans",
+            "start": 32.226,
+            "end": 32.326,
+            "score": 0.954,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "notre",
+            "start": 32.366,
+            "end": 32.606,
+            "score": 0.897,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "culture,",
+            "start": 32.646,
+            "end": 33.826,
+            "score": 0.878,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "assez",
+            "start": 33.866,
+            "end": 34.066,
+            "score": 0.533,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "spontanément,",
+            "start": 34.086,
+            "end": 34.506,
+            "score": 0.899,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ils",
+            "start": 34.566,
+            "end": 34.626,
+            "score": 0.482,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vont",
+            "start": 34.666,
+            "end": 34.787,
+            "score": 0.708,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "s'organiser",
+            "start": 34.807,
+            "end": 35.227,
+            "score": 0.784,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autour",
+            "start": 35.267,
+            "end": 35.447,
+            "score": 0.863,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'un",
+            "start": 35.467,
+            "end": 35.587,
+            "score": 0.795,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "chef.",
+            "start": 35.627,
+            "end": 36.447,
+            "score": 0.979,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 36.527,
+        "end": 39.208,
+        "text": "Et la question qu'on se pose, c'est est-ce que c'est possible autrement ?",
+        "words": [
+          {
+            "word": "Et",
+            "start": 36.527,
+            "end": 36.847,
+            "score": 0.9,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 36.867,
+            "end": 36.907,
+            "score": 0.992,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "question",
+            "start": 36.947,
+            "end": 37.127,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'on",
+            "start": 37.147,
+            "end": 37.267,
+            "score": 0.098,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "se",
+            "start": 37.287,
+            "end": 37.327,
+            "score": 0.366,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pose,",
+            "start": 37.347,
+            "end": 37.487,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 37.507,
+            "end": 37.607,
+            "score": 0.51,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "est-ce",
+            "start": 37.627,
+            "end": 37.747,
+            "score": 0.505,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 37.767,
+            "end": 37.847,
+            "score": 0.68,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 37.867,
+            "end": 37.967,
+            "score": 0.344,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "possible",
+            "start": 37.987,
+            "end": 38.207,
+            "score": 0.865,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autrement",
+            "start": 38.267,
+            "end": 39.208,
+            "score": 0.762,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 39.248,
+        "end": 42.469,
+        "text": "Si vous faites pareil avec des fourmis, par exemple, les fourmis ne vont pas s'organiser autour d'un chef.",
+        "words": [
+          {
+            "word": "Si",
+            "start": 39.248,
+            "end": 39.308,
+            "score": 0.812,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vous",
+            "start": 39.328,
+            "end": 39.428,
+            "score": 0.72,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faites",
+            "start": 39.468,
+            "end": 39.628,
+            "score": 0.554,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pareil",
+            "start": 39.648,
+            "end": 39.848,
+            "score": 0.646,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avec",
+            "start": 39.868,
+            "end": 40.048,
+            "score": 0.91,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 40.068,
+            "end": 40.188,
+            "score": 0.875,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fourmis,",
+            "start": 40.228,
+            "end": 40.528,
+            "score": 0.764,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "par",
+            "start": 40.568,
+            "end": 40.648,
+            "score": 0.857,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "exemple,",
+            "start": 40.688,
+            "end": 40.888,
+            "score": 0.854,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 40.928,
+            "end": 41.008,
+            "score": 0.47,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fourmis",
+            "start": 41.028,
+            "end": 41.268,
+            "score": 0.622,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 41.288,
+            "end": 41.328,
+            "score": 0.092,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vont",
+            "start": 41.368,
+            "end": 41.488,
+            "score": 0.82,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 41.508,
+            "end": 41.628,
+            "score": 0.559,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "s'organiser",
+            "start": 41.648,
+            "end": 41.989,
+            "score": 0.76,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autour",
+            "start": 42.029,
+            "end": 42.189,
+            "score": 0.731,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'un",
+            "start": 42.209,
+            "end": 42.289,
+            "score": 0.473,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "chef.",
+            "start": 42.309,
+            "end": 42.469,
+            "score": 0.396,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 42.529,
+        "end": 45.41,
+        "text": "Elles vont trouver une solution, mais complètement décentralisée.",
+        "words": [
+          {
+            "word": "Elles",
+            "start": 42.529,
+            "end": 42.689,
+            "score": 0.312,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vont",
+            "start": 42.729,
+            "end": 43.049,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "trouver",
+            "start": 43.089,
+            "end": 43.309,
+            "score": 0.853,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "une",
+            "start": 43.349,
+            "end": 43.429,
+            "score": 0.943,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "solution,",
+            "start": 43.469,
+            "end": 43.749,
+            "score": 0.879,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mais",
+            "start": 43.809,
+            "end": 43.949,
+            "score": 0.779,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "complètement",
+            "start": 43.969,
+            "end": 44.329,
+            "score": 0.888,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "décentralisée.",
+            "start": 44.369,
+            "end": 45.41,
+            "score": 0.924,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 45.47,
+        "end": 46.63,
+        "text": "Et donc, c'est de ça que parlent ces livres.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 45.47,
+            "end": 45.61,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donc,",
+            "start": 45.63,
+            "end": 45.75,
+            "score": 0.716,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 45.77,
+            "end": 45.85,
+            "score": 0.64,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 45.87,
+            "end": 45.91,
+            "score": 0.027,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça",
+            "start": 45.93,
+            "end": 45.99,
+            "score": 0.064,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 46.01,
+            "end": 46.15,
+            "score": 0.492,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "parlent",
+            "start": 46.19,
+            "end": 46.33,
+            "score": 0.499,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ces",
+            "start": 46.35,
+            "end": 46.43,
+            "score": 0.545,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "livres.",
+            "start": 46.45,
+            "end": 46.63,
+            "score": 0.795,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 46.65,
+        "end": 57.293,
+        "text": "C'est sur cette opposition entre la centralisation et la décentralisation et le fait qu'il n'y a pas une meilleure méthode nécessairement qu'une autre, mais c'est complexe.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 46.65,
+            "end": 46.77,
+            "score": 0.792,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sur",
+            "start": 46.81,
+            "end": 48.63,
+            "score": 0.933,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cette",
+            "start": 48.65,
+            "end": 48.791,
+            "score": 0.977,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "opposition",
+            "start": 48.851,
+            "end": 49.391,
+            "score": 0.908,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "entre",
+            "start": 49.451,
+            "end": 49.951,
+            "score": 0.793,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 49.991,
+            "end": 50.051,
+            "score": 0.756,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "centralisation",
+            "start": 50.091,
+            "end": 50.791,
+            "score": 0.813,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 50.811,
+            "end": 50.851,
+            "score": 0.005,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 50.871,
+            "end": 50.931,
+            "score": 0.737,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "décentralisation",
+            "start": 50.971,
+            "end": 52.111,
+            "score": 0.942,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 52.191,
+            "end": 52.432,
+            "score": 0.858,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 52.452,
+            "end": 52.512,
+            "score": 0.878,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fait",
+            "start": 52.552,
+            "end": 52.692,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'il",
+            "start": 52.712,
+            "end": 53.472,
+            "score": 0.454,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "n'y",
+            "start": 53.492,
+            "end": 53.532,
+            "score": 0.094,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 53.552,
+            "end": 53.712,
+            "score": 0.651,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 53.732,
+            "end": 54.012,
+            "score": 0.869,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "une",
+            "start": 54.072,
+            "end": 54.372,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "meilleure",
+            "start": 54.412,
+            "end": 54.772,
+            "score": 0.912,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "méthode",
+            "start": 54.812,
+            "end": 55.092,
+            "score": 0.907,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nécessairement",
+            "start": 55.132,
+            "end": 55.532,
+            "score": 0.913,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'une",
+            "start": 55.572,
+            "end": 55.733,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autre,",
+            "start": 55.753,
+            "end": 55.933,
+            "score": 0.836,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mais",
+            "start": 55.973,
+            "end": 56.833,
+            "score": 0.907,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 56.873,
+            "end": 56.993,
+            "score": 0.718,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "complexe.",
+            "start": 57.013,
+            "end": 57.293,
+            "score": 0.993,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Et",
+        "start": 0.051,
+        "end": 0.151,
+        "score": 0.566,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "quand",
+        "start": 0.171,
+        "end": 0.291,
+        "score": 0.755,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 0.331,
+        "end": 0.551,
+        "score": 0.683,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "organise",
+        "start": 0.591,
+        "end": 0.911,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 0.931,
+        "end": 1.011,
+        "score": 0.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "expériences",
+        "start": 1.051,
+        "end": 1.472,
+        "score": 0.865,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "au",
+        "start": 1.512,
+        "end": 1.612,
+        "score": 0.242,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "laboratoire",
+        "start": 1.652,
+        "end": 2.092,
+        "score": 0.9,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avec",
+        "start": 2.152,
+        "end": 2.332,
+        "score": 0.951,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 2.372,
+        "end": 2.452,
+        "score": 0.921,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "groupes",
+        "start": 2.492,
+        "end": 2.712,
+        "score": 0.886,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 2.772,
+        "end": 2.852,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "gens,",
+        "start": 2.892,
+        "end": 3.052,
+        "score": 0.624,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 3.072,
+        "end": 3.132,
+        "score": 0.533,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "expériences",
+        "start": 3.152,
+        "end": 3.393,
+        "score": 0.329,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'intelligence",
+        "start": 3.413,
+        "end": 3.813,
+        "score": 0.709,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "collective,",
+        "start": 3.853,
+        "end": 4.673,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 4.733,
+        "end": 4.793,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "se",
+        "start": 4.813,
+        "end": 4.873,
+        "score": 0.808,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "rend",
+        "start": 4.893,
+        "end": 4.973,
+        "score": 0.454,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "compte",
+        "start": 4.993,
+        "end": 5.153,
+        "score": 0.55,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 5.173,
+        "end": 5.293,
+        "score": 0.753,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "spontanément,",
+        "start": 5.314,
+        "end": 5.754,
+        "score": 0.755,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ce",
+        "start": 5.774,
+        "end": 5.814,
+        "score": 0.949,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 5.834,
+        "end": 5.934,
+        "score": 0.725,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 5.954,
+        "end": 6.054,
+        "score": 0.732,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faire",
+        "start": 6.074,
+        "end": 6.214,
+        "score": 0.754,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 6.234,
+        "end": 6.294,
+        "score": 0.945,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "groupe,",
+        "start": 6.314,
+        "end": 6.494,
+        "score": 0.773,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 6.534,
+        "end": 6.634,
+        "score": 0.597,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'il",
+        "start": 6.654,
+        "end": 6.754,
+        "score": 0.835,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 6.774,
+        "end": 6.874,
+        "score": 0.78,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "se",
+        "start": 6.914,
+        "end": 7.014,
+        "score": 0.876,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "structurer",
+        "start": 7.074,
+        "end": 7.635,
+        "score": 0.827,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autour",
+        "start": 7.695,
+        "end": 7.995,
+        "score": 0.926,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'un",
+        "start": 8.035,
+        "end": 8.275,
+        "score": 0.988,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "leader.",
+        "start": 8.315,
+        "end": 8.955,
+        "score": 0.826,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "C'est",
+        "start": 8.975,
+        "end": 9.115,
+        "score": 0.156,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 9.135,
+        "end": 9.275,
+        "score": 0.384,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "gens",
+        "start": 9.355,
+        "end": 9.435,
+        "score": 0.327,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 9.455,
+        "end": 9.515,
+        "score": 0.864,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 9.536,
+        "end": 9.576,
+        "score": 0.086,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "se",
+        "start": 9.596,
+        "end": 9.636,
+        "score": 0.574,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "connaissent",
+        "start": 9.656,
+        "end": 9.916,
+        "score": 0.862,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas,",
+        "start": 9.936,
+        "end": 10.156,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 10.196,
+        "end": 10.276,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "participants",
+        "start": 10.296,
+        "end": 10.676,
+        "score": 0.789,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'on",
+        "start": 10.696,
+        "end": 10.816,
+        "score": 0.566,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "recrute.",
+        "start": 10.856,
+        "end": 11.356,
+        "score": 0.902,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "On",
+        "start": 11.376,
+        "end": 11.456,
+        "score": 0.44,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 11.476,
+        "end": 11.556,
+        "score": 0.24,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "met",
+        "start": 11.576,
+        "end": 11.677,
+        "score": 0.795,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "face",
+        "start": 11.697,
+        "end": 11.837,
+        "score": 0.669,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 11.857,
+        "end": 11.877,
+        "score": 0.727,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 11.937,
+        "end": 11.997,
+        "score": 0.786,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "problème,",
+        "start": 12.037,
+        "end": 12.717,
+        "score": 0.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 12.757,
+        "end": 12.797,
+        "score": 0.849,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 12.817,
+        "end": 12.857,
+        "score": 0.007,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "leur",
+        "start": 12.877,
+        "end": 12.977,
+        "score": 0.816,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donne",
+        "start": 12.997,
+        "end": 13.157,
+        "score": 0.837,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 13.177,
+        "end": 13.257,
+        "score": 0.819,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'autres",
+        "start": 13.297,
+        "end": 13.437,
+        "score": 0.817,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "instructions,",
+        "start": 13.457,
+        "end": 13.878,
+        "score": 0.842,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "top.",
+        "start": 13.978,
+        "end": 14.618,
+        "score": 0.916,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 14.658,
+        "end": 14.738,
+        "score": 0.756,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "là,",
+        "start": 14.778,
+        "end": 14.838,
+        "score": 0.674,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vous",
+        "start": 14.858,
+        "end": 14.978,
+        "score": 0.732,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "voyez",
+        "start": 14.998,
+        "end": 15.198,
+        "score": 0.542,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'une",
+        "start": 15.238,
+        "end": 15.458,
+        "score": 0.883,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "personne",
+        "start": 15.478,
+        "end": 15.758,
+        "score": 0.858,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 15.778,
+        "end": 15.859,
+        "score": 0.768,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "commencer",
+        "start": 15.879,
+        "end": 16.139,
+        "score": 0.902,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 16.159,
+        "end": 16.179,
+        "score": 0.972,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "se",
+        "start": 16.219,
+        "end": 16.279,
+        "score": 0.696,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "détacher",
+        "start": 16.299,
+        "end": 16.979,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 17.019,
+        "end": 17.139,
+        "score": 0.544,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 17.159,
+        "end": 17.339,
+        "score": 0.905,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prendre",
+        "start": 17.379,
+        "end": 17.699,
+        "score": 0.644,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 17.739,
+        "end": 17.779,
+        "score": 0.99,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "petit",
+        "start": 17.819,
+        "end": 18.0,
+        "score": 0.726,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "peu",
+        "start": 18.02,
+        "end": 18.12,
+        "score": 0.75,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 18.18,
+        "end": 18.26,
+        "score": 0.815,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "main",
+        "start": 18.28,
+        "end": 18.44,
+        "score": 0.571,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'organisation,",
+        "start": 18.48,
+        "end": 19.16,
+        "score": 0.867,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 19.18,
+        "end": 19.26,
+        "score": 0.746,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "commencer",
+        "start": 19.3,
+        "end": 19.6,
+        "score": 0.865,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 19.64,
+        "end": 19.7,
+        "score": 0.585,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prendre",
+        "start": 19.76,
+        "end": 19.98,
+        "score": 0.846,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 20.0,
+        "end": 20.121,
+        "score": 0.563,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "décisions,",
+        "start": 20.141,
+        "end": 21.041,
+        "score": 0.926,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 21.081,
+        "end": 21.261,
+        "score": 0.946,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "distribuer",
+        "start": 21.301,
+        "end": 21.721,
+        "score": 0.908,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 21.761,
+        "end": 21.861,
+        "score": 0.755,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tâches",
+        "start": 21.901,
+        "end": 22.262,
+        "score": 0.85,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 22.282,
+        "end": 22.322,
+        "score": 0.484,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 22.362,
+        "end": 22.442,
+        "score": 0.948,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sortes",
+        "start": 22.482,
+        "end": 22.702,
+        "score": 0.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 22.722,
+        "end": 22.822,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "lieutenants",
+        "start": 22.862,
+        "end": 23.322,
+        "score": 0.755,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 23.342,
+        "end": 23.422,
+        "score": 0.965,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vont",
+        "start": 23.462,
+        "end": 23.582,
+        "score": 0.758,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 23.602,
+        "end": 23.682,
+        "score": 0.755,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "distribuer",
+        "start": 23.702,
+        "end": 24.122,
+        "score": 0.86,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "eux-mêmes,",
+        "start": 24.162,
+        "end": 24.503,
+        "score": 0.57,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 24.543,
+        "end": 24.583,
+        "score": 0.482,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 24.623,
+        "end": 24.703,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sortes",
+        "start": 24.743,
+        "end": 24.943,
+        "score": 0.884,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'ouvriers,",
+        "start": 24.963,
+        "end": 25.323,
+        "score": 0.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "etc.",
+        "start": 25.343,
+        "end": 25.903,
+        "score": 0.699,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 25.943,
+        "end": 26.003,
+        "score": 0.598,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 26.023,
+        "end": 26.063,
+        "score": 0.284,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fait,",
+        "start": 26.103,
+        "end": 26.263,
+        "score": 0.447,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "très",
+        "start": 26.283,
+        "end": 26.404,
+        "score": 0.776,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "rapidement,",
+        "start": 26.424,
+        "end": 26.744,
+        "score": 0.871,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vous",
+        "start": 26.764,
+        "end": 26.864,
+        "score": 0.821,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avez",
+        "start": 26.904,
+        "end": 27.024,
+        "score": 0.82,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "une",
+        "start": 27.064,
+        "end": 27.164,
+        "score": 0.788,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "forme",
+        "start": 27.184,
+        "end": 27.744,
+        "score": 0.954,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'organisation",
+        "start": 27.784,
+        "end": 28.284,
+        "score": 0.907,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pyramidale",
+        "start": 28.324,
+        "end": 28.805,
+        "score": 0.83,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 28.825,
+        "end": 28.925,
+        "score": 0.867,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 28.945,
+        "end": 29.025,
+        "score": 0.966,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "émerger.",
+        "start": 29.085,
+        "end": 29.345,
+        "score": 0.952,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Ça,",
+        "start": 29.605,
+        "end": 29.725,
+        "score": 0.576,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 29.745,
+        "end": 29.825,
+        "score": 0.324,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "assez",
+        "start": 29.845,
+        "end": 30.025,
+        "score": 0.25,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "spontané.",
+        "start": 30.105,
+        "end": 30.585,
+        "score": 0.651,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Quand",
+        "start": 30.625,
+        "end": 30.725,
+        "score": 0.647,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 30.745,
+        "end": 30.785,
+        "score": 0.731,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 30.805,
+        "end": 30.845,
+        "score": 0.001,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donne",
+        "start": 30.865,
+        "end": 31.005,
+        "score": 0.349,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 31.025,
+        "end": 31.125,
+        "score": 0.777,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'instruction",
+        "start": 31.165,
+        "end": 31.566,
+        "score": 0.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aux",
+        "start": 31.606,
+        "end": 31.686,
+        "score": 0.71,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "gens,",
+        "start": 31.706,
+        "end": 31.886,
+        "score": 0.639,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 31.906,
+        "end": 31.966,
+        "score": 0.718,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tout",
+        "start": 31.986,
+        "end": 32.086,
+        "score": 0.887,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cas",
+        "start": 32.106,
+        "end": 32.186,
+        "score": 0.827,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dans",
+        "start": 32.226,
+        "end": 32.326,
+        "score": 0.954,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "notre",
+        "start": 32.366,
+        "end": 32.606,
+        "score": 0.897,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "culture,",
+        "start": 32.646,
+        "end": 33.826,
+        "score": 0.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "assez",
+        "start": 33.866,
+        "end": 34.066,
+        "score": 0.533,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "spontanément,",
+        "start": 34.086,
+        "end": 34.506,
+        "score": 0.899,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ils",
+        "start": 34.566,
+        "end": 34.626,
+        "score": 0.482,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vont",
+        "start": 34.666,
+        "end": 34.787,
+        "score": 0.708,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "s'organiser",
+        "start": 34.807,
+        "end": 35.227,
+        "score": 0.784,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autour",
+        "start": 35.267,
+        "end": 35.447,
+        "score": 0.863,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'un",
+        "start": 35.467,
+        "end": 35.587,
+        "score": 0.795,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "chef.",
+        "start": 35.627,
+        "end": 36.447,
+        "score": 0.979,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 36.527,
+        "end": 36.847,
+        "score": 0.9,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 36.867,
+        "end": 36.907,
+        "score": 0.992,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "question",
+        "start": 36.947,
+        "end": 37.127,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'on",
+        "start": 37.147,
+        "end": 37.267,
+        "score": 0.098,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "se",
+        "start": 37.287,
+        "end": 37.327,
+        "score": 0.366,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pose,",
+        "start": 37.347,
+        "end": 37.487,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 37.507,
+        "end": 37.607,
+        "score": 0.51,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "est-ce",
+        "start": 37.627,
+        "end": 37.747,
+        "score": 0.505,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 37.767,
+        "end": 37.847,
+        "score": 0.68,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 37.867,
+        "end": 37.967,
+        "score": 0.344,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "possible",
+        "start": 37.987,
+        "end": 38.207,
+        "score": 0.865,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autrement",
+        "start": 38.267,
+        "end": 39.208,
+        "score": 0.762,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Si",
+        "start": 39.248,
+        "end": 39.308,
+        "score": 0.812,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vous",
+        "start": 39.328,
+        "end": 39.428,
+        "score": 0.72,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faites",
+        "start": 39.468,
+        "end": 39.628,
+        "score": 0.554,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pareil",
+        "start": 39.648,
+        "end": 39.848,
+        "score": 0.646,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avec",
+        "start": 39.868,
+        "end": 40.048,
+        "score": 0.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 40.068,
+        "end": 40.188,
+        "score": 0.875,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fourmis,",
+        "start": 40.228,
+        "end": 40.528,
+        "score": 0.764,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "par",
+        "start": 40.568,
+        "end": 40.648,
+        "score": 0.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "exemple,",
+        "start": 40.688,
+        "end": 40.888,
+        "score": 0.854,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 40.928,
+        "end": 41.008,
+        "score": 0.47,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fourmis",
+        "start": 41.028,
+        "end": 41.268,
+        "score": 0.622,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 41.288,
+        "end": 41.328,
+        "score": 0.092,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vont",
+        "start": 41.368,
+        "end": 41.488,
+        "score": 0.82,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 41.508,
+        "end": 41.628,
+        "score": 0.559,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "s'organiser",
+        "start": 41.648,
+        "end": 41.989,
+        "score": 0.76,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autour",
+        "start": 42.029,
+        "end": 42.189,
+        "score": 0.731,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'un",
+        "start": 42.209,
+        "end": 42.289,
+        "score": 0.473,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "chef.",
+        "start": 42.309,
+        "end": 42.469,
+        "score": 0.396,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Elles",
+        "start": 42.529,
+        "end": 42.689,
+        "score": 0.312,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vont",
+        "start": 42.729,
+        "end": 43.049,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "trouver",
+        "start": 43.089,
+        "end": 43.309,
+        "score": 0.853,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "une",
+        "start": 43.349,
+        "end": 43.429,
+        "score": 0.943,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "solution,",
+        "start": 43.469,
+        "end": 43.749,
+        "score": 0.879,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mais",
+        "start": 43.809,
+        "end": 43.949,
+        "score": 0.779,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "complètement",
+        "start": 43.969,
+        "end": 44.329,
+        "score": 0.888,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "décentralisée.",
+        "start": 44.369,
+        "end": 45.41,
+        "score": 0.924,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 45.47,
+        "end": 45.61,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donc,",
+        "start": 45.63,
+        "end": 45.75,
+        "score": 0.716,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 45.77,
+        "end": 45.85,
+        "score": 0.64,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 45.87,
+        "end": 45.91,
+        "score": 0.027,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça",
+        "start": 45.93,
+        "end": 45.99,
+        "score": 0.064,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 46.01,
+        "end": 46.15,
+        "score": 0.492,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "parlent",
+        "start": 46.19,
+        "end": 46.33,
+        "score": 0.499,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ces",
+        "start": 46.35,
+        "end": 46.43,
+        "score": 0.545,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "livres.",
+        "start": 46.45,
+        "end": 46.63,
+        "score": 0.795,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "C'est",
+        "start": 46.65,
+        "end": 46.77,
+        "score": 0.792,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sur",
+        "start": 46.81,
+        "end": 48.63,
+        "score": 0.933,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cette",
+        "start": 48.65,
+        "end": 48.791,
+        "score": 0.977,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "opposition",
+        "start": 48.851,
+        "end": 49.391,
+        "score": 0.908,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "entre",
+        "start": 49.451,
+        "end": 49.951,
+        "score": 0.793,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 49.991,
+        "end": 50.051,
+        "score": 0.756,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "centralisation",
+        "start": 50.091,
+        "end": 50.791,
+        "score": 0.813,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 50.811,
+        "end": 50.851,
+        "score": 0.005,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 50.871,
+        "end": 50.931,
+        "score": 0.737,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "décentralisation",
+        "start": 50.971,
+        "end": 52.111,
+        "score": 0.942,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 52.191,
+        "end": 52.432,
+        "score": 0.858,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 52.452,
+        "end": 52.512,
+        "score": 0.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fait",
+        "start": 52.552,
+        "end": 52.692,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'il",
+        "start": 52.712,
+        "end": 53.472,
+        "score": 0.454,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "n'y",
+        "start": 53.492,
+        "end": 53.532,
+        "score": 0.094,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 53.552,
+        "end": 53.712,
+        "score": 0.651,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 53.732,
+        "end": 54.012,
+        "score": 0.869,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "une",
+        "start": 54.072,
+        "end": 54.372,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "meilleure",
+        "start": 54.412,
+        "end": 54.772,
+        "score": 0.912,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "méthode",
+        "start": 54.812,
+        "end": 55.092,
+        "score": 0.907,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nécessairement",
+        "start": 55.132,
+        "end": 55.532,
+        "score": 0.913,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'une",
+        "start": 55.572,
+        "end": 55.733,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autre,",
+        "start": 55.753,
+        "end": 55.933,
+        "score": 0.836,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mais",
+        "start": 55.973,
+        "end": 56.833,
+        "score": 0.907,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 56.873,
+        "end": 56.993,
+        "score": 0.718,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "complexe.",
+        "start": 57.013,
+        "end": 57.293,
+        "score": 0.993,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 61,
+  "transcription_duration": 101
+}

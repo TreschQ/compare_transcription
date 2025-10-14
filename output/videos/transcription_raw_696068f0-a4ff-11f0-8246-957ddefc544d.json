@@ -1,0 +1,3852 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.537,
+        "end": 2.858,
+        "text": " laisse éclater sa joie.",
+        "words": [
+          {
+            "word": "laisse",
+            "start": 0.537,
+            "end": 0.937,
+            "score": 0.453,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "éclater",
+            "start": 0.977,
+            "end": 1.437,
+            "score": 0.663,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sa",
+            "start": 1.457,
+            "end": 1.658,
+            "score": 0.753,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "joie.",
+            "start": 1.678,
+            "end": 2.858,
+            "score": 0.534,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 2.898,
+        "end": 5.699,
+        "text": "Matane est en route pour la maison !",
+        "words": [
+          {
+            "word": "Matane",
+            "start": 2.898,
+            "end": 3.238,
+            "score": 0.767,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "est",
+            "start": 3.278,
+            "end": 3.378,
+            "score": 0.671,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 3.418,
+            "end": 3.538,
+            "score": 0.694,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "route",
+            "start": 3.558,
+            "end": 3.759,
+            "score": 0.607,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 3.779,
+            "end": 3.939,
+            "score": 0.831,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 3.959,
+            "end": 4.039,
+            "score": 0.946,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "maison",
+            "start": 4.079,
+            "end": 5.699,
+            "score": 0.918,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "!"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 5.739,
+        "end": 12.363,
+        "text": "Sourire et soulagement, son fils Matane, captif du Hamas depuis deux ans et deux jours, devrait être libre bientôt.",
+        "words": [
+          {
+            "word": "Sourire",
+            "start": 5.739,
+            "end": 6.22,
+            "score": 0.675,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 6.3,
+            "end": 6.38,
+            "score": 0.372,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "soulagement,",
+            "start": 6.44,
+            "end": 7.54,
+            "score": 0.903,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "son",
+            "start": 7.56,
+            "end": 7.74,
+            "score": 0.735,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fils",
+            "start": 7.76,
+            "end": 8.041,
+            "score": 0.839,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Matane,",
+            "start": 8.061,
+            "end": 8.521,
+            "score": 0.922,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "captif",
+            "start": 8.561,
+            "end": 9.061,
+            "score": 0.914,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 9.081,
+            "end": 9.161,
+            "score": 0.849,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Hamas",
+            "start": 9.201,
+            "end": 9.581,
+            "score": 0.813,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "depuis",
+            "start": 9.621,
+            "end": 9.841,
+            "score": 0.944,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "deux",
+            "start": 9.881,
+            "end": 10.041,
+            "score": 0.723,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ans",
+            "start": 10.061,
+            "end": 10.162,
+            "score": 0.569,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 10.182,
+            "end": 10.262,
+            "score": 0.808,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "deux",
+            "start": 10.302,
+            "end": 10.422,
+            "score": 0.818,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "jours,",
+            "start": 10.462,
+            "end": 10.722,
+            "score": 0.883,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "devrait",
+            "start": 10.742,
+            "end": 11.082,
+            "score": 0.77,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "être",
+            "start": 11.122,
+            "end": 11.342,
+            "score": 0.849,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "libre",
+            "start": 11.382,
+            "end": 11.962,
+            "score": 0.488,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "bientôt.",
+            "start": 12.002,
+            "end": 12.363,
+            "score": 0.855,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 12.403,
+        "end": 17.765,
+        "text": "Qui le prendra le premier dans ses bras ?",
+        "words": [
+          {
+            "word": "Qui",
+            "start": 12.403,
+            "end": 14.183,
+            "score": 0.868,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 14.223,
+            "end": 14.323,
+            "score": 0.375,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prendra",
+            "start": 14.344,
+            "end": 14.644,
+            "score": 0.412,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 14.684,
+            "end": 15.044,
+            "score": 0.478,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "premier",
+            "start": 15.064,
+            "end": 17.085,
+            "score": 0.786,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dans",
+            "start": 17.205,
+            "end": 17.545,
+            "score": 0.474,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ses",
+            "start": 17.565,
+            "end": 17.645,
+            "score": 0.27,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bras",
+            "start": 17.665,
+            "end": 17.765,
+            "score": 0.402,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 17.885,
+        "end": 18.125,
+        "text": "Toi ou moi ?",
+        "words": [
+          {
+            "word": "Toi",
+            "start": 17.885,
+            "end": 17.965,
+            "score": 0.386
+          },
+          {
+            "word": "ou",
+            "start": 17.985,
+            "end": 18.025,
+            "score": 0.0
+          },
+          {
+            "word": "moi",
+            "start": 18.065,
+            "end": 18.125,
+            "score": 0.001
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 18.165,
+        "end": 19.186,
+        "text": "Ou toutes les deux ?",
+        "words": [
+          {
+            "word": "Ou",
+            "start": 18.165,
+            "end": 18.205,
+            "score": 0.0
+          },
+          {
+            "word": "toutes",
+            "start": 18.225,
+            "end": 18.365,
+            "score": 0.084
+          },
+          {
+            "word": "les",
+            "start": 18.385,
+            "end": 18.485,
+            "score": 0.333
+          },
+          {
+            "word": "deux",
+            "start": 18.525,
+            "end": 19.186,
+            "score": 0.438,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 19.266,
+        "end": 26.669,
+        "text": "Ils sont quelques dizaines à s'être rassemblés pour danser dans la nuit de Tel Aviv et chanter.",
+        "words": [
+          {
+            "word": "Ils",
+            "start": 19.266,
+            "end": 19.426,
+            "score": 0.806,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sont",
+            "start": 19.466,
+            "end": 19.666,
+            "score": 0.924,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "quelques",
+            "start": 19.706,
+            "end": 20.086,
+            "score": 0.829,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dizaines",
+            "start": 20.106,
+            "end": 20.566,
+            "score": 0.801,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 20.626,
+            "end": 20.666,
+            "score": 0.525,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "s'être",
+            "start": 20.686,
+            "end": 21.207,
+            "score": 0.547,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "rassemblés",
+            "start": 21.247,
+            "end": 21.947,
+            "score": 0.812,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 21.967,
+            "end": 22.167,
+            "score": 0.764,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "danser",
+            "start": 22.207,
+            "end": 22.627,
+            "score": 0.82,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dans",
+            "start": 22.647,
+            "end": 22.787,
+            "score": 0.796,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 22.807,
+            "end": 22.868,
+            "score": 0.94,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nuit",
+            "start": 22.908,
+            "end": 23.088,
+            "score": 0.498,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 23.108,
+            "end": 23.228,
+            "score": 0.94,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Tel",
+            "start": 23.248,
+            "end": 23.428,
+            "score": 0.91,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Aviv",
+            "start": 23.448,
+            "end": 24.448,
+            "score": 0.974,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 24.488,
+            "end": 24.588,
+            "score": 0.606,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "chanter.",
+            "start": 24.628,
+            "end": 26.669,
+            "score": 0.806,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 26.689,
+        "end": 30.151,
+        "text": "Dès qu'ils ont appris qu'un accord entre le Hamas et Israël était imminent,",
+        "words": [
+          {
+            "word": "Dès",
+            "start": 26.689,
+            "end": 26.809,
+            "score": 0.641,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'ils",
+            "start": 26.829,
+            "end": 27.049,
+            "score": 0.837,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ont",
+            "start": 27.13,
+            "end": 27.29,
+            "score": 0.917,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "appris",
+            "start": 27.33,
+            "end": 27.59,
+            "score": 0.872,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'un",
+            "start": 27.63,
+            "end": 27.83,
+            "score": 0.709,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "accord",
+            "start": 27.89,
+            "end": 28.19,
+            "score": 0.901,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "entre",
+            "start": 28.23,
+            "end": 28.43,
+            "score": 0.828,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 28.47,
+            "end": 28.55,
+            "score": 0.988,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Hamas",
+            "start": 28.59,
+            "end": 28.87,
+            "score": 0.955,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 28.91,
+            "end": 28.99,
+            "score": 0.716,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Israël",
+            "start": 29.05,
+            "end": 29.491,
+            "score": 0.858,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "était",
+            "start": 29.531,
+            "end": 29.731,
+            "score": 0.77,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "imminent,",
+            "start": 29.811,
+            "end": 30.151,
+            "score": 0.767,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 32.742,
+        "end": 43.184,
+        "text": " Champagne sous le drapeau américain et clin d'œil au président Donald Trump pour ses familles et ses anciens otages.",
+        "words": [
+          {
+            "word": "Champagne",
+            "start": 32.742,
+            "end": 34.763,
+            "score": 0.569,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sous",
+            "start": 34.803,
+            "end": 34.943,
+            "score": 0.95,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 34.983,
+            "end": 35.083,
+            "score": 0.913,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "drapeau",
+            "start": 35.103,
+            "end": 35.463,
+            "score": 0.931,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "américain",
+            "start": 35.503,
+            "end": 37.123,
+            "score": 0.903,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 37.163,
+            "end": 37.243,
+            "score": 0.678,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "clin",
+            "start": 37.263,
+            "end": 37.523,
+            "score": 0.545,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'œil",
+            "start": 37.563,
+            "end": 37.763,
+            "score": 0.528,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "au",
+            "start": 37.803,
+            "end": 37.943,
+            "score": 0.76,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "président",
+            "start": 37.963,
+            "end": 38.383,
+            "score": 0.946,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Donald",
+            "start": 38.423,
+            "end": 38.783,
+            "score": 0.825,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Trump",
+            "start": 38.823,
+            "end": 39.504,
+            "score": 0.867,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 39.544,
+            "end": 39.724,
+            "score": 0.91,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ses",
+            "start": 39.744,
+            "end": 39.904,
+            "score": 0.855,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "familles",
+            "start": 39.944,
+            "end": 40.704,
+            "score": 0.803,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 40.764,
+            "end": 40.864,
+            "score": 0.622,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ses",
+            "start": 40.904,
+            "end": 41.024,
+            "score": 0.788,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "anciens",
+            "start": 41.084,
+            "end": 41.464,
+            "score": 0.731,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "otages.",
+            "start": 41.524,
+            "end": 43.184,
+            "score": 0.694,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 43.204,
+        "end": 44.605,
+        "text": "J'ai des frissons de la tête aux pieds.",
+        "words": [
+          {
+            "word": "J'ai",
+            "start": 43.204,
+            "end": 43.344,
+            "score": 0.378,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 43.364,
+            "end": 43.464,
+            "score": 0.353,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "frissons",
+            "start": 43.504,
+            "end": 43.825,
+            "score": 0.432,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 43.865,
+            "end": 43.945,
+            "score": 0.674,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 43.965,
+            "end": 44.045,
+            "score": 0.711,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tête",
+            "start": 44.085,
+            "end": 44.265,
+            "score": 0.732,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aux",
+            "start": 44.305,
+            "end": 44.385,
+            "score": 0.433,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pieds.",
+            "start": 44.405,
+            "end": 44.605,
+            "score": 0.489,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 44.645,
+        "end": 48.306,
+        "text": "On n'imagine pas le moment de joie que nous vivons.",
+        "words": [
+          {
+            "word": "On",
+            "start": 44.645,
+            "end": 44.745,
+            "score": 0.673,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "n'imagine",
+            "start": 44.785,
+            "end": 45.245,
+            "score": 0.925,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 45.265,
+            "end": 45.405,
+            "score": 0.896,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 45.425,
+            "end": 45.485,
+            "score": 0.913,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "moment",
+            "start": 45.525,
+            "end": 45.705,
+            "score": 0.912,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 45.725,
+            "end": 45.805,
+            "score": 0.933,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "joie",
+            "start": 45.845,
+            "end": 46.085,
+            "score": 0.718,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 46.105,
+            "end": 46.205,
+            "score": 0.814,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nous",
+            "start": 46.245,
+            "end": 46.365,
+            "score": 0.859,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vivons.",
+            "start": 46.405,
+            "end": 48.306,
+            "score": 0.668,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 48.346,
+        "end": 56.027,
+        "text": "Un peu plus tôt à Washington, au cours d'une réunion, le président américain reçoit un message de Marco Rubio d'un déblocage des négociations.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 48.346,
+            "end": 48.426,
+            "score": 0.867,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "peu",
+            "start": 48.446,
+            "end": 48.586,
+            "score": 0.955,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plus",
+            "start": 48.626,
+            "end": 48.726,
+            "score": 0.72,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tôt",
+            "start": 48.766,
+            "end": 48.906,
+            "score": 0.868,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 48.926,
+            "end": 48.946,
+            "score": 0.005,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Washington,",
+            "start": 49.066,
+            "end": 49.666,
+            "score": 0.783,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "au",
+            "start": 49.706,
+            "end": 49.766,
+            "score": 0.76,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cours",
+            "start": 49.806,
+            "end": 49.966,
+            "score": 0.899,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'une",
+            "start": 50.006,
+            "end": 50.186,
+            "score": 0.835,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "réunion,",
+            "start": 50.206,
+            "end": 50.606,
+            "score": 0.862,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 50.646,
+            "end": 50.746,
+            "score": 0.844,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "président",
+            "start": 50.786,
+            "end": 51.146,
+            "score": 0.857,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "américain",
+            "start": 51.206,
+            "end": 51.746,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "reçoit",
+            "start": 51.786,
+            "end": 52.666,
+            "score": 0.86,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 52.727,
+            "end": 52.787,
+            "score": 0.998,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "message",
+            "start": 52.827,
+            "end": 53.267,
+            "score": 0.9,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 53.307,
+            "end": 53.387,
+            "score": 0.925,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Marco",
+            "start": 53.427,
+            "end": 53.727,
+            "score": 0.926,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Rubio",
+            "start": 53.767,
+            "end": 54.707,
+            "score": 0.838,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'un",
+            "start": 54.727,
+            "end": 54.867,
+            "score": 0.907,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "déblocage",
+            "start": 54.907,
+            "end": 55.327,
+            "score": 0.921,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 55.367,
+            "end": 55.467,
+            "score": 0.979,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "négociations.",
+            "start": 55.507,
+            "end": 56.027,
+            "score": 0.911,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 58.028,
+        "end": 59.108,
+        "text": "On vient de me donner un message.",
+        "words": [
+          {
+            "word": "On",
+            "start": 58.028,
+            "end": 58.108,
+            "score": 0.476,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vient",
+            "start": 58.128,
+            "end": 58.268,
+            "score": 0.643,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 58.288,
+            "end": 58.348,
+            "score": 0.501,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "me",
+            "start": 58.368,
+            "end": 58.448,
+            "score": 0.497,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "donner",
+            "start": 58.468,
+            "end": 58.688,
+            "score": 0.561,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "un",
+            "start": 58.728,
+            "end": 58.808,
+            "score": 0.481,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "message.",
+            "start": 58.828,
+            "end": 59.108,
+            "score": 0.757,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 60.525,
+        "end": 63.506,
+        "text": " Le secrétaire d'Etat vient de me passer une note.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 60.525,
+            "end": 60.705,
+            "score": 0.176,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "secrétaire",
+            "start": 60.725,
+            "end": 61.105,
+            "score": 0.515,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'Etat",
+            "start": 61.145,
+            "end": 61.365,
+            "score": 0.391,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vient",
+            "start": 61.385,
+            "end": 61.585,
+            "score": 0.773,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 61.625,
+            "end": 61.685,
+            "score": 0.98,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "me",
+            "start": 61.725,
+            "end": 61.865,
+            "score": 0.918,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "passer",
+            "start": 61.905,
+            "end": 62.146,
+            "score": 0.971,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 62.206,
+            "end": 62.346,
+            "score": 0.829,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "note.",
+            "start": 62.386,
+            "end": 63.506,
+            "score": 0.844,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 63.746,
+        "end": 67.007,
+        "text": "On est très proche d'un accord au Moyen-Orient.",
+        "words": [
+          {
+            "word": "On",
+            "start": 63.746,
+            "end": 63.826,
+            "score": 0.834,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 63.866,
+            "end": 63.966,
+            "score": 0.818,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "très",
+            "start": 63.986,
+            "end": 64.126,
+            "score": 0.894,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "proche",
+            "start": 64.166,
+            "end": 64.386,
+            "score": 0.769,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'un",
+            "start": 64.406,
+            "end": 64.546,
+            "score": 0.892,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "accord",
+            "start": 64.586,
+            "end": 64.846,
+            "score": 0.789,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "au",
+            "start": 64.866,
+            "end": 64.946,
+            "score": 0.687,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Moyen-Orient.",
+            "start": 64.966,
+            "end": 67.007,
+            "score": 0.873,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 67.067,
+        "end": 74.449,
+        "text": "Et Donald Trump, très impliqué d'appeler directement ses familles d'otages pour leur annoncer au téléphone la nouvelle en personne.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 67.067,
+            "end": 67.207,
+            "score": 0.774,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Donald",
+            "start": 67.227,
+            "end": 67.607,
+            "score": 0.766,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Trump,",
+            "start": 67.647,
+            "end": 68.067,
+            "score": 0.914,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "très",
+            "start": 68.107,
+            "end": 68.327,
+            "score": 0.837,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "impliqué",
+            "start": 68.387,
+            "end": 68.947,
+            "score": 0.897,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'appeler",
+            "start": 69.007,
+            "end": 69.328,
+            "score": 0.935,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "directement",
+            "start": 69.368,
+            "end": 70.088,
+            "score": 0.955,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ses",
+            "start": 70.128,
+            "end": 70.268,
+            "score": 0.884,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "familles",
+            "start": 70.308,
+            "end": 70.588,
+            "score": 0.85,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'otages",
+            "start": 70.628,
+            "end": 71.408,
+            "score": 0.855,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 71.468,
+            "end": 71.628,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "leur",
+            "start": 71.648,
+            "end": 71.788,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "annoncer",
+            "start": 71.828,
+            "end": 72.168,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "au",
+            "start": 72.208,
+            "end": 72.268,
+            "score": 0.872,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "téléphone",
+            "start": 72.308,
+            "end": 72.828,
+            "score": 0.771,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 72.848,
+            "end": 72.909,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nouvelle",
+            "start": 72.949,
+            "end": 73.189,
+            "score": 0.955,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 73.209,
+            "end": 73.289,
+            "score": 0.93,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "personne.",
+            "start": 73.329,
+            "end": 74.449,
+            "score": 0.915,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 74.469,
+        "end": 75.729,
+        "text": "Les otages devraient rentrer.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 74.469,
+            "end": 74.589,
+            "score": 0.984,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "otages",
+            "start": 74.649,
+            "end": 74.949,
+            "score": 0.905,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "devraient",
+            "start": 75.009,
+            "end": 75.329,
+            "score": 0.689,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rentrer.",
+            "start": 75.369,
+            "end": 75.729,
+            "score": 0.8,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 75.769,
+        "end": 77.17,
+        "text": "Ils seront tous là dès lundi.",
+        "words": [
+          {
+            "word": "Ils",
+            "start": 75.769,
+            "end": 75.909,
+            "score": 0.652,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "seront",
+            "start": 75.949,
+            "end": 76.249,
+            "score": 0.87,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "tous",
+            "start": 76.269,
+            "end": 76.409,
+            "score": 0.822,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "là",
+            "start": 76.57,
+            "end": 76.75,
+            "score": 0.897,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dès",
+            "start": 76.77,
+            "end": 76.91,
+            "score": 0.867,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "lundi.",
+            "start": 76.93,
+            "end": 77.17,
+            "score": 0.741,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 80.277,
+        "end": 82.258,
+        "text": " Applaudissements.",
+        "words": [
+          {
+            "word": "Applaudissements.",
+            "start": 80.277,
+            "end": 82.258,
+            "score": 0.657,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 82.298,
+        "end": 84.919,
+        "text": "Aussi dans la nuit Gazaoui.",
+        "words": [
+          {
+            "word": "Aussi",
+            "start": 82.298,
+            "end": 82.738,
+            "score": 0.931,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dans",
+            "start": 82.758,
+            "end": 82.898,
+            "score": 0.981,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 82.918,
+            "end": 82.998,
+            "score": 0.979,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nuit",
+            "start": 83.058,
+            "end": 83.398,
+            "score": 0.805,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Gazaoui.",
+            "start": 83.438,
+            "end": 84.919,
+            "score": 0.805,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 84.959,
+        "end": 92.181,
+        "text": "Ces célébrations et cet espoir de la fin des bombardements et de cette longue guerre meurtrière.",
+        "words": [
+          {
+            "word": "Ces",
+            "start": 84.959,
+            "end": 85.119,
+            "score": 0.828,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "célébrations",
+            "start": 85.159,
+            "end": 85.799,
+            "score": 0.903,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 85.839,
+            "end": 85.959,
+            "score": 0.802,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cet",
+            "start": 85.999,
+            "end": 86.159,
+            "score": 0.977,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "espoir",
+            "start": 86.199,
+            "end": 86.719,
+            "score": 0.967,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 86.759,
+            "end": 86.839,
+            "score": 0.97,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 86.879,
+            "end": 86.919,
+            "score": 0.997,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fin",
+            "start": 86.959,
+            "end": 87.119,
+            "score": 0.861,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 87.159,
+            "end": 87.259,
+            "score": 0.836,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "bombardements",
+            "start": 87.279,
+            "end": 88.56,
+            "score": 0.903,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 88.62,
+            "end": 88.74,
+            "score": 0.918,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 88.78,
+            "end": 88.9,
+            "score": 0.885,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cette",
+            "start": 88.92,
+            "end": 89.18,
+            "score": 0.907,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "longue",
+            "start": 89.2,
+            "end": 89.42,
+            "score": 0.878,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "guerre",
+            "start": 89.44,
+            "end": 89.68,
+            "score": 0.603,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "meurtrière.",
+            "start": 89.7,
+            "end": 92.181,
+            "score": 0.742,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 92.221,
+        "end": 97.683,
+        "text": "Malgré toutes les blessures, les morts, la perte d'êtres chers, de parents, nous sommes heureux aujourd'hui.",
+        "words": [
+          {
+            "word": "Malgré",
+            "start": 92.221,
+            "end": 92.501,
+            "score": 0.839,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "toutes",
+            "start": 92.521,
+            "end": 92.721,
+            "score": 0.833,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 92.741,
+            "end": 92.821,
+            "score": 0.848,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "blessures,",
+            "start": 92.841,
+            "end": 93.521,
+            "score": 0.784,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 93.561,
+            "end": 93.701,
+            "score": 0.806,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "morts,",
+            "start": 93.762,
+            "end": 94.482,
+            "score": 0.934,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 94.522,
+            "end": 94.602,
+            "score": 0.994,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "perte",
+            "start": 94.662,
+            "end": 94.962,
+            "score": 0.974,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'êtres",
+            "start": 95.002,
+            "end": 95.282,
+            "score": 0.848,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "chers,",
+            "start": 95.342,
+            "end": 95.662,
+            "score": 0.721,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 95.682,
+            "end": 95.822,
+            "score": 0.985,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "parents,",
+            "start": 95.862,
+            "end": 96.722,
+            "score": 0.661,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nous",
+            "start": 96.743,
+            "end": 96.863,
+            "score": 0.915,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sommes",
+            "start": 96.903,
+            "end": 97.103,
+            "score": 0.921,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "heureux",
+            "start": 97.143,
+            "end": 97.383,
+            "score": 0.945,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aujourd'hui.",
+            "start": 97.423,
+            "end": 97.683,
+            "score": 0.93,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 98.89,
+        "end": 106.999,
+        "text": " En principe, des signatures de l'accord négocié ici en Égypte et l'approbation du gouvernement israélien, le cessez-le-feu entrera en vigueur à Gaza.",
+        "words": [
+          {
+            "word": "En",
+            "start": 98.89,
+            "end": 98.991,
+            "score": 0.512,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "principe,",
+            "start": 99.031,
+            "end": 99.412,
+            "score": 0.862,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 99.452,
+            "end": 99.533,
+            "score": 0.843,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "signatures",
+            "start": 99.573,
+            "end": 100.034,
+            "score": 0.809,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 100.075,
+            "end": 100.135,
+            "score": 0.992,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'accord",
+            "start": 100.175,
+            "end": 100.496,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "négocié",
+            "start": 100.536,
+            "end": 100.918,
+            "score": 0.893,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ici",
+            "start": 100.958,
+            "end": 101.158,
+            "score": 0.962,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 101.198,
+            "end": 101.299,
+            "score": 0.996,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Égypte",
+            "start": 101.359,
+            "end": 102.182,
+            "score": 0.721,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 102.202,
+            "end": 102.242,
+            "score": 0.001,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'approbation",
+            "start": 102.262,
+            "end": 102.824,
+            "score": 0.945,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 102.864,
+            "end": 102.985,
+            "score": 0.979,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "gouvernement",
+            "start": 103.025,
+            "end": 103.527,
+            "score": 0.776,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "israélien,",
+            "start": 103.567,
+            "end": 104.53,
+            "score": 0.71,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 104.57,
+            "end": 104.65,
+            "score": 0.982,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cessez-le-feu",
+            "start": 104.691,
+            "end": 105.293,
+            "score": 0.799,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "entrera",
+            "start": 105.353,
+            "end": 105.734,
+            "score": 0.848,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 105.774,
+            "end": 105.835,
+            "score": 0.775,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vigueur",
+            "start": 105.875,
+            "end": 106.176,
+            "score": 0.686,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 106.216,
+            "end": 106.276,
+            "score": 0.685,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Gaza.",
+            "start": 106.316,
+            "end": 106.999,
+            "score": 0.961,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 107.039,
+        "end": 110.992,
+        "text": "Et dans les 72 heures, les 48 otages seront libérés par le Hamas.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 107.039,
+            "end": 107.139,
+            "score": 0.884,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dans",
+            "start": 107.179,
+            "end": 107.3,
+            "score": 0.906,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 107.34,
+            "end": 107.42,
+            "score": 0.904,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "72"
+          },
+          {
+            "word": "heures,",
+            "start": 107.46,
+            "end": 108.624,
+            "score": 0.602,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 108.664,
+            "end": 108.805,
+            "score": 0.803,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "48"
+          },
+          {
+            "word": "otages",
+            "start": 109.347,
+            "end": 109.668,
+            "score": 0.815,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "seront",
+            "start": 109.708,
+            "end": 109.989,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "libérés",
+            "start": 110.029,
+            "end": 110.43,
+            "score": 0.884,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "par",
+            "start": 110.451,
+            "end": 110.571,
+            "score": 0.989,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 110.611,
+            "end": 110.671,
+            "score": 0.988,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Hamas.",
+            "start": 110.691,
+            "end": 110.992,
+            "score": 0.911,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "laisse",
+        "start": 0.537,
+        "end": 0.937,
+        "score": 0.453,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "éclater",
+        "start": 0.977,
+        "end": 1.437,
+        "score": 0.663,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sa",
+        "start": 1.457,
+        "end": 1.658,
+        "score": 0.753,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "joie.",
+        "start": 1.678,
+        "end": 2.858,
+        "score": 0.534,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Matane",
+        "start": 2.898,
+        "end": 3.238,
+        "score": 0.767,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "est",
+        "start": 3.278,
+        "end": 3.378,
+        "score": 0.671,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 3.418,
+        "end": 3.538,
+        "score": 0.694,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "route",
+        "start": 3.558,
+        "end": 3.759,
+        "score": 0.607,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 3.779,
+        "end": 3.939,
+        "score": 0.831,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 3.959,
+        "end": 4.039,
+        "score": 0.946,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "maison",
+        "start": 4.079,
+        "end": 5.699,
+        "score": 0.918,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "!"
+      },
+      {
+        "word": "Sourire",
+        "start": 5.739,
+        "end": 6.22,
+        "score": 0.675,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 6.3,
+        "end": 6.38,
+        "score": 0.372,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "soulagement,",
+        "start": 6.44,
+        "end": 7.54,
+        "score": 0.903,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "son",
+        "start": 7.56,
+        "end": 7.74,
+        "score": 0.735,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fils",
+        "start": 7.76,
+        "end": 8.041,
+        "score": 0.839,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Matane,",
+        "start": 8.061,
+        "end": 8.521,
+        "score": 0.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "captif",
+        "start": 8.561,
+        "end": 9.061,
+        "score": 0.914,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 9.081,
+        "end": 9.161,
+        "score": 0.849,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Hamas",
+        "start": 9.201,
+        "end": 9.581,
+        "score": 0.813,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "depuis",
+        "start": 9.621,
+        "end": 9.841,
+        "score": 0.944,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "deux",
+        "start": 9.881,
+        "end": 10.041,
+        "score": 0.723,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ans",
+        "start": 10.061,
+        "end": 10.162,
+        "score": 0.569,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 10.182,
+        "end": 10.262,
+        "score": 0.808,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "deux",
+        "start": 10.302,
+        "end": 10.422,
+        "score": 0.818,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "jours,",
+        "start": 10.462,
+        "end": 10.722,
+        "score": 0.883,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "devrait",
+        "start": 10.742,
+        "end": 11.082,
+        "score": 0.77,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "être",
+        "start": 11.122,
+        "end": 11.342,
+        "score": 0.849,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "libre",
+        "start": 11.382,
+        "end": 11.962,
+        "score": 0.488,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "bientôt.",
+        "start": 12.002,
+        "end": 12.363,
+        "score": 0.855,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Qui",
+        "start": 12.403,
+        "end": 14.183,
+        "score": 0.868,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 14.223,
+        "end": 14.323,
+        "score": 0.375,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prendra",
+        "start": 14.344,
+        "end": 14.644,
+        "score": 0.412,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 14.684,
+        "end": 15.044,
+        "score": 0.478,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "premier",
+        "start": 15.064,
+        "end": 17.085,
+        "score": 0.786,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dans",
+        "start": 17.205,
+        "end": 17.545,
+        "score": 0.474,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ses",
+        "start": 17.565,
+        "end": 17.645,
+        "score": 0.27,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bras",
+        "start": 17.665,
+        "end": 17.765,
+        "score": 0.402,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Toi",
+        "start": 17.885,
+        "end": 17.965,
+        "score": 0.386
+      },
+      {
+        "word": "ou",
+        "start": 17.985,
+        "end": 18.025,
+        "score": 0.0
+      },
+      {
+        "word": "moi",
+        "start": 18.065,
+        "end": 18.125,
+        "score": 0.001
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Ou",
+        "start": 18.165,
+        "end": 18.205,
+        "score": 0.0
+      },
+      {
+        "word": "toutes",
+        "start": 18.225,
+        "end": 18.365,
+        "score": 0.084
+      },
+      {
+        "word": "les",
+        "start": 18.385,
+        "end": 18.485,
+        "score": 0.333
+      },
+      {
+        "word": "deux",
+        "start": 18.525,
+        "end": 19.186,
+        "score": 0.438,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Ils",
+        "start": 19.266,
+        "end": 19.426,
+        "score": 0.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sont",
+        "start": 19.466,
+        "end": 19.666,
+        "score": 0.924,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "quelques",
+        "start": 19.706,
+        "end": 20.086,
+        "score": 0.829,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dizaines",
+        "start": 20.106,
+        "end": 20.566,
+        "score": 0.801,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 20.626,
+        "end": 20.666,
+        "score": 0.525,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "s'être",
+        "start": 20.686,
+        "end": 21.207,
+        "score": 0.547,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "rassemblés",
+        "start": 21.247,
+        "end": 21.947,
+        "score": 0.812,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 21.967,
+        "end": 22.167,
+        "score": 0.764,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "danser",
+        "start": 22.207,
+        "end": 22.627,
+        "score": 0.82,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dans",
+        "start": 22.647,
+        "end": 22.787,
+        "score": 0.796,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 22.807,
+        "end": 22.868,
+        "score": 0.94,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nuit",
+        "start": 22.908,
+        "end": 23.088,
+        "score": 0.498,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 23.108,
+        "end": 23.228,
+        "score": 0.94,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Tel",
+        "start": 23.248,
+        "end": 23.428,
+        "score": 0.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Aviv",
+        "start": 23.448,
+        "end": 24.448,
+        "score": 0.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 24.488,
+        "end": 24.588,
+        "score": 0.606,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "chanter.",
+        "start": 24.628,
+        "end": 26.669,
+        "score": 0.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Dès",
+        "start": 26.689,
+        "end": 26.809,
+        "score": 0.641,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'ils",
+        "start": 26.829,
+        "end": 27.049,
+        "score": 0.837,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ont",
+        "start": 27.13,
+        "end": 27.29,
+        "score": 0.917,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "appris",
+        "start": 27.33,
+        "end": 27.59,
+        "score": 0.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'un",
+        "start": 27.63,
+        "end": 27.83,
+        "score": 0.709,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "accord",
+        "start": 27.89,
+        "end": 28.19,
+        "score": 0.901,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "entre",
+        "start": 28.23,
+        "end": 28.43,
+        "score": 0.828,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 28.47,
+        "end": 28.55,
+        "score": 0.988,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Hamas",
+        "start": 28.59,
+        "end": 28.87,
+        "score": 0.955,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 28.91,
+        "end": 28.99,
+        "score": 0.716,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Israël",
+        "start": 29.05,
+        "end": 29.491,
+        "score": 0.858,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "était",
+        "start": 29.531,
+        "end": 29.731,
+        "score": 0.77,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "imminent,",
+        "start": 29.811,
+        "end": 30.151,
+        "score": 0.767,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Champagne",
+        "start": 32.742,
+        "end": 34.763,
+        "score": 0.569,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sous",
+        "start": 34.803,
+        "end": 34.943,
+        "score": 0.95,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 34.983,
+        "end": 35.083,
+        "score": 0.913,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "drapeau",
+        "start": 35.103,
+        "end": 35.463,
+        "score": 0.931,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "américain",
+        "start": 35.503,
+        "end": 37.123,
+        "score": 0.903,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 37.163,
+        "end": 37.243,
+        "score": 0.678,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "clin",
+        "start": 37.263,
+        "end": 37.523,
+        "score": 0.545,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'œil",
+        "start": 37.563,
+        "end": 37.763,
+        "score": 0.528,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "au",
+        "start": 37.803,
+        "end": 37.943,
+        "score": 0.76,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "président",
+        "start": 37.963,
+        "end": 38.383,
+        "score": 0.946,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Donald",
+        "start": 38.423,
+        "end": 38.783,
+        "score": 0.825,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Trump",
+        "start": 38.823,
+        "end": 39.504,
+        "score": 0.867,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 39.544,
+        "end": 39.724,
+        "score": 0.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ses",
+        "start": 39.744,
+        "end": 39.904,
+        "score": 0.855,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "familles",
+        "start": 39.944,
+        "end": 40.704,
+        "score": 0.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 40.764,
+        "end": 40.864,
+        "score": 0.622,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ses",
+        "start": 40.904,
+        "end": 41.024,
+        "score": 0.788,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "anciens",
+        "start": 41.084,
+        "end": 41.464,
+        "score": 0.731,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "otages.",
+        "start": 41.524,
+        "end": 43.184,
+        "score": 0.694,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "J'ai",
+        "start": 43.204,
+        "end": 43.344,
+        "score": 0.378,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 43.364,
+        "end": 43.464,
+        "score": 0.353,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "frissons",
+        "start": 43.504,
+        "end": 43.825,
+        "score": 0.432,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 43.865,
+        "end": 43.945,
+        "score": 0.674,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 43.965,
+        "end": 44.045,
+        "score": 0.711,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tête",
+        "start": 44.085,
+        "end": 44.265,
+        "score": 0.732,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aux",
+        "start": 44.305,
+        "end": 44.385,
+        "score": 0.433,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pieds.",
+        "start": 44.405,
+        "end": 44.605,
+        "score": 0.489,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "On",
+        "start": 44.645,
+        "end": 44.745,
+        "score": 0.673,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "n'imagine",
+        "start": 44.785,
+        "end": 45.245,
+        "score": 0.925,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 45.265,
+        "end": 45.405,
+        "score": 0.896,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 45.425,
+        "end": 45.485,
+        "score": 0.913,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "moment",
+        "start": 45.525,
+        "end": 45.705,
+        "score": 0.912,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 45.725,
+        "end": 45.805,
+        "score": 0.933,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "joie",
+        "start": 45.845,
+        "end": 46.085,
+        "score": 0.718,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 46.105,
+        "end": 46.205,
+        "score": 0.814,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nous",
+        "start": 46.245,
+        "end": 46.365,
+        "score": 0.859,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vivons.",
+        "start": 46.405,
+        "end": 48.306,
+        "score": 0.668,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Un",
+        "start": 48.346,
+        "end": 48.426,
+        "score": 0.867,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "peu",
+        "start": 48.446,
+        "end": 48.586,
+        "score": 0.955,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plus",
+        "start": 48.626,
+        "end": 48.726,
+        "score": 0.72,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tôt",
+        "start": 48.766,
+        "end": 48.906,
+        "score": 0.868,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 48.926,
+        "end": 48.946,
+        "score": 0.005,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Washington,",
+        "start": 49.066,
+        "end": 49.666,
+        "score": 0.783,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "au",
+        "start": 49.706,
+        "end": 49.766,
+        "score": 0.76,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cours",
+        "start": 49.806,
+        "end": 49.966,
+        "score": 0.899,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'une",
+        "start": 50.006,
+        "end": 50.186,
+        "score": 0.835,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "réunion,",
+        "start": 50.206,
+        "end": 50.606,
+        "score": 0.862,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 50.646,
+        "end": 50.746,
+        "score": 0.844,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "président",
+        "start": 50.786,
+        "end": 51.146,
+        "score": 0.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "américain",
+        "start": 51.206,
+        "end": 51.746,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "reçoit",
+        "start": 51.786,
+        "end": 52.666,
+        "score": 0.86,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 52.727,
+        "end": 52.787,
+        "score": 0.998,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "message",
+        "start": 52.827,
+        "end": 53.267,
+        "score": 0.9,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 53.307,
+        "end": 53.387,
+        "score": 0.925,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Marco",
+        "start": 53.427,
+        "end": 53.727,
+        "score": 0.926,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Rubio",
+        "start": 53.767,
+        "end": 54.707,
+        "score": 0.838,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'un",
+        "start": 54.727,
+        "end": 54.867,
+        "score": 0.907,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "déblocage",
+        "start": 54.907,
+        "end": 55.327,
+        "score": 0.921,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 55.367,
+        "end": 55.467,
+        "score": 0.979,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "négociations.",
+        "start": 55.507,
+        "end": 56.027,
+        "score": 0.911,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "On",
+        "start": 58.028,
+        "end": 58.108,
+        "score": 0.476,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vient",
+        "start": 58.128,
+        "end": 58.268,
+        "score": 0.643,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 58.288,
+        "end": 58.348,
+        "score": 0.501,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "me",
+        "start": 58.368,
+        "end": 58.448,
+        "score": 0.497,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "donner",
+        "start": 58.468,
+        "end": 58.688,
+        "score": 0.561,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "un",
+        "start": 58.728,
+        "end": 58.808,
+        "score": 0.481,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "message.",
+        "start": 58.828,
+        "end": 59.108,
+        "score": 0.757,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Le",
+        "start": 60.525,
+        "end": 60.705,
+        "score": 0.176,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "secrétaire",
+        "start": 60.725,
+        "end": 61.105,
+        "score": 0.515,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'Etat",
+        "start": 61.145,
+        "end": 61.365,
+        "score": 0.391,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vient",
+        "start": 61.385,
+        "end": 61.585,
+        "score": 0.773,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 61.625,
+        "end": 61.685,
+        "score": 0.98,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "me",
+        "start": 61.725,
+        "end": 61.865,
+        "score": 0.918,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "passer",
+        "start": 61.905,
+        "end": 62.146,
+        "score": 0.971,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 62.206,
+        "end": 62.346,
+        "score": 0.829,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "note.",
+        "start": 62.386,
+        "end": 63.506,
+        "score": 0.844,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "On",
+        "start": 63.746,
+        "end": 63.826,
+        "score": 0.834,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 63.866,
+        "end": 63.966,
+        "score": 0.818,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "très",
+        "start": 63.986,
+        "end": 64.126,
+        "score": 0.894,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "proche",
+        "start": 64.166,
+        "end": 64.386,
+        "score": 0.769,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'un",
+        "start": 64.406,
+        "end": 64.546,
+        "score": 0.892,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "accord",
+        "start": 64.586,
+        "end": 64.846,
+        "score": 0.789,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "au",
+        "start": 64.866,
+        "end": 64.946,
+        "score": 0.687,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Moyen-Orient.",
+        "start": 64.966,
+        "end": 67.007,
+        "score": 0.873,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 67.067,
+        "end": 67.207,
+        "score": 0.774,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Donald",
+        "start": 67.227,
+        "end": 67.607,
+        "score": 0.766,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Trump,",
+        "start": 67.647,
+        "end": 68.067,
+        "score": 0.914,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "très",
+        "start": 68.107,
+        "end": 68.327,
+        "score": 0.837,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "impliqué",
+        "start": 68.387,
+        "end": 68.947,
+        "score": 0.897,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'appeler",
+        "start": 69.007,
+        "end": 69.328,
+        "score": 0.935,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "directement",
+        "start": 69.368,
+        "end": 70.088,
+        "score": 0.955,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ses",
+        "start": 70.128,
+        "end": 70.268,
+        "score": 0.884,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "familles",
+        "start": 70.308,
+        "end": 70.588,
+        "score": 0.85,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'otages",
+        "start": 70.628,
+        "end": 71.408,
+        "score": 0.855,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 71.468,
+        "end": 71.628,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "leur",
+        "start": 71.648,
+        "end": 71.788,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "annoncer",
+        "start": 71.828,
+        "end": 72.168,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "au",
+        "start": 72.208,
+        "end": 72.268,
+        "score": 0.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "téléphone",
+        "start": 72.308,
+        "end": 72.828,
+        "score": 0.771,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 72.848,
+        "end": 72.909,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nouvelle",
+        "start": 72.949,
+        "end": 73.189,
+        "score": 0.955,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 73.209,
+        "end": 73.289,
+        "score": 0.93,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "personne.",
+        "start": 73.329,
+        "end": 74.449,
+        "score": 0.915,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Les",
+        "start": 74.469,
+        "end": 74.589,
+        "score": 0.984,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "otages",
+        "start": 74.649,
+        "end": 74.949,
+        "score": 0.905,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "devraient",
+        "start": 75.009,
+        "end": 75.329,
+        "score": 0.689,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rentrer.",
+        "start": 75.369,
+        "end": 75.729,
+        "score": 0.8,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ils",
+        "start": 75.769,
+        "end": 75.909,
+        "score": 0.652,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "seront",
+        "start": 75.949,
+        "end": 76.249,
+        "score": 0.87,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "tous",
+        "start": 76.269,
+        "end": 76.409,
+        "score": 0.822,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "là",
+        "start": 76.57,
+        "end": 76.75,
+        "score": 0.897,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dès",
+        "start": 76.77,
+        "end": 76.91,
+        "score": 0.867,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "lundi.",
+        "start": 76.93,
+        "end": 77.17,
+        "score": 0.741,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Applaudissements.",
+        "start": 80.277,
+        "end": 82.258,
+        "score": 0.657,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Aussi",
+        "start": 82.298,
+        "end": 82.738,
+        "score": 0.931,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dans",
+        "start": 82.758,
+        "end": 82.898,
+        "score": 0.981,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 82.918,
+        "end": 82.998,
+        "score": 0.979,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nuit",
+        "start": 83.058,
+        "end": 83.398,
+        "score": 0.805,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Gazaoui.",
+        "start": 83.438,
+        "end": 84.919,
+        "score": 0.805,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Ces",
+        "start": 84.959,
+        "end": 85.119,
+        "score": 0.828,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "célébrations",
+        "start": 85.159,
+        "end": 85.799,
+        "score": 0.903,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 85.839,
+        "end": 85.959,
+        "score": 0.802,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cet",
+        "start": 85.999,
+        "end": 86.159,
+        "score": 0.977,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "espoir",
+        "start": 86.199,
+        "end": 86.719,
+        "score": 0.967,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 86.759,
+        "end": 86.839,
+        "score": 0.97,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 86.879,
+        "end": 86.919,
+        "score": 0.997,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fin",
+        "start": 86.959,
+        "end": 87.119,
+        "score": 0.861,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 87.159,
+        "end": 87.259,
+        "score": 0.836,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "bombardements",
+        "start": 87.279,
+        "end": 88.56,
+        "score": 0.903,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 88.62,
+        "end": 88.74,
+        "score": 0.918,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 88.78,
+        "end": 88.9,
+        "score": 0.885,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cette",
+        "start": 88.92,
+        "end": 89.18,
+        "score": 0.907,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "longue",
+        "start": 89.2,
+        "end": 89.42,
+        "score": 0.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "guerre",
+        "start": 89.44,
+        "end": 89.68,
+        "score": 0.603,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "meurtrière.",
+        "start": 89.7,
+        "end": 92.181,
+        "score": 0.742,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Malgré",
+        "start": 92.221,
+        "end": 92.501,
+        "score": 0.839,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "toutes",
+        "start": 92.521,
+        "end": 92.721,
+        "score": 0.833,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 92.741,
+        "end": 92.821,
+        "score": 0.848,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "blessures,",
+        "start": 92.841,
+        "end": 93.521,
+        "score": 0.784,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 93.561,
+        "end": 93.701,
+        "score": 0.806,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "morts,",
+        "start": 93.762,
+        "end": 94.482,
+        "score": 0.934,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 94.522,
+        "end": 94.602,
+        "score": 0.994,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "perte",
+        "start": 94.662,
+        "end": 94.962,
+        "score": 0.974,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'êtres",
+        "start": 95.002,
+        "end": 95.282,
+        "score": 0.848,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "chers,",
+        "start": 95.342,
+        "end": 95.662,
+        "score": 0.721,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 95.682,
+        "end": 95.822,
+        "score": 0.985,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "parents,",
+        "start": 95.862,
+        "end": 96.722,
+        "score": 0.661,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nous",
+        "start": 96.743,
+        "end": 96.863,
+        "score": 0.915,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sommes",
+        "start": 96.903,
+        "end": 97.103,
+        "score": 0.921,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "heureux",
+        "start": 97.143,
+        "end": 97.383,
+        "score": 0.945,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aujourd'hui.",
+        "start": 97.423,
+        "end": 97.683,
+        "score": 0.93,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "En",
+        "start": 98.89,
+        "end": 98.991,
+        "score": 0.512,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "principe,",
+        "start": 99.031,
+        "end": 99.412,
+        "score": 0.862,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 99.452,
+        "end": 99.533,
+        "score": 0.843,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "signatures",
+        "start": 99.573,
+        "end": 100.034,
+        "score": 0.809,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 100.075,
+        "end": 100.135,
+        "score": 0.992,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'accord",
+        "start": 100.175,
+        "end": 100.496,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "négocié",
+        "start": 100.536,
+        "end": 100.918,
+        "score": 0.893,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ici",
+        "start": 100.958,
+        "end": 101.158,
+        "score": 0.962,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 101.198,
+        "end": 101.299,
+        "score": 0.996,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Égypte",
+        "start": 101.359,
+        "end": 102.182,
+        "score": 0.721,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 102.202,
+        "end": 102.242,
+        "score": 0.001,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'approbation",
+        "start": 102.262,
+        "end": 102.824,
+        "score": 0.945,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 102.864,
+        "end": 102.985,
+        "score": 0.979,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "gouvernement",
+        "start": 103.025,
+        "end": 103.527,
+        "score": 0.776,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "israélien,",
+        "start": 103.567,
+        "end": 104.53,
+        "score": 0.71,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 104.57,
+        "end": 104.65,
+        "score": 0.982,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cessez-le-feu",
+        "start": 104.691,
+        "end": 105.293,
+        "score": 0.799,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "entrera",
+        "start": 105.353,
+        "end": 105.734,
+        "score": 0.848,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 105.774,
+        "end": 105.835,
+        "score": 0.775,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vigueur",
+        "start": 105.875,
+        "end": 106.176,
+        "score": 0.686,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 106.216,
+        "end": 106.276,
+        "score": 0.685,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Gaza.",
+        "start": 106.316,
+        "end": 106.999,
+        "score": 0.961,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 107.039,
+        "end": 107.139,
+        "score": 0.884,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dans",
+        "start": 107.179,
+        "end": 107.3,
+        "score": 0.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 107.34,
+        "end": 107.42,
+        "score": 0.904,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "72"
+      },
+      {
+        "word": "heures,",
+        "start": 107.46,
+        "end": 108.624,
+        "score": 0.602,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 108.664,
+        "end": 108.805,
+        "score": 0.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "48"
+      },
+      {
+        "word": "otages",
+        "start": 109.347,
+        "end": 109.668,
+        "score": 0.815,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "seront",
+        "start": 109.708,
+        "end": 109.989,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "libérés",
+        "start": 110.029,
+        "end": 110.43,
+        "score": 0.884,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "par",
+        "start": 110.451,
+        "end": 110.571,
+        "score": 0.989,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 110.611,
+        "end": 110.671,
+        "score": 0.988,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Hamas.",
+        "start": 110.691,
+        "end": 110.992,
+        "score": 0.911,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 111,
+  "transcription_duration": 184
+}
