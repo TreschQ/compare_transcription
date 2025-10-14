@@ -1,0 +1,4182 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.331,
+        "end": 4.854,
+        "text": " Cela ressemble furieusement à un défilé de mode en plein cœur de Roland-Garros.",
+        "words": [
+          {
+            "word": "Cela",
+            "start": 0.331,
+            "end": 0.531,
+            "score": 0.942
+          },
+          {
+            "word": "ressemble",
+            "start": 0.571,
+            "end": 1.112,
+            "score": 0.964
+          },
+          {
+            "word": "furieusement",
+            "start": 1.152,
+            "end": 1.972,
+            "score": 0.849
+          },
+          {
+            "word": "à",
+            "start": 1.992,
+            "end": 2.012,
+            "score": 0.424
+          },
+          {
+            "word": "un",
+            "start": 2.092,
+            "end": 2.212,
+            "score": 0.858
+          },
+          {
+            "word": "défilé",
+            "start": 2.252,
+            "end": 2.633,
+            "score": 0.972
+          },
+          {
+            "word": "de",
+            "start": 2.673,
+            "end": 2.753,
+            "score": 0.958
+          },
+          {
+            "word": "mode",
+            "start": 2.793,
+            "end": 3.133,
+            "score": 0.934
+          },
+          {
+            "word": "en",
+            "start": 3.173,
+            "end": 3.273,
+            "score": 0.884
+          },
+          {
+            "word": "plein",
+            "start": 3.313,
+            "end": 3.493,
+            "score": 0.759
+          },
+          {
+            "word": "cœur",
+            "start": 3.513,
+            "end": 3.693,
+            "score": 0.669
+          },
+          {
+            "word": "de",
+            "start": 3.733,
+            "end": 3.793,
+            "score": 0.968
+          },
+          {
+            "word": "Roland-Garros.",
+            "start": 3.833,
+            "end": 4.854,
+            "score": 0.822
+          }
+        ]
+      },
+      {
+        "start": 4.894,
+        "end": 8.376,
+        "text": "Mais ici, chacun a un point commun, une prothèse.",
+        "words": [
+          {
+            "word": "Mais",
+            "start": 4.894,
+            "end": 5.034,
+            "score": 0.876
+          },
+          {
+            "word": "ici,",
+            "start": 5.074,
+            "end": 5.374,
+            "score": 0.875
+          },
+          {
+            "word": "chacun",
+            "start": 5.414,
+            "end": 5.874,
+            "score": 0.964
+          },
+          {
+            "word": "a",
+            "start": 5.894,
+            "end": 5.914,
+            "score": 0.013
+          },
+          {
+            "word": "un",
+            "start": 5.975,
+            "end": 6.075,
+            "score": 0.896
+          },
+          {
+            "word": "point",
+            "start": 6.095,
+            "end": 6.275,
+            "score": 0.893
+          },
+          {
+            "word": "commun,",
+            "start": 6.315,
+            "end": 7.115,
+            "score": 0.954
+          },
+          {
+            "word": "une",
+            "start": 7.175,
+            "end": 7.315,
+            "score": 0.897
+          },
+          {
+            "word": "prothèse.",
+            "start": 7.355,
+            "end": 8.376,
+            "score": 0.869
+          }
+        ]
+      },
+      {
+        "start": 8.396,
+        "end": 18.902,
+        "text": "Jeunes ou vieux, inconnus ou sportifs paralympiques célèbres comme Dimitri Pavadé, Pauline Desrouledes ou Arnaud Assoumani, tous ont mis leur corps en lumière pour le public.",
+        "words": [
+          {
+            "word": "Jeunes",
+            "start": 8.396,
+            "end": 8.616,
+            "score": 0.751
+          },
+          {
+            "word": "ou",
+            "start": 8.656,
+            "end": 8.796,
+            "score": 0.746
+          },
+          {
+            "word": "vieux,",
+            "start": 8.816,
+            "end": 9.377,
+            "score": 0.893
+          },
+          {
+            "word": "inconnus",
+            "start": 9.437,
+            "end": 9.917,
+            "score": 0.796
+          },
+          {
+            "word": "ou",
+            "start": 9.977,
+            "end": 10.077,
+            "score": 0.774
+          },
+          {
+            "word": "sportifs",
+            "start": 10.117,
+            "end": 10.737,
+            "score": 0.942
+          },
+          {
+            "word": "paralympiques",
+            "start": 10.777,
+            "end": 11.438,
+            "score": 0.65
+          },
+          {
+            "word": "célèbres",
+            "start": 11.478,
+            "end": 12.158,
+            "score": 0.931
+          },
+          {
+            "word": "comme",
+            "start": 12.178,
+            "end": 12.378,
+            "score": 0.861
+          },
+          {
+            "word": "Dimitri",
+            "start": 12.418,
+            "end": 12.839,
+            "score": 0.933
+          },
+          {
+            "word": "Pavadé,",
+            "start": 12.859,
+            "end": 13.719,
+            "score": 0.795
+          },
+          {
+            "word": "Pauline",
+            "start": 13.759,
+            "end": 14.079,
+            "score": 0.717
+          },
+          {
+            "word": "Desrouledes",
+            "start": 14.119,
+            "end": 14.86,
+            "score": 0.822
+          },
+          {
+            "word": "ou",
+            "start": 14.9,
+            "end": 15.0,
+            "score": 0.736
+          },
+          {
+            "word": "Arnaud",
+            "start": 15.04,
+            "end": 15.3,
+            "score": 0.674
+          },
+          {
+            "word": "Assoumani,",
+            "start": 15.34,
+            "end": 16.081,
+            "score": 0.872
+          },
+          {
+            "word": "tous",
+            "start": 16.121,
+            "end": 16.621,
+            "score": 0.905
+          },
+          {
+            "word": "ont",
+            "start": 16.661,
+            "end": 16.781,
+            "score": 0.832
+          },
+          {
+            "word": "mis",
+            "start": 16.821,
+            "end": 17.001,
+            "score": 0.781
+          },
+          {
+            "word": "leur",
+            "start": 17.041,
+            "end": 17.201,
+            "score": 0.959
+          },
+          {
+            "word": "corps",
+            "start": 17.241,
+            "end": 17.641,
+            "score": 0.749
+          },
+          {
+            "word": "en",
+            "start": 17.681,
+            "end": 17.762,
+            "score": 0.976
+          },
+          {
+            "word": "lumière",
+            "start": 17.822,
+            "end": 18.322,
+            "score": 0.91
+          },
+          {
+            "word": "pour",
+            "start": 18.342,
+            "end": 18.482,
+            "score": 0.636
+          },
+          {
+            "word": "le",
+            "start": 18.522,
+            "end": 18.602,
+            "score": 0.626
+          },
+          {
+            "word": "public.",
+            "start": 18.622,
+            "end": 18.902,
+            "score": 0.672
+          }
+        ]
+      },
+      {
+        "start": 19.162,
+        "end": 21.544,
+        "text": "On est remplis d'émotions et surtout on est admiratifs.",
+        "words": [
+          {
+            "word": "On",
+            "start": 19.162,
+            "end": 19.222,
+            "score": 0.26
+          },
+          {
+            "word": "est",
+            "start": 19.282,
+            "end": 19.362,
+            "score": 0.208
+          },
+          {
+            "word": "remplis",
+            "start": 19.383,
+            "end": 19.623,
+            "score": 0.239
+          },
+          {
+            "word": "d'émotions",
+            "start": 19.643,
+            "end": 20.323,
+            "score": 0.423
+          },
+          {
+            "word": "et",
+            "start": 20.383,
+            "end": 20.483,
+            "score": 0.537
+          },
+          {
+            "word": "surtout",
+            "start": 20.523,
+            "end": 20.743,
+            "score": 0.182
+          },
+          {
+            "word": "on",
+            "start": 20.783,
+            "end": 20.903,
+            "score": 0.523
+          },
+          {
+            "word": "est",
+            "start": 20.963,
+            "end": 21.043,
+            "score": 0.189
+          },
+          {
+            "word": "admiratifs.",
+            "start": 21.104,
+            "end": 21.544,
+            "score": 0.258
+          }
+        ]
+      },
+      {
+        "start": 22.044,
+        "end": 25.667,
+        "text": " Il s'agit aussi de lever le voile sur le cou des prothèses.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 22.044,
+            "end": 22.144,
+            "score": 0.891
+          },
+          {
+            "word": "s'agit",
+            "start": 22.184,
+            "end": 22.444,
+            "score": 0.993
+          },
+          {
+            "word": "aussi",
+            "start": 22.504,
+            "end": 22.925,
+            "score": 0.957
+          },
+          {
+            "word": "de",
+            "start": 22.945,
+            "end": 23.045,
+            "score": 0.939
+          },
+          {
+            "word": "lever",
+            "start": 23.085,
+            "end": 23.345,
+            "score": 0.934
+          },
+          {
+            "word": "le",
+            "start": 23.385,
+            "end": 23.505,
+            "score": 0.986
+          },
+          {
+            "word": "voile",
+            "start": 23.565,
+            "end": 23.946,
+            "score": 0.899
+          },
+          {
+            "word": "sur",
+            "start": 23.966,
+            "end": 24.106,
+            "score": 0.978
+          },
+          {
+            "word": "le",
+            "start": 24.146,
+            "end": 24.246,
+            "score": 0.96
+          },
+          {
+            "word": "cou",
+            "start": 24.286,
+            "end": 24.666,
+            "score": 0.958
+          },
+          {
+            "word": "des",
+            "start": 24.706,
+            "end": 24.806,
+            "score": 0.887
+          },
+          {
+            "word": "prothèses.",
+            "start": 24.846,
+            "end": 25.667,
+            "score": 0.848
+          }
+        ]
+      },
+      {
+        "start": 25.727,
+        "end": 36.936,
+        "text": "Amputée à la suite d'un cancer, Marie-Pascale Roth a enfin pu bénéficier d'un don pour se payer 7 emboîtures en silicone, la seule que son corps supporte et qui n'est pas remboursée par la Sécurité sociale.",
+        "words": [
+          {
+            "word": "Amputée",
+            "start": 25.727,
+            "end": 26.127,
+            "score": 0.579
+          },
+          {
+            "word": "à",
+            "start": 26.147,
+            "end": 26.167,
+            "score": 0.55
+          },
+          {
+            "word": "la",
+            "start": 26.207,
+            "end": 26.267,
+            "score": 0.738
+          },
+          {
+            "word": "suite",
+            "start": 26.307,
+            "end": 26.528,
+            "score": 0.707
+          },
+          {
+            "word": "d'un",
+            "start": 26.548,
+            "end": 26.668,
+            "score": 0.802
+          },
+          {
+            "word": "cancer,",
+            "start": 26.708,
+            "end": 27.188,
+            "score": 0.949
+          },
+          {
+            "word": "Marie-Pascale",
+            "start": 27.208,
+            "end": 27.829,
+            "score": 0.747
+          },
+          {
+            "word": "Roth",
+            "start": 27.869,
+            "end": 28.229,
+            "score": 0.942
+          },
+          {
+            "word": "a",
+            "start": 28.289,
+            "end": 28.369,
+            "score": 0.825
+          },
+          {
+            "word": "enfin",
+            "start": 28.429,
+            "end": 28.729,
+            "score": 0.95
+          },
+          {
+            "word": "pu",
+            "start": 28.769,
+            "end": 28.93,
+            "score": 0.777
+          },
+          {
+            "word": "bénéficier",
+            "start": 28.95,
+            "end": 29.51,
+            "score": 0.91
+          },
+          {
+            "word": "d'un",
+            "start": 29.55,
+            "end": 29.79,
+            "score": 0.911
+          },
+          {
+            "word": "don",
+            "start": 29.83,
+            "end": 30.411,
+            "score": 0.986
+          },
+          {
+            "word": "pour",
+            "start": 30.451,
+            "end": 30.631,
+            "score": 0.946
+          },
+          {
+            "word": "se",
+            "start": 30.671,
+            "end": 30.791,
+            "score": 0.89
+          },
+          {
+            "word": "payer",
+            "start": 30.811,
+            "end": 31.171,
+            "score": 0.944
+          },
+          {
+            "word": "7"
+          },
+          {
+            "word": "emboîtures",
+            "start": 31.251,
+            "end": 31.852,
+            "score": 0.728
+          },
+          {
+            "word": "en",
+            "start": 31.912,
+            "end": 32.012,
+            "score": 0.96
+          },
+          {
+            "word": "silicone,",
+            "start": 32.052,
+            "end": 33.033,
+            "score": 0.934
+          },
+          {
+            "word": "la",
+            "start": 33.073,
+            "end": 33.173,
+            "score": 0.917
+          },
+          {
+            "word": "seule",
+            "start": 33.213,
+            "end": 33.433,
+            "score": 0.889
+          },
+          {
+            "word": "que",
+            "start": 33.473,
+            "end": 33.613,
+            "score": 0.96
+          },
+          {
+            "word": "son",
+            "start": 33.653,
+            "end": 33.813,
+            "score": 0.92
+          },
+          {
+            "word": "corps",
+            "start": 33.833,
+            "end": 34.054,
+            "score": 0.737
+          },
+          {
+            "word": "supporte",
+            "start": 34.074,
+            "end": 34.814,
+            "score": 0.941
+          },
+          {
+            "word": "et",
+            "start": 34.854,
+            "end": 34.934,
+            "score": 0.811
+          },
+          {
+            "word": "qui",
+            "start": 34.954,
+            "end": 35.074,
+            "score": 0.805
+          },
+          {
+            "word": "n'est",
+            "start": 35.094,
+            "end": 35.234,
+            "score": 0.925
+          },
+          {
+            "word": "pas",
+            "start": 35.255,
+            "end": 35.355,
+            "score": 0.688
+          },
+          {
+            "word": "remboursée",
+            "start": 35.375,
+            "end": 35.815,
+            "score": 0.876
+          },
+          {
+            "word": "par",
+            "start": 35.855,
+            "end": 35.975,
+            "score": 0.765
+          },
+          {
+            "word": "la",
+            "start": 36.015,
+            "end": 36.095,
+            "score": 0.577
+          },
+          {
+            "word": "Sécurité",
+            "start": 36.135,
+            "end": 36.576,
+            "score": 0.976
+          },
+          {
+            "word": "sociale.",
+            "start": 36.616,
+            "end": 36.936,
+            "score": 0.945
+          }
+        ]
+      },
+      {
+        "start": 38.612,
+        "end": 47.636,
+        "text": " Par deux fois, elle a refusé de me prendre en charge cette emboîture qui coûte 8 000 euros, alors même qu'elle me payait entre 6 et 8 emboîtures par an qui ne me convenaient pas.",
+        "words": [
+          {
+            "word": "Par",
+            "start": 38.612,
+            "end": 38.732,
+            "score": 0.4
+          },
+          {
+            "word": "deux",
+            "start": 38.752,
+            "end": 38.852,
+            "score": 0.494
+          },
+          {
+            "word": "fois,",
+            "start": 38.872,
+            "end": 38.972,
+            "score": 0.23
+          },
+          {
+            "word": "elle",
+            "start": 39.012,
+            "end": 39.132,
+            "score": 0.596
+          },
+          {
+            "word": "a",
+            "start": 39.172,
+            "end": 39.252,
+            "score": 0.525
+          },
+          {
+            "word": "refusé",
+            "start": 39.272,
+            "end": 39.672,
+            "score": 0.798
+          },
+          {
+            "word": "de",
+            "start": 39.713,
+            "end": 39.873,
+            "score": 0.936
+          },
+          {
+            "word": "me",
+            "start": 39.893,
+            "end": 40.013,
+            "score": 0.855
+          },
+          {
+            "word": "prendre",
+            "start": 40.033,
+            "end": 40.273,
+            "score": 0.844
+          },
+          {
+            "word": "en",
+            "start": 40.333,
+            "end": 40.413,
+            "score": 0.824
+          },
+          {
+            "word": "charge",
+            "start": 40.433,
+            "end": 40.833,
+            "score": 0.874
+          },
+          {
+            "word": "cette",
+            "start": 40.853,
+            "end": 41.013,
+            "score": 0.86
+          },
+          {
+            "word": "emboîture",
+            "start": 41.053,
+            "end": 41.453,
+            "score": 0.753
+          },
+          {
+            "word": "qui",
+            "start": 41.473,
+            "end": 41.633,
+            "score": 0.811
+          },
+          {
+            "word": "coûte",
+            "start": 41.673,
+            "end": 42.234,
+            "score": 0.984
+          },
+          {
+            "word": "8"
+          },
+          {
+            "word": "000"
+          },
+          {
+            "word": "euros,",
+            "start": 42.654,
+            "end": 42.954,
+            "score": 0.973
+          },
+          {
+            "word": "alors",
+            "start": 42.994,
+            "end": 43.234,
+            "score": 0.948
+          },
+          {
+            "word": "même",
+            "start": 43.254,
+            "end": 43.414,
+            "score": 0.832
+          },
+          {
+            "word": "qu'elle",
+            "start": 43.454,
+            "end": 43.674,
+            "score": 0.825
+          },
+          {
+            "word": "me",
+            "start": 43.694,
+            "end": 43.814,
+            "score": 0.94
+          },
+          {
+            "word": "payait",
+            "start": 43.854,
+            "end": 44.174,
+            "score": 0.764
+          },
+          {
+            "word": "entre",
+            "start": 44.214,
+            "end": 44.454,
+            "score": 0.931
+          },
+          {
+            "word": "6"
+          },
+          {
+            "word": "et",
+            "start": 44.735,
+            "end": 44.895,
+            "score": 0.797
+          },
+          {
+            "word": "8"
+          },
+          {
+            "word": "emboîtures",
+            "start": 45.175,
+            "end": 45.735,
+            "score": 0.705
+          },
+          {
+            "word": "par",
+            "start": 45.755,
+            "end": 45.915,
+            "score": 0.843
+          },
+          {
+            "word": "an",
+            "start": 45.935,
+            "end": 46.435,
+            "score": 0.943
+          },
+          {
+            "word": "qui",
+            "start": 46.455,
+            "end": 46.575,
+            "score": 0.904
+          },
+          {
+            "word": "ne",
+            "start": 46.595,
+            "end": 46.675,
+            "score": 0.815
+          },
+          {
+            "word": "me",
+            "start": 46.695,
+            "end": 46.815,
+            "score": 0.871
+          },
+          {
+            "word": "convenaient",
+            "start": 46.835,
+            "end": 47.216,
+            "score": 0.818
+          },
+          {
+            "word": "pas.",
+            "start": 47.256,
+            "end": 47.636,
+            "score": 0.964
+          }
+        ]
+      },
+      {
+        "start": 47.656,
+        "end": 49.496,
+        "text": "C'est une aberration la plus complète.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 47.656,
+            "end": 47.796,
+            "score": 0.818
+          },
+          {
+            "word": "une",
+            "start": 47.836,
+            "end": 47.916,
+            "score": 0.914
+          },
+          {
+            "word": "aberration",
+            "start": 47.956,
+            "end": 48.376,
+            "score": 0.923
+          },
+          {
+            "word": "la",
+            "start": 48.416,
+            "end": 48.496,
+            "score": 0.944
+          },
+          {
+            "word": "plus",
+            "start": 48.516,
+            "end": 48.636,
+            "score": 0.779
+          },
+          {
+            "word": "complète.",
+            "start": 48.656,
+            "end": 49.496,
+            "score": 0.952
+          }
+        ]
+      },
+      {
+        "start": 49.516,
+        "end": 56.119,
+        "text": "Dans 9 cas sur 10, la maladie est à l'origine d'une amputation et la prothèse est alors mal remboursée.",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 49.516,
+            "end": 49.677,
+            "score": 0.936
+          },
+          {
+            "word": "9"
+          },
+          {
+            "word": "cas",
+            "start": 49.917,
+            "end": 50.097,
+            "score": 0.828
+          },
+          {
+            "word": "sur",
+            "start": 50.137,
+            "end": 50.297,
+            "score": 0.841
+          },
+          {
+            "word": "10,"
+          },
+          {
+            "word": "la",
+            "start": 50.837,
+            "end": 50.937,
+            "score": 0.909
+          },
+          {
+            "word": "maladie",
+            "start": 50.957,
+            "end": 51.537,
+            "score": 0.956
+          },
+          {
+            "word": "est",
+            "start": 51.577,
+            "end": 51.717,
+            "score": 0.825
+          },
+          {
+            "word": "à",
+            "start": 51.737,
+            "end": 51.757,
+            "score": 0.992
+          },
+          {
+            "word": "l'origine",
+            "start": 51.837,
+            "end": 52.258,
+            "score": 0.92
+          },
+          {
+            "word": "d'une",
+            "start": 52.298,
+            "end": 52.418,
+            "score": 0.889
+          },
+          {
+            "word": "amputation",
+            "start": 52.438,
+            "end": 53.218,
+            "score": 0.903
+          },
+          {
+            "word": "et",
+            "start": 53.238,
+            "end": 53.278,
+            "score": 0.009
+          },
+          {
+            "word": "la",
+            "start": 53.298,
+            "end": 53.378,
+            "score": 0.815
+          },
+          {
+            "word": "prothèse",
+            "start": 53.418,
+            "end": 54.158,
+            "score": 0.907
+          },
+          {
+            "word": "est",
+            "start": 54.198,
+            "end": 54.338,
+            "score": 0.702
+          },
+          {
+            "word": "alors",
+            "start": 54.378,
+            "end": 54.859,
+            "score": 0.929
+          },
+          {
+            "word": "mal",
+            "start": 54.899,
+            "end": 55.099,
+            "score": 0.849
+          },
+          {
+            "word": "remboursée.",
+            "start": 55.139,
+            "end": 56.119,
+            "score": 0.946
+          }
+        ]
+      },
+      {
+        "start": 56.159,
+        "end": 58.72,
+        "text": "Pauline Desrouledes, elle, s'estime mieux lotie.",
+        "words": [
+          {
+            "word": "Pauline",
+            "start": 56.159,
+            "end": 56.499,
+            "score": 0.601
+          },
+          {
+            "word": "Desrouledes,",
+            "start": 56.519,
+            "end": 56.979,
+            "score": 0.668
+          },
+          {
+            "word": "elle,",
+            "start": 57.039,
+            "end": 57.54,
+            "score": 0.895
+          },
+          {
+            "word": "s'estime",
+            "start": 57.56,
+            "end": 58.04,
+            "score": 0.825
+          },
+          {
+            "word": "mieux",
+            "start": 58.08,
+            "end": 58.24,
+            "score": 0.895
+          },
+          {
+            "word": "lotie.",
+            "start": 58.28,
+            "end": 58.72,
+            "score": 0.89
+          }
+        ]
+      },
+      {
+        "start": 58.76,
+        "end": 63.082,
+        "text": "Sa prothèse a été payée par l'assurance du chauffard qui l'a renversée.",
+        "words": [
+          {
+            "word": "Sa",
+            "start": 58.76,
+            "end": 58.92,
+            "score": 0.822
+          },
+          {
+            "word": "prothèse",
+            "start": 58.96,
+            "end": 59.38,
+            "score": 0.831
+          },
+          {
+            "word": "a",
+            "start": 59.42,
+            "end": 59.48,
+            "score": 0.618
+          },
+          {
+            "word": "été",
+            "start": 59.52,
+            "end": 59.701,
+            "score": 0.965
+          },
+          {
+            "word": "payée",
+            "start": 59.761,
+            "end": 60.381,
+            "score": 0.958
+          },
+          {
+            "word": "par",
+            "start": 60.421,
+            "end": 60.581,
+            "score": 0.946
+          },
+          {
+            "word": "l'assurance",
+            "start": 60.621,
+            "end": 61.541,
+            "score": 0.93
+          },
+          {
+            "word": "du",
+            "start": 61.561,
+            "end": 61.661,
+            "score": 0.989
+          },
+          {
+            "word": "chauffard",
+            "start": 61.701,
+            "end": 62.422,
+            "score": 0.775
+          },
+          {
+            "word": "qui",
+            "start": 62.442,
+            "end": 62.602,
+            "score": 0.846
+          },
+          {
+            "word": "l'a",
+            "start": 62.622,
+            "end": 62.702,
+            "score": 0.767
+          },
+          {
+            "word": "renversée.",
+            "start": 62.742,
+            "end": 63.082,
+            "score": 0.888
+          }
+        ]
+      },
+      {
+        "start": 63.762,
+        "end": 68.905,
+        "text": " La chance que j'ai eue dans mon drame, c'est de m'être fait faucher par un tiers responsable, ce qu'on appelle.",
+        "words": [
+          {
+            "word": "La",
+            "start": 63.762,
+            "end": 63.882,
+            "score": 0.928
+          },
+          {
+            "word": "chance",
+            "start": 63.922,
+            "end": 64.162,
+            "score": 0.936
+          },
+          {
+            "word": "que",
+            "start": 64.203,
+            "end": 64.343,
+            "score": 0.784
+          },
+          {
+            "word": "j'ai",
+            "start": 64.363,
+            "end": 64.623,
+            "score": 0.866
+          },
+          {
+            "word": "eue",
+            "start": 64.663,
+            "end": 65.323,
+            "score": 0.614
+          },
+          {
+            "word": "dans",
+            "start": 65.343,
+            "end": 65.443,
+            "score": 0.859
+          },
+          {
+            "word": "mon",
+            "start": 65.483,
+            "end": 65.543,
+            "score": 0.982
+          },
+          {
+            "word": "drame,",
+            "start": 65.563,
+            "end": 65.763,
+            "score": 0.736
+          },
+          {
+            "word": "c'est",
+            "start": 65.783,
+            "end": 65.943,
+            "score": 0.826
+          },
+          {
+            "word": "de",
+            "start": 65.963,
+            "end": 66.023,
+            "score": 0.926
+          },
+          {
+            "word": "m'être",
+            "start": 66.043,
+            "end": 66.224,
+            "score": 0.791
+          },
+          {
+            "word": "fait",
+            "start": 66.264,
+            "end": 66.704,
+            "score": 0.881
+          },
+          {
+            "word": "faucher",
+            "start": 66.744,
+            "end": 67.124,
+            "score": 0.745
+          },
+          {
+            "word": "par",
+            "start": 67.144,
+            "end": 67.244,
+            "score": 0.896
+          },
+          {
+            "word": "un",
+            "start": 67.304,
+            "end": 67.684,
+            "score": 0.852
+          },
+          {
+            "word": "tiers",
+            "start": 67.724,
+            "end": 67.925,
+            "score": 0.67
+          },
+          {
+            "word": "responsable,",
+            "start": 67.965,
+            "end": 68.325,
+            "score": 0.874
+          },
+          {
+            "word": "ce",
+            "start": 68.365,
+            "end": 68.405,
+            "score": 0.412
+          },
+          {
+            "word": "qu'on",
+            "start": 68.425,
+            "end": 68.565,
+            "score": 0.839
+          },
+          {
+            "word": "appelle.",
+            "start": 68.605,
+            "end": 68.905,
+            "score": 0.868
+          }
+        ]
+      },
+      {
+        "start": 68.925,
+        "end": 75.789,
+        "text": "Donc j'ai pu bénéficier d'un genou hyper technologique qui n'est malheureusement pas remboursé par la Sécurité sociale.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 68.925,
+            "end": 69.105,
+            "score": 0.471
+          },
+          {
+            "word": "j'ai",
+            "start": 69.145,
+            "end": 69.685,
+            "score": 0.836
+          },
+          {
+            "word": "pu",
+            "start": 69.725,
+            "end": 69.866,
+            "score": 0.613
+          },
+          {
+            "word": "bénéficier",
+            "start": 69.886,
+            "end": 70.346,
+            "score": 0.864
+          },
+          {
+            "word": "d'un",
+            "start": 70.426,
+            "end": 71.206,
+            "score": 0.7
+          },
+          {
+            "word": "genou",
+            "start": 71.226,
+            "end": 71.847,
+            "score": 0.791
+          },
+          {
+            "word": "hyper",
+            "start": 71.887,
+            "end": 72.267,
+            "score": 0.888
+          },
+          {
+            "word": "technologique",
+            "start": 72.287,
+            "end": 72.967,
+            "score": 0.882
+          },
+          {
+            "word": "qui",
+            "start": 73.007,
+            "end": 73.107,
+            "score": 0.931
+          },
+          {
+            "word": "n'est",
+            "start": 73.147,
+            "end": 73.407,
+            "score": 0.875
+          },
+          {
+            "word": "malheureusement",
+            "start": 73.427,
+            "end": 73.908,
+            "score": 0.875
+          },
+          {
+            "word": "pas",
+            "start": 73.948,
+            "end": 74.028,
+            "score": 0.824
+          },
+          {
+            "word": "remboursé",
+            "start": 74.048,
+            "end": 74.368,
+            "score": 0.836
+          },
+          {
+            "word": "par",
+            "start": 74.388,
+            "end": 74.488,
+            "score": 0.814
+          },
+          {
+            "word": "la",
+            "start": 74.528,
+            "end": 74.588,
+            "score": 0.9
+          },
+          {
+            "word": "Sécurité",
+            "start": 74.648,
+            "end": 74.988,
+            "score": 0.946
+          },
+          {
+            "word": "sociale.",
+            "start": 75.028,
+            "end": 75.789,
+            "score": 0.949
+          }
+        ]
+      },
+      {
+        "start": 75.869,
+        "end": 84.593,
+        "text": "Et j'ai toujours tellement trouvé ça injuste parce que si je m'étais accidentée toute seule, finalement, je n'aurais pas eu accès à cette technologie-là.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 75.869,
+            "end": 76.349,
+            "score": 0.912
+          },
+          {
+            "word": "j'ai",
+            "start": 76.389,
+            "end": 76.469,
+            "score": 0.56
+          },
+          {
+            "word": "toujours",
+            "start": 76.509,
+            "end": 77.189,
+            "score": 0.554
+          },
+          {
+            "word": "tellement",
+            "start": 77.21,
+            "end": 77.51,
+            "score": 0.882
+          },
+          {
+            "word": "trouvé",
+            "start": 77.55,
+            "end": 77.81,
+            "score": 0.726
+          },
+          {
+            "word": "ça",
+            "start": 77.83,
+            "end": 78.03,
+            "score": 0.65
+          },
+          {
+            "word": "injuste",
+            "start": 78.07,
+            "end": 78.99,
+            "score": 0.939
+          },
+          {
+            "word": "parce",
+            "start": 79.01,
+            "end": 79.151,
+            "score": 0.951
+          },
+          {
+            "word": "que",
+            "start": 79.191,
+            "end": 79.291,
+            "score": 0.95
+          },
+          {
+            "word": "si",
+            "start": 79.331,
+            "end": 79.431,
+            "score": 0.849
+          },
+          {
+            "word": "je",
+            "start": 79.471,
+            "end": 79.771,
+            "score": 0.905
+          },
+          {
+            "word": "m'étais",
+            "start": 79.791,
+            "end": 80.731,
+            "score": 0.774
+          },
+          {
+            "word": "accidentée",
+            "start": 80.771,
+            "end": 81.452,
+            "score": 0.887
+          },
+          {
+            "word": "toute",
+            "start": 81.472,
+            "end": 81.592,
+            "score": 0.771
+          },
+          {
+            "word": "seule,",
+            "start": 81.612,
+            "end": 81.772,
+            "score": 0.742
+          },
+          {
+            "word": "finalement,",
+            "start": 81.792,
+            "end": 82.092,
+            "score": 0.347
+          },
+          {
+            "word": "je",
+            "start": 82.112,
+            "end": 82.172,
+            "score": 0.756
+          },
+          {
+            "word": "n'aurais",
+            "start": 82.192,
+            "end": 82.392,
+            "score": 0.648
+          },
+          {
+            "word": "pas",
+            "start": 82.412,
+            "end": 82.492,
+            "score": 0.816
+          },
+          {
+            "word": "eu",
+            "start": 82.512,
+            "end": 82.592,
+            "score": 0.703
+          },
+          {
+            "word": "accès",
+            "start": 82.632,
+            "end": 83.233,
+            "score": 0.892
+          },
+          {
+            "word": "à",
+            "start": 83.293,
+            "end": 83.333,
+            "score": 0.461
+          },
+          {
+            "word": "cette",
+            "start": 83.373,
+            "end": 83.553,
+            "score": 0.714
+          },
+          {
+            "word": "technologie-là.",
+            "start": 83.573,
+            "end": 84.593,
+            "score": 0.885
+          }
+        ]
+      },
+      {
+        "start": 84.814,
+        "end": 87.475,
+        "text": "120 000 euros la prothèse dernière génération.",
+        "words": [
+          {
+            "word": "120"
+          },
+          {
+            "word": "000"
+          },
+          {
+            "word": "euros",
+            "start": 85.234,
+            "end": 85.514,
+            "score": 0.767
+          },
+          {
+            "word": "la",
+            "start": 85.594,
+            "end": 85.674,
+            "score": 0.976
+          },
+          {
+            "word": "prothèse",
+            "start": 85.714,
+            "end": 86.334,
+            "score": 0.851
+          },
+          {
+            "word": "dernière",
+            "start": 86.374,
+            "end": 86.715,
+            "score": 0.908
+          },
+          {
+            "word": "génération.",
+            "start": 86.755,
+            "end": 87.475,
+            "score": 0.838
+          }
+        ]
+      },
+      {
+        "start": 87.515,
+        "end": 92.638,
+        "text": "Un équipement que n'aura jamais le journaliste Mathieu Larteau, par exemple, amputé à la suite d'un cancer.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 87.515,
+            "end": 87.595,
+            "score": 0.896
+          },
+          {
+            "word": "équipement",
+            "start": 87.635,
+            "end": 88.055,
+            "score": 0.955
+          },
+          {
+            "word": "que",
+            "start": 88.095,
+            "end": 88.215,
+            "score": 0.885
+          },
+          {
+            "word": "n'aura",
+            "start": 88.235,
+            "end": 88.556,
+            "score": 0.784
+          },
+          {
+            "word": "jamais",
+            "start": 88.596,
+            "end": 88.836,
+            "score": 0.91
+          },
+          {
+            "word": "le",
+            "start": 88.876,
+            "end": 88.956,
+            "score": 0.91
+          },
+          {
+            "word": "journaliste",
+            "start": 88.976,
+            "end": 89.536,
+            "score": 0.919
+          },
+          {
+            "word": "Mathieu",
+            "start": 89.576,
+            "end": 89.856,
+            "score": 0.536
+          },
+          {
+            "word": "Larteau,",
+            "start": 89.876,
+            "end": 90.197,
+            "score": 0.677
+          },
+          {
+            "word": "par",
+            "start": 90.217,
+            "end": 90.337,
+            "score": 0.937
+          },
+          {
+            "word": "exemple,",
+            "start": 90.377,
+            "end": 91.157,
+            "score": 0.888
+          },
+          {
+            "word": "amputé",
+            "start": 91.197,
+            "end": 91.637,
+            "score": 0.738
+          },
+          {
+            "word": "à",
+            "start": 91.657,
+            "end": 91.677,
+            "score": 0.909
+          },
+          {
+            "word": "la",
+            "start": 91.737,
+            "end": 91.817,
+            "score": 0.908
+          },
+          {
+            "word": "suite",
+            "start": 91.857,
+            "end": 92.178,
+            "score": 0.911
+          },
+          {
+            "word": "d'un",
+            "start": 92.218,
+            "end": 92.338,
+            "score": 0.942
+          },
+          {
+            "word": "cancer.",
+            "start": 92.378,
+            "end": 92.638,
+            "score": 0.88
+          }
+        ]
+      },
+      {
+        "start": 94.002,
+        "end": 103.247,
+        "text": " C'est comme si on vous demandait aujourd'hui de conduire une voiture sans direction assistée et que vous voyez quelqu'un sur le trottoir d'en face avoir la voiture full option.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 94.002,
+            "end": 94.122,
+            "score": 0.842
+          },
+          {
+            "word": "comme",
+            "start": 94.142,
+            "end": 94.342,
+            "score": 0.886
+          },
+          {
+            "word": "si",
+            "start": 94.382,
+            "end": 94.462,
+            "score": 0.762
+          },
+          {
+            "word": "on",
+            "start": 94.522,
+            "end": 94.642,
+            "score": 0.87
+          },
+          {
+            "word": "vous",
+            "start": 94.662,
+            "end": 94.782,
+            "score": 0.864
+          },
+          {
+            "word": "demandait",
+            "start": 94.822,
+            "end": 95.083,
+            "score": 0.679
+          },
+          {
+            "word": "aujourd'hui",
+            "start": 95.123,
+            "end": 95.443,
+            "score": 0.851
+          },
+          {
+            "word": "de",
+            "start": 95.463,
+            "end": 95.543,
+            "score": 0.91
+          },
+          {
+            "word": "conduire",
+            "start": 95.583,
+            "end": 95.903,
+            "score": 0.732
+          },
+          {
+            "word": "une",
+            "start": 95.943,
+            "end": 96.023,
+            "score": 0.836
+          },
+          {
+            "word": "voiture",
+            "start": 96.063,
+            "end": 96.403,
+            "score": 0.805
+          },
+          {
+            "word": "sans",
+            "start": 96.443,
+            "end": 96.783,
+            "score": 0.977
+          },
+          {
+            "word": "direction",
+            "start": 96.823,
+            "end": 97.124,
+            "score": 0.874
+          },
+          {
+            "word": "assistée",
+            "start": 97.184,
+            "end": 97.864,
+            "score": 0.849
+          },
+          {
+            "word": "et",
+            "start": 97.924,
+            "end": 98.004,
+            "score": 0.899
+          },
+          {
+            "word": "que",
+            "start": 98.024,
+            "end": 98.144,
+            "score": 0.852
+          },
+          {
+            "word": "vous",
+            "start": 98.164,
+            "end": 98.364,
+            "score": 0.838
+          },
+          {
+            "word": "voyez",
+            "start": 98.404,
+            "end": 98.905,
+            "score": 0.825
+          },
+          {
+            "word": "quelqu'un",
+            "start": 98.945,
+            "end": 99.285,
+            "score": 0.874
+          },
+          {
+            "word": "sur",
+            "start": 99.305,
+            "end": 99.385,
+            "score": 0.827
+          },
+          {
+            "word": "le",
+            "start": 99.425,
+            "end": 99.465,
+            "score": 0.786
+          },
+          {
+            "word": "trottoir",
+            "start": 99.485,
+            "end": 99.725,
+            "score": 0.59
+          },
+          {
+            "word": "d'en",
+            "start": 99.745,
+            "end": 99.905,
+            "score": 0.757
+          },
+          {
+            "word": "face",
+            "start": 99.945,
+            "end": 100.165,
+            "score": 0.604
+          },
+          {
+            "word": "avoir",
+            "start": 100.205,
+            "end": 100.906,
+            "score": 0.903
+          },
+          {
+            "word": "la",
+            "start": 100.946,
+            "end": 101.006,
+            "score": 0.967
+          },
+          {
+            "word": "voiture",
+            "start": 101.026,
+            "end": 101.346,
+            "score": 0.847
+          },
+          {
+            "word": "full",
+            "start": 101.386,
+            "end": 101.566,
+            "score": 0.683
+          },
+          {
+            "word": "option.",
+            "start": 101.586,
+            "end": 103.247,
+            "score": 0.923
+          }
+        ]
+      },
+      {
+        "start": 103.287,
+        "end": 107.769,
+        "text": "C'est difficile à avaler quand vous avez été amputé à la suite d'une maladie, parce que c'est la double peine finalement.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 103.287,
+            "end": 103.447,
+            "score": 0.798
+          },
+          {
+            "word": "difficile",
+            "start": 103.467,
+            "end": 103.847,
+            "score": 0.898
+          },
+          {
+            "word": "à",
+            "start": 103.887,
+            "end": 103.907,
+            "score": 0.926
+          },
+          {
+            "word": "avaler",
+            "start": 103.987,
+            "end": 104.247,
+            "score": 0.844
+          },
+          {
+            "word": "quand",
+            "start": 104.267,
+            "end": 104.467,
+            "score": 0.878
+          },
+          {
+            "word": "vous",
+            "start": 104.507,
+            "end": 104.627,
+            "score": 0.905
+          },
+          {
+            "word": "avez",
+            "start": 104.667,
+            "end": 104.847,
+            "score": 0.674
+          },
+          {
+            "word": "été",
+            "start": 104.867,
+            "end": 105.028,
+            "score": 0.893
+          },
+          {
+            "word": "amputé",
+            "start": 105.088,
+            "end": 105.448,
+            "score": 0.706
+          },
+          {
+            "word": "à",
+            "start": 105.468,
+            "end": 105.488,
+            "score": 0.975
+          },
+          {
+            "word": "la",
+            "start": 105.528,
+            "end": 105.568,
+            "score": 0.986
+          },
+          {
+            "word": "suite",
+            "start": 105.628,
+            "end": 105.748,
+            "score": 0.717
+          },
+          {
+            "word": "d'une",
+            "start": 105.768,
+            "end": 105.928,
+            "score": 0.478
+          },
+          {
+            "word": "maladie,",
+            "start": 105.948,
+            "end": 106.148,
+            "score": 0.635
+          },
+          {
+            "word": "parce",
+            "start": 106.168,
+            "end": 106.268,
+            "score": 0.007
+          },
+          {
+            "word": "que",
+            "start": 106.288,
+            "end": 106.368,
+            "score": 0.717
+          },
+          {
+            "word": "c'est",
+            "start": 106.388,
+            "end": 106.508,
+            "score": 0.856
+          },
+          {
+            "word": "la",
+            "start": 106.528,
+            "end": 106.588,
+            "score": 0.852
+          },
+          {
+            "word": "double",
+            "start": 106.628,
+            "end": 106.848,
+            "score": 0.916
+          },
+          {
+            "word": "peine",
+            "start": 106.888,
+            "end": 107.069,
+            "score": 0.853
+          },
+          {
+            "word": "finalement.",
+            "start": 107.089,
+            "end": 107.769,
+            "score": 0.594
+          }
+        ]
+      },
+      {
+        "start": 107.809,
+        "end": 115.633,
+        "text": "Son association recueille des dons pour financer des prothèses et espère aussi changer les modes de remboursement, une forme de marche vers l'égalité.",
+        "words": [
+          {
+            "word": "Son",
+            "start": 107.809,
+            "end": 107.969,
+            "score": 0.936
+          },
+          {
+            "word": "association",
+            "start": 108.009,
+            "end": 108.689,
+            "score": 0.931
+          },
+          {
+            "word": "recueille",
+            "start": 108.729,
+            "end": 109.03,
+            "score": 0.912
+          },
+          {
+            "word": "des",
+            "start": 109.05,
+            "end": 109.19,
+            "score": 0.776
+          },
+          {
+            "word": "dons",
+            "start": 109.23,
+            "end": 109.45,
+            "score": 0.792
+          },
+          {
+            "word": "pour",
+            "start": 109.49,
+            "end": 109.67,
+            "score": 0.938
+          },
+          {
+            "word": "financer",
+            "start": 109.71,
+            "end": 110.07,
+            "score": 0.94
+          },
+          {
+            "word": "des",
+            "start": 110.13,
+            "end": 110.23,
+            "score": 0.915
+          },
+          {
+            "word": "prothèses",
+            "start": 110.27,
+            "end": 110.81,
+            "score": 0.803
+          },
+          {
+            "word": "et",
+            "start": 110.85,
+            "end": 110.93,
+            "score": 0.706
+          },
+          {
+            "word": "espère",
+            "start": 111.011,
+            "end": 111.351,
+            "score": 0.846
+          },
+          {
+            "word": "aussi",
+            "start": 111.391,
+            "end": 111.691,
+            "score": 0.982
+          },
+          {
+            "word": "changer",
+            "start": 111.731,
+            "end": 112.111,
+            "score": 0.881
+          },
+          {
+            "word": "les",
+            "start": 112.131,
+            "end": 112.251,
+            "score": 0.906
+          },
+          {
+            "word": "modes",
+            "start": 112.291,
+            "end": 112.571,
+            "score": 0.852
+          },
+          {
+            "word": "de",
+            "start": 112.631,
+            "end": 112.731,
+            "score": 0.988
+          },
+          {
+            "word": "remboursement,",
+            "start": 112.771,
+            "end": 113.832,
+            "score": 0.96
+          },
+          {
+            "word": "une",
+            "start": 113.892,
+            "end": 113.992,
+            "score": 0.929
+          },
+          {
+            "word": "forme",
+            "start": 114.052,
+            "end": 114.392,
+            "score": 0.961
+          },
+          {
+            "word": "de",
+            "start": 114.412,
+            "end": 114.532,
+            "score": 0.983
+          },
+          {
+            "word": "marche",
+            "start": 114.572,
+            "end": 115.033,
+            "score": 0.908
+          },
+          {
+            "word": "vers",
+            "start": 115.053,
+            "end": 115.233,
+            "score": 0.861
+          },
+          {
+            "word": "l'égalité.",
+            "start": 115.273,
+            "end": 115.633,
+            "score": 0.987
+          }
+        ]
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Cela",
+        "start": 0.331,
+        "end": 0.531,
+        "score": 0.942
+      },
+      {
+        "word": "ressemble",
+        "start": 0.571,
+        "end": 1.112,
+        "score": 0.964
+      },
+      {
+        "word": "furieusement",
+        "start": 1.152,
+        "end": 1.972,
+        "score": 0.849
+      },
+      {
+        "word": "à",
+        "start": 1.992,
+        "end": 2.012,
+        "score": 0.424
+      },
+      {
+        "word": "un",
+        "start": 2.092,
+        "end": 2.212,
+        "score": 0.858
+      },
+      {
+        "word": "défilé",
+        "start": 2.252,
+        "end": 2.633,
+        "score": 0.972
+      },
+      {
+        "word": "de",
+        "start": 2.673,
+        "end": 2.753,
+        "score": 0.958
+      },
+      {
+        "word": "mode",
+        "start": 2.793,
+        "end": 3.133,
+        "score": 0.934
+      },
+      {
+        "word": "en",
+        "start": 3.173,
+        "end": 3.273,
+        "score": 0.884
+      },
+      {
+        "word": "plein",
+        "start": 3.313,
+        "end": 3.493,
+        "score": 0.759
+      },
+      {
+        "word": "cœur",
+        "start": 3.513,
+        "end": 3.693,
+        "score": 0.669
+      },
+      {
+        "word": "de",
+        "start": 3.733,
+        "end": 3.793,
+        "score": 0.968
+      },
+      {
+        "word": "Roland-Garros.",
+        "start": 3.833,
+        "end": 4.854,
+        "score": 0.822
+      },
+      {
+        "word": "Mais",
+        "start": 4.894,
+        "end": 5.034,
+        "score": 0.876
+      },
+      {
+        "word": "ici,",
+        "start": 5.074,
+        "end": 5.374,
+        "score": 0.875
+      },
+      {
+        "word": "chacun",
+        "start": 5.414,
+        "end": 5.874,
+        "score": 0.964
+      },
+      {
+        "word": "a",
+        "start": 5.894,
+        "end": 5.914,
+        "score": 0.013
+      },
+      {
+        "word": "un",
+        "start": 5.975,
+        "end": 6.075,
+        "score": 0.896
+      },
+      {
+        "word": "point",
+        "start": 6.095,
+        "end": 6.275,
+        "score": 0.893
+      },
+      {
+        "word": "commun,",
+        "start": 6.315,
+        "end": 7.115,
+        "score": 0.954
+      },
+      {
+        "word": "une",
+        "start": 7.175,
+        "end": 7.315,
+        "score": 0.897
+      },
+      {
+        "word": "prothèse.",
+        "start": 7.355,
+        "end": 8.376,
+        "score": 0.869
+      },
+      {
+        "word": "Jeunes",
+        "start": 8.396,
+        "end": 8.616,
+        "score": 0.751
+      },
+      {
+        "word": "ou",
+        "start": 8.656,
+        "end": 8.796,
+        "score": 0.746
+      },
+      {
+        "word": "vieux,",
+        "start": 8.816,
+        "end": 9.377,
+        "score": 0.893
+      },
+      {
+        "word": "inconnus",
+        "start": 9.437,
+        "end": 9.917,
+        "score": 0.796
+      },
+      {
+        "word": "ou",
+        "start": 9.977,
+        "end": 10.077,
+        "score": 0.774
+      },
+      {
+        "word": "sportifs",
+        "start": 10.117,
+        "end": 10.737,
+        "score": 0.942
+      },
+      {
+        "word": "paralympiques",
+        "start": 10.777,
+        "end": 11.438,
+        "score": 0.65
+      },
+      {
+        "word": "célèbres",
+        "start": 11.478,
+        "end": 12.158,
+        "score": 0.931
+      },
+      {
+        "word": "comme",
+        "start": 12.178,
+        "end": 12.378,
+        "score": 0.861
+      },
+      {
+        "word": "Dimitri",
+        "start": 12.418,
+        "end": 12.839,
+        "score": 0.933
+      },
+      {
+        "word": "Pavadé,",
+        "start": 12.859,
+        "end": 13.719,
+        "score": 0.795
+      },
+      {
+        "word": "Pauline",
+        "start": 13.759,
+        "end": 14.079,
+        "score": 0.717
+      },
+      {
+        "word": "Desrouledes",
+        "start": 14.119,
+        "end": 14.86,
+        "score": 0.822
+      },
+      {
+        "word": "ou",
+        "start": 14.9,
+        "end": 15.0,
+        "score": 0.736
+      },
+      {
+        "word": "Arnaud",
+        "start": 15.04,
+        "end": 15.3,
+        "score": 0.674
+      },
+      {
+        "word": "Assoumani,",
+        "start": 15.34,
+        "end": 16.081,
+        "score": 0.872
+      },
+      {
+        "word": "tous",
+        "start": 16.121,
+        "end": 16.621,
+        "score": 0.905
+      },
+      {
+        "word": "ont",
+        "start": 16.661,
+        "end": 16.781,
+        "score": 0.832
+      },
+      {
+        "word": "mis",
+        "start": 16.821,
+        "end": 17.001,
+        "score": 0.781
+      },
+      {
+        "word": "leur",
+        "start": 17.041,
+        "end": 17.201,
+        "score": 0.959
+      },
+      {
+        "word": "corps",
+        "start": 17.241,
+        "end": 17.641,
+        "score": 0.749
+      },
+      {
+        "word": "en",
+        "start": 17.681,
+        "end": 17.762,
+        "score": 0.976
+      },
+      {
+        "word": "lumière",
+        "start": 17.822,
+        "end": 18.322,
+        "score": 0.91
+      },
+      {
+        "word": "pour",
+        "start": 18.342,
+        "end": 18.482,
+        "score": 0.636
+      },
+      {
+        "word": "le",
+        "start": 18.522,
+        "end": 18.602,
+        "score": 0.626
+      },
+      {
+        "word": "public.",
+        "start": 18.622,
+        "end": 18.902,
+        "score": 0.672
+      },
+      {
+        "word": "On",
+        "start": 19.162,
+        "end": 19.222,
+        "score": 0.26
+      },
+      {
+        "word": "est",
+        "start": 19.282,
+        "end": 19.362,
+        "score": 0.208
+      },
+      {
+        "word": "remplis",
+        "start": 19.383,
+        "end": 19.623,
+        "score": 0.239
+      },
+      {
+        "word": "d'émotions",
+        "start": 19.643,
+        "end": 20.323,
+        "score": 0.423
+      },
+      {
+        "word": "et",
+        "start": 20.383,
+        "end": 20.483,
+        "score": 0.537
+      },
+      {
+        "word": "surtout",
+        "start": 20.523,
+        "end": 20.743,
+        "score": 0.182
+      },
+      {
+        "word": "on",
+        "start": 20.783,
+        "end": 20.903,
+        "score": 0.523
+      },
+      {
+        "word": "est",
+        "start": 20.963,
+        "end": 21.043,
+        "score": 0.189
+      },
+      {
+        "word": "admiratifs.",
+        "start": 21.104,
+        "end": 21.544,
+        "score": 0.258
+      },
+      {
+        "word": "Il",
+        "start": 22.044,
+        "end": 22.144,
+        "score": 0.891
+      },
+      {
+        "word": "s'agit",
+        "start": 22.184,
+        "end": 22.444,
+        "score": 0.993
+      },
+      {
+        "word": "aussi",
+        "start": 22.504,
+        "end": 22.925,
+        "score": 0.957
+      },
+      {
+        "word": "de",
+        "start": 22.945,
+        "end": 23.045,
+        "score": 0.939
+      },
+      {
+        "word": "lever",
+        "start": 23.085,
+        "end": 23.345,
+        "score": 0.934
+      },
+      {
+        "word": "le",
+        "start": 23.385,
+        "end": 23.505,
+        "score": 0.986
+      },
+      {
+        "word": "voile",
+        "start": 23.565,
+        "end": 23.946,
+        "score": 0.899
+      },
+      {
+        "word": "sur",
+        "start": 23.966,
+        "end": 24.106,
+        "score": 0.978
+      },
+      {
+        "word": "le",
+        "start": 24.146,
+        "end": 24.246,
+        "score": 0.96
+      },
+      {
+        "word": "cou",
+        "start": 24.286,
+        "end": 24.666,
+        "score": 0.958
+      },
+      {
+        "word": "des",
+        "start": 24.706,
+        "end": 24.806,
+        "score": 0.887
+      },
+      {
+        "word": "prothèses.",
+        "start": 24.846,
+        "end": 25.667,
+        "score": 0.848
+      },
+      {
+        "word": "Amputée",
+        "start": 25.727,
+        "end": 26.127,
+        "score": 0.579
+      },
+      {
+        "word": "à",
+        "start": 26.147,
+        "end": 26.167,
+        "score": 0.55
+      },
+      {
+        "word": "la",
+        "start": 26.207,
+        "end": 26.267,
+        "score": 0.738
+      },
+      {
+        "word": "suite",
+        "start": 26.307,
+        "end": 26.528,
+        "score": 0.707
+      },
+      {
+        "word": "d'un",
+        "start": 26.548,
+        "end": 26.668,
+        "score": 0.802
+      },
+      {
+        "word": "cancer,",
+        "start": 26.708,
+        "end": 27.188,
+        "score": 0.949
+      },
+      {
+        "word": "Marie-Pascale",
+        "start": 27.208,
+        "end": 27.829,
+        "score": 0.747
+      },
+      {
+        "word": "Roth",
+        "start": 27.869,
+        "end": 28.229,
+        "score": 0.942
+      },
+      {
+        "word": "a",
+        "start": 28.289,
+        "end": 28.369,
+        "score": 0.825
+      },
+      {
+        "word": "enfin",
+        "start": 28.429,
+        "end": 28.729,
+        "score": 0.95
+      },
+      {
+        "word": "pu",
+        "start": 28.769,
+        "end": 28.93,
+        "score": 0.777
+      },
+      {
+        "word": "bénéficier",
+        "start": 28.95,
+        "end": 29.51,
+        "score": 0.91
+      },
+      {
+        "word": "d'un",
+        "start": 29.55,
+        "end": 29.79,
+        "score": 0.911
+      },
+      {
+        "word": "don",
+        "start": 29.83,
+        "end": 30.411,
+        "score": 0.986
+      },
+      {
+        "word": "pour",
+        "start": 30.451,
+        "end": 30.631,
+        "score": 0.946
+      },
+      {
+        "word": "se",
+        "start": 30.671,
+        "end": 30.791,
+        "score": 0.89
+      },
+      {
+        "word": "payer",
+        "start": 30.811,
+        "end": 31.171,
+        "score": 0.944
+      },
+      {
+        "word": "7"
+      },
+      {
+        "word": "emboîtures",
+        "start": 31.251,
+        "end": 31.852,
+        "score": 0.728
+      },
+      {
+        "word": "en",
+        "start": 31.912,
+        "end": 32.012,
+        "score": 0.96
+      },
+      {
+        "word": "silicone,",
+        "start": 32.052,
+        "end": 33.033,
+        "score": 0.934
+      },
+      {
+        "word": "la",
+        "start": 33.073,
+        "end": 33.173,
+        "score": 0.917
+      },
+      {
+        "word": "seule",
+        "start": 33.213,
+        "end": 33.433,
+        "score": 0.889
+      },
+      {
+        "word": "que",
+        "start": 33.473,
+        "end": 33.613,
+        "score": 0.96
+      },
+      {
+        "word": "son",
+        "start": 33.653,
+        "end": 33.813,
+        "score": 0.92
+      },
+      {
+        "word": "corps",
+        "start": 33.833,
+        "end": 34.054,
+        "score": 0.737
+      },
+      {
+        "word": "supporte",
+        "start": 34.074,
+        "end": 34.814,
+        "score": 0.941
+      },
+      {
+        "word": "et",
+        "start": 34.854,
+        "end": 34.934,
+        "score": 0.811
+      },
+      {
+        "word": "qui",
+        "start": 34.954,
+        "end": 35.074,
+        "score": 0.805
+      },
+      {
+        "word": "n'est",
+        "start": 35.094,
+        "end": 35.234,
+        "score": 0.925
+      },
+      {
+        "word": "pas",
+        "start": 35.255,
+        "end": 35.355,
+        "score": 0.688
+      },
+      {
+        "word": "remboursée",
+        "start": 35.375,
+        "end": 35.815,
+        "score": 0.876
+      },
+      {
+        "word": "par",
+        "start": 35.855,
+        "end": 35.975,
+        "score": 0.765
+      },
+      {
+        "word": "la",
+        "start": 36.015,
+        "end": 36.095,
+        "score": 0.577
+      },
+      {
+        "word": "Sécurité",
+        "start": 36.135,
+        "end": 36.576,
+        "score": 0.976
+      },
+      {
+        "word": "sociale.",
+        "start": 36.616,
+        "end": 36.936,
+        "score": 0.945
+      },
+      {
+        "word": "Par",
+        "start": 38.612,
+        "end": 38.732,
+        "score": 0.4
+      },
+      {
+        "word": "deux",
+        "start": 38.752,
+        "end": 38.852,
+        "score": 0.494
+      },
+      {
+        "word": "fois,",
+        "start": 38.872,
+        "end": 38.972,
+        "score": 0.23
+      },
+      {
+        "word": "elle",
+        "start": 39.012,
+        "end": 39.132,
+        "score": 0.596
+      },
+      {
+        "word": "a",
+        "start": 39.172,
+        "end": 39.252,
+        "score": 0.525
+      },
+      {
+        "word": "refusé",
+        "start": 39.272,
+        "end": 39.672,
+        "score": 0.798
+      },
+      {
+        "word": "de",
+        "start": 39.713,
+        "end": 39.873,
+        "score": 0.936
+      },
+      {
+        "word": "me",
+        "start": 39.893,
+        "end": 40.013,
+        "score": 0.855
+      },
+      {
+        "word": "prendre",
+        "start": 40.033,
+        "end": 40.273,
+        "score": 0.844
+      },
+      {
+        "word": "en",
+        "start": 40.333,
+        "end": 40.413,
+        "score": 0.824
+      },
+      {
+        "word": "charge",
+        "start": 40.433,
+        "end": 40.833,
+        "score": 0.874
+      },
+      {
+        "word": "cette",
+        "start": 40.853,
+        "end": 41.013,
+        "score": 0.86
+      },
+      {
+        "word": "emboîture",
+        "start": 41.053,
+        "end": 41.453,
+        "score": 0.753
+      },
+      {
+        "word": "qui",
+        "start": 41.473,
+        "end": 41.633,
+        "score": 0.811
+      },
+      {
+        "word": "coûte",
+        "start": 41.673,
+        "end": 42.234,
+        "score": 0.984
+      },
+      {
+        "word": "8"
+      },
+      {
+        "word": "000"
+      },
+      {
+        "word": "euros,",
+        "start": 42.654,
+        "end": 42.954,
+        "score": 0.973
+      },
+      {
+        "word": "alors",
+        "start": 42.994,
+        "end": 43.234,
+        "score": 0.948
+      },
+      {
+        "word": "même",
+        "start": 43.254,
+        "end": 43.414,
+        "score": 0.832
+      },
+      {
+        "word": "qu'elle",
+        "start": 43.454,
+        "end": 43.674,
+        "score": 0.825
+      },
+      {
+        "word": "me",
+        "start": 43.694,
+        "end": 43.814,
+        "score": 0.94
+      },
+      {
+        "word": "payait",
+        "start": 43.854,
+        "end": 44.174,
+        "score": 0.764
+      },
+      {
+        "word": "entre",
+        "start": 44.214,
+        "end": 44.454,
+        "score": 0.931
+      },
+      {
+        "word": "6"
+      },
+      {
+        "word": "et",
+        "start": 44.735,
+        "end": 44.895,
+        "score": 0.797
+      },
+      {
+        "word": "8"
+      },
+      {
+        "word": "emboîtures",
+        "start": 45.175,
+        "end": 45.735,
+        "score": 0.705
+      },
+      {
+        "word": "par",
+        "start": 45.755,
+        "end": 45.915,
+        "score": 0.843
+      },
+      {
+        "word": "an",
+        "start": 45.935,
+        "end": 46.435,
+        "score": 0.943
+      },
+      {
+        "word": "qui",
+        "start": 46.455,
+        "end": 46.575,
+        "score": 0.904
+      },
+      {
+        "word": "ne",
+        "start": 46.595,
+        "end": 46.675,
+        "score": 0.815
+      },
+      {
+        "word": "me",
+        "start": 46.695,
+        "end": 46.815,
+        "score": 0.871
+      },
+      {
+        "word": "convenaient",
+        "start": 46.835,
+        "end": 47.216,
+        "score": 0.818
+      },
+      {
+        "word": "pas.",
+        "start": 47.256,
+        "end": 47.636,
+        "score": 0.964
+      },
+      {
+        "word": "C'est",
+        "start": 47.656,
+        "end": 47.796,
+        "score": 0.818
+      },
+      {
+        "word": "une",
+        "start": 47.836,
+        "end": 47.916,
+        "score": 0.914
+      },
+      {
+        "word": "aberration",
+        "start": 47.956,
+        "end": 48.376,
+        "score": 0.923
+      },
+      {
+        "word": "la",
+        "start": 48.416,
+        "end": 48.496,
+        "score": 0.944
+      },
+      {
+        "word": "plus",
+        "start": 48.516,
+        "end": 48.636,
+        "score": 0.779
+      },
+      {
+        "word": "complète.",
+        "start": 48.656,
+        "end": 49.496,
+        "score": 0.952
+      },
+      {
+        "word": "Dans",
+        "start": 49.516,
+        "end": 49.677,
+        "score": 0.936
+      },
+      {
+        "word": "9"
+      },
+      {
+        "word": "cas",
+        "start": 49.917,
+        "end": 50.097,
+        "score": 0.828
+      },
+      {
+        "word": "sur",
+        "start": 50.137,
+        "end": 50.297,
+        "score": 0.841
+      },
+      {
+        "word": "10,"
+      },
+      {
+        "word": "la",
+        "start": 50.837,
+        "end": 50.937,
+        "score": 0.909
+      },
+      {
+        "word": "maladie",
+        "start": 50.957,
+        "end": 51.537,
+        "score": 0.956
+      },
+      {
+        "word": "est",
+        "start": 51.577,
+        "end": 51.717,
+        "score": 0.825
+      },
+      {
+        "word": "à",
+        "start": 51.737,
+        "end": 51.757,
+        "score": 0.992
+      },
+      {
+        "word": "l'origine",
+        "start": 51.837,
+        "end": 52.258,
+        "score": 0.92
+      },
+      {
+        "word": "d'une",
+        "start": 52.298,
+        "end": 52.418,
+        "score": 0.889
+      },
+      {
+        "word": "amputation",
+        "start": 52.438,
+        "end": 53.218,
+        "score": 0.903
+      },
+      {
+        "word": "et",
+        "start": 53.238,
+        "end": 53.278,
+        "score": 0.009
+      },
+      {
+        "word": "la",
+        "start": 53.298,
+        "end": 53.378,
+        "score": 0.815
+      },
+      {
+        "word": "prothèse",
+        "start": 53.418,
+        "end": 54.158,
+        "score": 0.907
+      },
+      {
+        "word": "est",
+        "start": 54.198,
+        "end": 54.338,
+        "score": 0.702
+      },
+      {
+        "word": "alors",
+        "start": 54.378,
+        "end": 54.859,
+        "score": 0.929
+      },
+      {
+        "word": "mal",
+        "start": 54.899,
+        "end": 55.099,
+        "score": 0.849
+      },
+      {
+        "word": "remboursée.",
+        "start": 55.139,
+        "end": 56.119,
+        "score": 0.946
+      },
+      {
+        "word": "Pauline",
+        "start": 56.159,
+        "end": 56.499,
+        "score": 0.601
+      },
+      {
+        "word": "Desrouledes,",
+        "start": 56.519,
+        "end": 56.979,
+        "score": 0.668
+      },
+      {
+        "word": "elle,",
+        "start": 57.039,
+        "end": 57.54,
+        "score": 0.895
+      },
+      {
+        "word": "s'estime",
+        "start": 57.56,
+        "end": 58.04,
+        "score": 0.825
+      },
+      {
+        "word": "mieux",
+        "start": 58.08,
+        "end": 58.24,
+        "score": 0.895
+      },
+      {
+        "word": "lotie.",
+        "start": 58.28,
+        "end": 58.72,
+        "score": 0.89
+      },
+      {
+        "word": "Sa",
+        "start": 58.76,
+        "end": 58.92,
+        "score": 0.822
+      },
+      {
+        "word": "prothèse",
+        "start": 58.96,
+        "end": 59.38,
+        "score": 0.831
+      },
+      {
+        "word": "a",
+        "start": 59.42,
+        "end": 59.48,
+        "score": 0.618
+      },
+      {
+        "word": "été",
+        "start": 59.52,
+        "end": 59.701,
+        "score": 0.965
+      },
+      {
+        "word": "payée",
+        "start": 59.761,
+        "end": 60.381,
+        "score": 0.958
+      },
+      {
+        "word": "par",
+        "start": 60.421,
+        "end": 60.581,
+        "score": 0.946
+      },
+      {
+        "word": "l'assurance",
+        "start": 60.621,
+        "end": 61.541,
+        "score": 0.93
+      },
+      {
+        "word": "du",
+        "start": 61.561,
+        "end": 61.661,
+        "score": 0.989
+      },
+      {
+        "word": "chauffard",
+        "start": 61.701,
+        "end": 62.422,
+        "score": 0.775
+      },
+      {
+        "word": "qui",
+        "start": 62.442,
+        "end": 62.602,
+        "score": 0.846
+      },
+      {
+        "word": "l'a",
+        "start": 62.622,
+        "end": 62.702,
+        "score": 0.767
+      },
+      {
+        "word": "renversée.",
+        "start": 62.742,
+        "end": 63.082,
+        "score": 0.888
+      },
+      {
+        "word": "La",
+        "start": 63.762,
+        "end": 63.882,
+        "score": 0.928
+      },
+      {
+        "word": "chance",
+        "start": 63.922,
+        "end": 64.162,
+        "score": 0.936
+      },
+      {
+        "word": "que",
+        "start": 64.203,
+        "end": 64.343,
+        "score": 0.784
+      },
+      {
+        "word": "j'ai",
+        "start": 64.363,
+        "end": 64.623,
+        "score": 0.866
+      },
+      {
+        "word": "eue",
+        "start": 64.663,
+        "end": 65.323,
+        "score": 0.614
+      },
+      {
+        "word": "dans",
+        "start": 65.343,
+        "end": 65.443,
+        "score": 0.859
+      },
+      {
+        "word": "mon",
+        "start": 65.483,
+        "end": 65.543,
+        "score": 0.982
+      },
+      {
+        "word": "drame,",
+        "start": 65.563,
+        "end": 65.763,
+        "score": 0.736
+      },
+      {
+        "word": "c'est",
+        "start": 65.783,
+        "end": 65.943,
+        "score": 0.826
+      },
+      {
+        "word": "de",
+        "start": 65.963,
+        "end": 66.023,
+        "score": 0.926
+      },
+      {
+        "word": "m'être",
+        "start": 66.043,
+        "end": 66.224,
+        "score": 0.791
+      },
+      {
+        "word": "fait",
+        "start": 66.264,
+        "end": 66.704,
+        "score": 0.881
+      },
+      {
+        "word": "faucher",
+        "start": 66.744,
+        "end": 67.124,
+        "score": 0.745
+      },
+      {
+        "word": "par",
+        "start": 67.144,
+        "end": 67.244,
+        "score": 0.896
+      },
+      {
+        "word": "un",
+        "start": 67.304,
+        "end": 67.684,
+        "score": 0.852
+      },
+      {
+        "word": "tiers",
+        "start": 67.724,
+        "end": 67.925,
+        "score": 0.67
+      },
+      {
+        "word": "responsable,",
+        "start": 67.965,
+        "end": 68.325,
+        "score": 0.874
+      },
+      {
+        "word": "ce",
+        "start": 68.365,
+        "end": 68.405,
+        "score": 0.412
+      },
+      {
+        "word": "qu'on",
+        "start": 68.425,
+        "end": 68.565,
+        "score": 0.839
+      },
+      {
+        "word": "appelle.",
+        "start": 68.605,
+        "end": 68.905,
+        "score": 0.868
+      },
+      {
+        "word": "Donc",
+        "start": 68.925,
+        "end": 69.105,
+        "score": 0.471
+      },
+      {
+        "word": "j'ai",
+        "start": 69.145,
+        "end": 69.685,
+        "score": 0.836
+      },
+      {
+        "word": "pu",
+        "start": 69.725,
+        "end": 69.866,
+        "score": 0.613
+      },
+      {
+        "word": "bénéficier",
+        "start": 69.886,
+        "end": 70.346,
+        "score": 0.864
+      },
+      {
+        "word": "d'un",
+        "start": 70.426,
+        "end": 71.206,
+        "score": 0.7
+      },
+      {
+        "word": "genou",
+        "start": 71.226,
+        "end": 71.847,
+        "score": 0.791
+      },
+      {
+        "word": "hyper",
+        "start": 71.887,
+        "end": 72.267,
+        "score": 0.888
+      },
+      {
+        "word": "technologique",
+        "start": 72.287,
+        "end": 72.967,
+        "score": 0.882
+      },
+      {
+        "word": "qui",
+        "start": 73.007,
+        "end": 73.107,
+        "score": 0.931
+      },
+      {
+        "word": "n'est",
+        "start": 73.147,
+        "end": 73.407,
+        "score": 0.875
+      },
+      {
+        "word": "malheureusement",
+        "start": 73.427,
+        "end": 73.908,
+        "score": 0.875
+      },
+      {
+        "word": "pas",
+        "start": 73.948,
+        "end": 74.028,
+        "score": 0.824
+      },
+      {
+        "word": "remboursé",
+        "start": 74.048,
+        "end": 74.368,
+        "score": 0.836
+      },
+      {
+        "word": "par",
+        "start": 74.388,
+        "end": 74.488,
+        "score": 0.814
+      },
+      {
+        "word": "la",
+        "start": 74.528,
+        "end": 74.588,
+        "score": 0.9
+      },
+      {
+        "word": "Sécurité",
+        "start": 74.648,
+        "end": 74.988,
+        "score": 0.946
+      },
+      {
+        "word": "sociale.",
+        "start": 75.028,
+        "end": 75.789,
+        "score": 0.949
+      },
+      {
+        "word": "Et",
+        "start": 75.869,
+        "end": 76.349,
+        "score": 0.912
+      },
+      {
+        "word": "j'ai",
+        "start": 76.389,
+        "end": 76.469,
+        "score": 0.56
+      },
+      {
+        "word": "toujours",
+        "start": 76.509,
+        "end": 77.189,
+        "score": 0.554
+      },
+      {
+        "word": "tellement",
+        "start": 77.21,
+        "end": 77.51,
+        "score": 0.882
+      },
+      {
+        "word": "trouvé",
+        "start": 77.55,
+        "end": 77.81,
+        "score": 0.726
+      },
+      {
+        "word": "ça",
+        "start": 77.83,
+        "end": 78.03,
+        "score": 0.65
+      },
+      {
+        "word": "injuste",
+        "start": 78.07,
+        "end": 78.99,
+        "score": 0.939
+      },
+      {
+        "word": "parce",
+        "start": 79.01,
+        "end": 79.151,
+        "score": 0.951
+      },
+      {
+        "word": "que",
+        "start": 79.191,
+        "end": 79.291,
+        "score": 0.95
+      },
+      {
+        "word": "si",
+        "start": 79.331,
+        "end": 79.431,
+        "score": 0.849
+      },
+      {
+        "word": "je",
+        "start": 79.471,
+        "end": 79.771,
+        "score": 0.905
+      },
+      {
+        "word": "m'étais",
+        "start": 79.791,
+        "end": 80.731,
+        "score": 0.774
+      },
+      {
+        "word": "accidentée",
+        "start": 80.771,
+        "end": 81.452,
+        "score": 0.887
+      },
+      {
+        "word": "toute",
+        "start": 81.472,
+        "end": 81.592,
+        "score": 0.771
+      },
+      {
+        "word": "seule,",
+        "start": 81.612,
+        "end": 81.772,
+        "score": 0.742
+      },
+      {
+        "word": "finalement,",
+        "start": 81.792,
+        "end": 82.092,
+        "score": 0.347
+      },
+      {
+        "word": "je",
+        "start": 82.112,
+        "end": 82.172,
+        "score": 0.756
+      },
+      {
+        "word": "n'aurais",
+        "start": 82.192,
+        "end": 82.392,
+        "score": 0.648
+      },
+      {
+        "word": "pas",
+        "start": 82.412,
+        "end": 82.492,
+        "score": 0.816
+      },
+      {
+        "word": "eu",
+        "start": 82.512,
+        "end": 82.592,
+        "score": 0.703
+      },
+      {
+        "word": "accès",
+        "start": 82.632,
+        "end": 83.233,
+        "score": 0.892
+      },
+      {
+        "word": "à",
+        "start": 83.293,
+        "end": 83.333,
+        "score": 0.461
+      },
+      {
+        "word": "cette",
+        "start": 83.373,
+        "end": 83.553,
+        "score": 0.714
+      },
+      {
+        "word": "technologie-là.",
+        "start": 83.573,
+        "end": 84.593,
+        "score": 0.885
+      },
+      {
+        "word": "120"
+      },
+      {
+        "word": "000"
+      },
+      {
+        "word": "euros",
+        "start": 85.234,
+        "end": 85.514,
+        "score": 0.767
+      },
+      {
+        "word": "la",
+        "start": 85.594,
+        "end": 85.674,
+        "score": 0.976
+      },
+      {
+        "word": "prothèse",
+        "start": 85.714,
+        "end": 86.334,
+        "score": 0.851
+      },
+      {
+        "word": "dernière",
+        "start": 86.374,
+        "end": 86.715,
+        "score": 0.908
+      },
+      {
+        "word": "génération.",
+        "start": 86.755,
+        "end": 87.475,
+        "score": 0.838
+      },
+      {
+        "word": "Un",
+        "start": 87.515,
+        "end": 87.595,
+        "score": 0.896
+      },
+      {
+        "word": "équipement",
+        "start": 87.635,
+        "end": 88.055,
+        "score": 0.955
+      },
+      {
+        "word": "que",
+        "start": 88.095,
+        "end": 88.215,
+        "score": 0.885
+      },
+      {
+        "word": "n'aura",
+        "start": 88.235,
+        "end": 88.556,
+        "score": 0.784
+      },
+      {
+        "word": "jamais",
+        "start": 88.596,
+        "end": 88.836,
+        "score": 0.91
+      },
+      {
+        "word": "le",
+        "start": 88.876,
+        "end": 88.956,
+        "score": 0.91
+      },
+      {
+        "word": "journaliste",
+        "start": 88.976,
+        "end": 89.536,
+        "score": 0.919
+      },
+      {
+        "word": "Mathieu",
+        "start": 89.576,
+        "end": 89.856,
+        "score": 0.536
+      },
+      {
+        "word": "Larteau,",
+        "start": 89.876,
+        "end": 90.197,
+        "score": 0.677
+      },
+      {
+        "word": "par",
+        "start": 90.217,
+        "end": 90.337,
+        "score": 0.937
+      },
+      {
+        "word": "exemple,",
+        "start": 90.377,
+        "end": 91.157,
+        "score": 0.888
+      },
+      {
+        "word": "amputé",
+        "start": 91.197,
+        "end": 91.637,
+        "score": 0.738
+      },
+      {
+        "word": "à",
+        "start": 91.657,
+        "end": 91.677,
+        "score": 0.909
+      },
+      {
+        "word": "la",
+        "start": 91.737,
+        "end": 91.817,
+        "score": 0.908
+      },
+      {
+        "word": "suite",
+        "start": 91.857,
+        "end": 92.178,
+        "score": 0.911
+      },
+      {
+        "word": "d'un",
+        "start": 92.218,
+        "end": 92.338,
+        "score": 0.942
+      },
+      {
+        "word": "cancer.",
+        "start": 92.378,
+        "end": 92.638,
+        "score": 0.88
+      },
+      {
+        "word": "C'est",
+        "start": 94.002,
+        "end": 94.122,
+        "score": 0.842
+      },
+      {
+        "word": "comme",
+        "start": 94.142,
+        "end": 94.342,
+        "score": 0.886
+      },
+      {
+        "word": "si",
+        "start": 94.382,
+        "end": 94.462,
+        "score": 0.762
+      },
+      {
+        "word": "on",
+        "start": 94.522,
+        "end": 94.642,
+        "score": 0.87
+      },
+      {
+        "word": "vous",
+        "start": 94.662,
+        "end": 94.782,
+        "score": 0.864
+      },
+      {
+        "word": "demandait",
+        "start": 94.822,
+        "end": 95.083,
+        "score": 0.679
+      },
+      {
+        "word": "aujourd'hui",
+        "start": 95.123,
+        "end": 95.443,
+        "score": 0.851
+      },
+      {
+        "word": "de",
+        "start": 95.463,
+        "end": 95.543,
+        "score": 0.91
+      },
+      {
+        "word": "conduire",
+        "start": 95.583,
+        "end": 95.903,
+        "score": 0.732
+      },
+      {
+        "word": "une",
+        "start": 95.943,
+        "end": 96.023,
+        "score": 0.836
+      },
+      {
+        "word": "voiture",
+        "start": 96.063,
+        "end": 96.403,
+        "score": 0.805
+      },
+      {
+        "word": "sans",
+        "start": 96.443,
+        "end": 96.783,
+        "score": 0.977
+      },
+      {
+        "word": "direction",
+        "start": 96.823,
+        "end": 97.124,
+        "score": 0.874
+      },
+      {
+        "word": "assistée",
+        "start": 97.184,
+        "end": 97.864,
+        "score": 0.849
+      },
+      {
+        "word": "et",
+        "start": 97.924,
+        "end": 98.004,
+        "score": 0.899
+      },
+      {
+        "word": "que",
+        "start": 98.024,
+        "end": 98.144,
+        "score": 0.852
+      },
+      {
+        "word": "vous",
+        "start": 98.164,
+        "end": 98.364,
+        "score": 0.838
+      },
+      {
+        "word": "voyez",
+        "start": 98.404,
+        "end": 98.905,
+        "score": 0.825
+      },
+      {
+        "word": "quelqu'un",
+        "start": 98.945,
+        "end": 99.285,
+        "score": 0.874
+      },
+      {
+        "word": "sur",
+        "start": 99.305,
+        "end": 99.385,
+        "score": 0.827
+      },
+      {
+        "word": "le",
+        "start": 99.425,
+        "end": 99.465,
+        "score": 0.786
+      },
+      {
+        "word": "trottoir",
+        "start": 99.485,
+        "end": 99.725,
+        "score": 0.59
+      },
+      {
+        "word": "d'en",
+        "start": 99.745,
+        "end": 99.905,
+        "score": 0.757
+      },
+      {
+        "word": "face",
+        "start": 99.945,
+        "end": 100.165,
+        "score": 0.604
+      },
+      {
+        "word": "avoir",
+        "start": 100.205,
+        "end": 100.906,
+        "score": 0.903
+      },
+      {
+        "word": "la",
+        "start": 100.946,
+        "end": 101.006,
+        "score": 0.967
+      },
+      {
+        "word": "voiture",
+        "start": 101.026,
+        "end": 101.346,
+        "score": 0.847
+      },
+      {
+        "word": "full",
+        "start": 101.386,
+        "end": 101.566,
+        "score": 0.683
+      },
+      {
+        "word": "option.",
+        "start": 101.586,
+        "end": 103.247,
+        "score": 0.923
+      },
+      {
+        "word": "C'est",
+        "start": 103.287,
+        "end": 103.447,
+        "score": 0.798
+      },
+      {
+        "word": "difficile",
+        "start": 103.467,
+        "end": 103.847,
+        "score": 0.898
+      },
+      {
+        "word": "à",
+        "start": 103.887,
+        "end": 103.907,
+        "score": 0.926
+      },
+      {
+        "word": "avaler",
+        "start": 103.987,
+        "end": 104.247,
+        "score": 0.844
+      },
+      {
+        "word": "quand",
+        "start": 104.267,
+        "end": 104.467,
+        "score": 0.878
+      },
+      {
+        "word": "vous",
+        "start": 104.507,
+        "end": 104.627,
+        "score": 0.905
+      },
+      {
+        "word": "avez",
+        "start": 104.667,
+        "end": 104.847,
+        "score": 0.674
+      },
+      {
+        "word": "été",
+        "start": 104.867,
+        "end": 105.028,
+        "score": 0.893
+      },
+      {
+        "word": "amputé",
+        "start": 105.088,
+        "end": 105.448,
+        "score": 0.706
+      },
+      {
+        "word": "à",
+        "start": 105.468,
+        "end": 105.488,
+        "score": 0.975
+      },
+      {
+        "word": "la",
+        "start": 105.528,
+        "end": 105.568,
+        "score": 0.986
+      },
+      {
+        "word": "suite",
+        "start": 105.628,
+        "end": 105.748,
+        "score": 0.717
+      },
+      {
+        "word": "d'une",
+        "start": 105.768,
+        "end": 105.928,
+        "score": 0.478
+      },
+      {
+        "word": "maladie,",
+        "start": 105.948,
+        "end": 106.148,
+        "score": 0.635
+      },
+      {
+        "word": "parce",
+        "start": 106.168,
+        "end": 106.268,
+        "score": 0.007
+      },
+      {
+        "word": "que",
+        "start": 106.288,
+        "end": 106.368,
+        "score": 0.717
+      },
+      {
+        "word": "c'est",
+        "start": 106.388,
+        "end": 106.508,
+        "score": 0.856
+      },
+      {
+        "word": "la",
+        "start": 106.528,
+        "end": 106.588,
+        "score": 0.852
+      },
+      {
+        "word": "double",
+        "start": 106.628,
+        "end": 106.848,
+        "score": 0.916
+      },
+      {
+        "word": "peine",
+        "start": 106.888,
+        "end": 107.069,
+        "score": 0.853
+      },
+      {
+        "word": "finalement.",
+        "start": 107.089,
+        "end": 107.769,
+        "score": 0.594
+      },
+      {
+        "word": "Son",
+        "start": 107.809,
+        "end": 107.969,
+        "score": 0.936
+      },
+      {
+        "word": "association",
+        "start": 108.009,
+        "end": 108.689,
+        "score": 0.931
+      },
+      {
+        "word": "recueille",
+        "start": 108.729,
+        "end": 109.03,
+        "score": 0.912
+      },
+      {
+        "word": "des",
+        "start": 109.05,
+        "end": 109.19,
+        "score": 0.776
+      },
+      {
+        "word": "dons",
+        "start": 109.23,
+        "end": 109.45,
+        "score": 0.792
+      },
+      {
+        "word": "pour",
+        "start": 109.49,
+        "end": 109.67,
+        "score": 0.938
+      },
+      {
+        "word": "financer",
+        "start": 109.71,
+        "end": 110.07,
+        "score": 0.94
+      },
+      {
+        "word": "des",
+        "start": 110.13,
+        "end": 110.23,
+        "score": 0.915
+      },
+      {
+        "word": "prothèses",
+        "start": 110.27,
+        "end": 110.81,
+        "score": 0.803
+      },
+      {
+        "word": "et",
+        "start": 110.85,
+        "end": 110.93,
+        "score": 0.706
+      },
+      {
+        "word": "espère",
+        "start": 111.011,
+        "end": 111.351,
+        "score": 0.846
+      },
+      {
+        "word": "aussi",
+        "start": 111.391,
+        "end": 111.691,
+        "score": 0.982
+      },
+      {
+        "word": "changer",
+        "start": 111.731,
+        "end": 112.111,
+        "score": 0.881
+      },
+      {
+        "word": "les",
+        "start": 112.131,
+        "end": 112.251,
+        "score": 0.906
+      },
+      {
+        "word": "modes",
+        "start": 112.291,
+        "end": 112.571,
+        "score": 0.852
+      },
+      {
+        "word": "de",
+        "start": 112.631,
+        "end": 112.731,
+        "score": 0.988
+      },
+      {
+        "word": "remboursement,",
+        "start": 112.771,
+        "end": 113.832,
+        "score": 0.96
+      },
+      {
+        "word": "une",
+        "start": 113.892,
+        "end": 113.992,
+        "score": 0.929
+      },
+      {
+        "word": "forme",
+        "start": 114.052,
+        "end": 114.392,
+        "score": 0.961
+      },
+      {
+        "word": "de",
+        "start": 114.412,
+        "end": 114.532,
+        "score": 0.983
+      },
+      {
+        "word": "marche",
+        "start": 114.572,
+        "end": 115.033,
+        "score": 0.908
+      },
+      {
+        "word": "vers",
+        "start": 115.053,
+        "end": 115.233,
+        "score": 0.861
+      },
+      {
+        "word": "l'égalité.",
+        "start": 115.273,
+        "end": 115.633,
+        "score": 0.987
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 116,
+  "transcription_duration": 107
+}

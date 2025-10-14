@@ -1,0 +1,2957 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 11.956,
+        "end": 17.143,
+        "text": " Laissez-moi vous présenter une pièce qui a vu passer plus de billets que la bourse de Wall Street.",
+        "words": [
+          {
+            "word": "Laissez-moi",
+            "start": 11.956,
+            "end": 12.417,
+            "score": 0.66,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vous",
+            "start": 12.437,
+            "end": 12.597,
+            "score": 0.9,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "présenter",
+            "start": 12.637,
+            "end": 13.178,
+            "score": 0.913,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "une",
+            "start": 13.238,
+            "end": 13.358,
+            "score": 0.974,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pièce",
+            "start": 13.398,
+            "end": 13.719,
+            "score": 0.878,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 13.739,
+            "end": 13.859,
+            "score": 0.765,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 13.899,
+            "end": 13.919,
+            "score": 0.983,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vu",
+            "start": 13.939,
+            "end": 14.099,
+            "score": 0.518,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "passer",
+            "start": 14.139,
+            "end": 14.66,
+            "score": 0.861,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plus",
+            "start": 14.68,
+            "end": 15.02,
+            "score": 0.717,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 15.04,
+            "end": 15.141,
+            "score": 0.892,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "billets",
+            "start": 15.161,
+            "end": 15.581,
+            "score": 0.659,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 15.621,
+            "end": 15.761,
+            "score": 0.912,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 15.802,
+            "end": 15.962,
+            "score": 0.99,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "bourse",
+            "start": 16.002,
+            "end": 16.322,
+            "score": 0.897,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 16.342,
+            "end": 16.402,
+            "score": 0.981,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Wall",
+            "start": 16.442,
+            "end": 16.623,
+            "score": 0.689,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Street.",
+            "start": 16.643,
+            "end": 17.143,
+            "score": 0.747,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 17.203,
+        "end": 20.788,
+        "text": "Une magnifique caisse enregistreuse nationale.",
+        "words": [
+          {
+            "word": "Une",
+            "start": 17.203,
+            "end": 17.524,
+            "score": 0.968,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "magnifique",
+            "start": 17.584,
+            "end": 18.305,
+            "score": 0.917,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "caisse",
+            "start": 18.345,
+            "end": 18.585,
+            "score": 0.458,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "enregistreuse",
+            "start": 18.645,
+            "end": 19.707,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nationale.",
+            "start": 19.767,
+            "end": 20.788,
+            "score": 0.961,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 20.848,
+        "end": 25.555,
+        "text": "Un véritable bijou d'ingénierie et d'esthétique du début du XXe siècle.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 20.848,
+            "end": 21.009,
+            "score": 0.994,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "véritable",
+            "start": 21.049,
+            "end": 21.81,
+            "score": 0.951,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "bijou",
+            "start": 21.85,
+            "end": 22.35,
+            "score": 0.889,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'ingénierie",
+            "start": 22.391,
+            "end": 23.011,
+            "score": 0.842,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 23.051,
+            "end": 23.152,
+            "score": 0.748,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'esthétique",
+            "start": 23.192,
+            "end": 23.812,
+            "score": 0.827,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 23.832,
+            "end": 24.033,
+            "score": 0.956,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "début",
+            "start": 24.073,
+            "end": 24.353,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 24.373,
+            "end": 24.473,
+            "score": 0.899,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "XXe",
+            "start": 24.493,
+            "end": 24.854,
+            "score": 0.587,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "siècle.",
+            "start": 24.894,
+            "end": 25.555,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 25.595,
+        "end": 27.798,
+        "text": "Regardez-moi cette façade en laiton grave.",
+        "words": [
+          {
+            "word": "Regardez-moi",
+            "start": 25.595,
+            "end": 26.236,
+            "score": 0.822,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cette",
+            "start": 26.316,
+            "end": 26.536,
+            "score": 0.922,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "façade",
+            "start": 26.596,
+            "end": 26.957,
+            "score": 0.857,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 27.017,
+            "end": 27.117,
+            "score": 0.382,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "laiton",
+            "start": 27.157,
+            "end": 27.538,
+            "score": 0.77,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "grave.",
+            "start": 27.578,
+            "end": 27.798,
+            "score": 0.52,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 28.278,
+        "end": 32.08,
+        "text": " ornée de motifs fleuraux d'une précision incroyable.",
+        "words": [
+          {
+            "word": "ornée",
+            "start": 28.278,
+            "end": 28.638,
+            "score": 0.642,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 28.658,
+            "end": 28.778,
+            "score": 0.922,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "motifs",
+            "start": 28.818,
+            "end": 29.439,
+            "score": 0.833,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fleuraux",
+            "start": 29.479,
+            "end": 29.859,
+            "score": 0.827,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'une",
+            "start": 29.899,
+            "end": 30.119,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "précision",
+            "start": 30.159,
+            "end": 31.019,
+            "score": 0.851,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "incroyable.",
+            "start": 31.099,
+            "end": 32.08,
+            "score": 0.884,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 32.12,
+        "end": 36.841,
+        "text": "Chaque détail a été pensé pour allier fonctionnalité et beauté.",
+        "words": [
+          {
+            "word": "Chaque",
+            "start": 32.12,
+            "end": 32.44,
+            "score": 0.707,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "détail",
+            "start": 32.46,
+            "end": 33.28,
+            "score": 0.952,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 33.34,
+            "end": 33.42,
+            "score": 0.809,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "été",
+            "start": 33.48,
+            "end": 33.74,
+            "score": 0.817,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pensé",
+            "start": 33.76,
+            "end": 34.3,
+            "score": 0.849,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 34.34,
+            "end": 34.46,
+            "score": 0.969,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "allier",
+            "start": 34.5,
+            "end": 34.801,
+            "score": 0.878,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fonctionnalité",
+            "start": 34.861,
+            "end": 36.061,
+            "score": 0.933,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 36.121,
+            "end": 36.281,
+            "score": 0.902,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "beauté.",
+            "start": 36.341,
+            "end": 36.841,
+            "score": 0.604,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 36.901,
+        "end": 44.244,
+        "text": "Elle n'était pas seulement là pour encaisser l'argent, elle incarnait aussi le prestige et le sérieux de l'établissement qui l'utilisait.",
+        "words": [
+          {
+            "word": "Elle",
+            "start": 36.901,
+            "end": 37.081,
+            "score": 0.89,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "n'était",
+            "start": 37.121,
+            "end": 37.562,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 37.602,
+            "end": 37.722,
+            "score": 0.91,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "seulement",
+            "start": 37.762,
+            "end": 38.102,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "là",
+            "start": 38.142,
+            "end": 38.262,
+            "score": 0.982,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 38.302,
+            "end": 38.622,
+            "score": 0.857,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "encaisser",
+            "start": 38.662,
+            "end": 39.082,
+            "score": 0.883,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'argent,",
+            "start": 39.102,
+            "end": 39.522,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "elle",
+            "start": 39.562,
+            "end": 39.722,
+            "score": 0.776,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "incarnait",
+            "start": 39.762,
+            "end": 40.383,
+            "score": 0.945,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aussi",
+            "start": 40.443,
+            "end": 40.803,
+            "score": 0.972,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 40.843,
+            "end": 40.943,
+            "score": 0.988,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prestige",
+            "start": 40.983,
+            "end": 41.463,
+            "score": 0.877,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 41.503,
+            "end": 41.603,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 41.643,
+            "end": 41.783,
+            "score": 0.909,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sérieux",
+            "start": 41.823,
+            "end": 42.203,
+            "score": 0.924,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 42.223,
+            "end": 42.323,
+            "score": 0.853,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'établissement",
+            "start": 42.363,
+            "end": 42.944,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 42.984,
+            "end": 43.144,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'utilisait.",
+            "start": 43.164,
+            "end": 44.244,
+            "score": 0.905,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 44.304,
+        "end": 51.967,
+        "text": "Symbole d'innovation, elle intégrait à l'époque des mécanismes révolutionnaires pour comptabiliser et sécuriser les recettes.",
+        "words": [
+          {
+            "word": "Symbole",
+            "start": 44.304,
+            "end": 44.804,
+            "score": 0.898,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'innovation,",
+            "start": 44.824,
+            "end": 45.805,
+            "score": 0.903,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "elle",
+            "start": 45.845,
+            "end": 46.045,
+            "score": 0.842,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "intégrait",
+            "start": 46.105,
+            "end": 46.745,
+            "score": 0.882,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 46.765,
+            "end": 46.805,
+            "score": 0.495,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'époque",
+            "start": 46.885,
+            "end": 47.445,
+            "score": 0.894,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 47.465,
+            "end": 47.625,
+            "score": 0.962,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mécanismes",
+            "start": 47.665,
+            "end": 48.366,
+            "score": 0.887,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "révolutionnaires",
+            "start": 48.406,
+            "end": 49.366,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 49.406,
+            "end": 49.666,
+            "score": 0.955,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "comptabiliser",
+            "start": 49.706,
+            "end": 50.666,
+            "score": 0.965,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 50.706,
+            "end": 50.827,
+            "score": 0.529,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sécuriser",
+            "start": 50.907,
+            "end": 51.447,
+            "score": 0.925,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 51.487,
+            "end": 51.587,
+            "score": 0.989,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "recettes.",
+            "start": 51.627,
+            "end": 51.967,
+            "score": 0.912,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 57.02,
+        "end": 64.763,
+        "text": " Elle est fabriquée par The National Cash Register Company, une entreprise fondée en 1884 dans l'Ohio.",
+        "words": [
+          {
+            "word": "Elle",
+            "start": 57.02,
+            "end": 57.2,
+            "score": 0.204,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "est",
+            "start": 57.22,
+            "end": 57.28,
+            "score": 0.14,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fabriquée",
+            "start": 57.3,
+            "end": 57.82,
+            "score": 0.491,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "par",
+            "start": 57.84,
+            "end": 57.96,
+            "score": 0.725,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "The",
+            "start": 57.98,
+            "end": 58.22,
+            "score": 0.292,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "National",
+            "start": 58.24,
+            "end": 58.781,
+            "score": 0.894,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Cash",
+            "start": 58.821,
+            "end": 59.101,
+            "score": 0.732,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Register",
+            "start": 59.141,
+            "end": 59.641,
+            "score": 0.743,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Company,",
+            "start": 59.681,
+            "end": 60.301,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "une",
+            "start": 60.341,
+            "end": 60.501,
+            "score": 0.875,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "entreprise",
+            "start": 60.541,
+            "end": 61.382,
+            "score": 0.841,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fondée",
+            "start": 61.442,
+            "end": 62.662,
+            "score": 0.863,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 62.722,
+            "end": 62.862,
+            "score": 0.689,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "1884"
+          },
+          {
+            "word": "dans",
+            "start": 62.922,
+            "end": 63.382,
+            "score": 0.175,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'Ohio.",
+            "start": 64.083,
+            "end": 64.763,
+            "score": 0.68,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 64.803,
+        "end": 71.325,
+        "text": "A l'époque, les commerçants avaient bien du mal à éviter les vols de leurs recettes et les erreurs de gestion.",
+        "words": [
+          {
+            "word": "A",
+            "start": 64.803,
+            "end": 64.903,
+            "score": 0.681,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'époque,",
+            "start": 64.923,
+            "end": 65.523,
+            "score": 0.788,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 65.563,
+            "end": 65.783,
+            "score": 0.77,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "commerçants",
+            "start": 65.823,
+            "end": 66.543,
+            "score": 0.966,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avaient",
+            "start": 66.603,
+            "end": 67.124,
+            "score": 0.736,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "bien",
+            "start": 67.204,
+            "end": 67.484,
+            "score": 0.857,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 67.524,
+            "end": 67.664,
+            "score": 0.921,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mal",
+            "start": 67.704,
+            "end": 67.884,
+            "score": 0.931,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 67.904,
+            "end": 67.984,
+            "score": 0.535,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "éviter",
+            "start": 68.064,
+            "end": 68.504,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 68.544,
+            "end": 68.684,
+            "score": 0.867,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vols",
+            "start": 68.724,
+            "end": 68.964,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 68.984,
+            "end": 69.044,
+            "score": 0.724,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "leurs",
+            "start": 69.084,
+            "end": 69.244,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "recettes",
+            "start": 69.284,
+            "end": 69.945,
+            "score": 0.936,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 69.985,
+            "end": 70.105,
+            "score": 0.568,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 70.145,
+            "end": 70.245,
+            "score": 0.863,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "erreurs",
+            "start": 70.305,
+            "end": 70.605,
+            "score": 0.935,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 70.645,
+            "end": 70.725,
+            "score": 0.98,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "gestion.",
+            "start": 70.765,
+            "end": 71.325,
+            "score": 0.899,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 71.345,
+        "end": 79.008,
+        "text": "C'est comme ça que naît la caisse enregistreuse, qui révolutionne alors le secteur de la vente au détail en sécurisant les transactions commerciales.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 71.345,
+            "end": 71.485,
+            "score": 0.88,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "comme",
+            "start": 71.525,
+            "end": 71.705,
+            "score": 0.841,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça",
+            "start": 71.745,
+            "end": 71.905,
+            "score": 0.612,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 71.945,
+            "end": 72.125,
+            "score": 0.764,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "naît",
+            "start": 72.145,
+            "end": 72.306,
+            "score": 0.573,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 72.346,
+            "end": 72.446,
+            "score": 0.944,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "caisse",
+            "start": 72.486,
+            "end": 72.706,
+            "score": 0.75,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "enregistreuse,",
+            "start": 72.746,
+            "end": 73.706,
+            "score": 0.856,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 73.726,
+            "end": 74.066,
+            "score": 0.854,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "révolutionne",
+            "start": 74.106,
+            "end": 74.726,
+            "score": 0.962,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "alors",
+            "start": 74.766,
+            "end": 75.027,
+            "score": 0.88,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 75.067,
+            "end": 75.187,
+            "score": 0.934,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "secteur",
+            "start": 75.227,
+            "end": 75.587,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 75.627,
+            "end": 75.707,
+            "score": 0.99,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 75.747,
+            "end": 75.867,
+            "score": 0.966,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vente",
+            "start": 75.887,
+            "end": 76.087,
+            "score": 0.914,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "au",
+            "start": 76.127,
+            "end": 76.207,
+            "score": 0.876,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "détail",
+            "start": 76.247,
+            "end": 76.867,
+            "score": 0.945,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 76.927,
+            "end": 77.107,
+            "score": 0.92,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sécurisant",
+            "start": 77.167,
+            "end": 77.747,
+            "score": 0.91,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 77.767,
+            "end": 77.888,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "transactions",
+            "start": 77.928,
+            "end": 78.468,
+            "score": 0.857,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "commerciales.",
+            "start": 78.508,
+            "end": 79.008,
+            "score": 0.882,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 84.287,
+        "end": 95.816,
+        "text": " Pour partir avec la caisse, il y a un certain prix à payer qui peut aller de quelques centaines d'euros à plusieurs milliers d'euros pour un modèle comme celui-ci.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 84.287,
+            "end": 84.607,
+            "score": 0.748,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "partir",
+            "start": 84.627,
+            "end": 85.068,
+            "score": 0.921,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avec",
+            "start": 85.108,
+            "end": 85.348,
+            "score": 0.974,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 85.388,
+            "end": 85.468,
+            "score": 0.748,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "caisse,",
+            "start": 85.508,
+            "end": 85.968,
+            "score": 0.877,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "il",
+            "start": 86.008,
+            "end": 86.088,
+            "score": 0.611,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "y",
+            "start": 86.128,
+            "end": 86.148,
+            "score": 0.974,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 86.189,
+            "end": 86.269,
+            "score": 0.589,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 86.329,
+            "end": 86.549,
+            "score": 0.901,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "certain",
+            "start": 86.589,
+            "end": 86.889,
+            "score": 0.878,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prix",
+            "start": 86.949,
+            "end": 87.129,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 87.169,
+            "end": 87.229,
+            "score": 0.952,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "payer",
+            "start": 87.269,
+            "end": 87.59,
+            "score": 0.783,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 87.63,
+            "end": 87.73,
+            "score": 0.972,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "peut",
+            "start": 87.77,
+            "end": 87.87,
+            "score": 0.984,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aller",
+            "start": 87.91,
+            "end": 88.13,
+            "score": 0.975,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 88.15,
+            "end": 88.37,
+            "score": 0.996,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "quelques",
+            "start": 88.41,
+            "end": 88.81,
+            "score": 0.881,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "centaines",
+            "start": 88.851,
+            "end": 89.211,
+            "score": 0.89,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'euros",
+            "start": 89.251,
+            "end": 89.691,
+            "score": 0.872,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 89.751,
+            "end": 89.871,
+            "score": 0.997,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plusieurs",
+            "start": 89.911,
+            "end": 90.472,
+            "score": 0.794,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "milliers",
+            "start": 90.512,
+            "end": 90.852,
+            "score": 0.838,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'euros",
+            "start": 90.892,
+            "end": 91.252,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 91.292,
+            "end": 91.432,
+            "score": 0.867,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 91.452,
+            "end": 91.533,
+            "score": 0.95,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "modèle",
+            "start": 91.573,
+            "end": 91.853,
+            "score": 0.922,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "comme",
+            "start": 91.873,
+            "end": 92.053,
+            "score": 0.904,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "celui-ci.",
+            "start": 92.073,
+            "end": 95.816,
+            "score": 0.781,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 95.836,
+        "end": 98.037,
+        "text": "Les objets sont les témoins de notre mémoire.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 95.836,
+            "end": 95.956,
+            "score": 0.8,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "objets",
+            "start": 95.996,
+            "end": 96.276,
+            "score": 0.828,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sont",
+            "start": 96.316,
+            "end": 96.476,
+            "score": 0.883,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 96.496,
+            "end": 96.616,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "témoins",
+            "start": 96.676,
+            "end": 97.037,
+            "score": 0.88,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 97.077,
+            "end": 97.157,
+            "score": 0.982,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "notre",
+            "start": 97.197,
+            "end": 97.377,
+            "score": 0.815,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mémoire.",
+            "start": 97.477,
+            "end": 98.037,
+            "score": 0.872,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 98.057,
+        "end": 103.542,
+        "text": "Découvrez-en davantage dans les prochains épisodes et retrouvez-nous sur les réseaux sociaux de France Télévisions.",
+        "words": [
+          {
+            "word": "Découvrez-en",
+            "start": 98.057,
+            "end": 98.718,
+            "score": 0.706,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "davantage",
+            "start": 98.758,
+            "end": 99.238,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dans",
+            "start": 99.258,
+            "end": 99.398,
+            "score": 0.956,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 99.438,
+            "end": 99.579,
+            "score": 0.868,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prochains",
+            "start": 99.619,
+            "end": 99.939,
+            "score": 0.802,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "épisodes",
+            "start": 99.999,
+            "end": 100.539,
+            "score": 0.917,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 100.579,
+            "end": 100.699,
+            "score": 0.644,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "retrouvez-nous",
+            "start": 100.739,
+            "end": 101.48,
+            "score": 0.893,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sur",
+            "start": 101.52,
+            "end": 101.66,
+            "score": 0.875,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 101.68,
+            "end": 101.78,
+            "score": 0.858,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "réseaux",
+            "start": 101.82,
+            "end": 102.08,
+            "score": 0.853,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sociaux",
+            "start": 102.121,
+            "end": 102.681,
+            "score": 0.897,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 102.701,
+            "end": 102.801,
+            "score": 0.966,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "France",
+            "start": 102.841,
+            "end": 103.061,
+            "score": 0.806,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Télévisions.",
+            "start": 103.101,
+            "end": 103.542,
+            "score": 0.605,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Laissez-moi",
+        "start": 11.956,
+        "end": 12.417,
+        "score": 0.66,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vous",
+        "start": 12.437,
+        "end": 12.597,
+        "score": 0.9,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "présenter",
+        "start": 12.637,
+        "end": 13.178,
+        "score": 0.913,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "une",
+        "start": 13.238,
+        "end": 13.358,
+        "score": 0.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pièce",
+        "start": 13.398,
+        "end": 13.719,
+        "score": 0.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 13.739,
+        "end": 13.859,
+        "score": 0.765,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 13.899,
+        "end": 13.919,
+        "score": 0.983,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vu",
+        "start": 13.939,
+        "end": 14.099,
+        "score": 0.518,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "passer",
+        "start": 14.139,
+        "end": 14.66,
+        "score": 0.861,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plus",
+        "start": 14.68,
+        "end": 15.02,
+        "score": 0.717,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 15.04,
+        "end": 15.141,
+        "score": 0.892,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "billets",
+        "start": 15.161,
+        "end": 15.581,
+        "score": 0.659,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 15.621,
+        "end": 15.761,
+        "score": 0.912,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 15.802,
+        "end": 15.962,
+        "score": 0.99,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "bourse",
+        "start": 16.002,
+        "end": 16.322,
+        "score": 0.897,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 16.342,
+        "end": 16.402,
+        "score": 0.981,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Wall",
+        "start": 16.442,
+        "end": 16.623,
+        "score": 0.689,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Street.",
+        "start": 16.643,
+        "end": 17.143,
+        "score": 0.747,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Une",
+        "start": 17.203,
+        "end": 17.524,
+        "score": 0.968,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "magnifique",
+        "start": 17.584,
+        "end": 18.305,
+        "score": 0.917,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "caisse",
+        "start": 18.345,
+        "end": 18.585,
+        "score": 0.458,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "enregistreuse",
+        "start": 18.645,
+        "end": 19.707,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nationale.",
+        "start": 19.767,
+        "end": 20.788,
+        "score": 0.961,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Un",
+        "start": 20.848,
+        "end": 21.009,
+        "score": 0.994,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "véritable",
+        "start": 21.049,
+        "end": 21.81,
+        "score": 0.951,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "bijou",
+        "start": 21.85,
+        "end": 22.35,
+        "score": 0.889,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'ingénierie",
+        "start": 22.391,
+        "end": 23.011,
+        "score": 0.842,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 23.051,
+        "end": 23.152,
+        "score": 0.748,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'esthétique",
+        "start": 23.192,
+        "end": 23.812,
+        "score": 0.827,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 23.832,
+        "end": 24.033,
+        "score": 0.956,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "début",
+        "start": 24.073,
+        "end": 24.353,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 24.373,
+        "end": 24.473,
+        "score": 0.899,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "XXe",
+        "start": 24.493,
+        "end": 24.854,
+        "score": 0.587,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "siècle.",
+        "start": 24.894,
+        "end": 25.555,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Regardez-moi",
+        "start": 25.595,
+        "end": 26.236,
+        "score": 0.822,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cette",
+        "start": 26.316,
+        "end": 26.536,
+        "score": 0.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "façade",
+        "start": 26.596,
+        "end": 26.957,
+        "score": 0.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 27.017,
+        "end": 27.117,
+        "score": 0.382,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "laiton",
+        "start": 27.157,
+        "end": 27.538,
+        "score": 0.77,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "grave.",
+        "start": 27.578,
+        "end": 27.798,
+        "score": 0.52,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ornée",
+        "start": 28.278,
+        "end": 28.638,
+        "score": 0.642,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 28.658,
+        "end": 28.778,
+        "score": 0.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "motifs",
+        "start": 28.818,
+        "end": 29.439,
+        "score": 0.833,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fleuraux",
+        "start": 29.479,
+        "end": 29.859,
+        "score": 0.827,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'une",
+        "start": 29.899,
+        "end": 30.119,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "précision",
+        "start": 30.159,
+        "end": 31.019,
+        "score": 0.851,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "incroyable.",
+        "start": 31.099,
+        "end": 32.08,
+        "score": 0.884,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Chaque",
+        "start": 32.12,
+        "end": 32.44,
+        "score": 0.707,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "détail",
+        "start": 32.46,
+        "end": 33.28,
+        "score": 0.952,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 33.34,
+        "end": 33.42,
+        "score": 0.809,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "été",
+        "start": 33.48,
+        "end": 33.74,
+        "score": 0.817,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pensé",
+        "start": 33.76,
+        "end": 34.3,
+        "score": 0.849,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 34.34,
+        "end": 34.46,
+        "score": 0.969,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "allier",
+        "start": 34.5,
+        "end": 34.801,
+        "score": 0.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fonctionnalité",
+        "start": 34.861,
+        "end": 36.061,
+        "score": 0.933,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 36.121,
+        "end": 36.281,
+        "score": 0.902,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "beauté.",
+        "start": 36.341,
+        "end": 36.841,
+        "score": 0.604,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Elle",
+        "start": 36.901,
+        "end": 37.081,
+        "score": 0.89,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "n'était",
+        "start": 37.121,
+        "end": 37.562,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 37.602,
+        "end": 37.722,
+        "score": 0.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "seulement",
+        "start": 37.762,
+        "end": 38.102,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "là",
+        "start": 38.142,
+        "end": 38.262,
+        "score": 0.982,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 38.302,
+        "end": 38.622,
+        "score": 0.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "encaisser",
+        "start": 38.662,
+        "end": 39.082,
+        "score": 0.883,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'argent,",
+        "start": 39.102,
+        "end": 39.522,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "elle",
+        "start": 39.562,
+        "end": 39.722,
+        "score": 0.776,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "incarnait",
+        "start": 39.762,
+        "end": 40.383,
+        "score": 0.945,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aussi",
+        "start": 40.443,
+        "end": 40.803,
+        "score": 0.972,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 40.843,
+        "end": 40.943,
+        "score": 0.988,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prestige",
+        "start": 40.983,
+        "end": 41.463,
+        "score": 0.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 41.503,
+        "end": 41.603,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 41.643,
+        "end": 41.783,
+        "score": 0.909,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sérieux",
+        "start": 41.823,
+        "end": 42.203,
+        "score": 0.924,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 42.223,
+        "end": 42.323,
+        "score": 0.853,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'établissement",
+        "start": 42.363,
+        "end": 42.944,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 42.984,
+        "end": 43.144,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'utilisait.",
+        "start": 43.164,
+        "end": 44.244,
+        "score": 0.905,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Symbole",
+        "start": 44.304,
+        "end": 44.804,
+        "score": 0.898,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'innovation,",
+        "start": 44.824,
+        "end": 45.805,
+        "score": 0.903,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "elle",
+        "start": 45.845,
+        "end": 46.045,
+        "score": 0.842,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "intégrait",
+        "start": 46.105,
+        "end": 46.745,
+        "score": 0.882,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 46.765,
+        "end": 46.805,
+        "score": 0.495,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'époque",
+        "start": 46.885,
+        "end": 47.445,
+        "score": 0.894,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 47.465,
+        "end": 47.625,
+        "score": 0.962,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mécanismes",
+        "start": 47.665,
+        "end": 48.366,
+        "score": 0.887,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "révolutionnaires",
+        "start": 48.406,
+        "end": 49.366,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 49.406,
+        "end": 49.666,
+        "score": 0.955,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "comptabiliser",
+        "start": 49.706,
+        "end": 50.666,
+        "score": 0.965,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 50.706,
+        "end": 50.827,
+        "score": 0.529,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sécuriser",
+        "start": 50.907,
+        "end": 51.447,
+        "score": 0.925,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 51.487,
+        "end": 51.587,
+        "score": 0.989,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "recettes.",
+        "start": 51.627,
+        "end": 51.967,
+        "score": 0.912,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Elle",
+        "start": 57.02,
+        "end": 57.2,
+        "score": 0.204,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "est",
+        "start": 57.22,
+        "end": 57.28,
+        "score": 0.14,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fabriquée",
+        "start": 57.3,
+        "end": 57.82,
+        "score": 0.491,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "par",
+        "start": 57.84,
+        "end": 57.96,
+        "score": 0.725,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "The",
+        "start": 57.98,
+        "end": 58.22,
+        "score": 0.292,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "National",
+        "start": 58.24,
+        "end": 58.781,
+        "score": 0.894,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Cash",
+        "start": 58.821,
+        "end": 59.101,
+        "score": 0.732,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Register",
+        "start": 59.141,
+        "end": 59.641,
+        "score": 0.743,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Company,",
+        "start": 59.681,
+        "end": 60.301,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "une",
+        "start": 60.341,
+        "end": 60.501,
+        "score": 0.875,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "entreprise",
+        "start": 60.541,
+        "end": 61.382,
+        "score": 0.841,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fondée",
+        "start": 61.442,
+        "end": 62.662,
+        "score": 0.863,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 62.722,
+        "end": 62.862,
+        "score": 0.689,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "1884"
+      },
+      {
+        "word": "dans",
+        "start": 62.922,
+        "end": 63.382,
+        "score": 0.175,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'Ohio.",
+        "start": 64.083,
+        "end": 64.763,
+        "score": 0.68,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "A",
+        "start": 64.803,
+        "end": 64.903,
+        "score": 0.681,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'époque,",
+        "start": 64.923,
+        "end": 65.523,
+        "score": 0.788,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 65.563,
+        "end": 65.783,
+        "score": 0.77,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "commerçants",
+        "start": 65.823,
+        "end": 66.543,
+        "score": 0.966,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avaient",
+        "start": 66.603,
+        "end": 67.124,
+        "score": 0.736,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "bien",
+        "start": 67.204,
+        "end": 67.484,
+        "score": 0.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 67.524,
+        "end": 67.664,
+        "score": 0.921,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mal",
+        "start": 67.704,
+        "end": 67.884,
+        "score": 0.931,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 67.904,
+        "end": 67.984,
+        "score": 0.535,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "éviter",
+        "start": 68.064,
+        "end": 68.504,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 68.544,
+        "end": 68.684,
+        "score": 0.867,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vols",
+        "start": 68.724,
+        "end": 68.964,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 68.984,
+        "end": 69.044,
+        "score": 0.724,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "leurs",
+        "start": 69.084,
+        "end": 69.244,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "recettes",
+        "start": 69.284,
+        "end": 69.945,
+        "score": 0.936,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 69.985,
+        "end": 70.105,
+        "score": 0.568,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 70.145,
+        "end": 70.245,
+        "score": 0.863,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "erreurs",
+        "start": 70.305,
+        "end": 70.605,
+        "score": 0.935,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 70.645,
+        "end": 70.725,
+        "score": 0.98,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "gestion.",
+        "start": 70.765,
+        "end": 71.325,
+        "score": 0.899,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "C'est",
+        "start": 71.345,
+        "end": 71.485,
+        "score": 0.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "comme",
+        "start": 71.525,
+        "end": 71.705,
+        "score": 0.841,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça",
+        "start": 71.745,
+        "end": 71.905,
+        "score": 0.612,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 71.945,
+        "end": 72.125,
+        "score": 0.764,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "naît",
+        "start": 72.145,
+        "end": 72.306,
+        "score": 0.573,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 72.346,
+        "end": 72.446,
+        "score": 0.944,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "caisse",
+        "start": 72.486,
+        "end": 72.706,
+        "score": 0.75,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "enregistreuse,",
+        "start": 72.746,
+        "end": 73.706,
+        "score": 0.856,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 73.726,
+        "end": 74.066,
+        "score": 0.854,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "révolutionne",
+        "start": 74.106,
+        "end": 74.726,
+        "score": 0.962,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "alors",
+        "start": 74.766,
+        "end": 75.027,
+        "score": 0.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 75.067,
+        "end": 75.187,
+        "score": 0.934,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "secteur",
+        "start": 75.227,
+        "end": 75.587,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 75.627,
+        "end": 75.707,
+        "score": 0.99,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 75.747,
+        "end": 75.867,
+        "score": 0.966,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vente",
+        "start": 75.887,
+        "end": 76.087,
+        "score": 0.914,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "au",
+        "start": 76.127,
+        "end": 76.207,
+        "score": 0.876,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "détail",
+        "start": 76.247,
+        "end": 76.867,
+        "score": 0.945,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 76.927,
+        "end": 77.107,
+        "score": 0.92,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sécurisant",
+        "start": 77.167,
+        "end": 77.747,
+        "score": 0.91,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 77.767,
+        "end": 77.888,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "transactions",
+        "start": 77.928,
+        "end": 78.468,
+        "score": 0.857,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "commerciales.",
+        "start": 78.508,
+        "end": 79.008,
+        "score": 0.882,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Pour",
+        "start": 84.287,
+        "end": 84.607,
+        "score": 0.748,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "partir",
+        "start": 84.627,
+        "end": 85.068,
+        "score": 0.921,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avec",
+        "start": 85.108,
+        "end": 85.348,
+        "score": 0.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 85.388,
+        "end": 85.468,
+        "score": 0.748,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "caisse,",
+        "start": 85.508,
+        "end": 85.968,
+        "score": 0.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "il",
+        "start": 86.008,
+        "end": 86.088,
+        "score": 0.611,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "y",
+        "start": 86.128,
+        "end": 86.148,
+        "score": 0.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 86.189,
+        "end": 86.269,
+        "score": 0.589,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 86.329,
+        "end": 86.549,
+        "score": 0.901,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "certain",
+        "start": 86.589,
+        "end": 86.889,
+        "score": 0.878,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prix",
+        "start": 86.949,
+        "end": 87.129,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 87.169,
+        "end": 87.229,
+        "score": 0.952,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "payer",
+        "start": 87.269,
+        "end": 87.59,
+        "score": 0.783,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 87.63,
+        "end": 87.73,
+        "score": 0.972,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "peut",
+        "start": 87.77,
+        "end": 87.87,
+        "score": 0.984,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aller",
+        "start": 87.91,
+        "end": 88.13,
+        "score": 0.975,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 88.15,
+        "end": 88.37,
+        "score": 0.996,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "quelques",
+        "start": 88.41,
+        "end": 88.81,
+        "score": 0.881,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "centaines",
+        "start": 88.851,
+        "end": 89.211,
+        "score": 0.89,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'euros",
+        "start": 89.251,
+        "end": 89.691,
+        "score": 0.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 89.751,
+        "end": 89.871,
+        "score": 0.997,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plusieurs",
+        "start": 89.911,
+        "end": 90.472,
+        "score": 0.794,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "milliers",
+        "start": 90.512,
+        "end": 90.852,
+        "score": 0.838,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'euros",
+        "start": 90.892,
+        "end": 91.252,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 91.292,
+        "end": 91.432,
+        "score": 0.867,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 91.452,
+        "end": 91.533,
+        "score": 0.95,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "modèle",
+        "start": 91.573,
+        "end": 91.853,
+        "score": 0.922,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "comme",
+        "start": 91.873,
+        "end": 92.053,
+        "score": 0.904,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "celui-ci.",
+        "start": 92.073,
+        "end": 95.816,
+        "score": 0.781,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Les",
+        "start": 95.836,
+        "end": 95.956,
+        "score": 0.8,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "objets",
+        "start": 95.996,
+        "end": 96.276,
+        "score": 0.828,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sont",
+        "start": 96.316,
+        "end": 96.476,
+        "score": 0.883,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 96.496,
+        "end": 96.616,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "témoins",
+        "start": 96.676,
+        "end": 97.037,
+        "score": 0.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 97.077,
+        "end": 97.157,
+        "score": 0.982,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "notre",
+        "start": 97.197,
+        "end": 97.377,
+        "score": 0.815,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mémoire.",
+        "start": 97.477,
+        "end": 98.037,
+        "score": 0.872,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Découvrez-en",
+        "start": 98.057,
+        "end": 98.718,
+        "score": 0.706,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "davantage",
+        "start": 98.758,
+        "end": 99.238,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dans",
+        "start": 99.258,
+        "end": 99.398,
+        "score": 0.956,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 99.438,
+        "end": 99.579,
+        "score": 0.868,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prochains",
+        "start": 99.619,
+        "end": 99.939,
+        "score": 0.802,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "épisodes",
+        "start": 99.999,
+        "end": 100.539,
+        "score": 0.917,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 100.579,
+        "end": 100.699,
+        "score": 0.644,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "retrouvez-nous",
+        "start": 100.739,
+        "end": 101.48,
+        "score": 0.893,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sur",
+        "start": 101.52,
+        "end": 101.66,
+        "score": 0.875,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 101.68,
+        "end": 101.78,
+        "score": 0.858,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "réseaux",
+        "start": 101.82,
+        "end": 102.08,
+        "score": 0.853,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sociaux",
+        "start": 102.121,
+        "end": 102.681,
+        "score": 0.897,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 102.701,
+        "end": 102.801,
+        "score": 0.966,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "France",
+        "start": 102.841,
+        "end": 103.061,
+        "score": 0.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Télévisions.",
+        "start": 103.101,
+        "end": 103.542,
+        "score": 0.605,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 109,
+  "transcription_duration": 170
+}

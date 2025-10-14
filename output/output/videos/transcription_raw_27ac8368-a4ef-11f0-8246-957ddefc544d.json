@@ -1,0 +1,2681 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.511,
+        "end": 2.894,
+        "text": " Dernier préparatif hier soir.",
+        "words": [
+          {
+            "word": "Dernier",
+            "start": 0.511,
+            "end": 0.892,
+            "score": 0.494,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "préparatif",
+            "start": 0.912,
+            "end": 1.592,
+            "score": 0.652,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "hier",
+            "start": 1.632,
+            "end": 1.893,
+            "score": 0.711,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "soir.",
+            "start": 1.933,
+            "end": 2.894,
+            "score": 0.856,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 2.914,
+        "end": 6.637,
+        "text": "Le Panthéon s'apprête à accueillir Robert Badinter.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 2.914,
+            "end": 3.074,
+            "score": 0.97,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Panthéon",
+            "start": 3.114,
+            "end": 3.915,
+            "score": 0.751,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "s'apprête",
+            "start": 3.935,
+            "end": 4.315,
+            "score": 0.956,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 4.335,
+            "end": 4.355,
+            "score": 0.955,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "accueillir",
+            "start": 4.415,
+            "end": 4.915,
+            "score": 0.866,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Robert",
+            "start": 4.955,
+            "end": 5.236,
+            "score": 0.744,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Badinter.",
+            "start": 5.256,
+            "end": 6.637,
+            "score": 0.739,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 6.817,
+        "end": 14.364,
+        "text": "20 mois après son décès, l'artisan de l'abolition de la peine de mort va reposer dans l'ancienne église, devenue nécropole nationale.",
+        "words": [
+          {
+            "word": "20"
+          },
+          {
+            "word": "mois",
+            "start": 6.857,
+            "end": 7.017,
+            "score": 0.788,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "après",
+            "start": 7.057,
+            "end": 7.258,
+            "score": 0.806,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "son",
+            "start": 7.298,
+            "end": 7.438,
+            "score": 0.98,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "décès,",
+            "start": 7.458,
+            "end": 8.218,
+            "score": 0.833,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'artisan",
+            "start": 8.258,
+            "end": 8.659,
+            "score": 0.873,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 8.699,
+            "end": 8.779,
+            "score": 0.878,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'abolition",
+            "start": 8.799,
+            "end": 9.239,
+            "score": 0.916,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 9.279,
+            "end": 9.359,
+            "score": 0.508,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 9.379,
+            "end": 9.44,
+            "score": 0.994,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "peine",
+            "start": 9.48,
+            "end": 9.68,
+            "score": 0.967,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 9.72,
+            "end": 9.84,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mort",
+            "start": 9.88,
+            "end": 10.1,
+            "score": 0.909,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "va",
+            "start": 10.14,
+            "end": 10.26,
+            "score": 0.89,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "reposer",
+            "start": 10.3,
+            "end": 10.641,
+            "score": 0.974,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dans",
+            "start": 10.681,
+            "end": 10.821,
+            "score": 0.592,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'ancienne",
+            "start": 10.861,
+            "end": 11.221,
+            "score": 0.859,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "église,",
+            "start": 11.261,
+            "end": 12.022,
+            "score": 0.926,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "devenue",
+            "start": 12.062,
+            "end": 12.382,
+            "score": 0.856,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nécropole",
+            "start": 12.402,
+            "end": 12.903,
+            "score": 0.847,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nationale.",
+            "start": 12.943,
+            "end": 14.364,
+            "score": 0.969,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 14.404,
+        "end": 21.21,
+        "text": "Ces Parisiens sont venus assister aux répétitions, attentifs, lors de la diffusion d'extraits de discours de l'ancien ministre.",
+        "words": [
+          {
+            "word": "Ces",
+            "start": 14.404,
+            "end": 14.544,
+            "score": 0.804,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Parisiens",
+            "start": 14.584,
+            "end": 15.065,
+            "score": 0.575,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 15.105,
+            "end": 15.245,
+            "score": 0.908,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "venus",
+            "start": 15.285,
+            "end": 15.485,
+            "score": 0.816,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "assister",
+            "start": 15.545,
+            "end": 15.905,
+            "score": 0.912,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aux",
+            "start": 15.945,
+            "end": 16.066,
+            "score": 0.7,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "répétitions,",
+            "start": 16.106,
+            "end": 17.427,
+            "score": 0.952,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "attentifs,",
+            "start": 17.487,
+            "end": 18.368,
+            "score": 0.925,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "lors",
+            "start": 18.408,
+            "end": 18.568,
+            "score": 0.767,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 18.608,
+            "end": 18.688,
+            "score": 0.833,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 18.708,
+            "end": 18.788,
+            "score": 0.994,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "diffusion",
+            "start": 18.828,
+            "end": 19.208,
+            "score": 0.808,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'extraits",
+            "start": 19.268,
+            "end": 19.629,
+            "score": 0.659,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 19.649,
+            "end": 19.789,
+            "score": 0.742,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "discours",
+            "start": 19.829,
+            "end": 20.289,
+            "score": 0.861,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 20.329,
+            "end": 20.409,
+            "score": 0.94,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'ancien",
+            "start": 20.45,
+            "end": 20.75,
+            "score": 0.87,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ministre.",
+            "start": 20.79,
+            "end": 21.21,
+            "score": 0.86,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 21.23,
+        "end": 25.294,
+        "text": "« Aucun homme, aucun pouvoir »",
+        "words": [
+          {
+            "word": "«"
+          },
+          {
+            "word": "Aucun",
+            "start": 23.993,
+            "end": 24.894,
+            "score": 0.595,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "homme,",
+            "start": 24.914,
+            "end": 25.014,
+            "score": 0.001,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aucun",
+            "start": 25.034,
+            "end": 25.134,
+            "score": 0.001,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pouvoir",
+            "start": 25.154,
+            "end": 25.294,
+            "score": 0.001,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "»"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 25.994,
+        "end": 33.157,
+        "text": " ne saurait disposer du droit de vie et de mort sur quiconque.",
+        "words": [
+          {
+            "word": "ne",
+            "start": 25.994,
+            "end": 26.034,
+            "score": 0.076,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "saurait",
+            "start": 26.054,
+            "end": 26.654,
+            "score": 0.467,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "disposer",
+            "start": 26.694,
+            "end": 27.435,
+            "score": 0.584,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 27.475,
+            "end": 27.595,
+            "score": 0.619,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "droit",
+            "start": 27.635,
+            "end": 28.815,
+            "score": 0.197,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 28.855,
+            "end": 28.975,
+            "score": 0.615,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vie",
+            "start": 28.995,
+            "end": 29.095,
+            "score": 0.221,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 29.195,
+            "end": 29.235,
+            "score": 0.001,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 29.295,
+            "end": 30.176,
+            "score": 0.857,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mort",
+            "start": 30.216,
+            "end": 30.336,
+            "score": 0.255,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 30.396,
+            "end": 30.636,
+            "score": 0.691,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "quiconque.",
+            "start": 30.676,
+            "end": 33.157,
+            "score": 0.495,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 33.197,
+        "end": 37.979,
+        "text": "La cérémonie prévue cet après-midi reviendra sur les nombreux engagements de sa vie.",
+        "words": [
+          {
+            "word": "La",
+            "start": 33.197,
+            "end": 33.277,
+            "score": 0.896,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "cérémonie",
+            "start": 33.337,
+            "end": 33.897,
+            "score": 0.88,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prévue",
+            "start": 33.917,
+            "end": 34.197,
+            "score": 0.786,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "cet",
+            "start": 34.237,
+            "end": 34.377,
+            "score": 0.891,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "après-midi",
+            "start": 34.417,
+            "end": 34.878,
+            "score": 0.82,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "reviendra",
+            "start": 34.918,
+            "end": 35.338,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 35.378,
+            "end": 35.518,
+            "score": 0.861,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 35.558,
+            "end": 35.638,
+            "score": 0.98,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nombreux",
+            "start": 35.698,
+            "end": 36.038,
+            "score": 0.915,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "engagements",
+            "start": 36.078,
+            "end": 36.538,
+            "score": 0.926,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 36.578,
+            "end": 36.678,
+            "score": 0.973,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sa",
+            "start": 36.718,
+            "end": 36.858,
+            "score": 0.893,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vie.",
+            "start": 36.898,
+            "end": 37.979,
+            "score": 0.839,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 37.999,
+        "end": 42.501,
+        "text": "Dès hier soir, une veillée funèbre était organisée au Conseil constitutionnel.",
+        "words": [
+          {
+            "word": "Dès",
+            "start": 37.999,
+            "end": 38.119,
+            "score": 0.857,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "hier",
+            "start": 38.179,
+            "end": 38.459,
+            "score": 0.801,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "soir,",
+            "start": 38.499,
+            "end": 38.999,
+            "score": 0.876,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 39.059,
+            "end": 39.159,
+            "score": 0.733,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "veillée",
+            "start": 39.179,
+            "end": 39.44,
+            "score": 0.711,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "funèbre",
+            "start": 39.46,
+            "end": 39.76,
+            "score": 0.745,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "était",
+            "start": 39.8,
+            "end": 40.02,
+            "score": 0.709,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "organisée",
+            "start": 40.06,
+            "end": 40.58,
+            "score": 0.758,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "au",
+            "start": 40.62,
+            "end": 40.72,
+            "score": 0.862,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Conseil",
+            "start": 40.76,
+            "end": 41.06,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "constitutionnel.",
+            "start": 41.12,
+            "end": 42.501,
+            "score": 0.88,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 42.521,
+        "end": 45.022,
+        "text": "Beaucoup d'étudiants venus lui rendre un dernier hommage.",
+        "words": [
+          {
+            "word": "Beaucoup",
+            "start": 42.521,
+            "end": 42.801,
+            "score": 0.811,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'étudiants",
+            "start": 42.841,
+            "end": 43.481,
+            "score": 0.926,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "venus",
+            "start": 43.521,
+            "end": 43.741,
+            "score": 0.734,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "lui",
+            "start": 43.781,
+            "end": 43.881,
+            "score": 0.75,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rendre",
+            "start": 43.901,
+            "end": 44.282,
+            "score": 0.904,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "un",
+            "start": 44.322,
+            "end": 44.422,
+            "score": 0.624,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dernier",
+            "start": 44.462,
+            "end": 44.742,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "hommage.",
+            "start": 44.762,
+            "end": 45.022,
+            "score": 0.431,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 45.627,
+        "end": 54.692,
+        "text": " Notre génération, et puis les étudiants en droit, on est influencés par tout ce qu'il a pu faire, la peine de mort et plein d'autres choses, les conditions de dignité en détention.",
+        "words": [
+          {
+            "word": "Notre",
+            "start": 45.627,
+            "end": 45.907,
+            "score": 0.167,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "génération,",
+            "start": 46.047,
+            "end": 46.287,
+            "score": 0.085,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 46.327,
+            "end": 46.407,
+            "score": 0.216,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "puis",
+            "start": 47.088,
+            "end": 47.548,
+            "score": 0.48,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 47.568,
+            "end": 47.648,
+            "score": 0.754,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "étudiants",
+            "start": 47.688,
+            "end": 48.008,
+            "score": 0.757,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 48.048,
+            "end": 48.108,
+            "score": 0.692,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "droit,",
+            "start": 48.128,
+            "end": 48.288,
+            "score": 0.841,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 48.328,
+            "end": 48.388,
+            "score": 0.616,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "est",
+            "start": 48.428,
+            "end": 48.509,
+            "score": 0.608,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "influencés",
+            "start": 48.549,
+            "end": 49.009,
+            "score": 0.803,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "par",
+            "start": 49.029,
+            "end": 49.129,
+            "score": 0.945,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tout",
+            "start": 49.149,
+            "end": 49.229,
+            "score": 0.682,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ce",
+            "start": 49.249,
+            "end": 49.309,
+            "score": 0.532,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'il",
+            "start": 49.329,
+            "end": 49.469,
+            "score": 0.822,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 49.529,
+            "end": 49.589,
+            "score": 0.806,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pu",
+            "start": 49.629,
+            "end": 49.769,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faire,",
+            "start": 49.809,
+            "end": 50.169,
+            "score": 0.869,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 50.189,
+            "end": 50.249,
+            "score": 0.357,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "peine",
+            "start": 50.289,
+            "end": 50.49,
+            "score": 0.626,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 50.53,
+            "end": 50.61,
+            "score": 0.797,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mort",
+            "start": 50.65,
+            "end": 51.85,
+            "score": 0.821,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 51.91,
+            "end": 51.99,
+            "score": 0.653,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plein",
+            "start": 52.03,
+            "end": 52.19,
+            "score": 0.231,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'autres",
+            "start": 52.21,
+            "end": 52.451,
+            "score": 0.346,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "choses,",
+            "start": 52.471,
+            "end": 52.651,
+            "score": 0.628,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 52.691,
+            "end": 52.771,
+            "score": 0.696,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "conditions",
+            "start": 52.791,
+            "end": 53.111,
+            "score": 0.877,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 53.131,
+            "end": 53.171,
+            "score": 0.967,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dignité",
+            "start": 53.211,
+            "end": 53.551,
+            "score": 0.682,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 53.571,
+            "end": 53.671,
+            "score": 0.636,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "détention.",
+            "start": 53.691,
+            "end": 54.692,
+            "score": 0.87,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 54.732,
+        "end": 55.732,
+        "text": "Certains le connaissaient personnellement.",
+        "words": [
+          {
+            "word": "Certains",
+            "start": 54.732,
+            "end": 55.012,
+            "score": 0.33,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 55.032,
+            "end": 55.072,
+            "score": 0.002,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "connaissaient",
+            "start": 55.092,
+            "end": 55.352,
+            "score": 0.007,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "personnellement.",
+            "start": 55.372,
+            "end": 55.732,
+            "score": 0.075,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 55.772,
+        "end": 56.593,
+        "text": "C'était quel genre de professeur ?",
+        "words": [
+          {
+            "word": "C'était",
+            "start": 55.772,
+            "end": 56.032,
+            "score": 0.291,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "quel",
+            "start": 56.052,
+            "end": 56.153,
+            "score": 0.136,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "genre",
+            "start": 56.173,
+            "end": 56.293,
+            "score": 0.121,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 56.313,
+            "end": 56.353,
+            "score": 0.007,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "professeur",
+            "start": 56.373,
+            "end": 56.593,
+            "score": 0.071,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 56.633,
+        "end": 57.453,
+        "text": "C'est un prof dans mon cœur.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 56.633,
+            "end": 56.713,
+            "score": 0.002
+          },
+          {
+            "word": "un",
+            "start": 56.733,
+            "end": 56.773,
+            "score": 0.001
+          },
+          {
+            "word": "prof",
+            "start": 56.813,
+            "end": 57.133,
+            "score": 0.228
+          },
+          {
+            "word": "dans",
+            "start": 57.153,
+            "end": 57.233,
+            "score": 0.003
+          },
+          {
+            "word": "mon",
+            "start": 57.253,
+            "end": 57.333,
+            "score": 0.16,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cœur.",
+            "start": 57.353,
+            "end": 57.453,
+            "score": 0.129,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 57.513,
+        "end": 64.137,
+        "text": "Et puis après, il m'a aidé autrement aussi.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 57.513,
+            "end": 57.593,
+            "score": 0.492,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "puis",
+            "start": 57.613,
+            "end": 57.733,
+            "score": 0.248,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "après,",
+            "start": 57.773,
+            "end": 57.974,
+            "score": 0.26,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "il",
+            "start": 59.014,
+            "end": 60.535,
+            "score": 0.918,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "m'a",
+            "start": 60.575,
+            "end": 60.675,
+            "score": 0.373,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aidé",
+            "start": 60.735,
+            "end": 63.576,
+            "score": 0.465,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autrement",
+            "start": 63.637,
+            "end": 63.897,
+            "score": 0.222,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aussi.",
+            "start": 64.037,
+            "end": 64.137,
+            "score": 0.011,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 64.157,
+        "end": 65.137,
+        "text": "C'est un humaniste.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 64.157,
+            "end": 64.237,
+            "score": 0.003,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 64.257,
+            "end": 64.357,
+            "score": 0.37,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "humaniste.",
+            "start": 64.457,
+            "end": 65.137,
+            "score": 0.325,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 65.157,
+        "end": 73.802,
+        "text": "Le cénotaphe de Robert Badinter sera transporté vers le Panthéon à partir de 17h, 44 ans jour pour jour après l'abolition de la peine de mort.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 65.157,
+            "end": 65.237,
+            "score": 0.834,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "cénotaphe",
+            "start": 65.277,
+            "end": 65.898,
+            "score": 0.696,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 65.918,
+            "end": 65.998,
+            "score": 0.929,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Robert",
+            "start": 66.038,
+            "end": 66.338,
+            "score": 0.809,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Badinter",
+            "start": 66.358,
+            "end": 66.838,
+            "score": 0.692,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sera",
+            "start": 66.878,
+            "end": 67.118,
+            "score": 0.957,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "transporté",
+            "start": 67.178,
+            "end": 67.699,
+            "score": 0.922,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vers",
+            "start": 67.739,
+            "end": 67.879,
+            "score": 0.953,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 67.919,
+            "end": 67.979,
+            "score": 0.883,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Panthéon",
+            "start": 67.999,
+            "end": 68.699,
+            "score": 0.663,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 68.719,
+            "end": 68.759,
+            "score": 0.874,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "partir",
+            "start": 68.819,
+            "end": 69.219,
+            "score": 0.899,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 69.239,
+            "end": 69.6,
+            "score": 0.646,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "17h,",
+            "start": 69.62,
+            "end": 70.52,
+            "score": 0.886,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "44"
+          },
+          {
+            "word": "ans",
+            "start": 70.62,
+            "end": 71.301,
+            "score": 0.584,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "jour",
+            "start": 71.341,
+            "end": 71.541,
+            "score": 0.885,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pour",
+            "start": 71.561,
+            "end": 71.741,
+            "score": 0.667,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "jour",
+            "start": 71.781,
+            "end": 72.261,
+            "score": 0.896,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "après",
+            "start": 72.301,
+            "end": 72.521,
+            "score": 0.902,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'abolition",
+            "start": 72.561,
+            "end": 73.081,
+            "score": 0.928,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 73.101,
+            "end": 73.202,
+            "score": 0.932,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 73.222,
+            "end": 73.282,
+            "score": 0.94,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "peine",
+            "start": 73.322,
+            "end": 73.522,
+            "score": 0.915,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 73.542,
+            "end": 73.642,
+            "score": 0.97,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mort.",
+            "start": 73.682,
+            "end": 73.802,
+            "score": 0.876,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Dernier",
+        "start": 0.511,
+        "end": 0.892,
+        "score": 0.494,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "préparatif",
+        "start": 0.912,
+        "end": 1.592,
+        "score": 0.652,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "hier",
+        "start": 1.632,
+        "end": 1.893,
+        "score": 0.711,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "soir.",
+        "start": 1.933,
+        "end": 2.894,
+        "score": 0.856,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Le",
+        "start": 2.914,
+        "end": 3.074,
+        "score": 0.97,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Panthéon",
+        "start": 3.114,
+        "end": 3.915,
+        "score": 0.751,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "s'apprête",
+        "start": 3.935,
+        "end": 4.315,
+        "score": 0.956,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 4.335,
+        "end": 4.355,
+        "score": 0.955,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "accueillir",
+        "start": 4.415,
+        "end": 4.915,
+        "score": 0.866,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Robert",
+        "start": 4.955,
+        "end": 5.236,
+        "score": 0.744,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Badinter.",
+        "start": 5.256,
+        "end": 6.637,
+        "score": 0.739,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "20"
+      },
+      {
+        "word": "mois",
+        "start": 6.857,
+        "end": 7.017,
+        "score": 0.788,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "après",
+        "start": 7.057,
+        "end": 7.258,
+        "score": 0.806,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "son",
+        "start": 7.298,
+        "end": 7.438,
+        "score": 0.98,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "décès,",
+        "start": 7.458,
+        "end": 8.218,
+        "score": 0.833,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'artisan",
+        "start": 8.258,
+        "end": 8.659,
+        "score": 0.873,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 8.699,
+        "end": 8.779,
+        "score": 0.878,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'abolition",
+        "start": 8.799,
+        "end": 9.239,
+        "score": 0.916,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 9.279,
+        "end": 9.359,
+        "score": 0.508,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 9.379,
+        "end": 9.44,
+        "score": 0.994,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "peine",
+        "start": 9.48,
+        "end": 9.68,
+        "score": 0.967,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 9.72,
+        "end": 9.84,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mort",
+        "start": 9.88,
+        "end": 10.1,
+        "score": 0.909,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "va",
+        "start": 10.14,
+        "end": 10.26,
+        "score": 0.89,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "reposer",
+        "start": 10.3,
+        "end": 10.641,
+        "score": 0.974,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dans",
+        "start": 10.681,
+        "end": 10.821,
+        "score": 0.592,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'ancienne",
+        "start": 10.861,
+        "end": 11.221,
+        "score": 0.859,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "église,",
+        "start": 11.261,
+        "end": 12.022,
+        "score": 0.926,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "devenue",
+        "start": 12.062,
+        "end": 12.382,
+        "score": 0.856,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nécropole",
+        "start": 12.402,
+        "end": 12.903,
+        "score": 0.847,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nationale.",
+        "start": 12.943,
+        "end": 14.364,
+        "score": 0.969,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ces",
+        "start": 14.404,
+        "end": 14.544,
+        "score": 0.804,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Parisiens",
+        "start": 14.584,
+        "end": 15.065,
+        "score": 0.575,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 15.105,
+        "end": 15.245,
+        "score": 0.908,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "venus",
+        "start": 15.285,
+        "end": 15.485,
+        "score": 0.816,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "assister",
+        "start": 15.545,
+        "end": 15.905,
+        "score": 0.912,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aux",
+        "start": 15.945,
+        "end": 16.066,
+        "score": 0.7,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "répétitions,",
+        "start": 16.106,
+        "end": 17.427,
+        "score": 0.952,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "attentifs,",
+        "start": 17.487,
+        "end": 18.368,
+        "score": 0.925,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "lors",
+        "start": 18.408,
+        "end": 18.568,
+        "score": 0.767,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 18.608,
+        "end": 18.688,
+        "score": 0.833,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 18.708,
+        "end": 18.788,
+        "score": 0.994,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "diffusion",
+        "start": 18.828,
+        "end": 19.208,
+        "score": 0.808,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'extraits",
+        "start": 19.268,
+        "end": 19.629,
+        "score": 0.659,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 19.649,
+        "end": 19.789,
+        "score": 0.742,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "discours",
+        "start": 19.829,
+        "end": 20.289,
+        "score": 0.861,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 20.329,
+        "end": 20.409,
+        "score": 0.94,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'ancien",
+        "start": 20.45,
+        "end": 20.75,
+        "score": 0.87,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ministre.",
+        "start": 20.79,
+        "end": 21.21,
+        "score": 0.86,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "«"
+      },
+      {
+        "word": "Aucun",
+        "start": 23.993,
+        "end": 24.894,
+        "score": 0.595,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "homme,",
+        "start": 24.914,
+        "end": 25.014,
+        "score": 0.001,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aucun",
+        "start": 25.034,
+        "end": 25.134,
+        "score": 0.001,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pouvoir",
+        "start": 25.154,
+        "end": 25.294,
+        "score": 0.001,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "»"
+      },
+      {
+        "word": "ne",
+        "start": 25.994,
+        "end": 26.034,
+        "score": 0.076,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "saurait",
+        "start": 26.054,
+        "end": 26.654,
+        "score": 0.467,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "disposer",
+        "start": 26.694,
+        "end": 27.435,
+        "score": 0.584,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 27.475,
+        "end": 27.595,
+        "score": 0.619,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "droit",
+        "start": 27.635,
+        "end": 28.815,
+        "score": 0.197,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 28.855,
+        "end": 28.975,
+        "score": 0.615,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vie",
+        "start": 28.995,
+        "end": 29.095,
+        "score": 0.221,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 29.195,
+        "end": 29.235,
+        "score": 0.001,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 29.295,
+        "end": 30.176,
+        "score": 0.857,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mort",
+        "start": 30.216,
+        "end": 30.336,
+        "score": 0.255,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 30.396,
+        "end": 30.636,
+        "score": 0.691,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "quiconque.",
+        "start": 30.676,
+        "end": 33.157,
+        "score": 0.495,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "La",
+        "start": 33.197,
+        "end": 33.277,
+        "score": 0.896,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "cérémonie",
+        "start": 33.337,
+        "end": 33.897,
+        "score": 0.88,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prévue",
+        "start": 33.917,
+        "end": 34.197,
+        "score": 0.786,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "cet",
+        "start": 34.237,
+        "end": 34.377,
+        "score": 0.891,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "après-midi",
+        "start": 34.417,
+        "end": 34.878,
+        "score": 0.82,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "reviendra",
+        "start": 34.918,
+        "end": 35.338,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 35.378,
+        "end": 35.518,
+        "score": 0.861,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 35.558,
+        "end": 35.638,
+        "score": 0.98,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nombreux",
+        "start": 35.698,
+        "end": 36.038,
+        "score": 0.915,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "engagements",
+        "start": 36.078,
+        "end": 36.538,
+        "score": 0.926,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 36.578,
+        "end": 36.678,
+        "score": 0.973,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sa",
+        "start": 36.718,
+        "end": 36.858,
+        "score": 0.893,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vie.",
+        "start": 36.898,
+        "end": 37.979,
+        "score": 0.839,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Dès",
+        "start": 37.999,
+        "end": 38.119,
+        "score": 0.857,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "hier",
+        "start": 38.179,
+        "end": 38.459,
+        "score": 0.801,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "soir,",
+        "start": 38.499,
+        "end": 38.999,
+        "score": 0.876,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 39.059,
+        "end": 39.159,
+        "score": 0.733,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "veillée",
+        "start": 39.179,
+        "end": 39.44,
+        "score": 0.711,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "funèbre",
+        "start": 39.46,
+        "end": 39.76,
+        "score": 0.745,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "était",
+        "start": 39.8,
+        "end": 40.02,
+        "score": 0.709,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "organisée",
+        "start": 40.06,
+        "end": 40.58,
+        "score": 0.758,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "au",
+        "start": 40.62,
+        "end": 40.72,
+        "score": 0.862,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Conseil",
+        "start": 40.76,
+        "end": 41.06,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "constitutionnel.",
+        "start": 41.12,
+        "end": 42.501,
+        "score": 0.88,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Beaucoup",
+        "start": 42.521,
+        "end": 42.801,
+        "score": 0.811,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'étudiants",
+        "start": 42.841,
+        "end": 43.481,
+        "score": 0.926,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "venus",
+        "start": 43.521,
+        "end": 43.741,
+        "score": 0.734,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "lui",
+        "start": 43.781,
+        "end": 43.881,
+        "score": 0.75,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rendre",
+        "start": 43.901,
+        "end": 44.282,
+        "score": 0.904,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "un",
+        "start": 44.322,
+        "end": 44.422,
+        "score": 0.624,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dernier",
+        "start": 44.462,
+        "end": 44.742,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "hommage.",
+        "start": 44.762,
+        "end": 45.022,
+        "score": 0.431,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Notre",
+        "start": 45.627,
+        "end": 45.907,
+        "score": 0.167,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "génération,",
+        "start": 46.047,
+        "end": 46.287,
+        "score": 0.085,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 46.327,
+        "end": 46.407,
+        "score": 0.216,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "puis",
+        "start": 47.088,
+        "end": 47.548,
+        "score": 0.48,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 47.568,
+        "end": 47.648,
+        "score": 0.754,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "étudiants",
+        "start": 47.688,
+        "end": 48.008,
+        "score": 0.757,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 48.048,
+        "end": 48.108,
+        "score": 0.692,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "droit,",
+        "start": 48.128,
+        "end": 48.288,
+        "score": 0.841,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 48.328,
+        "end": 48.388,
+        "score": 0.616,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "est",
+        "start": 48.428,
+        "end": 48.509,
+        "score": 0.608,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "influencés",
+        "start": 48.549,
+        "end": 49.009,
+        "score": 0.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "par",
+        "start": 49.029,
+        "end": 49.129,
+        "score": 0.945,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tout",
+        "start": 49.149,
+        "end": 49.229,
+        "score": 0.682,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ce",
+        "start": 49.249,
+        "end": 49.309,
+        "score": 0.532,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'il",
+        "start": 49.329,
+        "end": 49.469,
+        "score": 0.822,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 49.529,
+        "end": 49.589,
+        "score": 0.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pu",
+        "start": 49.629,
+        "end": 49.769,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faire,",
+        "start": 49.809,
+        "end": 50.169,
+        "score": 0.869,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 50.189,
+        "end": 50.249,
+        "score": 0.357,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "peine",
+        "start": 50.289,
+        "end": 50.49,
+        "score": 0.626,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 50.53,
+        "end": 50.61,
+        "score": 0.797,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mort",
+        "start": 50.65,
+        "end": 51.85,
+        "score": 0.821,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 51.91,
+        "end": 51.99,
+        "score": 0.653,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plein",
+        "start": 52.03,
+        "end": 52.19,
+        "score": 0.231,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'autres",
+        "start": 52.21,
+        "end": 52.451,
+        "score": 0.346,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "choses,",
+        "start": 52.471,
+        "end": 52.651,
+        "score": 0.628,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 52.691,
+        "end": 52.771,
+        "score": 0.696,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "conditions",
+        "start": 52.791,
+        "end": 53.111,
+        "score": 0.877,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 53.131,
+        "end": 53.171,
+        "score": 0.967,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dignité",
+        "start": 53.211,
+        "end": 53.551,
+        "score": 0.682,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 53.571,
+        "end": 53.671,
+        "score": 0.636,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "détention.",
+        "start": 53.691,
+        "end": 54.692,
+        "score": 0.87,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Certains",
+        "start": 54.732,
+        "end": 55.012,
+        "score": 0.33,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 55.032,
+        "end": 55.072,
+        "score": 0.002,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "connaissaient",
+        "start": 55.092,
+        "end": 55.352,
+        "score": 0.007,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "personnellement.",
+        "start": 55.372,
+        "end": 55.732,
+        "score": 0.075,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'était",
+        "start": 55.772,
+        "end": 56.032,
+        "score": 0.291,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "quel",
+        "start": 56.052,
+        "end": 56.153,
+        "score": 0.136,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "genre",
+        "start": 56.173,
+        "end": 56.293,
+        "score": 0.121,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 56.313,
+        "end": 56.353,
+        "score": 0.007,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "professeur",
+        "start": 56.373,
+        "end": 56.593,
+        "score": 0.071,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "C'est",
+        "start": 56.633,
+        "end": 56.713,
+        "score": 0.002
+      },
+      {
+        "word": "un",
+        "start": 56.733,
+        "end": 56.773,
+        "score": 0.001
+      },
+      {
+        "word": "prof",
+        "start": 56.813,
+        "end": 57.133,
+        "score": 0.228
+      },
+      {
+        "word": "dans",
+        "start": 57.153,
+        "end": 57.233,
+        "score": 0.003
+      },
+      {
+        "word": "mon",
+        "start": 57.253,
+        "end": 57.333,
+        "score": 0.16,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cœur.",
+        "start": 57.353,
+        "end": 57.453,
+        "score": 0.129,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Et",
+        "start": 57.513,
+        "end": 57.593,
+        "score": 0.492,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "puis",
+        "start": 57.613,
+        "end": 57.733,
+        "score": 0.248,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "après,",
+        "start": 57.773,
+        "end": 57.974,
+        "score": 0.26,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "il",
+        "start": 59.014,
+        "end": 60.535,
+        "score": 0.918,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "m'a",
+        "start": 60.575,
+        "end": 60.675,
+        "score": 0.373,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aidé",
+        "start": 60.735,
+        "end": 63.576,
+        "score": 0.465,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autrement",
+        "start": 63.637,
+        "end": 63.897,
+        "score": 0.222,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aussi.",
+        "start": 64.037,
+        "end": 64.137,
+        "score": 0.011,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "C'est",
+        "start": 64.157,
+        "end": 64.237,
+        "score": 0.003,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 64.257,
+        "end": 64.357,
+        "score": 0.37,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "humaniste.",
+        "start": 64.457,
+        "end": 65.137,
+        "score": 0.325,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Le",
+        "start": 65.157,
+        "end": 65.237,
+        "score": 0.834,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "cénotaphe",
+        "start": 65.277,
+        "end": 65.898,
+        "score": 0.696,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 65.918,
+        "end": 65.998,
+        "score": 0.929,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Robert",
+        "start": 66.038,
+        "end": 66.338,
+        "score": 0.809,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Badinter",
+        "start": 66.358,
+        "end": 66.838,
+        "score": 0.692,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sera",
+        "start": 66.878,
+        "end": 67.118,
+        "score": 0.957,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "transporté",
+        "start": 67.178,
+        "end": 67.699,
+        "score": 0.922,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vers",
+        "start": 67.739,
+        "end": 67.879,
+        "score": 0.953,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 67.919,
+        "end": 67.979,
+        "score": 0.883,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Panthéon",
+        "start": 67.999,
+        "end": 68.699,
+        "score": 0.663,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 68.719,
+        "end": 68.759,
+        "score": 0.874,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "partir",
+        "start": 68.819,
+        "end": 69.219,
+        "score": 0.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 69.239,
+        "end": 69.6,
+        "score": 0.646,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "17h,",
+        "start": 69.62,
+        "end": 70.52,
+        "score": 0.886,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "44"
+      },
+      {
+        "word": "ans",
+        "start": 70.62,
+        "end": 71.301,
+        "score": 0.584,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "jour",
+        "start": 71.341,
+        "end": 71.541,
+        "score": 0.885,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pour",
+        "start": 71.561,
+        "end": 71.741,
+        "score": 0.667,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "jour",
+        "start": 71.781,
+        "end": 72.261,
+        "score": 0.896,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "après",
+        "start": 72.301,
+        "end": 72.521,
+        "score": 0.902,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'abolition",
+        "start": 72.561,
+        "end": 73.081,
+        "score": 0.928,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 73.101,
+        "end": 73.202,
+        "score": 0.932,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 73.222,
+        "end": 73.282,
+        "score": 0.94,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "peine",
+        "start": 73.322,
+        "end": 73.522,
+        "score": 0.915,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 73.542,
+        "end": 73.642,
+        "score": 0.97,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mort.",
+        "start": 73.682,
+        "end": 73.802,
+        "score": 0.876,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 74,
+  "transcription_duration": 109
+}

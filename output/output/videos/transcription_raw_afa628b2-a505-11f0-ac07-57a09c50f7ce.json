@@ -1,0 +1,4077 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.071,
+        "end": 2.613,
+        "text": " A chaque jour, son rebondissement politique.",
+        "words": [
+          {
+            "word": "A",
+            "start": 0.071,
+            "end": 0.291,
+            "score": 0.899
+          },
+          {
+            "word": "chaque",
+            "start": 0.331,
+            "end": 0.531,
+            "score": 0.753
+          },
+          {
+            "word": "jour,",
+            "start": 0.571,
+            "end": 0.772,
+            "score": 0.798
+          },
+          {
+            "word": "son",
+            "start": 0.792,
+            "end": 0.912,
+            "score": 0.902
+          },
+          {
+            "word": "rebondissement",
+            "start": 0.952,
+            "end": 1.532,
+            "score": 0.85
+          },
+          {
+            "word": "politique.",
+            "start": 1.592,
+            "end": 2.613,
+            "score": 0.894
+          }
+        ]
+      },
+      {
+        "start": 2.653,
+        "end": 6.897,
+        "text": "Alors l'inquiétude règne chez les patrons, comme dans le secteur du bâtiment.",
+        "words": [
+          {
+            "word": "Alors",
+            "start": 2.653,
+            "end": 2.933,
+            "score": 0.809
+          },
+          {
+            "word": "l'inquiétude",
+            "start": 2.973,
+            "end": 3.474,
+            "score": 0.856
+          },
+          {
+            "word": "règne",
+            "start": 3.534,
+            "end": 3.774,
+            "score": 0.588
+          },
+          {
+            "word": "chez",
+            "start": 3.794,
+            "end": 3.934,
+            "score": 0.698
+          },
+          {
+            "word": "les",
+            "start": 3.974,
+            "end": 4.074,
+            "score": 0.77
+          },
+          {
+            "word": "patrons,",
+            "start": 4.114,
+            "end": 4.895,
+            "score": 0.886
+          },
+          {
+            "word": "comme",
+            "start": 4.935,
+            "end": 5.155,
+            "score": 0.929
+          },
+          {
+            "word": "dans",
+            "start": 5.175,
+            "end": 5.315,
+            "score": 0.986
+          },
+          {
+            "word": "le",
+            "start": 5.355,
+            "end": 5.435,
+            "score": 0.834
+          },
+          {
+            "word": "secteur",
+            "start": 5.455,
+            "end": 5.796,
+            "score": 0.945
+          },
+          {
+            "word": "du",
+            "start": 5.836,
+            "end": 5.936,
+            "score": 0.982
+          },
+          {
+            "word": "bâtiment.",
+            "start": 5.976,
+            "end": 6.897,
+            "score": 0.946
+          }
+        ]
+      },
+      {
+        "start": 6.937,
+        "end": 12.581,
+        "text": "Avec 150 plombiers chauffagistes, l'entreprise de Benoît Schill dépend beaucoup des commandes publiques.",
+        "words": [
+          {
+            "word": "Avec",
+            "start": 6.937,
+            "end": 7.157,
+            "score": 0.929
+          },
+          {
+            "word": "150"
+          },
+          {
+            "word": "plombiers",
+            "start": 7.757,
+            "end": 8.037,
+            "score": 0.801
+          },
+          {
+            "word": "chauffagistes,",
+            "start": 8.078,
+            "end": 8.958,
+            "score": 0.817
+          },
+          {
+            "word": "l'entreprise",
+            "start": 8.978,
+            "end": 9.479,
+            "score": 0.792
+          },
+          {
+            "word": "de",
+            "start": 9.519,
+            "end": 9.599,
+            "score": 0.942
+          },
+          {
+            "word": "Benoît",
+            "start": 9.639,
+            "end": 9.959,
+            "score": 0.7
+          },
+          {
+            "word": "Schill",
+            "start": 9.979,
+            "end": 10.259,
+            "score": 0.687
+          },
+          {
+            "word": "dépend",
+            "start": 10.299,
+            "end": 10.64,
+            "score": 0.966
+          },
+          {
+            "word": "beaucoup",
+            "start": 10.66,
+            "end": 10.98,
+            "score": 0.812
+          },
+          {
+            "word": "des",
+            "start": 11.02,
+            "end": 11.1,
+            "score": 0.984
+          },
+          {
+            "word": "commandes",
+            "start": 11.14,
+            "end": 11.44,
+            "score": 0.821
+          },
+          {
+            "word": "publiques.",
+            "start": 11.48,
+            "end": 12.581,
+            "score": 0.638
+          }
+        ]
+      },
+      {
+        "start": 12.681,
+        "end": 14.643,
+        "text": "On a pas mal de collectivités locales comme clients.",
+        "words": [
+          {
+            "word": "On",
+            "start": 12.681,
+            "end": 12.741,
+            "score": 0.788
+          },
+          {
+            "word": "a",
+            "start": 12.861,
+            "end": 12.901,
+            "score": 0.846
+          },
+          {
+            "word": "pas",
+            "start": 12.921,
+            "end": 13.001,
+            "score": 0.983
+          },
+          {
+            "word": "mal",
+            "start": 13.042,
+            "end": 13.142,
+            "score": 0.523
+          },
+          {
+            "word": "de",
+            "start": 13.182,
+            "end": 13.242,
+            "score": 0.736
+          },
+          {
+            "word": "collectivités",
+            "start": 13.262,
+            "end": 13.802,
+            "score": 0.889
+          },
+          {
+            "word": "locales",
+            "start": 13.842,
+            "end": 14.102,
+            "score": 0.858
+          },
+          {
+            "word": "comme",
+            "start": 14.122,
+            "end": 14.303,
+            "score": 0.851
+          },
+          {
+            "word": "clients.",
+            "start": 14.343,
+            "end": 14.643,
+            "score": 0.683
+          }
+        ]
+      },
+      {
+        "start": 14.663,
+        "end": 20.568,
+        "text": "Donc elles, même quand on travaille pour des hôpitaux, pour des cliniques, ces clients-là, oui, c'est sûr qu'ils seront perturbés.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 14.663,
+            "end": 14.783,
+            "score": 0.708
+          },
+          {
+            "word": "elles,",
+            "start": 15.023,
+            "end": 15.664,
+            "score": 0.84
+          },
+          {
+            "word": "même",
+            "start": 15.704,
+            "end": 15.844,
+            "score": 0.926
+          },
+          {
+            "word": "quand",
+            "start": 15.864,
+            "end": 15.964,
+            "score": 0.0
+          },
+          {
+            "word": "on",
+            "start": 15.984,
+            "end": 16.064,
+            "score": 0.74
+          },
+          {
+            "word": "travaille",
+            "start": 16.084,
+            "end": 16.364,
+            "score": 0.854
+          },
+          {
+            "word": "pour",
+            "start": 16.384,
+            "end": 16.544,
+            "score": 0.851
+          },
+          {
+            "word": "des",
+            "start": 16.564,
+            "end": 16.664,
+            "score": 0.758
+          },
+          {
+            "word": "hôpitaux,",
+            "start": 16.704,
+            "end": 17.045,
+            "score": 0.854
+          },
+          {
+            "word": "pour",
+            "start": 17.085,
+            "end": 17.225,
+            "score": 0.766
+          },
+          {
+            "word": "des",
+            "start": 17.245,
+            "end": 17.325,
+            "score": 0.793
+          },
+          {
+            "word": "cliniques,",
+            "start": 17.345,
+            "end": 18.266,
+            "score": 0.918
+          },
+          {
+            "word": "ces",
+            "start": 18.286,
+            "end": 18.386,
+            "score": 0.713
+          },
+          {
+            "word": "clients-là,",
+            "start": 18.426,
+            "end": 18.786,
+            "score": 0.675
+          },
+          {
+            "word": "oui,",
+            "start": 18.806,
+            "end": 18.986,
+            "score": 0.737
+          },
+          {
+            "word": "c'est",
+            "start": 19.006,
+            "end": 19.547,
+            "score": 0.646
+          },
+          {
+            "word": "sûr",
+            "start": 19.567,
+            "end": 19.727,
+            "score": 0.776
+          },
+          {
+            "word": "qu'ils",
+            "start": 19.747,
+            "end": 19.847,
+            "score": 0.464
+          },
+          {
+            "word": "seront",
+            "start": 19.867,
+            "end": 20.027,
+            "score": 0.842
+          },
+          {
+            "word": "perturbés.",
+            "start": 20.067,
+            "end": 20.568,
+            "score": 0.703
+          }
+        ]
+      },
+      {
+        "start": 20.608,
+        "end": 23.25,
+        "text": "En plus, il y aura les élections l'année prochaine, les élections municipales.",
+        "words": [
+          {
+            "word": "En",
+            "start": 20.608,
+            "end": 20.688,
+            "score": 0.686
+          },
+          {
+            "word": "plus,",
+            "start": 20.728,
+            "end": 20.808,
+            "score": 0.522
+          },
+          {
+            "word": "il",
+            "start": 20.828,
+            "end": 20.868,
+            "score": 0.006
+          },
+          {
+            "word": "y",
+            "start": 20.888,
+            "end": 20.908,
+            "score": 0.025
+          },
+          {
+            "word": "aura",
+            "start": 20.928,
+            "end": 21.088,
+            "score": 0.315
+          },
+          {
+            "word": "les",
+            "start": 21.148,
+            "end": 21.228,
+            "score": 0.413
+          },
+          {
+            "word": "élections",
+            "start": 21.248,
+            "end": 21.508,
+            "score": 0.887
+          },
+          {
+            "word": "l'année",
+            "start": 21.568,
+            "end": 21.809,
+            "score": 0.377
+          },
+          {
+            "word": "prochaine,",
+            "start": 21.849,
+            "end": 22.229,
+            "score": 0.676
+          },
+          {
+            "word": "les",
+            "start": 22.289,
+            "end": 22.369,
+            "score": 0.593
+          },
+          {
+            "word": "élections",
+            "start": 22.429,
+            "end": 22.749,
+            "score": 0.871
+          },
+          {
+            "word": "municipales.",
+            "start": 22.809,
+            "end": 23.25,
+            "score": 0.895
+          }
+        ]
+      },
+      {
+        "start": 23.29,
+        "end": 27.013,
+        "text": "Donc là, c'est encore un peu plus de perturbations pour nos entreprises.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 23.29,
+            "end": 23.39,
+            "score": 0.67
+          },
+          {
+            "word": "là,",
+            "start": 23.49,
+            "end": 24.07,
+            "score": 0.818
+          },
+          {
+            "word": "c'est",
+            "start": 24.11,
+            "end": 24.211,
+            "score": 0.52
+          },
+          {
+            "word": "encore",
+            "start": 24.251,
+            "end": 24.451,
+            "score": 0.751
+          },
+          {
+            "word": "un",
+            "start": 24.491,
+            "end": 24.531,
+            "score": 0.998
+          },
+          {
+            "word": "peu",
+            "start": 24.551,
+            "end": 24.671,
+            "score": 0.944
+          },
+          {
+            "word": "plus",
+            "start": 24.711,
+            "end": 25.572,
+            "score": 0.929
+          },
+          {
+            "word": "de",
+            "start": 25.592,
+            "end": 25.692,
+            "score": 0.874
+          },
+          {
+            "word": "perturbations",
+            "start": 25.732,
+            "end": 26.252,
+            "score": 0.831
+          },
+          {
+            "word": "pour",
+            "start": 26.312,
+            "end": 26.432,
+            "score": 0.845
+          },
+          {
+            "word": "nos",
+            "start": 26.472,
+            "end": 26.572,
+            "score": 0.847
+          },
+          {
+            "word": "entreprises.",
+            "start": 26.612,
+            "end": 27.013,
+            "score": 0.935
+          }
+        ]
+      },
+      {
+        "start": 27.619,
+        "end": 31.724,
+        "text": " Impossible pour lui de se projeter, alors pas d'embauche prévue pour le moment.",
+        "words": [
+          {
+            "word": "Impossible",
+            "start": 27.619,
+            "end": 28.12,
+            "score": 0.733
+          },
+          {
+            "word": "pour",
+            "start": 28.16,
+            "end": 28.28,
+            "score": 0.836
+          },
+          {
+            "word": "lui",
+            "start": 28.3,
+            "end": 28.46,
+            "score": 0.859
+          },
+          {
+            "word": "de",
+            "start": 28.48,
+            "end": 28.58,
+            "score": 0.778
+          },
+          {
+            "word": "se",
+            "start": 28.6,
+            "end": 28.741,
+            "score": 0.901
+          },
+          {
+            "word": "projeter,",
+            "start": 28.781,
+            "end": 29.541,
+            "score": 0.921
+          },
+          {
+            "word": "alors",
+            "start": 29.582,
+            "end": 29.802,
+            "score": 0.767
+          },
+          {
+            "word": "pas",
+            "start": 29.842,
+            "end": 29.962,
+            "score": 0.902
+          },
+          {
+            "word": "d'embauche",
+            "start": 29.982,
+            "end": 30.322,
+            "score": 0.893
+          },
+          {
+            "word": "prévue",
+            "start": 30.362,
+            "end": 30.583,
+            "score": 0.888
+          },
+          {
+            "word": "pour",
+            "start": 30.623,
+            "end": 30.763,
+            "score": 0.864
+          },
+          {
+            "word": "le",
+            "start": 30.803,
+            "end": 30.863,
+            "score": 0.978
+          },
+          {
+            "word": "moment.",
+            "start": 30.903,
+            "end": 31.724,
+            "score": 0.99
+          }
+        ]
+      },
+      {
+        "start": 31.784,
+        "end": 34.007,
+        "text": "Autre incertitude, les retraites.",
+        "words": [
+          {
+            "word": "Autre",
+            "start": 31.784,
+            "end": 32.004,
+            "score": 0.946
+          },
+          {
+            "word": "incertitude,",
+            "start": 32.064,
+            "end": 32.985,
+            "score": 0.927
+          },
+          {
+            "word": "les",
+            "start": 33.025,
+            "end": 33.146,
+            "score": 0.76
+          },
+          {
+            "word": "retraites.",
+            "start": 33.186,
+            "end": 34.007,
+            "score": 0.884
+          }
+        ]
+      },
+      {
+        "start": 34.047,
+        "end": 37.27,
+        "text": "Car l'idée de suspendre la dernière réforme fait son chemin.",
+        "words": [
+          {
+            "word": "Car",
+            "start": 34.047,
+            "end": 34.227,
+            "score": 0.927
+          },
+          {
+            "word": "l'idée",
+            "start": 34.307,
+            "end": 34.527,
+            "score": 0.807
+          },
+          {
+            "word": "de",
+            "start": 34.567,
+            "end": 34.687,
+            "score": 0.902
+          },
+          {
+            "word": "suspendre",
+            "start": 34.727,
+            "end": 35.188,
+            "score": 0.793
+          },
+          {
+            "word": "la",
+            "start": 35.248,
+            "end": 35.328,
+            "score": 0.901
+          },
+          {
+            "word": "dernière",
+            "start": 35.368,
+            "end": 35.729,
+            "score": 0.804
+          },
+          {
+            "word": "réforme",
+            "start": 35.769,
+            "end": 36.089,
+            "score": 0.83
+          },
+          {
+            "word": "fait",
+            "start": 36.149,
+            "end": 36.289,
+            "score": 0.855
+          },
+          {
+            "word": "son",
+            "start": 36.309,
+            "end": 36.489,
+            "score": 0.934
+          },
+          {
+            "word": "chemin.",
+            "start": 36.53,
+            "end": 37.27,
+            "score": 0.921
+          }
+        ]
+      },
+      {
+        "start": 37.33,
+        "end": 41.856,
+        "text": "Un retour en arrière qui pourrait coûter cher au moins 3 milliards rien qu'en 2027.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 37.33,
+            "end": 37.391,
+            "score": 0.993
+          },
+          {
+            "word": "retour",
+            "start": 37.431,
+            "end": 37.711,
+            "score": 0.917
+          },
+          {
+            "word": "en",
+            "start": 37.751,
+            "end": 37.831,
+            "score": 0.836
+          },
+          {
+            "word": "arrière",
+            "start": 37.871,
+            "end": 38.472,
+            "score": 0.925
+          },
+          {
+            "word": "qui",
+            "start": 38.492,
+            "end": 38.632,
+            "score": 0.765
+          },
+          {
+            "word": "pourrait",
+            "start": 38.652,
+            "end": 38.912,
+            "score": 0.869
+          },
+          {
+            "word": "coûter",
+            "start": 38.972,
+            "end": 39.233,
+            "score": 0.933
+          },
+          {
+            "word": "cher",
+            "start": 39.273,
+            "end": 39.833,
+            "score": 0.876
+          },
+          {
+            "word": "au",
+            "start": 39.873,
+            "end": 39.974,
+            "score": 0.808
+          },
+          {
+            "word": "moins",
+            "start": 40.034,
+            "end": 40.434,
+            "score": 0.612
+          },
+          {
+            "word": "3"
+          },
+          {
+            "word": "milliards",
+            "start": 40.474,
+            "end": 40.975,
+            "score": 0.808
+          },
+          {
+            "word": "rien",
+            "start": 41.035,
+            "end": 41.175,
+            "score": 0.872
+          },
+          {
+            "word": "qu'en",
+            "start": 41.195,
+            "end": 41.856,
+            "score": 0.178
+          },
+          {
+            "word": "2027."
+          }
+        ]
+      },
+      {
+        "start": 42.536,
+        "end": 44.459,
+        "text": "Le patronat s'y oppose fermement.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 42.536,
+            "end": 42.637,
+            "score": 0.883
+          },
+          {
+            "word": "patronat",
+            "start": 42.677,
+            "end": 43.498,
+            "score": 0.916
+          },
+          {
+            "word": "s'y",
+            "start": 43.538,
+            "end": 43.678,
+            "score": 0.883
+          },
+          {
+            "word": "oppose",
+            "start": 43.738,
+            "end": 44.058,
+            "score": 0.958
+          },
+          {
+            "word": "fermement.",
+            "start": 44.098,
+            "end": 44.459,
+            "score": 0.914
+          }
+        ]
+      },
+      {
+        "start": 44.839,
+        "end": 58.964,
+        "text": " Si c'est acheter de la stabilité au prix d'un alourdissement considérable de l'endettement du pays et de la remise en cause de sa croissance et de son pouvoir d'achat pour acheter deux mois, trois mois de stabilité, je dis non, il ne faut pas toucher à cette réforme.",
+        "words": [
+          {
+            "word": "Si",
+            "start": 44.839,
+            "end": 44.919,
+            "score": 0.886
+          },
+          {
+            "word": "c'est",
+            "start": 44.939,
+            "end": 45.059,
+            "score": 0.65
+          },
+          {
+            "word": "acheter",
+            "start": 45.079,
+            "end": 45.339,
+            "score": 0.815
+          },
+          {
+            "word": "de",
+            "start": 45.359,
+            "end": 45.399,
+            "score": 0.614
+          },
+          {
+            "word": "la",
+            "start": 45.439,
+            "end": 45.479,
+            "score": 0.995
+          },
+          {
+            "word": "stabilité",
+            "start": 45.519,
+            "end": 46.46,
+            "score": 0.991
+          },
+          {
+            "word": "au",
+            "start": 46.5,
+            "end": 46.6,
+            "score": 0.967
+          },
+          {
+            "word": "prix",
+            "start": 46.64,
+            "end": 47.66,
+            "score": 0.943
+          },
+          {
+            "word": "d'un",
+            "start": 47.7,
+            "end": 47.98,
+            "score": 0.989
+          },
+          {
+            "word": "alourdissement",
+            "start": 48.04,
+            "end": 48.72,
+            "score": 0.813
+          },
+          {
+            "word": "considérable",
+            "start": 48.761,
+            "end": 49.921,
+            "score": 0.957
+          },
+          {
+            "word": "de",
+            "start": 49.941,
+            "end": 50.021,
+            "score": 0.895
+          },
+          {
+            "word": "l'endettement",
+            "start": 50.041,
+            "end": 50.481,
+            "score": 0.93
+          },
+          {
+            "word": "du",
+            "start": 50.521,
+            "end": 50.621,
+            "score": 0.998
+          },
+          {
+            "word": "pays",
+            "start": 50.661,
+            "end": 51.241,
+            "score": 0.919
+          },
+          {
+            "word": "et",
+            "start": 51.281,
+            "end": 51.361,
+            "score": 0.706
+          },
+          {
+            "word": "de",
+            "start": 51.401,
+            "end": 51.482,
+            "score": 0.969
+          },
+          {
+            "word": "la",
+            "start": 51.502,
+            "end": 51.582,
+            "score": 0.618
+          },
+          {
+            "word": "remise",
+            "start": 51.602,
+            "end": 51.822,
+            "score": 0.762
+          },
+          {
+            "word": "en",
+            "start": 51.842,
+            "end": 51.902,
+            "score": 0.75
+          },
+          {
+            "word": "cause",
+            "start": 51.942,
+            "end": 52.102,
+            "score": 0.701
+          },
+          {
+            "word": "de",
+            "start": 52.122,
+            "end": 52.202,
+            "score": 0.507
+          },
+          {
+            "word": "sa",
+            "start": 52.242,
+            "end": 52.342,
+            "score": 0.903
+          },
+          {
+            "word": "croissance",
+            "start": 52.382,
+            "end": 52.702,
+            "score": 0.84
+          },
+          {
+            "word": "et",
+            "start": 52.742,
+            "end": 52.802,
+            "score": 0.734
+          },
+          {
+            "word": "de",
+            "start": 52.822,
+            "end": 52.862,
+            "score": 0.96
+          },
+          {
+            "word": "son",
+            "start": 52.882,
+            "end": 52.982,
+            "score": 0.734
+          },
+          {
+            "word": "pouvoir",
+            "start": 53.002,
+            "end": 53.202,
+            "score": 0.832
+          },
+          {
+            "word": "d'achat",
+            "start": 53.242,
+            "end": 53.522,
+            "score": 0.818
+          },
+          {
+            "word": "pour",
+            "start": 53.542,
+            "end": 53.682,
+            "score": 0.807
+          },
+          {
+            "word": "acheter",
+            "start": 53.722,
+            "end": 54.283,
+            "score": 0.837
+          },
+          {
+            "word": "deux",
+            "start": 54.303,
+            "end": 54.443,
+            "score": 0.918
+          },
+          {
+            "word": "mois,",
+            "start": 54.483,
+            "end": 54.703,
+            "score": 0.839
+          },
+          {
+            "word": "trois",
+            "start": 54.743,
+            "end": 54.923,
+            "score": 0.875
+          },
+          {
+            "word": "mois",
+            "start": 54.963,
+            "end": 55.123,
+            "score": 0.826
+          },
+          {
+            "word": "de",
+            "start": 55.163,
+            "end": 55.243,
+            "score": 0.828
+          },
+          {
+            "word": "stabilité,",
+            "start": 55.283,
+            "end": 56.083,
+            "score": 0.954
+          },
+          {
+            "word": "je",
+            "start": 56.123,
+            "end": 56.243,
+            "score": 0.966
+          },
+          {
+            "word": "dis",
+            "start": 56.283,
+            "end": 56.523,
+            "score": 0.822
+          },
+          {
+            "word": "non,",
+            "start": 56.543,
+            "end": 56.743,
+            "score": 0.713
+          },
+          {
+            "word": "il",
+            "start": 56.804,
+            "end": 56.884,
+            "score": 0.828
+          },
+          {
+            "word": "ne",
+            "start": 56.924,
+            "end": 57.004,
+            "score": 0.945
+          },
+          {
+            "word": "faut",
+            "start": 57.044,
+            "end": 57.244,
+            "score": 0.984
+          },
+          {
+            "word": "pas",
+            "start": 57.264,
+            "end": 57.384,
+            "score": 0.973
+          },
+          {
+            "word": "toucher",
+            "start": 57.424,
+            "end": 57.684,
+            "score": 0.898
+          },
+          {
+            "word": "à",
+            "start": 57.704,
+            "end": 57.724,
+            "score": 0.993
+          },
+          {
+            "word": "cette",
+            "start": 57.764,
+            "end": 57.944,
+            "score": 0.997
+          },
+          {
+            "word": "réforme.",
+            "start": 57.964,
+            "end": 58.964,
+            "score": 0.936
+          }
+        ]
+      },
+      {
+        "start": 59.004,
+        "end": 63.486,
+        "text": "La réforme des retraites, un enjeu de crispation depuis son entrée en vigueur.",
+        "words": [
+          {
+            "word": "La",
+            "start": 59.004,
+            "end": 59.104,
+            "score": 0.945
+          },
+          {
+            "word": "réforme",
+            "start": 59.124,
+            "end": 59.424,
+            "score": 0.924
+          },
+          {
+            "word": "des",
+            "start": 59.465,
+            "end": 59.565,
+            "score": 0.887
+          },
+          {
+            "word": "retraites,",
+            "start": 59.585,
+            "end": 60.385,
+            "score": 0.828
+          },
+          {
+            "word": "un",
+            "start": 60.425,
+            "end": 60.505,
+            "score": 0.78
+          },
+          {
+            "word": "enjeu",
+            "start": 60.545,
+            "end": 60.785,
+            "score": 0.952
+          },
+          {
+            "word": "de",
+            "start": 60.825,
+            "end": 60.925,
+            "score": 0.898
+          },
+          {
+            "word": "crispation",
+            "start": 60.965,
+            "end": 61.645,
+            "score": 0.748
+          },
+          {
+            "word": "depuis",
+            "start": 61.665,
+            "end": 61.945,
+            "score": 0.822
+          },
+          {
+            "word": "son",
+            "start": 61.965,
+            "end": 62.105,
+            "score": 0.593
+          },
+          {
+            "word": "entrée",
+            "start": 62.145,
+            "end": 62.406,
+            "score": 0.699
+          },
+          {
+            "word": "en",
+            "start": 62.446,
+            "end": 62.526,
+            "score": 0.874
+          },
+          {
+            "word": "vigueur.",
+            "start": 62.566,
+            "end": 63.486,
+            "score": 0.798
+          }
+        ]
+      },
+      {
+        "start": 63.506,
+        "end": 66.627,
+        "text": "Les Français sont inquiets pour leur avenir.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 63.506,
+            "end": 63.646,
+            "score": 0.861
+          },
+          {
+            "word": "Français",
+            "start": 63.666,
+            "end": 64.026,
+            "score": 0.787
+          },
+          {
+            "word": "sont",
+            "start": 64.066,
+            "end": 64.206,
+            "score": 0.547
+          },
+          {
+            "word": "inquiets",
+            "start": 64.266,
+            "end": 64.586,
+            "score": 0.425
+          },
+          {
+            "word": "pour",
+            "start": 64.606,
+            "end": 64.726,
+            "score": 0.429
+          },
+          {
+            "word": "leur",
+            "start": 64.746,
+            "end": 64.847,
+            "score": 0.325
+          },
+          {
+            "word": "avenir.",
+            "start": 64.887,
+            "end": 66.627,
+            "score": 0.734
+          }
+        ]
+      },
+      {
+        "start": 66.667,
+        "end": 71.529,
+        "text": "C'est angoissant déjà pour nous, notre propre présent, futur et surtout pour nos enfants.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 66.667,
+            "end": 67.067,
+            "score": 0.846
+          },
+          {
+            "word": "angoissant",
+            "start": 67.107,
+            "end": 67.708,
+            "score": 0.789
+          },
+          {
+            "word": "déjà",
+            "start": 67.748,
+            "end": 68.008,
+            "score": 0.926
+          },
+          {
+            "word": "pour",
+            "start": 68.048,
+            "end": 68.208,
+            "score": 0.973
+          },
+          {
+            "word": "nous,",
+            "start": 68.228,
+            "end": 68.388,
+            "score": 0.891
+          },
+          {
+            "word": "notre",
+            "start": 68.428,
+            "end": 68.588,
+            "score": 0.859
+          },
+          {
+            "word": "propre",
+            "start": 68.608,
+            "end": 69.008,
+            "score": 0.829
+          },
+          {
+            "word": "présent,",
+            "start": 69.048,
+            "end": 69.428,
+            "score": 0.878
+          },
+          {
+            "word": "futur",
+            "start": 69.468,
+            "end": 69.748,
+            "score": 0.76
+          },
+          {
+            "word": "et",
+            "start": 69.768,
+            "end": 69.888,
+            "score": 0.792
+          },
+          {
+            "word": "surtout",
+            "start": 69.908,
+            "end": 70.108,
+            "score": 0.568
+          },
+          {
+            "word": "pour",
+            "start": 70.128,
+            "end": 70.229,
+            "score": 0.205
+          },
+          {
+            "word": "nos",
+            "start": 70.929,
+            "end": 71.249,
+            "score": 0.708
+          },
+          {
+            "word": "enfants.",
+            "start": 71.309,
+            "end": 71.529,
+            "score": 0.189
+          }
+        ]
+      },
+      {
+        "start": 71.549,
+        "end": 73.13,
+        "text": "C'est déstabilisant.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 71.549,
+            "end": 71.629,
+            "score": 0.017
+          },
+          {
+            "word": "déstabilisant.",
+            "start": 71.649,
+            "end": 73.13,
+            "score": 0.465
+          }
+        ]
+      },
+      {
+        "start": 73.17,
+        "end": 74.01,
+        "text": "On a affaire à qui en fait ?",
+        "words": [
+          {
+            "word": "On",
+            "start": 73.17,
+            "end": 73.25,
+            "score": 0.332
+          },
+          {
+            "word": "a",
+            "start": 73.29,
+            "end": 73.31,
+            "score": 0.123
+          },
+          {
+            "word": "affaire",
+            "start": 73.33,
+            "end": 73.55,
+            "score": 0.337
+          },
+          {
+            "word": "à",
+            "start": 73.57,
+            "end": 73.61,
+            "score": 0.376
+          },
+          {
+            "word": "qui",
+            "start": 73.65,
+            "end": 73.79,
+            "score": 0.497
+          },
+          {
+            "word": "en",
+            "start": 73.81,
+            "end": 73.89,
+            "score": 0.528
+          },
+          {
+            "word": "fait",
+            "start": 73.91,
+            "end": 74.01,
+            "score": 0.325
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 75.389,
+        "end": 78.43,
+        "text": " Les décisions, elles vont être prises ou pas prises ou qu'est-ce qu'on fait le lendemain ?",
+        "words": [
+          {
+            "word": "Les",
+            "start": 75.389,
+            "end": 75.489,
+            "score": 0.312
+          },
+          {
+            "word": "décisions,",
+            "start": 75.509,
+            "end": 75.809,
+            "score": 0.382
+          },
+          {
+            "word": "elles",
+            "start": 75.829,
+            "end": 75.949,
+            "score": 0.193
+          },
+          {
+            "word": "vont",
+            "start": 75.989,
+            "end": 76.069,
+            "score": 0.326
+          },
+          {
+            "word": "être",
+            "start": 76.109,
+            "end": 76.189,
+            "score": 0.026
+          },
+          {
+            "word": "prises",
+            "start": 76.209,
+            "end": 76.389,
+            "score": 0.63
+          },
+          {
+            "word": "ou",
+            "start": 76.429,
+            "end": 76.509,
+            "score": 0.674
+          },
+          {
+            "word": "pas",
+            "start": 76.549,
+            "end": 76.669,
+            "score": 0.854
+          },
+          {
+            "word": "prises",
+            "start": 76.709,
+            "end": 76.929,
+            "score": 0.753
+          },
+          {
+            "word": "ou",
+            "start": 76.969,
+            "end": 77.029,
+            "score": 0.631
+          },
+          {
+            "word": "qu'est-ce",
+            "start": 77.049,
+            "end": 77.209,
+            "score": 0.456
+          },
+          {
+            "word": "qu'on",
+            "start": 77.249,
+            "end": 77.349,
+            "score": 0.946
+          },
+          {
+            "word": "fait",
+            "start": 77.389,
+            "end": 77.509,
+            "score": 0.839
+          },
+          {
+            "word": "le",
+            "start": 77.529,
+            "end": 77.569,
+            "score": 0.468
+          },
+          {
+            "word": "lendemain",
+            "start": 77.589,
+            "end": 78.43,
+            "score": 0.937
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 78.47,
+        "end": 83.111,
+        "text": "Sur le marché de salaire, Isabelle Grenier, commerçante, est aussi inquiète.",
+        "words": [
+          {
+            "word": "Sur",
+            "start": 78.47,
+            "end": 78.65,
+            "score": 0.913
+          },
+          {
+            "word": "le",
+            "start": 78.69,
+            "end": 78.79,
+            "score": 0.975
+          },
+          {
+            "word": "marché",
+            "start": 78.83,
+            "end": 79.09,
+            "score": 0.844
+          },
+          {
+            "word": "de",
+            "start": 79.11,
+            "end": 79.23,
+            "score": 0.914
+          },
+          {
+            "word": "salaire,",
+            "start": 79.27,
+            "end": 79.97,
+            "score": 0.937
+          },
+          {
+            "word": "Isabelle",
+            "start": 80.05,
+            "end": 80.49,
+            "score": 0.857
+          },
+          {
+            "word": "Grenier,",
+            "start": 80.53,
+            "end": 80.91,
+            "score": 0.733
+          },
+          {
+            "word": "commerçante,",
+            "start": 80.95,
+            "end": 81.77,
+            "score": 0.943
+          },
+          {
+            "word": "est",
+            "start": 81.81,
+            "end": 81.97,
+            "score": 0.706
+          },
+          {
+            "word": "aussi",
+            "start": 82.01,
+            "end": 82.25,
+            "score": 0.924
+          },
+          {
+            "word": "inquiète.",
+            "start": 82.31,
+            "end": 83.111,
+            "score": 0.865
+          }
+        ]
+      },
+      {
+        "start": 83.151,
+        "end": 88.232,
+        "text": "Mais pour elle, l'urgence, ce n'est pas cette réforme.",
+        "words": [
+          {
+            "word": "Mais",
+            "start": 83.151,
+            "end": 83.311,
+            "score": 0.913
+          },
+          {
+            "word": "pour",
+            "start": 83.351,
+            "end": 83.491,
+            "score": 0.878
+          },
+          {
+            "word": "elle,",
+            "start": 83.531,
+            "end": 84.031,
+            "score": 0.82
+          },
+          {
+            "word": "l'urgence,",
+            "start": 84.071,
+            "end": 84.671,
+            "score": 0.961
+          },
+          {
+            "word": "ce",
+            "start": 84.711,
+            "end": 84.811,
+            "score": 0.832
+          },
+          {
+            "word": "n'est",
+            "start": 84.831,
+            "end": 84.971,
+            "score": 0.816
+          },
+          {
+            "word": "pas",
+            "start": 84.991,
+            "end": 85.091,
+            "score": 0.906
+          },
+          {
+            "word": "cette",
+            "start": 85.131,
+            "end": 85.291,
+            "score": 0.853
+          },
+          {
+            "word": "réforme.",
+            "start": 85.331,
+            "end": 88.232,
+            "score": 0.683
+          }
+        ]
+      },
+      {
+        "start": 88.272,
+        "end": 94.433,
+        "text": "Franchement, la retraite, pour moi, c'est un grand point d'interrogation et c'est un flou artistique pour l'instant.",
+        "words": [
+          {
+            "word": "Franchement,",
+            "start": 88.272,
+            "end": 88.692,
+            "score": 0.91
+          },
+          {
+            "word": "la",
+            "start": 88.712,
+            "end": 88.812,
+            "score": 0.923
+          },
+          {
+            "word": "retraite,",
+            "start": 88.832,
+            "end": 89.132,
+            "score": 0.829
+          },
+          {
+            "word": "pour",
+            "start": 89.152,
+            "end": 89.332,
+            "score": 0.422
+          },
+          {
+            "word": "moi,",
+            "start": 89.352,
+            "end": 89.452,
+            "score": 0.643
+          },
+          {
+            "word": "c'est",
+            "start": 89.572,
+            "end": 89.672,
+            "score": 0.558
+          },
+          {
+            "word": "un",
+            "start": 89.712,
+            "end": 89.792,
+            "score": 0.718
+          },
+          {
+            "word": "grand",
+            "start": 89.812,
+            "end": 89.972,
+            "score": 0.879
+          },
+          {
+            "word": "point",
+            "start": 89.992,
+            "end": 90.152,
+            "score": 0.865
+          },
+          {
+            "word": "d'interrogation",
+            "start": 90.192,
+            "end": 91.132,
+            "score": 0.943
+          },
+          {
+            "word": "et",
+            "start": 91.192,
+            "end": 92.273,
+            "score": 0.866
+          },
+          {
+            "word": "c'est",
+            "start": 92.293,
+            "end": 92.553,
+            "score": 0.817
+          },
+          {
+            "word": "un",
+            "start": 92.593,
+            "end": 92.673,
+            "score": 0.937
+          },
+          {
+            "word": "flou",
+            "start": 92.733,
+            "end": 92.933,
+            "score": 0.832
+          },
+          {
+            "word": "artistique",
+            "start": 92.993,
+            "end": 93.553,
+            "score": 0.904
+          },
+          {
+            "word": "pour",
+            "start": 93.573,
+            "end": 93.713,
+            "score": 0.803
+          },
+          {
+            "word": "l'instant.",
+            "start": 93.753,
+            "end": 94.433,
+            "score": 0.902
+          }
+        ]
+      },
+      {
+        "start": 94.493,
+        "end": 98.894,
+        "text": "Alors oui, 64, on va repasser à 63, ça va être pour calmer un petit peu, mais bon...",
+        "words": [
+          {
+            "word": "Alors",
+            "start": 94.493,
+            "end": 95.493,
+            "score": 0.63
+          },
+          {
+            "word": "oui,",
+            "start": 95.513,
+            "end": 95.673,
+            "score": 0.425
+          },
+          {
+            "word": "64,"
+          },
+          {
+            "word": "on",
+            "start": 95.773,
+            "end": 95.833,
+            "score": 0.738
+          },
+          {
+            "word": "va",
+            "start": 95.873,
+            "end": 95.913,
+            "score": 0.744
+          },
+          {
+            "word": "repasser",
+            "start": 95.953,
+            "end": 96.233,
+            "score": 0.608
+          },
+          {
+            "word": "à",
+            "start": 96.253,
+            "end": 96.293,
+            "score": 0.285
+          },
+          {
+            "word": "63,"
+          },
+          {
+            "word": "ça",
+            "start": 96.333,
+            "end": 96.493,
+            "score": 0.631
+          },
+          {
+            "word": "va",
+            "start": 96.553,
+            "end": 96.633,
+            "score": 0.268
+          },
+          {
+            "word": "être",
+            "start": 96.653,
+            "end": 97.474,
+            "score": 0.557
+          },
+          {
+            "word": "pour",
+            "start": 97.494,
+            "end": 97.594,
+            "score": 0.927
+          },
+          {
+            "word": "calmer",
+            "start": 97.614,
+            "end": 97.894,
+            "score": 0.41
+          },
+          {
+            "word": "un",
+            "start": 97.934,
+            "end": 97.974,
+            "score": 0.9
+          },
+          {
+            "word": "petit",
+            "start": 98.014,
+            "end": 98.214,
+            "score": 0.814
+          },
+          {
+            "word": "peu,",
+            "start": 98.234,
+            "end": 98.574,
+            "score": 0.893
+          },
+          {
+            "word": "mais",
+            "start": 98.614,
+            "end": 98.794,
+            "score": 0.44
+          },
+          {
+            "word": "bon...",
+            "start": 98.814,
+            "end": 98.894,
+            "score": 0.552
+          }
+        ]
+      },
+      {
+        "start": 100.057,
+        "end": 100.378,
+        "text": " Quel but ?",
+        "words": [
+          {
+            "word": "Quel",
+            "start": 100.057,
+            "end": 100.238,
+            "score": 0.236
+          },
+          {
+            "word": "but",
+            "start": 100.258,
+            "end": 100.378,
+            "score": 0.356
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 100.418,
+        "end": 100.899,
+        "text": "Quel intérêt ?",
+        "words": [
+          {
+            "word": "Quel",
+            "start": 100.418,
+            "end": 100.638,
+            "score": 0.411
+          },
+          {
+            "word": "intérêt",
+            "start": 100.658,
+            "end": 100.899,
+            "score": 0.901
+          },
+          {
+            "word": "?"
+          }
+        ]
+      },
+      {
+        "start": 101.379,
+        "end": 103.262,
+        "text": "Pour l'instant, on a besoin d'autre chose.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 101.379,
+            "end": 101.499,
+            "score": 0.865
+          },
+          {
+            "word": "l'instant,",
+            "start": 101.54,
+            "end": 101.82,
+            "score": 0.386
+          },
+          {
+            "word": "on",
+            "start": 101.84,
+            "end": 101.88,
+            "score": 0.014
+          },
+          {
+            "word": "a",
+            "start": 101.9,
+            "end": 101.94,
+            "score": 0.239
+          },
+          {
+            "word": "besoin",
+            "start": 101.96,
+            "end": 102.16,
+            "score": 0.502
+          },
+          {
+            "word": "d'autre",
+            "start": 102.201,
+            "end": 102.421,
+            "score": 0.812
+          },
+          {
+            "word": "chose.",
+            "start": 102.441,
+            "end": 103.262,
+            "score": 0.865
+          }
+        ]
+      },
+      {
+        "start": 103.322,
+        "end": 106.868,
+        "text": "Avec des clients qui consomment moins, un chiffre d'affaires en baisse.",
+        "words": [
+          {
+            "word": "Avec",
+            "start": 103.322,
+            "end": 103.523,
+            "score": 0.895
+          },
+          {
+            "word": "des",
+            "start": 103.543,
+            "end": 103.643,
+            "score": 0.829
+          },
+          {
+            "word": "clients",
+            "start": 103.663,
+            "end": 103.923,
+            "score": 0.791
+          },
+          {
+            "word": "qui",
+            "start": 103.963,
+            "end": 104.103,
+            "score": 0.901
+          },
+          {
+            "word": "consomment",
+            "start": 104.143,
+            "end": 104.524,
+            "score": 0.858
+          },
+          {
+            "word": "moins,",
+            "start": 104.564,
+            "end": 105.125,
+            "score": 0.838
+          },
+          {
+            "word": "un",
+            "start": 105.165,
+            "end": 105.285,
+            "score": 0.866
+          },
+          {
+            "word": "chiffre",
+            "start": 105.325,
+            "end": 105.626,
+            "score": 0.884
+          },
+          {
+            "word": "d'affaires",
+            "start": 105.666,
+            "end": 105.946,
+            "score": 0.812
+          },
+          {
+            "word": "en",
+            "start": 105.986,
+            "end": 106.066,
+            "score": 0.819
+          },
+          {
+            "word": "baisse.",
+            "start": 106.106,
+            "end": 106.868,
+            "score": 0.81
+          }
+        ]
+      },
+      {
+        "start": 106.908,
+        "end": 109.452,
+        "text": "Sa priorité, c'est avant tout l'avenir de son commerce.",
+        "words": [
+          {
+            "word": "Sa",
+            "start": 106.908,
+            "end": 107.048,
+            "score": 0.989
+          },
+          {
+            "word": "priorité,",
+            "start": 107.068,
+            "end": 107.889,
+            "score": 0.934
+          },
+          {
+            "word": "c'est",
+            "start": 107.909,
+            "end": 108.109,
+            "score": 0.853
+          },
+          {
+            "word": "avant",
+            "start": 108.15,
+            "end": 108.31,
+            "score": 0.87
+          },
+          {
+            "word": "tout",
+            "start": 108.35,
+            "end": 108.49,
+            "score": 0.786
+          },
+          {
+            "word": "l'avenir",
+            "start": 108.55,
+            "end": 108.831,
+            "score": 0.852
+          },
+          {
+            "word": "de",
+            "start": 108.851,
+            "end": 108.951,
+            "score": 0.626
+          },
+          {
+            "word": "son",
+            "start": 108.971,
+            "end": 109.111,
+            "score": 0.995
+          },
+          {
+            "word": "commerce.",
+            "start": 109.151,
+            "end": 109.452,
+            "score": 0.943
+          }
+        ]
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "A",
+        "start": 0.071,
+        "end": 0.291,
+        "score": 0.899
+      },
+      {
+        "word": "chaque",
+        "start": 0.331,
+        "end": 0.531,
+        "score": 0.753
+      },
+      {
+        "word": "jour,",
+        "start": 0.571,
+        "end": 0.772,
+        "score": 0.798
+      },
+      {
+        "word": "son",
+        "start": 0.792,
+        "end": 0.912,
+        "score": 0.902
+      },
+      {
+        "word": "rebondissement",
+        "start": 0.952,
+        "end": 1.532,
+        "score": 0.85
+      },
+      {
+        "word": "politique.",
+        "start": 1.592,
+        "end": 2.613,
+        "score": 0.894
+      },
+      {
+        "word": "Alors",
+        "start": 2.653,
+        "end": 2.933,
+        "score": 0.809
+      },
+      {
+        "word": "l'inquiétude",
+        "start": 2.973,
+        "end": 3.474,
+        "score": 0.856
+      },
+      {
+        "word": "règne",
+        "start": 3.534,
+        "end": 3.774,
+        "score": 0.588
+      },
+      {
+        "word": "chez",
+        "start": 3.794,
+        "end": 3.934,
+        "score": 0.698
+      },
+      {
+        "word": "les",
+        "start": 3.974,
+        "end": 4.074,
+        "score": 0.77
+      },
+      {
+        "word": "patrons,",
+        "start": 4.114,
+        "end": 4.895,
+        "score": 0.886
+      },
+      {
+        "word": "comme",
+        "start": 4.935,
+        "end": 5.155,
+        "score": 0.929
+      },
+      {
+        "word": "dans",
+        "start": 5.175,
+        "end": 5.315,
+        "score": 0.986
+      },
+      {
+        "word": "le",
+        "start": 5.355,
+        "end": 5.435,
+        "score": 0.834
+      },
+      {
+        "word": "secteur",
+        "start": 5.455,
+        "end": 5.796,
+        "score": 0.945
+      },
+      {
+        "word": "du",
+        "start": 5.836,
+        "end": 5.936,
+        "score": 0.982
+      },
+      {
+        "word": "bâtiment.",
+        "start": 5.976,
+        "end": 6.897,
+        "score": 0.946
+      },
+      {
+        "word": "Avec",
+        "start": 6.937,
+        "end": 7.157,
+        "score": 0.929
+      },
+      {
+        "word": "150"
+      },
+      {
+        "word": "plombiers",
+        "start": 7.757,
+        "end": 8.037,
+        "score": 0.801
+      },
+      {
+        "word": "chauffagistes,",
+        "start": 8.078,
+        "end": 8.958,
+        "score": 0.817
+      },
+      {
+        "word": "l'entreprise",
+        "start": 8.978,
+        "end": 9.479,
+        "score": 0.792
+      },
+      {
+        "word": "de",
+        "start": 9.519,
+        "end": 9.599,
+        "score": 0.942
+      },
+      {
+        "word": "Benoît",
+        "start": 9.639,
+        "end": 9.959,
+        "score": 0.7
+      },
+      {
+        "word": "Schill",
+        "start": 9.979,
+        "end": 10.259,
+        "score": 0.687
+      },
+      {
+        "word": "dépend",
+        "start": 10.299,
+        "end": 10.64,
+        "score": 0.966
+      },
+      {
+        "word": "beaucoup",
+        "start": 10.66,
+        "end": 10.98,
+        "score": 0.812
+      },
+      {
+        "word": "des",
+        "start": 11.02,
+        "end": 11.1,
+        "score": 0.984
+      },
+      {
+        "word": "commandes",
+        "start": 11.14,
+        "end": 11.44,
+        "score": 0.821
+      },
+      {
+        "word": "publiques.",
+        "start": 11.48,
+        "end": 12.581,
+        "score": 0.638
+      },
+      {
+        "word": "On",
+        "start": 12.681,
+        "end": 12.741,
+        "score": 0.788
+      },
+      {
+        "word": "a",
+        "start": 12.861,
+        "end": 12.901,
+        "score": 0.846
+      },
+      {
+        "word": "pas",
+        "start": 12.921,
+        "end": 13.001,
+        "score": 0.983
+      },
+      {
+        "word": "mal",
+        "start": 13.042,
+        "end": 13.142,
+        "score": 0.523
+      },
+      {
+        "word": "de",
+        "start": 13.182,
+        "end": 13.242,
+        "score": 0.736
+      },
+      {
+        "word": "collectivités",
+        "start": 13.262,
+        "end": 13.802,
+        "score": 0.889
+      },
+      {
+        "word": "locales",
+        "start": 13.842,
+        "end": 14.102,
+        "score": 0.858
+      },
+      {
+        "word": "comme",
+        "start": 14.122,
+        "end": 14.303,
+        "score": 0.851
+      },
+      {
+        "word": "clients.",
+        "start": 14.343,
+        "end": 14.643,
+        "score": 0.683
+      },
+      {
+        "word": "Donc",
+        "start": 14.663,
+        "end": 14.783,
+        "score": 0.708
+      },
+      {
+        "word": "elles,",
+        "start": 15.023,
+        "end": 15.664,
+        "score": 0.84
+      },
+      {
+        "word": "même",
+        "start": 15.704,
+        "end": 15.844,
+        "score": 0.926
+      },
+      {
+        "word": "quand",
+        "start": 15.864,
+        "end": 15.964,
+        "score": 0.0
+      },
+      {
+        "word": "on",
+        "start": 15.984,
+        "end": 16.064,
+        "score": 0.74
+      },
+      {
+        "word": "travaille",
+        "start": 16.084,
+        "end": 16.364,
+        "score": 0.854
+      },
+      {
+        "word": "pour",
+        "start": 16.384,
+        "end": 16.544,
+        "score": 0.851
+      },
+      {
+        "word": "des",
+        "start": 16.564,
+        "end": 16.664,
+        "score": 0.758
+      },
+      {
+        "word": "hôpitaux,",
+        "start": 16.704,
+        "end": 17.045,
+        "score": 0.854
+      },
+      {
+        "word": "pour",
+        "start": 17.085,
+        "end": 17.225,
+        "score": 0.766
+      },
+      {
+        "word": "des",
+        "start": 17.245,
+        "end": 17.325,
+        "score": 0.793
+      },
+      {
+        "word": "cliniques,",
+        "start": 17.345,
+        "end": 18.266,
+        "score": 0.918
+      },
+      {
+        "word": "ces",
+        "start": 18.286,
+        "end": 18.386,
+        "score": 0.713
+      },
+      {
+        "word": "clients-là,",
+        "start": 18.426,
+        "end": 18.786,
+        "score": 0.675
+      },
+      {
+        "word": "oui,",
+        "start": 18.806,
+        "end": 18.986,
+        "score": 0.737
+      },
+      {
+        "word": "c'est",
+        "start": 19.006,
+        "end": 19.547,
+        "score": 0.646
+      },
+      {
+        "word": "sûr",
+        "start": 19.567,
+        "end": 19.727,
+        "score": 0.776
+      },
+      {
+        "word": "qu'ils",
+        "start": 19.747,
+        "end": 19.847,
+        "score": 0.464
+      },
+      {
+        "word": "seront",
+        "start": 19.867,
+        "end": 20.027,
+        "score": 0.842
+      },
+      {
+        "word": "perturbés.",
+        "start": 20.067,
+        "end": 20.568,
+        "score": 0.703
+      },
+      {
+        "word": "En",
+        "start": 20.608,
+        "end": 20.688,
+        "score": 0.686
+      },
+      {
+        "word": "plus,",
+        "start": 20.728,
+        "end": 20.808,
+        "score": 0.522
+      },
+      {
+        "word": "il",
+        "start": 20.828,
+        "end": 20.868,
+        "score": 0.006
+      },
+      {
+        "word": "y",
+        "start": 20.888,
+        "end": 20.908,
+        "score": 0.025
+      },
+      {
+        "word": "aura",
+        "start": 20.928,
+        "end": 21.088,
+        "score": 0.315
+      },
+      {
+        "word": "les",
+        "start": 21.148,
+        "end": 21.228,
+        "score": 0.413
+      },
+      {
+        "word": "élections",
+        "start": 21.248,
+        "end": 21.508,
+        "score": 0.887
+      },
+      {
+        "word": "l'année",
+        "start": 21.568,
+        "end": 21.809,
+        "score": 0.377
+      },
+      {
+        "word": "prochaine,",
+        "start": 21.849,
+        "end": 22.229,
+        "score": 0.676
+      },
+      {
+        "word": "les",
+        "start": 22.289,
+        "end": 22.369,
+        "score": 0.593
+      },
+      {
+        "word": "élections",
+        "start": 22.429,
+        "end": 22.749,
+        "score": 0.871
+      },
+      {
+        "word": "municipales.",
+        "start": 22.809,
+        "end": 23.25,
+        "score": 0.895
+      },
+      {
+        "word": "Donc",
+        "start": 23.29,
+        "end": 23.39,
+        "score": 0.67
+      },
+      {
+        "word": "là,",
+        "start": 23.49,
+        "end": 24.07,
+        "score": 0.818
+      },
+      {
+        "word": "c'est",
+        "start": 24.11,
+        "end": 24.211,
+        "score": 0.52
+      },
+      {
+        "word": "encore",
+        "start": 24.251,
+        "end": 24.451,
+        "score": 0.751
+      },
+      {
+        "word": "un",
+        "start": 24.491,
+        "end": 24.531,
+        "score": 0.998
+      },
+      {
+        "word": "peu",
+        "start": 24.551,
+        "end": 24.671,
+        "score": 0.944
+      },
+      {
+        "word": "plus",
+        "start": 24.711,
+        "end": 25.572,
+        "score": 0.929
+      },
+      {
+        "word": "de",
+        "start": 25.592,
+        "end": 25.692,
+        "score": 0.874
+      },
+      {
+        "word": "perturbations",
+        "start": 25.732,
+        "end": 26.252,
+        "score": 0.831
+      },
+      {
+        "word": "pour",
+        "start": 26.312,
+        "end": 26.432,
+        "score": 0.845
+      },
+      {
+        "word": "nos",
+        "start": 26.472,
+        "end": 26.572,
+        "score": 0.847
+      },
+      {
+        "word": "entreprises.",
+        "start": 26.612,
+        "end": 27.013,
+        "score": 0.935
+      },
+      {
+        "word": "Impossible",
+        "start": 27.619,
+        "end": 28.12,
+        "score": 0.733
+      },
+      {
+        "word": "pour",
+        "start": 28.16,
+        "end": 28.28,
+        "score": 0.836
+      },
+      {
+        "word": "lui",
+        "start": 28.3,
+        "end": 28.46,
+        "score": 0.859
+      },
+      {
+        "word": "de",
+        "start": 28.48,
+        "end": 28.58,
+        "score": 0.778
+      },
+      {
+        "word": "se",
+        "start": 28.6,
+        "end": 28.741,
+        "score": 0.901
+      },
+      {
+        "word": "projeter,",
+        "start": 28.781,
+        "end": 29.541,
+        "score": 0.921
+      },
+      {
+        "word": "alors",
+        "start": 29.582,
+        "end": 29.802,
+        "score": 0.767
+      },
+      {
+        "word": "pas",
+        "start": 29.842,
+        "end": 29.962,
+        "score": 0.902
+      },
+      {
+        "word": "d'embauche",
+        "start": 29.982,
+        "end": 30.322,
+        "score": 0.893
+      },
+      {
+        "word": "prévue",
+        "start": 30.362,
+        "end": 30.583,
+        "score": 0.888
+      },
+      {
+        "word": "pour",
+        "start": 30.623,
+        "end": 30.763,
+        "score": 0.864
+      },
+      {
+        "word": "le",
+        "start": 30.803,
+        "end": 30.863,
+        "score": 0.978
+      },
+      {
+        "word": "moment.",
+        "start": 30.903,
+        "end": 31.724,
+        "score": 0.99
+      },
+      {
+        "word": "Autre",
+        "start": 31.784,
+        "end": 32.004,
+        "score": 0.946
+      },
+      {
+        "word": "incertitude,",
+        "start": 32.064,
+        "end": 32.985,
+        "score": 0.927
+      },
+      {
+        "word": "les",
+        "start": 33.025,
+        "end": 33.146,
+        "score": 0.76
+      },
+      {
+        "word": "retraites.",
+        "start": 33.186,
+        "end": 34.007,
+        "score": 0.884
+      },
+      {
+        "word": "Car",
+        "start": 34.047,
+        "end": 34.227,
+        "score": 0.927
+      },
+      {
+        "word": "l'idée",
+        "start": 34.307,
+        "end": 34.527,
+        "score": 0.807
+      },
+      {
+        "word": "de",
+        "start": 34.567,
+        "end": 34.687,
+        "score": 0.902
+      },
+      {
+        "word": "suspendre",
+        "start": 34.727,
+        "end": 35.188,
+        "score": 0.793
+      },
+      {
+        "word": "la",
+        "start": 35.248,
+        "end": 35.328,
+        "score": 0.901
+      },
+      {
+        "word": "dernière",
+        "start": 35.368,
+        "end": 35.729,
+        "score": 0.804
+      },
+      {
+        "word": "réforme",
+        "start": 35.769,
+        "end": 36.089,
+        "score": 0.83
+      },
+      {
+        "word": "fait",
+        "start": 36.149,
+        "end": 36.289,
+        "score": 0.855
+      },
+      {
+        "word": "son",
+        "start": 36.309,
+        "end": 36.489,
+        "score": 0.934
+      },
+      {
+        "word": "chemin.",
+        "start": 36.53,
+        "end": 37.27,
+        "score": 0.921
+      },
+      {
+        "word": "Un",
+        "start": 37.33,
+        "end": 37.391,
+        "score": 0.993
+      },
+      {
+        "word": "retour",
+        "start": 37.431,
+        "end": 37.711,
+        "score": 0.917
+      },
+      {
+        "word": "en",
+        "start": 37.751,
+        "end": 37.831,
+        "score": 0.836
+      },
+      {
+        "word": "arrière",
+        "start": 37.871,
+        "end": 38.472,
+        "score": 0.925
+      },
+      {
+        "word": "qui",
+        "start": 38.492,
+        "end": 38.632,
+        "score": 0.765
+      },
+      {
+        "word": "pourrait",
+        "start": 38.652,
+        "end": 38.912,
+        "score": 0.869
+      },
+      {
+        "word": "coûter",
+        "start": 38.972,
+        "end": 39.233,
+        "score": 0.933
+      },
+      {
+        "word": "cher",
+        "start": 39.273,
+        "end": 39.833,
+        "score": 0.876
+      },
+      {
+        "word": "au",
+        "start": 39.873,
+        "end": 39.974,
+        "score": 0.808
+      },
+      {
+        "word": "moins",
+        "start": 40.034,
+        "end": 40.434,
+        "score": 0.612
+      },
+      {
+        "word": "3"
+      },
+      {
+        "word": "milliards",
+        "start": 40.474,
+        "end": 40.975,
+        "score": 0.808
+      },
+      {
+        "word": "rien",
+        "start": 41.035,
+        "end": 41.175,
+        "score": 0.872
+      },
+      {
+        "word": "qu'en",
+        "start": 41.195,
+        "end": 41.856,
+        "score": 0.178
+      },
+      {
+        "word": "2027."
+      },
+      {
+        "word": "Le",
+        "start": 42.536,
+        "end": 42.637,
+        "score": 0.883
+      },
+      {
+        "word": "patronat",
+        "start": 42.677,
+        "end": 43.498,
+        "score": 0.916
+      },
+      {
+        "word": "s'y",
+        "start": 43.538,
+        "end": 43.678,
+        "score": 0.883
+      },
+      {
+        "word": "oppose",
+        "start": 43.738,
+        "end": 44.058,
+        "score": 0.958
+      },
+      {
+        "word": "fermement.",
+        "start": 44.098,
+        "end": 44.459,
+        "score": 0.914
+      },
+      {
+        "word": "Si",
+        "start": 44.839,
+        "end": 44.919,
+        "score": 0.886
+      },
+      {
+        "word": "c'est",
+        "start": 44.939,
+        "end": 45.059,
+        "score": 0.65
+      },
+      {
+        "word": "acheter",
+        "start": 45.079,
+        "end": 45.339,
+        "score": 0.815
+      },
+      {
+        "word": "de",
+        "start": 45.359,
+        "end": 45.399,
+        "score": 0.614
+      },
+      {
+        "word": "la",
+        "start": 45.439,
+        "end": 45.479,
+        "score": 0.995
+      },
+      {
+        "word": "stabilité",
+        "start": 45.519,
+        "end": 46.46,
+        "score": 0.991
+      },
+      {
+        "word": "au",
+        "start": 46.5,
+        "end": 46.6,
+        "score": 0.967
+      },
+      {
+        "word": "prix",
+        "start": 46.64,
+        "end": 47.66,
+        "score": 0.943
+      },
+      {
+        "word": "d'un",
+        "start": 47.7,
+        "end": 47.98,
+        "score": 0.989
+      },
+      {
+        "word": "alourdissement",
+        "start": 48.04,
+        "end": 48.72,
+        "score": 0.813
+      },
+      {
+        "word": "considérable",
+        "start": 48.761,
+        "end": 49.921,
+        "score": 0.957
+      },
+      {
+        "word": "de",
+        "start": 49.941,
+        "end": 50.021,
+        "score": 0.895
+      },
+      {
+        "word": "l'endettement",
+        "start": 50.041,
+        "end": 50.481,
+        "score": 0.93
+      },
+      {
+        "word": "du",
+        "start": 50.521,
+        "end": 50.621,
+        "score": 0.998
+      },
+      {
+        "word": "pays",
+        "start": 50.661,
+        "end": 51.241,
+        "score": 0.919
+      },
+      {
+        "word": "et",
+        "start": 51.281,
+        "end": 51.361,
+        "score": 0.706
+      },
+      {
+        "word": "de",
+        "start": 51.401,
+        "end": 51.482,
+        "score": 0.969
+      },
+      {
+        "word": "la",
+        "start": 51.502,
+        "end": 51.582,
+        "score": 0.618
+      },
+      {
+        "word": "remise",
+        "start": 51.602,
+        "end": 51.822,
+        "score": 0.762
+      },
+      {
+        "word": "en",
+        "start": 51.842,
+        "end": 51.902,
+        "score": 0.75
+      },
+      {
+        "word": "cause",
+        "start": 51.942,
+        "end": 52.102,
+        "score": 0.701
+      },
+      {
+        "word": "de",
+        "start": 52.122,
+        "end": 52.202,
+        "score": 0.507
+      },
+      {
+        "word": "sa",
+        "start": 52.242,
+        "end": 52.342,
+        "score": 0.903
+      },
+      {
+        "word": "croissance",
+        "start": 52.382,
+        "end": 52.702,
+        "score": 0.84
+      },
+      {
+        "word": "et",
+        "start": 52.742,
+        "end": 52.802,
+        "score": 0.734
+      },
+      {
+        "word": "de",
+        "start": 52.822,
+        "end": 52.862,
+        "score": 0.96
+      },
+      {
+        "word": "son",
+        "start": 52.882,
+        "end": 52.982,
+        "score": 0.734
+      },
+      {
+        "word": "pouvoir",
+        "start": 53.002,
+        "end": 53.202,
+        "score": 0.832
+      },
+      {
+        "word": "d'achat",
+        "start": 53.242,
+        "end": 53.522,
+        "score": 0.818
+      },
+      {
+        "word": "pour",
+        "start": 53.542,
+        "end": 53.682,
+        "score": 0.807
+      },
+      {
+        "word": "acheter",
+        "start": 53.722,
+        "end": 54.283,
+        "score": 0.837
+      },
+      {
+        "word": "deux",
+        "start": 54.303,
+        "end": 54.443,
+        "score": 0.918
+      },
+      {
+        "word": "mois,",
+        "start": 54.483,
+        "end": 54.703,
+        "score": 0.839
+      },
+      {
+        "word": "trois",
+        "start": 54.743,
+        "end": 54.923,
+        "score": 0.875
+      },
+      {
+        "word": "mois",
+        "start": 54.963,
+        "end": 55.123,
+        "score": 0.826
+      },
+      {
+        "word": "de",
+        "start": 55.163,
+        "end": 55.243,
+        "score": 0.828
+      },
+      {
+        "word": "stabilité,",
+        "start": 55.283,
+        "end": 56.083,
+        "score": 0.954
+      },
+      {
+        "word": "je",
+        "start": 56.123,
+        "end": 56.243,
+        "score": 0.966
+      },
+      {
+        "word": "dis",
+        "start": 56.283,
+        "end": 56.523,
+        "score": 0.822
+      },
+      {
+        "word": "non,",
+        "start": 56.543,
+        "end": 56.743,
+        "score": 0.713
+      },
+      {
+        "word": "il",
+        "start": 56.804,
+        "end": 56.884,
+        "score": 0.828
+      },
+      {
+        "word": "ne",
+        "start": 56.924,
+        "end": 57.004,
+        "score": 0.945
+      },
+      {
+        "word": "faut",
+        "start": 57.044,
+        "end": 57.244,
+        "score": 0.984
+      },
+      {
+        "word": "pas",
+        "start": 57.264,
+        "end": 57.384,
+        "score": 0.973
+      },
+      {
+        "word": "toucher",
+        "start": 57.424,
+        "end": 57.684,
+        "score": 0.898
+      },
+      {
+        "word": "à",
+        "start": 57.704,
+        "end": 57.724,
+        "score": 0.993
+      },
+      {
+        "word": "cette",
+        "start": 57.764,
+        "end": 57.944,
+        "score": 0.997
+      },
+      {
+        "word": "réforme.",
+        "start": 57.964,
+        "end": 58.964,
+        "score": 0.936
+      },
+      {
+        "word": "La",
+        "start": 59.004,
+        "end": 59.104,
+        "score": 0.945
+      },
+      {
+        "word": "réforme",
+        "start": 59.124,
+        "end": 59.424,
+        "score": 0.924
+      },
+      {
+        "word": "des",
+        "start": 59.465,
+        "end": 59.565,
+        "score": 0.887
+      },
+      {
+        "word": "retraites,",
+        "start": 59.585,
+        "end": 60.385,
+        "score": 0.828
+      },
+      {
+        "word": "un",
+        "start": 60.425,
+        "end": 60.505,
+        "score": 0.78
+      },
+      {
+        "word": "enjeu",
+        "start": 60.545,
+        "end": 60.785,
+        "score": 0.952
+      },
+      {
+        "word": "de",
+        "start": 60.825,
+        "end": 60.925,
+        "score": 0.898
+      },
+      {
+        "word": "crispation",
+        "start": 60.965,
+        "end": 61.645,
+        "score": 0.748
+      },
+      {
+        "word": "depuis",
+        "start": 61.665,
+        "end": 61.945,
+        "score": 0.822
+      },
+      {
+        "word": "son",
+        "start": 61.965,
+        "end": 62.105,
+        "score": 0.593
+      },
+      {
+        "word": "entrée",
+        "start": 62.145,
+        "end": 62.406,
+        "score": 0.699
+      },
+      {
+        "word": "en",
+        "start": 62.446,
+        "end": 62.526,
+        "score": 0.874
+      },
+      {
+        "word": "vigueur.",
+        "start": 62.566,
+        "end": 63.486,
+        "score": 0.798
+      },
+      {
+        "word": "Les",
+        "start": 63.506,
+        "end": 63.646,
+        "score": 0.861
+      },
+      {
+        "word": "Français",
+        "start": 63.666,
+        "end": 64.026,
+        "score": 0.787
+      },
+      {
+        "word": "sont",
+        "start": 64.066,
+        "end": 64.206,
+        "score": 0.547
+      },
+      {
+        "word": "inquiets",
+        "start": 64.266,
+        "end": 64.586,
+        "score": 0.425
+      },
+      {
+        "word": "pour",
+        "start": 64.606,
+        "end": 64.726,
+        "score": 0.429
+      },
+      {
+        "word": "leur",
+        "start": 64.746,
+        "end": 64.847,
+        "score": 0.325
+      },
+      {
+        "word": "avenir.",
+        "start": 64.887,
+        "end": 66.627,
+        "score": 0.734
+      },
+      {
+        "word": "C'est",
+        "start": 66.667,
+        "end": 67.067,
+        "score": 0.846
+      },
+      {
+        "word": "angoissant",
+        "start": 67.107,
+        "end": 67.708,
+        "score": 0.789
+      },
+      {
+        "word": "déjà",
+        "start": 67.748,
+        "end": 68.008,
+        "score": 0.926
+      },
+      {
+        "word": "pour",
+        "start": 68.048,
+        "end": 68.208,
+        "score": 0.973
+      },
+      {
+        "word": "nous,",
+        "start": 68.228,
+        "end": 68.388,
+        "score": 0.891
+      },
+      {
+        "word": "notre",
+        "start": 68.428,
+        "end": 68.588,
+        "score": 0.859
+      },
+      {
+        "word": "propre",
+        "start": 68.608,
+        "end": 69.008,
+        "score": 0.829
+      },
+      {
+        "word": "présent,",
+        "start": 69.048,
+        "end": 69.428,
+        "score": 0.878
+      },
+      {
+        "word": "futur",
+        "start": 69.468,
+        "end": 69.748,
+        "score": 0.76
+      },
+      {
+        "word": "et",
+        "start": 69.768,
+        "end": 69.888,
+        "score": 0.792
+      },
+      {
+        "word": "surtout",
+        "start": 69.908,
+        "end": 70.108,
+        "score": 0.568
+      },
+      {
+        "word": "pour",
+        "start": 70.128,
+        "end": 70.229,
+        "score": 0.205
+      },
+      {
+        "word": "nos",
+        "start": 70.929,
+        "end": 71.249,
+        "score": 0.708
+      },
+      {
+        "word": "enfants.",
+        "start": 71.309,
+        "end": 71.529,
+        "score": 0.189
+      },
+      {
+        "word": "C'est",
+        "start": 71.549,
+        "end": 71.629,
+        "score": 0.017
+      },
+      {
+        "word": "déstabilisant.",
+        "start": 71.649,
+        "end": 73.13,
+        "score": 0.465
+      },
+      {
+        "word": "On",
+        "start": 73.17,
+        "end": 73.25,
+        "score": 0.332
+      },
+      {
+        "word": "a",
+        "start": 73.29,
+        "end": 73.31,
+        "score": 0.123
+      },
+      {
+        "word": "affaire",
+        "start": 73.33,
+        "end": 73.55,
+        "score": 0.337
+      },
+      {
+        "word": "à",
+        "start": 73.57,
+        "end": 73.61,
+        "score": 0.376
+      },
+      {
+        "word": "qui",
+        "start": 73.65,
+        "end": 73.79,
+        "score": 0.497
+      },
+      {
+        "word": "en",
+        "start": 73.81,
+        "end": 73.89,
+        "score": 0.528
+      },
+      {
+        "word": "fait",
+        "start": 73.91,
+        "end": 74.01,
+        "score": 0.325
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Les",
+        "start": 75.389,
+        "end": 75.489,
+        "score": 0.312
+      },
+      {
+        "word": "décisions,",
+        "start": 75.509,
+        "end": 75.809,
+        "score": 0.382
+      },
+      {
+        "word": "elles",
+        "start": 75.829,
+        "end": 75.949,
+        "score": 0.193
+      },
+      {
+        "word": "vont",
+        "start": 75.989,
+        "end": 76.069,
+        "score": 0.326
+      },
+      {
+        "word": "être",
+        "start": 76.109,
+        "end": 76.189,
+        "score": 0.026
+      },
+      {
+        "word": "prises",
+        "start": 76.209,
+        "end": 76.389,
+        "score": 0.63
+      },
+      {
+        "word": "ou",
+        "start": 76.429,
+        "end": 76.509,
+        "score": 0.674
+      },
+      {
+        "word": "pas",
+        "start": 76.549,
+        "end": 76.669,
+        "score": 0.854
+      },
+      {
+        "word": "prises",
+        "start": 76.709,
+        "end": 76.929,
+        "score": 0.753
+      },
+      {
+        "word": "ou",
+        "start": 76.969,
+        "end": 77.029,
+        "score": 0.631
+      },
+      {
+        "word": "qu'est-ce",
+        "start": 77.049,
+        "end": 77.209,
+        "score": 0.456
+      },
+      {
+        "word": "qu'on",
+        "start": 77.249,
+        "end": 77.349,
+        "score": 0.946
+      },
+      {
+        "word": "fait",
+        "start": 77.389,
+        "end": 77.509,
+        "score": 0.839
+      },
+      {
+        "word": "le",
+        "start": 77.529,
+        "end": 77.569,
+        "score": 0.468
+      },
+      {
+        "word": "lendemain",
+        "start": 77.589,
+        "end": 78.43,
+        "score": 0.937
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Sur",
+        "start": 78.47,
+        "end": 78.65,
+        "score": 0.913
+      },
+      {
+        "word": "le",
+        "start": 78.69,
+        "end": 78.79,
+        "score": 0.975
+      },
+      {
+        "word": "marché",
+        "start": 78.83,
+        "end": 79.09,
+        "score": 0.844
+      },
+      {
+        "word": "de",
+        "start": 79.11,
+        "end": 79.23,
+        "score": 0.914
+      },
+      {
+        "word": "salaire,",
+        "start": 79.27,
+        "end": 79.97,
+        "score": 0.937
+      },
+      {
+        "word": "Isabelle",
+        "start": 80.05,
+        "end": 80.49,
+        "score": 0.857
+      },
+      {
+        "word": "Grenier,",
+        "start": 80.53,
+        "end": 80.91,
+        "score": 0.733
+      },
+      {
+        "word": "commerçante,",
+        "start": 80.95,
+        "end": 81.77,
+        "score": 0.943
+      },
+      {
+        "word": "est",
+        "start": 81.81,
+        "end": 81.97,
+        "score": 0.706
+      },
+      {
+        "word": "aussi",
+        "start": 82.01,
+        "end": 82.25,
+        "score": 0.924
+      },
+      {
+        "word": "inquiète.",
+        "start": 82.31,
+        "end": 83.111,
+        "score": 0.865
+      },
+      {
+        "word": "Mais",
+        "start": 83.151,
+        "end": 83.311,
+        "score": 0.913
+      },
+      {
+        "word": "pour",
+        "start": 83.351,
+        "end": 83.491,
+        "score": 0.878
+      },
+      {
+        "word": "elle,",
+        "start": 83.531,
+        "end": 84.031,
+        "score": 0.82
+      },
+      {
+        "word": "l'urgence,",
+        "start": 84.071,
+        "end": 84.671,
+        "score": 0.961
+      },
+      {
+        "word": "ce",
+        "start": 84.711,
+        "end": 84.811,
+        "score": 0.832
+      },
+      {
+        "word": "n'est",
+        "start": 84.831,
+        "end": 84.971,
+        "score": 0.816
+      },
+      {
+        "word": "pas",
+        "start": 84.991,
+        "end": 85.091,
+        "score": 0.906
+      },
+      {
+        "word": "cette",
+        "start": 85.131,
+        "end": 85.291,
+        "score": 0.853
+      },
+      {
+        "word": "réforme.",
+        "start": 85.331,
+        "end": 88.232,
+        "score": 0.683
+      },
+      {
+        "word": "Franchement,",
+        "start": 88.272,
+        "end": 88.692,
+        "score": 0.91
+      },
+      {
+        "word": "la",
+        "start": 88.712,
+        "end": 88.812,
+        "score": 0.923
+      },
+      {
+        "word": "retraite,",
+        "start": 88.832,
+        "end": 89.132,
+        "score": 0.829
+      },
+      {
+        "word": "pour",
+        "start": 89.152,
+        "end": 89.332,
+        "score": 0.422
+      },
+      {
+        "word": "moi,",
+        "start": 89.352,
+        "end": 89.452,
+        "score": 0.643
+      },
+      {
+        "word": "c'est",
+        "start": 89.572,
+        "end": 89.672,
+        "score": 0.558
+      },
+      {
+        "word": "un",
+        "start": 89.712,
+        "end": 89.792,
+        "score": 0.718
+      },
+      {
+        "word": "grand",
+        "start": 89.812,
+        "end": 89.972,
+        "score": 0.879
+      },
+      {
+        "word": "point",
+        "start": 89.992,
+        "end": 90.152,
+        "score": 0.865
+      },
+      {
+        "word": "d'interrogation",
+        "start": 90.192,
+        "end": 91.132,
+        "score": 0.943
+      },
+      {
+        "word": "et",
+        "start": 91.192,
+        "end": 92.273,
+        "score": 0.866
+      },
+      {
+        "word": "c'est",
+        "start": 92.293,
+        "end": 92.553,
+        "score": 0.817
+      },
+      {
+        "word": "un",
+        "start": 92.593,
+        "end": 92.673,
+        "score": 0.937
+      },
+      {
+        "word": "flou",
+        "start": 92.733,
+        "end": 92.933,
+        "score": 0.832
+      },
+      {
+        "word": "artistique",
+        "start": 92.993,
+        "end": 93.553,
+        "score": 0.904
+      },
+      {
+        "word": "pour",
+        "start": 93.573,
+        "end": 93.713,
+        "score": 0.803
+      },
+      {
+        "word": "l'instant.",
+        "start": 93.753,
+        "end": 94.433,
+        "score": 0.902
+      },
+      {
+        "word": "Alors",
+        "start": 94.493,
+        "end": 95.493,
+        "score": 0.63
+      },
+      {
+        "word": "oui,",
+        "start": 95.513,
+        "end": 95.673,
+        "score": 0.425
+      },
+      {
+        "word": "64,"
+      },
+      {
+        "word": "on",
+        "start": 95.773,
+        "end": 95.833,
+        "score": 0.738
+      },
+      {
+        "word": "va",
+        "start": 95.873,
+        "end": 95.913,
+        "score": 0.744
+      },
+      {
+        "word": "repasser",
+        "start": 95.953,
+        "end": 96.233,
+        "score": 0.608
+      },
+      {
+        "word": "à",
+        "start": 96.253,
+        "end": 96.293,
+        "score": 0.285
+      },
+      {
+        "word": "63,"
+      },
+      {
+        "word": "ça",
+        "start": 96.333,
+        "end": 96.493,
+        "score": 0.631
+      },
+      {
+        "word": "va",
+        "start": 96.553,
+        "end": 96.633,
+        "score": 0.268
+      },
+      {
+        "word": "être",
+        "start": 96.653,
+        "end": 97.474,
+        "score": 0.557
+      },
+      {
+        "word": "pour",
+        "start": 97.494,
+        "end": 97.594,
+        "score": 0.927
+      },
+      {
+        "word": "calmer",
+        "start": 97.614,
+        "end": 97.894,
+        "score": 0.41
+      },
+      {
+        "word": "un",
+        "start": 97.934,
+        "end": 97.974,
+        "score": 0.9
+      },
+      {
+        "word": "petit",
+        "start": 98.014,
+        "end": 98.214,
+        "score": 0.814
+      },
+      {
+        "word": "peu,",
+        "start": 98.234,
+        "end": 98.574,
+        "score": 0.893
+      },
+      {
+        "word": "mais",
+        "start": 98.614,
+        "end": 98.794,
+        "score": 0.44
+      },
+      {
+        "word": "bon...",
+        "start": 98.814,
+        "end": 98.894,
+        "score": 0.552
+      },
+      {
+        "word": "Quel",
+        "start": 100.057,
+        "end": 100.238,
+        "score": 0.236
+      },
+      {
+        "word": "but",
+        "start": 100.258,
+        "end": 100.378,
+        "score": 0.356
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Quel",
+        "start": 100.418,
+        "end": 100.638,
+        "score": 0.411
+      },
+      {
+        "word": "intérêt",
+        "start": 100.658,
+        "end": 100.899,
+        "score": 0.901
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "Pour",
+        "start": 101.379,
+        "end": 101.499,
+        "score": 0.865
+      },
+      {
+        "word": "l'instant,",
+        "start": 101.54,
+        "end": 101.82,
+        "score": 0.386
+      },
+      {
+        "word": "on",
+        "start": 101.84,
+        "end": 101.88,
+        "score": 0.014
+      },
+      {
+        "word": "a",
+        "start": 101.9,
+        "end": 101.94,
+        "score": 0.239
+      },
+      {
+        "word": "besoin",
+        "start": 101.96,
+        "end": 102.16,
+        "score": 0.502
+      },
+      {
+        "word": "d'autre",
+        "start": 102.201,
+        "end": 102.421,
+        "score": 0.812
+      },
+      {
+        "word": "chose.",
+        "start": 102.441,
+        "end": 103.262,
+        "score": 0.865
+      },
+      {
+        "word": "Avec",
+        "start": 103.322,
+        "end": 103.523,
+        "score": 0.895
+      },
+      {
+        "word": "des",
+        "start": 103.543,
+        "end": 103.643,
+        "score": 0.829
+      },
+      {
+        "word": "clients",
+        "start": 103.663,
+        "end": 103.923,
+        "score": 0.791
+      },
+      {
+        "word": "qui",
+        "start": 103.963,
+        "end": 104.103,
+        "score": 0.901
+      },
+      {
+        "word": "consomment",
+        "start": 104.143,
+        "end": 104.524,
+        "score": 0.858
+      },
+      {
+        "word": "moins,",
+        "start": 104.564,
+        "end": 105.125,
+        "score": 0.838
+      },
+      {
+        "word": "un",
+        "start": 105.165,
+        "end": 105.285,
+        "score": 0.866
+      },
+      {
+        "word": "chiffre",
+        "start": 105.325,
+        "end": 105.626,
+        "score": 0.884
+      },
+      {
+        "word": "d'affaires",
+        "start": 105.666,
+        "end": 105.946,
+        "score": 0.812
+      },
+      {
+        "word": "en",
+        "start": 105.986,
+        "end": 106.066,
+        "score": 0.819
+      },
+      {
+        "word": "baisse.",
+        "start": 106.106,
+        "end": 106.868,
+        "score": 0.81
+      },
+      {
+        "word": "Sa",
+        "start": 106.908,
+        "end": 107.048,
+        "score": 0.989
+      },
+      {
+        "word": "priorité,",
+        "start": 107.068,
+        "end": 107.889,
+        "score": 0.934
+      },
+      {
+        "word": "c'est",
+        "start": 107.909,
+        "end": 108.109,
+        "score": 0.853
+      },
+      {
+        "word": "avant",
+        "start": 108.15,
+        "end": 108.31,
+        "score": 0.87
+      },
+      {
+        "word": "tout",
+        "start": 108.35,
+        "end": 108.49,
+        "score": 0.786
+      },
+      {
+        "word": "l'avenir",
+        "start": 108.55,
+        "end": 108.831,
+        "score": 0.852
+      },
+      {
+        "word": "de",
+        "start": 108.851,
+        "end": 108.951,
+        "score": 0.626
+      },
+      {
+        "word": "son",
+        "start": 108.971,
+        "end": 109.111,
+        "score": 0.995
+      },
+      {
+        "word": "commerce.",
+        "start": 109.151,
+        "end": 109.452,
+        "score": 0.943
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 110,
+  "transcription_duration": 102
+}
