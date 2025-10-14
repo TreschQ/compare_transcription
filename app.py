@@ -5,6 +5,8 @@ import difflib
 import re
 from pathlib import Path
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="Comparateur de Transcriptions",
@@ -199,6 +201,77 @@ def calculate_diff_stats(original, improved):
         'change_percentage': (changed_tokens / total_tokens * 100) if total_tokens > 0 else 0
     }
 
+def calculate_all_diff_percentages(files_data):
+    """Calcule les pourcentages d'écart pour toutes les transcriptions"""
+    percentages = []
+    file_names = []
+    
+    for file_name, data in files_data.items():
+        if data['improved'] is not None:
+            # Aligner les textes
+            start1, start2 = find_common_start(data['original'], data['improved'], 4)
+            aligned_original = data['original'][start1:]
+            aligned_improved = data['improved'][start2:]
+            
+            # Calculer les stats
+            stats = calculate_diff_stats(aligned_original, aligned_improved)
+            percentages.append(stats['change_percentage'])
+            file_names.append(file_name)
+    
+    return percentages, file_names
+
+def create_distribution_chart(percentages, file_names):
+    """Crée un graphique de distribution des écarts de tokens"""
+    df = pd.DataFrame({
+        'Fichier': file_names,
+        'Écart_pourcentage': percentages
+    })
+    
+    # Histogramme
+    fig_hist = px.histogram(
+        df, 
+        x='Écart_pourcentage',
+        nbins=20,
+        title="Distribution des écarts de tokens (%)",
+        labels={'Écart_pourcentage': 'Écart de tokens (%)', 'count': 'Nombre de fichiers'},
+        color_discrete_sequence=['#1f77b4']
+    )
+    fig_hist.update_layout(
+        xaxis_title="Écart de tokens (%)",
+        yaxis_title="Nombre de fichiers",
+        showlegend=False
+    )
+    
+    # Box plot
+    fig_box = px.box(
+        df,
+        y='Écart_pourcentage',
+        title="Répartition des écarts de tokens",
+        labels={'Écart_pourcentage': 'Écart de tokens (%)'}
+    )
+    fig_box.update_layout(
+        yaxis_title="Écart de tokens (%)",
+        showlegend=False
+    )
+    
+    # Graphique en barres détaillé
+    fig_bar = px.bar(
+        df.sort_values('Écart_pourcentage', ascending=False),
+        x='Fichier',
+        y='Écart_pourcentage',
+        title="Écarts de tokens par fichier",
+        labels={'Écart_pourcentage': 'Écart de tokens (%)', 'Fichier': 'Nom du fichier'},
+        color='Écart_pourcentage',
+        color_continuous_scale='Viridis'
+    )
+    fig_bar.update_layout(
+        xaxis_title="Fichiers",
+        yaxis_title="Écart de tokens (%)",
+        xaxis={'tickangle': 45}
+    )
+    
+    return fig_hist, fig_box, fig_bar, df
+
 # Interface Streamlit
 st.title("📝 Comparateur de Transcriptions")
 st.markdown("Comparez les transcriptions originales avec les versions améliorées par l'IA")
@@ -227,8 +300,59 @@ if os.path.exists(directory):
     files_data = load_transcript_files(directory)
     
     if files_data:
-        # Sélection du fichier
+        # Section Distribution des écarts
+        st.markdown("---")
+        st.markdown("## 📊 Distribution des écarts de tokens")
+        
         available_files = [name for name, data in files_data.items() if data['improved'] is not None]
+        
+        if available_files:
+            # Calculer les écarts pour tous les fichiers
+            with st.spinner("Calcul des écarts pour tous les fichiers..."):
+                percentages, file_names = calculate_all_diff_percentages(files_data)
+                
+                if percentages:
+                    # Créer les graphiques
+                    fig_hist, fig_box, fig_bar, df = create_distribution_chart(percentages, file_names)
+                    
+                    # Afficher les statistiques globales
+                    col1, col2, col3, col4 = st.columns(4)
+                    
+                    with col1:
+                        st.metric("Nombre de fichiers", len(percentages))
+                    
+                    with col2:
+                        st.metric("Écart moyen", f"{pd.Series(percentages).mean():.1f}%")
+                    
+                    with col3:
+                        st.metric("Écart médian", f"{pd.Series(percentages).median():.1f}%")
+                    
+                    with col4:
+                        st.metric("Écart max", f"{pd.Series(percentages).max():.1f}%")
+                    
+                    # Onglets pour différentes visualisations
+                    tab1, tab2, tab3, tab4 = st.tabs(["📈 Histogramme", "📦 Box Plot", "📊 Par fichier", "📋 Tableau"])
+                    
+                    with tab1:
+                        st.plotly_chart(fig_hist, use_container_width=True)
+                    
+                    with tab2:
+                        st.plotly_chart(fig_box, use_container_width=True)
+                    
+                    with tab3:
+                        st.plotly_chart(fig_bar, use_container_width=True)
+                    
+                    with tab4:
+                        # Afficher le tableau des données
+                        df_display = df.copy()
+                        df_display['Écart_pourcentage'] = df_display['Écart_pourcentage'].round(2)
+                        df_display = df_display.sort_values('Écart_pourcentage', ascending=False)
+                        df_display.columns = ['Fichier', 'Écart (%)']
+                        st.dataframe(df_display, use_container_width=True)
+        
+        # Section Comparaison détaillée
+        st.markdown("---")
+        st.markdown("## 🔍 Comparaison détaillée")
         
         if available_files:
             selected_file = st.selectbox(
@@ -385,10 +509,17 @@ st.sidebar.markdown("""
 Cette application compare les transcriptions originales avec leurs versions améliorées par l'IA.
 
 **Fonctionnalités :**
+- 📊 **Distribution des écarts** : Analyse statistique globale
+- 📈 **Visualisations interactives** : Histogrammes, box plots, graphiques
 - 🔍 Alignement automatique des textes
 - 🎨 Surbrillance des différences
 - 📊 Statistiques de comparaison
 - 🔄 Comparaison côte à côte
+
+**Nouvelles analyses :**
+- Écart moyen, médian et maximum
+- Distribution par fichier
+- Tableau de données détaillé
 
 **Couleurs :**
 - 🟢 Vert : Texte identique
