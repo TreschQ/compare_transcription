@@ -1,0 +1,5731 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 1.01,
+        "end": 5.192,
+        "text": " Le chemin des Anglais, une des plus anciennes voies de communication de l'île.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 1.01,
+            "end": 1.05,
+            "score": 0.065,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "chemin",
+            "start": 1.25,
+            "end": 1.57,
+            "score": 0.517,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 1.59,
+            "end": 1.71,
+            "score": 0.318,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Anglais,",
+            "start": 1.75,
+            "end": 2.251,
+            "score": 0.721,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 2.291,
+            "end": 2.451,
+            "score": 0.695,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 2.471,
+            "end": 2.571,
+            "score": 0.845,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 2.611,
+            "end": 2.771,
+            "score": 0.81,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "anciennes",
+            "start": 2.831,
+            "end": 3.171,
+            "score": 0.839,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "voies",
+            "start": 3.211,
+            "end": 3.391,
+            "score": 0.738,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 3.431,
+            "end": 3.551,
+            "score": 0.886,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "communication",
+            "start": 3.591,
+            "end": 4.272,
+            "score": 0.947,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 4.292,
+            "end": 4.392,
+            "score": 0.895,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'île.",
+            "start": 4.432,
+            "end": 5.192,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 5.252,
+        "end": 13.055,
+        "text": "Il a été tracé en 1730 par M. Dumas pour faciliter le passage des charrettes entre la possession et Sa Denis.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 5.252,
+            "end": 5.352,
+            "score": 0.877,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 5.392,
+            "end": 5.452,
+            "score": 0.624,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "été",
+            "start": 5.512,
+            "end": 5.652,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "tracé",
+            "start": 5.712,
+            "end": 6.633,
+            "score": 0.878,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "en",
+            "start": 6.713,
+            "end": 6.853,
+            "score": 0.863,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "1730"
+          },
+          {
+            "word": "par",
+            "start": 7.553,
+            "end": 7.733,
+            "score": 0.992,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "M.",
+            "start": 7.773,
+            "end": 8.033,
+            "score": 0.389,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Dumas",
+            "start": 8.093,
+            "end": 8.693,
+            "score": 0.97,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pour",
+            "start": 8.734,
+            "end": 8.954,
+            "score": 0.856,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "faciliter",
+            "start": 8.994,
+            "end": 9.514,
+            "score": 0.928,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 9.554,
+            "end": 9.654,
+            "score": 0.882,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "passage",
+            "start": 9.694,
+            "end": 10.134,
+            "score": 0.865,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 10.174,
+            "end": 10.254,
+            "score": 0.869,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "charrettes",
+            "start": 10.294,
+            "end": 10.654,
+            "score": 0.669,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "entre",
+            "start": 10.694,
+            "end": 10.894,
+            "score": 0.929,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 10.934,
+            "end": 11.015,
+            "score": 0.822,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "possession",
+            "start": 11.055,
+            "end": 11.475,
+            "score": 0.897,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 11.515,
+            "end": 11.595,
+            "score": 0.748,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Sa",
+            "start": 11.615,
+            "end": 11.755,
+            "score": 0.915,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Denis.",
+            "start": 11.775,
+            "end": 13.055,
+            "score": 0.893,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 13.075,
+        "end": 25.381,
+        "text": "Les travaux de pavage en pierre de basalte ont été réalisés entre 1767 et 1775 par Honoré de Trémont, d'où son nom, mais plus connu aujourd'hui, sous le nom de chemin des Anglais.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 13.075,
+            "end": 13.175,
+            "score": 0.935,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "travaux",
+            "start": 13.215,
+            "end": 13.496,
+            "score": 0.801,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 13.536,
+            "end": 13.616,
+            "score": 0.942,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pavage",
+            "start": 13.656,
+            "end": 14.296,
+            "score": 0.867,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "en",
+            "start": 14.336,
+            "end": 14.416,
+            "score": 0.907,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pierre",
+            "start": 14.436,
+            "end": 14.656,
+            "score": 0.804,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 14.676,
+            "end": 14.756,
+            "score": 0.868,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "basalte",
+            "start": 14.796,
+            "end": 15.577,
+            "score": 0.922,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ont",
+            "start": 15.617,
+            "end": 15.737,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "été",
+            "start": 15.777,
+            "end": 15.937,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "réalisés",
+            "start": 15.977,
+            "end": 17.217,
+            "score": 0.809,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "entre",
+            "start": 17.257,
+            "end": 18.778,
+            "score": 0.482,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "1767"
+          },
+          {
+            "word": "et",
+            "start": 19.018,
+            "end": 19.118,
+            "score": 0.518,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "1775"
+          },
+          {
+            "word": "par",
+            "start": 20.159,
+            "end": 20.439,
+            "score": 0.89,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Honoré",
+            "start": 20.479,
+            "end": 20.979,
+            "score": 0.754,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 20.999,
+            "end": 21.099,
+            "score": 0.823,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Trémont,",
+            "start": 21.139,
+            "end": 21.919,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'où",
+            "start": 21.939,
+            "end": 22.139,
+            "score": 0.622,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "son",
+            "start": 22.159,
+            "end": 22.32,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nom,",
+            "start": 22.36,
+            "end": 22.72,
+            "score": 0.921,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mais",
+            "start": 22.74,
+            "end": 22.9,
+            "score": 0.871,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 22.92,
+            "end": 23.04,
+            "score": 0.834,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "connu",
+            "start": 23.08,
+            "end": 23.38,
+            "score": 0.741,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aujourd'hui,",
+            "start": 23.42,
+            "end": 24.08,
+            "score": 0.845,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sous",
+            "start": 24.12,
+            "end": 24.24,
+            "score": 0.943,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 24.28,
+            "end": 24.34,
+            "score": 0.991,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nom",
+            "start": 24.38,
+            "end": 24.561,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 24.601,
+            "end": 24.681,
+            "score": 0.827,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "chemin",
+            "start": 24.721,
+            "end": 24.961,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 25.001,
+            "end": 25.081,
+            "score": 0.831,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Anglais.",
+            "start": 25.121,
+            "end": 25.381,
+            "score": 0.843,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 26.358,
+        "end": 29.039,
+        "text": " C'est un passage emblématique, voire mythique du Grand Raid.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 26.358,
+            "end": 26.518,
+            "score": 0.91,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "un",
+            "start": 26.558,
+            "end": 26.618,
+            "score": 0.984,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "passage",
+            "start": 26.658,
+            "end": 26.938,
+            "score": 0.865,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "emblématique,",
+            "start": 26.978,
+            "end": 27.538,
+            "score": 0.88,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "voire",
+            "start": 27.598,
+            "end": 27.758,
+            "score": 0.932,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mythique",
+            "start": 27.799,
+            "end": 28.139,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 28.179,
+            "end": 28.259,
+            "score": 0.832,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Grand",
+            "start": 28.279,
+            "end": 28.459,
+            "score": 0.941,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Raid.",
+            "start": 28.479,
+            "end": 29.039,
+            "score": 0.684,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 29.119,
+        "end": 34.881,
+        "text": "Il est très technique, avec ses plus de 10 km et entre 1000 et 1500 m de dénivelé.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 29.119,
+            "end": 29.199,
+            "score": 0.918,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 29.239,
+            "end": 29.339,
+            "score": 0.732,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "très",
+            "start": 29.359,
+            "end": 29.559,
+            "score": 0.954,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "technique,",
+            "start": 29.599,
+            "end": 30.299,
+            "score": 0.874,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "avec",
+            "start": 30.339,
+            "end": 30.599,
+            "score": 0.946,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ses",
+            "start": 30.639,
+            "end": 30.779,
+            "score": 0.542,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 30.799,
+            "end": 30.96,
+            "score": 0.802,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 30.98,
+            "end": 31.14,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "10"
+          },
+          {
+            "word": "km",
+            "start": 31.38,
+            "end": 32.22,
+            "score": 0.722,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 32.28,
+            "end": 32.42,
+            "score": 0.934,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "entre",
+            "start": 32.46,
+            "end": 33.58,
+            "score": 0.773,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "1000"
+          },
+          {
+            "word": "et",
+            "start": 33.82,
+            "end": 33.94,
+            "score": 0.464,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "1500"
+          },
+          {
+            "word": "m",
+            "start": 34.241,
+            "end": 34.261,
+            "score": 0.0,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 34.321,
+            "end": 34.421,
+            "score": 0.91,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dénivelé.",
+            "start": 34.461,
+            "end": 34.881,
+            "score": 0.838,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 35.421,
+        "end": 41.463,
+        "text": "Le chemin des Anglais, toujours bien sympa, cassant aussi, mais on fait avec.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 35.421,
+            "end": 35.521,
+            "score": 0.592,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "chemin",
+            "start": 35.561,
+            "end": 35.841,
+            "score": 0.421,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 35.881,
+            "end": 35.981,
+            "score": 0.748,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "Anglais,",
+            "start": 36.041,
+            "end": 37.122,
+            "score": 0.791,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "toujours",
+            "start": 37.142,
+            "end": 37.382,
+            "score": 0.88,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "bien",
+            "start": 37.442,
+            "end": 37.582,
+            "score": 0.915,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sympa,",
+            "start": 37.602,
+            "end": 38.322,
+            "score": 0.711,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cassant",
+            "start": 38.362,
+            "end": 38.802,
+            "score": 0.845,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aussi,",
+            "start": 38.842,
+            "end": 40.423,
+            "score": 0.893,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mais",
+            "start": 40.443,
+            "end": 40.523,
+            "score": 0.682,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 40.563,
+            "end": 40.643,
+            "score": 0.818,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fait",
+            "start": 40.683,
+            "end": 40.823,
+            "score": 0.836,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avec.",
+            "start": 40.883,
+            "end": 41.463,
+            "score": 0.896,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 41.523,
+        "end": 46.325,
+        "text": "On a eu l'occasion de s'entraîner, donc on sait où sont les changements, donc ça devrait aller.",
+        "words": [
+          {
+            "word": "On",
+            "start": 41.523,
+            "end": 41.603,
+            "score": 0.802,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 41.643,
+            "end": 41.703,
+            "score": 0.525,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "eu",
+            "start": 41.723,
+            "end": 41.783,
+            "score": 0.729,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'occasion",
+            "start": 41.823,
+            "end": 42.163,
+            "score": 0.816,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 42.183,
+            "end": 42.243,
+            "score": 0.855,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "s'entraîner,",
+            "start": 42.283,
+            "end": 42.983,
+            "score": 0.876,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donc",
+            "start": 43.023,
+            "end": 43.384,
+            "score": 0.713,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 43.424,
+            "end": 43.664,
+            "score": 0.871,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sait",
+            "start": 43.704,
+            "end": 44.164,
+            "score": 0.803,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "où",
+            "start": 44.244,
+            "end": 44.484,
+            "score": 0.666,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sont",
+            "start": 44.504,
+            "end": 44.684,
+            "score": 0.7,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 44.704,
+            "end": 44.804,
+            "score": 0.931,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "changements,",
+            "start": 44.824,
+            "end": 45.404,
+            "score": 0.881,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donc",
+            "start": 45.424,
+            "end": 45.564,
+            "score": 0.704,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça",
+            "start": 45.584,
+            "end": 45.744,
+            "score": 0.581,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "devrait",
+            "start": 45.764,
+            "end": 46.044,
+            "score": 0.758,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aller.",
+            "start": 46.084,
+            "end": 46.325,
+            "score": 0.886,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 46.365,
+        "end": 50.566,
+        "text": "C'est l'histoire de quelques minutes en plus ou en moins, pour ceux qui galopent vraiment vite.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 46.365,
+            "end": 46.685,
+            "score": 0.582,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'histoire",
+            "start": 46.705,
+            "end": 46.985,
+            "score": 0.807,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 47.005,
+            "end": 47.085,
+            "score": 0.906,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "quelques",
+            "start": 47.125,
+            "end": 47.445,
+            "score": 0.805,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "minutes",
+            "start": 47.465,
+            "end": 47.745,
+            "score": 0.936,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 47.805,
+            "end": 47.945,
+            "score": 0.926,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plus",
+            "start": 47.985,
+            "end": 48.625,
+            "score": 0.769,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ou",
+            "start": 48.665,
+            "end": 48.785,
+            "score": 0.939,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 48.845,
+            "end": 49.025,
+            "score": 0.847,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "moins,",
+            "start": 49.065,
+            "end": 49.285,
+            "score": 0.858,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 49.325,
+            "end": 49.446,
+            "score": 0.8,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ceux",
+            "start": 49.486,
+            "end": 49.586,
+            "score": 0.63,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 49.606,
+            "end": 49.726,
+            "score": 0.934,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "galopent",
+            "start": 49.766,
+            "end": 50.006,
+            "score": 0.348,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vraiment",
+            "start": 50.026,
+            "end": 50.386,
+            "score": 0.478,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vite.",
+            "start": 50.426,
+            "end": 50.566,
+            "score": 0.53,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 51.026,
+        "end": 55.087,
+        "text": " Comme d'autres sentiers, il n'a pas été épargné par le passage du cyclone Garance.",
+        "words": [
+          {
+            "word": "Comme",
+            "start": 51.026,
+            "end": 51.226,
+            "score": 0.897,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'autres",
+            "start": 51.266,
+            "end": 51.506,
+            "score": 0.856,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sentiers,",
+            "start": 51.546,
+            "end": 51.866,
+            "score": 0.75,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "il",
+            "start": 51.906,
+            "end": 51.946,
+            "score": 0.63,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "n'a",
+            "start": 51.986,
+            "end": 52.146,
+            "score": 0.777,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pas",
+            "start": 52.186,
+            "end": 52.286,
+            "score": 0.79,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "été",
+            "start": 52.326,
+            "end": 52.426,
+            "score": 0.85,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "épargné",
+            "start": 52.466,
+            "end": 52.847,
+            "score": 0.906,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "par",
+            "start": 52.887,
+            "end": 53.027,
+            "score": 0.691,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 53.047,
+            "end": 53.127,
+            "score": 0.952,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "passage",
+            "start": 53.147,
+            "end": 53.507,
+            "score": 0.869,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 53.527,
+            "end": 53.627,
+            "score": 0.892,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "cyclone",
+            "start": 53.667,
+            "end": 54.127,
+            "score": 0.872,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Garance.",
+            "start": 54.167,
+            "end": 55.087,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 55.127,
+        "end": 67.891,
+        "text": "Les deux petites ravines qui traversent ce chemin sont devenues des énormes trous sur plusieurs mètres, ce qui rajoute de la difficulté, surtout à ce niveau du parcours, après plus de 160 km dans les jambes.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 55.127,
+            "end": 55.247,
+            "score": 0.849,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "deux",
+            "start": 55.287,
+            "end": 55.387,
+            "score": 0.988,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "petites",
+            "start": 55.427,
+            "end": 55.707,
+            "score": 0.715,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ravines",
+            "start": 55.767,
+            "end": 56.088,
+            "score": 0.858,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qui",
+            "start": 56.108,
+            "end": 56.248,
+            "score": 0.877,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "traversent",
+            "start": 56.288,
+            "end": 56.668,
+            "score": 0.788,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ce",
+            "start": 56.708,
+            "end": 56.808,
+            "score": 0.862,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "chemin",
+            "start": 56.828,
+            "end": 57.428,
+            "score": 0.868,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 57.468,
+            "end": 57.648,
+            "score": 0.899,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "devenues",
+            "start": 57.688,
+            "end": 58.108,
+            "score": 0.792,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 58.168,
+            "end": 58.288,
+            "score": 0.93,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "énormes",
+            "start": 58.328,
+            "end": 58.808,
+            "score": 0.79,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "trous",
+            "start": 58.848,
+            "end": 59.169,
+            "score": 0.713,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 59.209,
+            "end": 59.369,
+            "score": 0.876,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plusieurs",
+            "start": 59.409,
+            "end": 59.689,
+            "score": 0.858,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mètres,",
+            "start": 59.749,
+            "end": 60.469,
+            "score": 0.85,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ce",
+            "start": 60.509,
+            "end": 60.609,
+            "score": 0.967,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qui",
+            "start": 60.649,
+            "end": 60.769,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rajoute",
+            "start": 60.809,
+            "end": 61.129,
+            "score": 0.843,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 61.149,
+            "end": 61.229,
+            "score": 0.783,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 61.249,
+            "end": 61.369,
+            "score": 0.834,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "difficulté,",
+            "start": 61.389,
+            "end": 62.429,
+            "score": 0.936,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "surtout",
+            "start": 62.47,
+            "end": 62.97,
+            "score": 0.969,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 63.01,
+            "end": 63.07,
+            "score": 0.339,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ce",
+            "start": 63.11,
+            "end": 63.23,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "niveau",
+            "start": 63.27,
+            "end": 63.53,
+            "score": 0.875,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 63.57,
+            "end": 63.67,
+            "score": 0.885,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "parcours,",
+            "start": 63.69,
+            "end": 64.53,
+            "score": 0.945,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "après",
+            "start": 64.57,
+            "end": 64.83,
+            "score": 0.992,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 64.87,
+            "end": 65.05,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 65.09,
+            "end": 65.51,
+            "score": 0.54,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "160"
+          },
+          {
+            "word": "km",
+            "start": 65.931,
+            "end": 66.451,
+            "score": 0.575,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dans",
+            "start": 66.491,
+            "end": 66.611,
+            "score": 0.898,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 66.631,
+            "end": 66.731,
+            "score": 0.919,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "jambes.",
+            "start": 66.751,
+            "end": 67.891,
+            "score": 0.767,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 67.911,
+        "end": 75.974,
+        "text": "Quelques aménagements ont été réalisés provisoirement par le département pour faciliter le passage de ce chemin classé au monument historique depuis 2014.",
+        "words": [
+          {
+            "word": "Quelques",
+            "start": 67.911,
+            "end": 68.271,
+            "score": 0.875,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aménagements",
+            "start": 68.331,
+            "end": 68.871,
+            "score": 0.857,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ont",
+            "start": 68.891,
+            "end": 68.991,
+            "score": 0.82,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "été",
+            "start": 69.032,
+            "end": 69.212,
+            "score": 0.899,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "réalisés",
+            "start": 69.252,
+            "end": 69.712,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "provisoirement",
+            "start": 69.772,
+            "end": 70.452,
+            "score": 0.86,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "par",
+            "start": 70.492,
+            "end": 70.612,
+            "score": 0.98,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 70.652,
+            "end": 70.752,
+            "score": 0.875,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "département",
+            "start": 70.792,
+            "end": 71.972,
+            "score": 0.963,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pour",
+            "start": 72.012,
+            "end": 72.192,
+            "score": 0.964,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "faciliter",
+            "start": 72.252,
+            "end": 72.753,
+            "score": 0.953,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 72.793,
+            "end": 72.893,
+            "score": 0.95,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "passage",
+            "start": 72.933,
+            "end": 73.413,
+            "score": 0.906,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 73.433,
+            "end": 73.533,
+            "score": 0.958,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ce",
+            "start": 73.573,
+            "end": 73.693,
+            "score": 0.979,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "chemin",
+            "start": 73.733,
+            "end": 74.033,
+            "score": 0.845,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "classé",
+            "start": 74.073,
+            "end": 74.573,
+            "score": 0.954,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "au",
+            "start": 74.613,
+            "end": 74.713,
+            "score": 0.794,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "monument",
+            "start": 74.753,
+            "end": 75.233,
+            "score": 0.884,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "historique",
+            "start": 75.273,
+            "end": 75.734,
+            "score": 0.785,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "depuis",
+            "start": 75.774,
+            "end": 75.974,
+            "score": 0.847,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "2014."
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 77.314,
+        "end": 87.537,
+        "text": " Ils nous ont demandé de faire une sécurisation par mains courantes pour que les coureurs ne se blessent pas en descendant et ne chutent pas.",
+        "words": [
+          {
+            "word": "Ils",
+            "start": 77.314,
+            "end": 77.374,
+            "score": 0.001,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "nous",
+            "start": 77.394,
+            "end": 77.514,
+            "score": 0.244,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "ont",
+            "start": 77.554,
+            "end": 77.614,
+            "score": 0.05,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "demandé",
+            "start": 77.634,
+            "end": 77.914,
+            "score": 0.866,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "de",
+            "start": 77.934,
+            "end": 78.114,
+            "score": 0.919,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "faire",
+            "start": 78.154,
+            "end": 78.294,
+            "score": 0.798,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "une",
+            "start": 78.354,
+            "end": 78.454,
+            "score": 0.861,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "sécurisation",
+            "start": 78.494,
+            "end": 79.155,
+            "score": 0.872,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "par",
+            "start": 79.195,
+            "end": 79.315,
+            "score": 0.956,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "mains",
+            "start": 79.335,
+            "end": 79.495,
+            "score": 0.679,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "courantes",
+            "start": 79.535,
+            "end": 82.336,
+            "score": 0.904,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "pour",
+            "start": 82.376,
+            "end": 82.476,
+            "score": 0.839,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "que",
+            "start": 82.496,
+            "end": 82.616,
+            "score": 0.648,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "les",
+            "start": 82.656,
+            "end": 82.736,
+            "score": 0.517,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "coureurs",
+            "start": 82.756,
+            "end": 83.496,
+            "score": 0.655,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "ne",
+            "start": 83.516,
+            "end": 83.576,
+            "score": 0.812,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "se",
+            "start": 83.616,
+            "end": 83.716,
+            "score": 0.745,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "blessent",
+            "start": 83.736,
+            "end": 83.916,
+            "score": 0.316,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "pas",
+            "start": 83.936,
+            "end": 84.096,
+            "score": 0.672,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "en",
+            "start": 84.116,
+            "end": 84.196,
+            "score": 0.828,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "descendant",
+            "start": 84.216,
+            "end": 84.756,
+            "score": 0.761,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "et",
+            "start": 84.836,
+            "end": 85.477,
+            "score": 0.94,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "ne",
+            "start": 85.517,
+            "end": 85.877,
+            "score": 0.796,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "chutent",
+            "start": 85.937,
+            "end": 86.257,
+            "score": 0.584,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "pas.",
+            "start": 86.277,
+            "end": 87.537,
+            "score": 0.8,
+            "speaker": "SPEAKER_04"
+          }
+        ],
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "start": 87.577,
+        "end": 95.88,
+        "text": "Donc en solution provisoire, on va convaincre de faire une main courante bifile et une main courante monophile en haut.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 87.577,
+            "end": 87.757,
+            "score": 0.818,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "en",
+            "start": 87.817,
+            "end": 88.058,
+            "score": 0.792,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "solution",
+            "start": 88.098,
+            "end": 88.618,
+            "score": 0.702,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "provisoire,",
+            "start": 88.658,
+            "end": 90.098,
+            "score": 0.939,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "on",
+            "start": 90.198,
+            "end": 90.318,
+            "score": 0.784,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "va",
+            "start": 90.358,
+            "end": 90.838,
+            "score": 0.818,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "convaincre",
+            "start": 90.878,
+            "end": 91.239,
+            "score": 0.4,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "de",
+            "start": 91.259,
+            "end": 91.339,
+            "score": 0.966,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "faire",
+            "start": 91.379,
+            "end": 91.599,
+            "score": 0.894,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "une",
+            "start": 91.659,
+            "end": 91.759,
+            "score": 0.908,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "main",
+            "start": 91.799,
+            "end": 91.899,
+            "score": 0.776,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "courante",
+            "start": 91.919,
+            "end": 92.319,
+            "score": 0.88,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "bifile",
+            "start": 92.339,
+            "end": 92.819,
+            "score": 0.789,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "et",
+            "start": 92.859,
+            "end": 92.939,
+            "score": 0.75,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "une",
+            "start": 92.979,
+            "end": 93.139,
+            "score": 0.535,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "main",
+            "start": 93.179,
+            "end": 93.299,
+            "score": 0.742,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "courante",
+            "start": 93.319,
+            "end": 93.659,
+            "score": 0.81,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "monophile",
+            "start": 93.859,
+            "end": 94.36,
+            "score": 0.494,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "en",
+            "start": 94.42,
+            "end": 94.48,
+            "score": 0.527,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "haut.",
+            "start": 94.52,
+            "end": 95.88,
+            "score": 0.657,
+            "speaker": "SPEAKER_04"
+          }
+        ],
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "start": 95.96,
+        "end": 98.341,
+        "text": "Et un petit tâche de ménagement du fond de la rivière.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 95.96,
+            "end": 96.14,
+            "score": 0.463,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "un",
+            "start": 96.16,
+            "end": 96.26,
+            "score": 0.529,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "petit",
+            "start": 96.36,
+            "end": 96.6,
+            "score": 0.745,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "tâche",
+            "start": 96.64,
+            "end": 96.78,
+            "score": 0.171,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "de",
+            "start": 96.8,
+            "end": 96.92,
+            "score": 0.593,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "ménagement",
+            "start": 96.96,
+            "end": 97.441,
+            "score": 0.873,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "du",
+            "start": 97.481,
+            "end": 97.721,
+            "score": 0.852,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "fond",
+            "start": 97.741,
+            "end": 97.881,
+            "score": 0.399,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "de",
+            "start": 97.901,
+            "end": 97.981,
+            "score": 0.742,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "la",
+            "start": 98.001,
+            "end": 98.041,
+            "score": 0.93,
+            "speaker": "SPEAKER_04"
+          },
+          {
+            "word": "rivière.",
+            "start": 98.101,
+            "end": 98.341,
+            "score": 0.657,
+            "speaker": "SPEAKER_04"
+          }
+        ],
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "start": 98.761,
+        "end": 102.723,
+        "text": " Pour les coureurs qui font une dernière reconnaissance, les mesures prises rassurent.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 98.761,
+            "end": 98.901,
+            "score": 0.359,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 98.921,
+            "end": 99.001,
+            "score": 0.771,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "coureurs",
+            "start": 99.041,
+            "end": 99.381,
+            "score": 0.865,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qui",
+            "start": 99.421,
+            "end": 99.521,
+            "score": 0.748,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "font",
+            "start": 99.561,
+            "end": 99.662,
+            "score": 0.524,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 99.702,
+            "end": 99.782,
+            "score": 0.82,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dernière",
+            "start": 99.802,
+            "end": 100.082,
+            "score": 0.921,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "reconnaissance,",
+            "start": 100.122,
+            "end": 101.242,
+            "score": 0.893,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 101.282,
+            "end": 101.382,
+            "score": 0.721,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mesures",
+            "start": 101.402,
+            "end": 101.663,
+            "score": 0.84,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "prises",
+            "start": 101.723,
+            "end": 102.243,
+            "score": 0.827,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rassurent.",
+            "start": 102.263,
+            "end": 102.723,
+            "score": 0.742,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 114.909,
+        "end": 116.31,
+        "text": " Voilà, c'est pas mal, très bien.",
+        "words": [
+          {
+            "word": "Voilà,",
+            "start": 114.909,
+            "end": 115.149,
+            "score": 0.625,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "c'est",
+            "start": 115.309,
+            "end": 115.429,
+            "score": 0.273,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "pas",
+            "start": 115.449,
+            "end": 115.549,
+            "score": 0.439,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "mal,",
+            "start": 115.569,
+            "end": 115.929,
+            "score": 0.668,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "très",
+            "start": 115.949,
+            "end": 116.21,
+            "score": 0.524,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "bien.",
+            "start": 116.23,
+            "end": 116.31,
+            "score": 0.09,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 116.33,
+        "end": 120.131,
+        "text": "C'est plus compliqué pour descendre, si on a mal aux jambes, pour vraiment descendre parce que les marches sont un peu plus hautes.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 116.33,
+            "end": 116.43,
+            "score": 0.668,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 116.45,
+            "end": 116.55,
+            "score": 0.765,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "compliqué",
+            "start": 116.59,
+            "end": 116.87,
+            "score": 0.72,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 116.91,
+            "end": 117.03,
+            "score": 0.294,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "descendre,",
+            "start": 117.05,
+            "end": 117.31,
+            "score": 0.67,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "si",
+            "start": 117.33,
+            "end": 117.39,
+            "score": 0.709,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "on",
+            "start": 117.45,
+            "end": 117.51,
+            "score": 0.826,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 117.53,
+            "end": 117.57,
+            "score": 0.441,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mal",
+            "start": 117.59,
+            "end": 117.69,
+            "score": 0.328,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "aux",
+            "start": 117.73,
+            "end": 117.79,
+            "score": 0.009,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jambes,",
+            "start": 117.81,
+            "end": 118.07,
+            "score": 0.258,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 118.09,
+            "end": 118.23,
+            "score": 0.754,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vraiment",
+            "start": 118.33,
+            "end": 118.55,
+            "score": 0.758,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "descendre",
+            "start": 118.57,
+            "end": 118.751,
+            "score": 0.182,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "parce",
+            "start": 118.771,
+            "end": 118.871,
+            "score": 0.818,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 118.891,
+            "end": 118.951,
+            "score": 0.014,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 118.971,
+            "end": 119.051,
+            "score": 0.708,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "marches",
+            "start": 119.071,
+            "end": 119.211,
+            "score": 0.705,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sont",
+            "start": 119.231,
+            "end": 119.331,
+            "score": 0.331,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 119.351,
+            "end": 119.411,
+            "score": 0.21,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "peu",
+            "start": 119.431,
+            "end": 119.531,
+            "score": 0.489,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 119.551,
+            "end": 119.631,
+            "score": 0.749,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "hautes.",
+            "start": 119.651,
+            "end": 120.131,
+            "score": 0.554,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 120.231,
+        "end": 125.773,
+        "text": "Il faut remonter, là ils ont mis un peu de câble pour pouvoir du chemin passer, donc ça va être mieux de sécuriser là.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 120.231,
+            "end": 120.271,
+            "score": 0.934,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "faut",
+            "start": 120.311,
+            "end": 120.431,
+            "score": 0.888,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "remonter,",
+            "start": 120.471,
+            "end": 120.831,
+            "score": 0.878,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "là",
+            "start": 120.871,
+            "end": 120.931,
+            "score": 0.671,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ils",
+            "start": 120.971,
+            "end": 121.031,
+            "score": 0.448,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ont",
+            "start": 121.071,
+            "end": 121.151,
+            "score": 0.729,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mis",
+            "start": 121.191,
+            "end": 121.331,
+            "score": 0.643,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 121.371,
+            "end": 121.431,
+            "score": 0.778,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "peu",
+            "start": 121.451,
+            "end": 121.552,
+            "score": 0.331,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 121.592,
+            "end": 121.632,
+            "score": 0.706,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "câble",
+            "start": 121.672,
+            "end": 122.032,
+            "score": 0.858,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 122.072,
+            "end": 122.212,
+            "score": 0.821,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pouvoir",
+            "start": 122.252,
+            "end": 122.412,
+            "score": 0.989,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "du",
+            "start": 122.472,
+            "end": 122.512,
+            "score": 0.188,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "chemin",
+            "start": 122.552,
+            "end": 122.772,
+            "score": 0.505,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "passer,",
+            "start": 122.812,
+            "end": 123.232,
+            "score": 0.811,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "donc",
+            "start": 123.272,
+            "end": 123.412,
+            "score": 0.417,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ça",
+            "start": 123.432,
+            "end": 123.512,
+            "score": 0.252,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "va",
+            "start": 123.532,
+            "end": 123.592,
+            "score": 0.336,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "être",
+            "start": 123.612,
+            "end": 123.692,
+            "score": 0.4,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mieux",
+            "start": 123.712,
+            "end": 124.152,
+            "score": 0.358,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 124.193,
+            "end": 124.293,
+            "score": 0.294,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sécuriser",
+            "start": 124.313,
+            "end": 124.633,
+            "score": 0.332,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "là.",
+            "start": 124.753,
+            "end": 125.773,
+            "score": 0.699,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 125.793,
+        "end": 129.334,
+        "text": "C'est bien sécurisé déjà, bravo, bravo.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 125.793,
+            "end": 125.973,
+            "score": 0.802,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bien",
+            "start": 126.013,
+            "end": 126.173,
+            "score": 0.958,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sécurisé",
+            "start": 126.213,
+            "end": 126.733,
+            "score": 0.911,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "déjà,",
+            "start": 126.753,
+            "end": 127.534,
+            "score": 0.648,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bravo,",
+            "start": 127.554,
+            "end": 128.454,
+            "score": 0.519,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bravo.",
+            "start": 128.494,
+            "end": 129.334,
+            "score": 0.601,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 129.374,
+        "end": 130.335,
+        "text": "Ah non, non, il y a du travail là.",
+        "words": [
+          {
+            "word": "Ah",
+            "start": 129.374,
+            "end": 129.434,
+            "score": 0.086,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "non,",
+            "start": 129.454,
+            "end": 129.554,
+            "score": 0.335,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "non,",
+            "start": 129.574,
+            "end": 129.655,
+            "score": 0.601,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "il",
+            "start": 129.695,
+            "end": 129.735,
+            "score": 0.487,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "y",
+            "start": 129.755,
+            "end": 129.775,
+            "score": 0.456,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 129.795,
+            "end": 129.855,
+            "score": 0.522,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 129.875,
+            "end": 129.955,
+            "score": 0.811,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "travail",
+            "start": 129.975,
+            "end": 130.235,
+            "score": 0.664,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "là.",
+            "start": 130.275,
+            "end": 130.335,
+            "score": 0.257,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 131.475,
+        "end": 135.919,
+        "text": " La suite ne sera pas de tout repos avec aussi le changement sur l'arrivée à Saint-Denis.",
+        "words": [
+          {
+            "word": "La",
+            "start": 131.475,
+            "end": 131.555,
+            "score": 0.922,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "suite",
+            "start": 131.595,
+            "end": 131.816,
+            "score": 0.824,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ne",
+            "start": 131.856,
+            "end": 131.936,
+            "score": 0.898,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sera",
+            "start": 131.976,
+            "end": 132.256,
+            "score": 0.982,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pas",
+            "start": 132.296,
+            "end": 132.456,
+            "score": 0.89,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 132.476,
+            "end": 132.576,
+            "score": 0.904,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "tout",
+            "start": 132.616,
+            "end": 132.756,
+            "score": 0.896,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "repos",
+            "start": 132.796,
+            "end": 133.137,
+            "score": 0.901,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "avec",
+            "start": 133.177,
+            "end": 133.377,
+            "score": 0.933,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aussi",
+            "start": 133.437,
+            "end": 133.697,
+            "score": 0.85,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 133.717,
+            "end": 133.817,
+            "score": 0.863,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "changement",
+            "start": 133.837,
+            "end": 134.237,
+            "score": 0.874,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 134.277,
+            "end": 134.418,
+            "score": 0.88,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'arrivée",
+            "start": 134.458,
+            "end": 134.778,
+            "score": 0.788,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 134.838,
+            "end": 134.878,
+            "score": 0.909,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Saint-Denis.",
+            "start": 134.918,
+            "end": 135.919,
+            "score": 0.745,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 135.939,
+        "end": 138.3,
+        "text": "La descente du Colorado est impraticable.",
+        "words": [
+          {
+            "word": "La",
+            "start": 135.939,
+            "end": 136.019,
+            "score": 0.99,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "descente",
+            "start": 136.059,
+            "end": 136.399,
+            "score": 0.829,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 136.439,
+            "end": 136.519,
+            "score": 0.852,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Colorado",
+            "start": 136.539,
+            "end": 136.999,
+            "score": 0.932,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 137.039,
+            "end": 137.16,
+            "score": 0.812,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "impraticable.",
+            "start": 137.2,
+            "end": 138.3,
+            "score": 0.905,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 138.34,
+        "end": 142.664,
+        "text": "Un important glissement de terrain a emporté toute une section du sentier.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 138.34,
+            "end": 138.441,
+            "score": 0.74,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "important",
+            "start": 138.521,
+            "end": 139.001,
+            "score": 0.95,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "glissement",
+            "start": 139.021,
+            "end": 139.421,
+            "score": 0.819,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 139.461,
+            "end": 139.541,
+            "score": 0.916,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "terrain",
+            "start": 139.581,
+            "end": 140.142,
+            "score": 0.913,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 140.182,
+            "end": 140.222,
+            "score": 0.579,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "emporté",
+            "start": 140.282,
+            "end": 140.802,
+            "score": 0.918,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "toute",
+            "start": 140.822,
+            "end": 141.022,
+            "score": 0.897,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 141.062,
+            "end": 141.183,
+            "score": 0.935,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "section",
+            "start": 141.243,
+            "end": 141.603,
+            "score": 0.927,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 141.643,
+            "end": 141.743,
+            "score": 0.877,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sentier.",
+            "start": 141.783,
+            "end": 142.664,
+            "score": 0.805,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 142.704,
+        "end": 148.288,
+        "text": "C'est donc sur la route par la vigie que les 7000 coureurs des différentes courses termineront leur aventure.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 142.704,
+            "end": 142.864,
+            "score": 0.807,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "donc",
+            "start": 142.884,
+            "end": 143.064,
+            "score": 0.757,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 143.084,
+            "end": 143.244,
+            "score": 0.767,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 143.264,
+            "end": 143.324,
+            "score": 0.759,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "route",
+            "start": 143.364,
+            "end": 143.584,
+            "score": 0.899,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "par",
+            "start": 143.604,
+            "end": 143.744,
+            "score": 0.793,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 143.764,
+            "end": 143.845,
+            "score": 0.986,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vigie",
+            "start": 143.885,
+            "end": 144.205,
+            "score": 0.876,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 144.225,
+            "end": 144.345,
+            "score": 0.738,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 144.385,
+            "end": 144.765,
+            "score": 0.743,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "7000"
+          },
+          {
+            "word": "coureurs",
+            "start": 145.005,
+            "end": 145.446,
+            "score": 0.925,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 145.506,
+            "end": 145.626,
+            "score": 0.886,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "différentes",
+            "start": 145.646,
+            "end": 146.106,
+            "score": 0.913,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "courses",
+            "start": 146.166,
+            "end": 146.887,
+            "score": 0.858,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "termineront",
+            "start": 146.927,
+            "end": 147.647,
+            "score": 0.859,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "leur",
+            "start": 147.667,
+            "end": 147.827,
+            "score": 0.93,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aventure.",
+            "start": 147.867,
+            "end": 148.288,
+            "score": 0.861,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Le",
+        "start": 1.01,
+        "end": 1.05,
+        "score": 0.065,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "chemin",
+        "start": 1.25,
+        "end": 1.57,
+        "score": 0.517,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 1.59,
+        "end": 1.71,
+        "score": 0.318,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Anglais,",
+        "start": 1.75,
+        "end": 2.251,
+        "score": 0.721,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 2.291,
+        "end": 2.451,
+        "score": 0.695,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 2.471,
+        "end": 2.571,
+        "score": 0.845,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 2.611,
+        "end": 2.771,
+        "score": 0.81,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "anciennes",
+        "start": 2.831,
+        "end": 3.171,
+        "score": 0.839,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "voies",
+        "start": 3.211,
+        "end": 3.391,
+        "score": 0.738,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 3.431,
+        "end": 3.551,
+        "score": 0.886,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "communication",
+        "start": 3.591,
+        "end": 4.272,
+        "score": 0.947,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 4.292,
+        "end": 4.392,
+        "score": 0.895,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'île.",
+        "start": 4.432,
+        "end": 5.192,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Il",
+        "start": 5.252,
+        "end": 5.352,
+        "score": 0.877,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 5.392,
+        "end": 5.452,
+        "score": 0.624,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "été",
+        "start": 5.512,
+        "end": 5.652,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "tracé",
+        "start": 5.712,
+        "end": 6.633,
+        "score": 0.878,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "en",
+        "start": 6.713,
+        "end": 6.853,
+        "score": 0.863,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "1730"
+      },
+      {
+        "word": "par",
+        "start": 7.553,
+        "end": 7.733,
+        "score": 0.992,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "M.",
+        "start": 7.773,
+        "end": 8.033,
+        "score": 0.389,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Dumas",
+        "start": 8.093,
+        "end": 8.693,
+        "score": 0.97,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pour",
+        "start": 8.734,
+        "end": 8.954,
+        "score": 0.856,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "faciliter",
+        "start": 8.994,
+        "end": 9.514,
+        "score": 0.928,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 9.554,
+        "end": 9.654,
+        "score": 0.882,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "passage",
+        "start": 9.694,
+        "end": 10.134,
+        "score": 0.865,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 10.174,
+        "end": 10.254,
+        "score": 0.869,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "charrettes",
+        "start": 10.294,
+        "end": 10.654,
+        "score": 0.669,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "entre",
+        "start": 10.694,
+        "end": 10.894,
+        "score": 0.929,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 10.934,
+        "end": 11.015,
+        "score": 0.822,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "possession",
+        "start": 11.055,
+        "end": 11.475,
+        "score": 0.897,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 11.515,
+        "end": 11.595,
+        "score": 0.748,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Sa",
+        "start": 11.615,
+        "end": 11.755,
+        "score": 0.915,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Denis.",
+        "start": 11.775,
+        "end": 13.055,
+        "score": 0.893,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Les",
+        "start": 13.075,
+        "end": 13.175,
+        "score": 0.935,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "travaux",
+        "start": 13.215,
+        "end": 13.496,
+        "score": 0.801,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 13.536,
+        "end": 13.616,
+        "score": 0.942,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pavage",
+        "start": 13.656,
+        "end": 14.296,
+        "score": 0.867,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "en",
+        "start": 14.336,
+        "end": 14.416,
+        "score": 0.907,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pierre",
+        "start": 14.436,
+        "end": 14.656,
+        "score": 0.804,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 14.676,
+        "end": 14.756,
+        "score": 0.868,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "basalte",
+        "start": 14.796,
+        "end": 15.577,
+        "score": 0.922,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ont",
+        "start": 15.617,
+        "end": 15.737,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "été",
+        "start": 15.777,
+        "end": 15.937,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "réalisés",
+        "start": 15.977,
+        "end": 17.217,
+        "score": 0.809,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "entre",
+        "start": 17.257,
+        "end": 18.778,
+        "score": 0.482,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "1767"
+      },
+      {
+        "word": "et",
+        "start": 19.018,
+        "end": 19.118,
+        "score": 0.518,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "1775"
+      },
+      {
+        "word": "par",
+        "start": 20.159,
+        "end": 20.439,
+        "score": 0.89,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Honoré",
+        "start": 20.479,
+        "end": 20.979,
+        "score": 0.754,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 20.999,
+        "end": 21.099,
+        "score": 0.823,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Trémont,",
+        "start": 21.139,
+        "end": 21.919,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'où",
+        "start": 21.939,
+        "end": 22.139,
+        "score": 0.622,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "son",
+        "start": 22.159,
+        "end": 22.32,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nom,",
+        "start": 22.36,
+        "end": 22.72,
+        "score": 0.921,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mais",
+        "start": 22.74,
+        "end": 22.9,
+        "score": 0.871,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 22.92,
+        "end": 23.04,
+        "score": 0.834,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "connu",
+        "start": 23.08,
+        "end": 23.38,
+        "score": 0.741,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aujourd'hui,",
+        "start": 23.42,
+        "end": 24.08,
+        "score": 0.845,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sous",
+        "start": 24.12,
+        "end": 24.24,
+        "score": 0.943,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 24.28,
+        "end": 24.34,
+        "score": 0.991,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nom",
+        "start": 24.38,
+        "end": 24.561,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 24.601,
+        "end": 24.681,
+        "score": 0.827,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "chemin",
+        "start": 24.721,
+        "end": 24.961,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 25.001,
+        "end": 25.081,
+        "score": 0.831,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Anglais.",
+        "start": 25.121,
+        "end": 25.381,
+        "score": 0.843,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'est",
+        "start": 26.358,
+        "end": 26.518,
+        "score": 0.91,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "un",
+        "start": 26.558,
+        "end": 26.618,
+        "score": 0.984,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "passage",
+        "start": 26.658,
+        "end": 26.938,
+        "score": 0.865,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "emblématique,",
+        "start": 26.978,
+        "end": 27.538,
+        "score": 0.88,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "voire",
+        "start": 27.598,
+        "end": 27.758,
+        "score": 0.932,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mythique",
+        "start": 27.799,
+        "end": 28.139,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 28.179,
+        "end": 28.259,
+        "score": 0.832,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Grand",
+        "start": 28.279,
+        "end": 28.459,
+        "score": 0.941,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Raid.",
+        "start": 28.479,
+        "end": 29.039,
+        "score": 0.684,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Il",
+        "start": 29.119,
+        "end": 29.199,
+        "score": 0.918,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 29.239,
+        "end": 29.339,
+        "score": 0.732,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "très",
+        "start": 29.359,
+        "end": 29.559,
+        "score": 0.954,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "technique,",
+        "start": 29.599,
+        "end": 30.299,
+        "score": 0.874,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "avec",
+        "start": 30.339,
+        "end": 30.599,
+        "score": 0.946,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ses",
+        "start": 30.639,
+        "end": 30.779,
+        "score": 0.542,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 30.799,
+        "end": 30.96,
+        "score": 0.802,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 30.98,
+        "end": 31.14,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "10"
+      },
+      {
+        "word": "km",
+        "start": 31.38,
+        "end": 32.22,
+        "score": 0.722,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 32.28,
+        "end": 32.42,
+        "score": 0.934,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "entre",
+        "start": 32.46,
+        "end": 33.58,
+        "score": 0.773,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "1000"
+      },
+      {
+        "word": "et",
+        "start": 33.82,
+        "end": 33.94,
+        "score": 0.464,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "1500"
+      },
+      {
+        "word": "m",
+        "start": 34.241,
+        "end": 34.261,
+        "score": 0.0,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 34.321,
+        "end": 34.421,
+        "score": 0.91,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dénivelé.",
+        "start": 34.461,
+        "end": 34.881,
+        "score": 0.838,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Le",
+        "start": 35.421,
+        "end": 35.521,
+        "score": 0.592,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "chemin",
+        "start": 35.561,
+        "end": 35.841,
+        "score": 0.421,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 35.881,
+        "end": 35.981,
+        "score": 0.748,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Anglais,",
+        "start": 36.041,
+        "end": 37.122,
+        "score": 0.791,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "toujours",
+        "start": 37.142,
+        "end": 37.382,
+        "score": 0.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "bien",
+        "start": 37.442,
+        "end": 37.582,
+        "score": 0.915,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sympa,",
+        "start": 37.602,
+        "end": 38.322,
+        "score": 0.711,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cassant",
+        "start": 38.362,
+        "end": 38.802,
+        "score": 0.845,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aussi,",
+        "start": 38.842,
+        "end": 40.423,
+        "score": 0.893,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mais",
+        "start": 40.443,
+        "end": 40.523,
+        "score": 0.682,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 40.563,
+        "end": 40.643,
+        "score": 0.818,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fait",
+        "start": 40.683,
+        "end": 40.823,
+        "score": 0.836,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avec.",
+        "start": 40.883,
+        "end": 41.463,
+        "score": 0.896,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "On",
+        "start": 41.523,
+        "end": 41.603,
+        "score": 0.802,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 41.643,
+        "end": 41.703,
+        "score": 0.525,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "eu",
+        "start": 41.723,
+        "end": 41.783,
+        "score": 0.729,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'occasion",
+        "start": 41.823,
+        "end": 42.163,
+        "score": 0.816,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 42.183,
+        "end": 42.243,
+        "score": 0.855,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "s'entraîner,",
+        "start": 42.283,
+        "end": 42.983,
+        "score": 0.876,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donc",
+        "start": 43.023,
+        "end": 43.384,
+        "score": 0.713,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 43.424,
+        "end": 43.664,
+        "score": 0.871,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sait",
+        "start": 43.704,
+        "end": 44.164,
+        "score": 0.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "où",
+        "start": 44.244,
+        "end": 44.484,
+        "score": 0.666,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sont",
+        "start": 44.504,
+        "end": 44.684,
+        "score": 0.7,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 44.704,
+        "end": 44.804,
+        "score": 0.931,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "changements,",
+        "start": 44.824,
+        "end": 45.404,
+        "score": 0.881,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donc",
+        "start": 45.424,
+        "end": 45.564,
+        "score": 0.704,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça",
+        "start": 45.584,
+        "end": 45.744,
+        "score": 0.581,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "devrait",
+        "start": 45.764,
+        "end": 46.044,
+        "score": 0.758,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aller.",
+        "start": 46.084,
+        "end": 46.325,
+        "score": 0.886,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "C'est",
+        "start": 46.365,
+        "end": 46.685,
+        "score": 0.582,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'histoire",
+        "start": 46.705,
+        "end": 46.985,
+        "score": 0.807,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 47.005,
+        "end": 47.085,
+        "score": 0.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "quelques",
+        "start": 47.125,
+        "end": 47.445,
+        "score": 0.805,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "minutes",
+        "start": 47.465,
+        "end": 47.745,
+        "score": 0.936,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 47.805,
+        "end": 47.945,
+        "score": 0.926,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plus",
+        "start": 47.985,
+        "end": 48.625,
+        "score": 0.769,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ou",
+        "start": 48.665,
+        "end": 48.785,
+        "score": 0.939,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 48.845,
+        "end": 49.025,
+        "score": 0.847,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "moins,",
+        "start": 49.065,
+        "end": 49.285,
+        "score": 0.858,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 49.325,
+        "end": 49.446,
+        "score": 0.8,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ceux",
+        "start": 49.486,
+        "end": 49.586,
+        "score": 0.63,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 49.606,
+        "end": 49.726,
+        "score": 0.934,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "galopent",
+        "start": 49.766,
+        "end": 50.006,
+        "score": 0.348,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vraiment",
+        "start": 50.026,
+        "end": 50.386,
+        "score": 0.478,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vite.",
+        "start": 50.426,
+        "end": 50.566,
+        "score": 0.53,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Comme",
+        "start": 51.026,
+        "end": 51.226,
+        "score": 0.897,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'autres",
+        "start": 51.266,
+        "end": 51.506,
+        "score": 0.856,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sentiers,",
+        "start": 51.546,
+        "end": 51.866,
+        "score": 0.75,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "il",
+        "start": 51.906,
+        "end": 51.946,
+        "score": 0.63,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "n'a",
+        "start": 51.986,
+        "end": 52.146,
+        "score": 0.777,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pas",
+        "start": 52.186,
+        "end": 52.286,
+        "score": 0.79,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "été",
+        "start": 52.326,
+        "end": 52.426,
+        "score": 0.85,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "épargné",
+        "start": 52.466,
+        "end": 52.847,
+        "score": 0.906,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "par",
+        "start": 52.887,
+        "end": 53.027,
+        "score": 0.691,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 53.047,
+        "end": 53.127,
+        "score": 0.952,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "passage",
+        "start": 53.147,
+        "end": 53.507,
+        "score": 0.869,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 53.527,
+        "end": 53.627,
+        "score": 0.892,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "cyclone",
+        "start": 53.667,
+        "end": 54.127,
+        "score": 0.872,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Garance.",
+        "start": 54.167,
+        "end": 55.087,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Les",
+        "start": 55.127,
+        "end": 55.247,
+        "score": 0.849,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "deux",
+        "start": 55.287,
+        "end": 55.387,
+        "score": 0.988,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "petites",
+        "start": 55.427,
+        "end": 55.707,
+        "score": 0.715,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ravines",
+        "start": 55.767,
+        "end": 56.088,
+        "score": 0.858,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qui",
+        "start": 56.108,
+        "end": 56.248,
+        "score": 0.877,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "traversent",
+        "start": 56.288,
+        "end": 56.668,
+        "score": 0.788,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ce",
+        "start": 56.708,
+        "end": 56.808,
+        "score": 0.862,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "chemin",
+        "start": 56.828,
+        "end": 57.428,
+        "score": 0.868,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 57.468,
+        "end": 57.648,
+        "score": 0.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "devenues",
+        "start": 57.688,
+        "end": 58.108,
+        "score": 0.792,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 58.168,
+        "end": 58.288,
+        "score": 0.93,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "énormes",
+        "start": 58.328,
+        "end": 58.808,
+        "score": 0.79,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "trous",
+        "start": 58.848,
+        "end": 59.169,
+        "score": 0.713,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 59.209,
+        "end": 59.369,
+        "score": 0.876,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plusieurs",
+        "start": 59.409,
+        "end": 59.689,
+        "score": 0.858,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mètres,",
+        "start": 59.749,
+        "end": 60.469,
+        "score": 0.85,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ce",
+        "start": 60.509,
+        "end": 60.609,
+        "score": 0.967,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qui",
+        "start": 60.649,
+        "end": 60.769,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rajoute",
+        "start": 60.809,
+        "end": 61.129,
+        "score": 0.843,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 61.149,
+        "end": 61.229,
+        "score": 0.783,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 61.249,
+        "end": 61.369,
+        "score": 0.834,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "difficulté,",
+        "start": 61.389,
+        "end": 62.429,
+        "score": 0.936,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "surtout",
+        "start": 62.47,
+        "end": 62.97,
+        "score": 0.969,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 63.01,
+        "end": 63.07,
+        "score": 0.339,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ce",
+        "start": 63.11,
+        "end": 63.23,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "niveau",
+        "start": 63.27,
+        "end": 63.53,
+        "score": 0.875,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 63.57,
+        "end": 63.67,
+        "score": 0.885,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "parcours,",
+        "start": 63.69,
+        "end": 64.53,
+        "score": 0.945,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "après",
+        "start": 64.57,
+        "end": 64.83,
+        "score": 0.992,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 64.87,
+        "end": 65.05,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 65.09,
+        "end": 65.51,
+        "score": 0.54,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "160"
+      },
+      {
+        "word": "km",
+        "start": 65.931,
+        "end": 66.451,
+        "score": 0.575,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dans",
+        "start": 66.491,
+        "end": 66.611,
+        "score": 0.898,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 66.631,
+        "end": 66.731,
+        "score": 0.919,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "jambes.",
+        "start": 66.751,
+        "end": 67.891,
+        "score": 0.767,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Quelques",
+        "start": 67.911,
+        "end": 68.271,
+        "score": 0.875,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aménagements",
+        "start": 68.331,
+        "end": 68.871,
+        "score": 0.857,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ont",
+        "start": 68.891,
+        "end": 68.991,
+        "score": 0.82,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "été",
+        "start": 69.032,
+        "end": 69.212,
+        "score": 0.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "réalisés",
+        "start": 69.252,
+        "end": 69.712,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "provisoirement",
+        "start": 69.772,
+        "end": 70.452,
+        "score": 0.86,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "par",
+        "start": 70.492,
+        "end": 70.612,
+        "score": 0.98,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 70.652,
+        "end": 70.752,
+        "score": 0.875,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "département",
+        "start": 70.792,
+        "end": 71.972,
+        "score": 0.963,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pour",
+        "start": 72.012,
+        "end": 72.192,
+        "score": 0.964,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "faciliter",
+        "start": 72.252,
+        "end": 72.753,
+        "score": 0.953,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 72.793,
+        "end": 72.893,
+        "score": 0.95,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "passage",
+        "start": 72.933,
+        "end": 73.413,
+        "score": 0.906,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 73.433,
+        "end": 73.533,
+        "score": 0.958,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ce",
+        "start": 73.573,
+        "end": 73.693,
+        "score": 0.979,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "chemin",
+        "start": 73.733,
+        "end": 74.033,
+        "score": 0.845,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "classé",
+        "start": 74.073,
+        "end": 74.573,
+        "score": 0.954,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "au",
+        "start": 74.613,
+        "end": 74.713,
+        "score": 0.794,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "monument",
+        "start": 74.753,
+        "end": 75.233,
+        "score": 0.884,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "historique",
+        "start": 75.273,
+        "end": 75.734,
+        "score": 0.785,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "depuis",
+        "start": 75.774,
+        "end": 75.974,
+        "score": 0.847,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "2014."
+      },
+      {
+        "word": "Ils",
+        "start": 77.314,
+        "end": 77.374,
+        "score": 0.001,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "nous",
+        "start": 77.394,
+        "end": 77.514,
+        "score": 0.244,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "ont",
+        "start": 77.554,
+        "end": 77.614,
+        "score": 0.05,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "demandé",
+        "start": 77.634,
+        "end": 77.914,
+        "score": 0.866,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "de",
+        "start": 77.934,
+        "end": 78.114,
+        "score": 0.919,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "faire",
+        "start": 78.154,
+        "end": 78.294,
+        "score": 0.798,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "une",
+        "start": 78.354,
+        "end": 78.454,
+        "score": 0.861,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "sécurisation",
+        "start": 78.494,
+        "end": 79.155,
+        "score": 0.872,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "par",
+        "start": 79.195,
+        "end": 79.315,
+        "score": 0.956,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "mains",
+        "start": 79.335,
+        "end": 79.495,
+        "score": 0.679,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "courantes",
+        "start": 79.535,
+        "end": 82.336,
+        "score": 0.904,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "pour",
+        "start": 82.376,
+        "end": 82.476,
+        "score": 0.839,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "que",
+        "start": 82.496,
+        "end": 82.616,
+        "score": 0.648,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "les",
+        "start": 82.656,
+        "end": 82.736,
+        "score": 0.517,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "coureurs",
+        "start": 82.756,
+        "end": 83.496,
+        "score": 0.655,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "ne",
+        "start": 83.516,
+        "end": 83.576,
+        "score": 0.812,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "se",
+        "start": 83.616,
+        "end": 83.716,
+        "score": 0.745,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "blessent",
+        "start": 83.736,
+        "end": 83.916,
+        "score": 0.316,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "pas",
+        "start": 83.936,
+        "end": 84.096,
+        "score": 0.672,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "en",
+        "start": 84.116,
+        "end": 84.196,
+        "score": 0.828,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "descendant",
+        "start": 84.216,
+        "end": 84.756,
+        "score": 0.761,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "et",
+        "start": 84.836,
+        "end": 85.477,
+        "score": 0.94,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "ne",
+        "start": 85.517,
+        "end": 85.877,
+        "score": 0.796,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "chutent",
+        "start": 85.937,
+        "end": 86.257,
+        "score": 0.584,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "pas.",
+        "start": 86.277,
+        "end": 87.537,
+        "score": 0.8,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "Donc",
+        "start": 87.577,
+        "end": 87.757,
+        "score": 0.818,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "en",
+        "start": 87.817,
+        "end": 88.058,
+        "score": 0.792,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "solution",
+        "start": 88.098,
+        "end": 88.618,
+        "score": 0.702,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "provisoire,",
+        "start": 88.658,
+        "end": 90.098,
+        "score": 0.939,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "on",
+        "start": 90.198,
+        "end": 90.318,
+        "score": 0.784,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "va",
+        "start": 90.358,
+        "end": 90.838,
+        "score": 0.818,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "convaincre",
+        "start": 90.878,
+        "end": 91.239,
+        "score": 0.4,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "de",
+        "start": 91.259,
+        "end": 91.339,
+        "score": 0.966,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "faire",
+        "start": 91.379,
+        "end": 91.599,
+        "score": 0.894,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "une",
+        "start": 91.659,
+        "end": 91.759,
+        "score": 0.908,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "main",
+        "start": 91.799,
+        "end": 91.899,
+        "score": 0.776,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "courante",
+        "start": 91.919,
+        "end": 92.319,
+        "score": 0.88,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "bifile",
+        "start": 92.339,
+        "end": 92.819,
+        "score": 0.789,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "et",
+        "start": 92.859,
+        "end": 92.939,
+        "score": 0.75,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "une",
+        "start": 92.979,
+        "end": 93.139,
+        "score": 0.535,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "main",
+        "start": 93.179,
+        "end": 93.299,
+        "score": 0.742,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "courante",
+        "start": 93.319,
+        "end": 93.659,
+        "score": 0.81,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "monophile",
+        "start": 93.859,
+        "end": 94.36,
+        "score": 0.494,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "en",
+        "start": 94.42,
+        "end": 94.48,
+        "score": 0.527,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "haut.",
+        "start": 94.52,
+        "end": 95.88,
+        "score": 0.657,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "Et",
+        "start": 95.96,
+        "end": 96.14,
+        "score": 0.463,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "un",
+        "start": 96.16,
+        "end": 96.26,
+        "score": 0.529,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "petit",
+        "start": 96.36,
+        "end": 96.6,
+        "score": 0.745,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "tâche",
+        "start": 96.64,
+        "end": 96.78,
+        "score": 0.171,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "de",
+        "start": 96.8,
+        "end": 96.92,
+        "score": 0.593,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "ménagement",
+        "start": 96.96,
+        "end": 97.441,
+        "score": 0.873,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "du",
+        "start": 97.481,
+        "end": 97.721,
+        "score": 0.852,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "fond",
+        "start": 97.741,
+        "end": 97.881,
+        "score": 0.399,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "de",
+        "start": 97.901,
+        "end": 97.981,
+        "score": 0.742,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "la",
+        "start": 98.001,
+        "end": 98.041,
+        "score": 0.93,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "rivière.",
+        "start": 98.101,
+        "end": 98.341,
+        "score": 0.657,
+        "speaker": "SPEAKER_04"
+      },
+      {
+        "word": "Pour",
+        "start": 98.761,
+        "end": 98.901,
+        "score": 0.359,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 98.921,
+        "end": 99.001,
+        "score": 0.771,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "coureurs",
+        "start": 99.041,
+        "end": 99.381,
+        "score": 0.865,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qui",
+        "start": 99.421,
+        "end": 99.521,
+        "score": 0.748,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "font",
+        "start": 99.561,
+        "end": 99.662,
+        "score": 0.524,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 99.702,
+        "end": 99.782,
+        "score": 0.82,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dernière",
+        "start": 99.802,
+        "end": 100.082,
+        "score": 0.921,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "reconnaissance,",
+        "start": 100.122,
+        "end": 101.242,
+        "score": 0.893,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 101.282,
+        "end": 101.382,
+        "score": 0.721,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mesures",
+        "start": 101.402,
+        "end": 101.663,
+        "score": 0.84,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "prises",
+        "start": 101.723,
+        "end": 102.243,
+        "score": 0.827,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rassurent.",
+        "start": 102.263,
+        "end": 102.723,
+        "score": 0.742,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Voilà,",
+        "start": 114.909,
+        "end": 115.149,
+        "score": 0.625,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "c'est",
+        "start": 115.309,
+        "end": 115.429,
+        "score": 0.273,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "pas",
+        "start": 115.449,
+        "end": 115.549,
+        "score": 0.439,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "mal,",
+        "start": 115.569,
+        "end": 115.929,
+        "score": 0.668,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "très",
+        "start": 115.949,
+        "end": 116.21,
+        "score": 0.524,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "bien.",
+        "start": 116.23,
+        "end": 116.31,
+        "score": 0.09,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "C'est",
+        "start": 116.33,
+        "end": 116.43,
+        "score": 0.668,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 116.45,
+        "end": 116.55,
+        "score": 0.765,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "compliqué",
+        "start": 116.59,
+        "end": 116.87,
+        "score": 0.72,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 116.91,
+        "end": 117.03,
+        "score": 0.294,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "descendre,",
+        "start": 117.05,
+        "end": 117.31,
+        "score": 0.67,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "si",
+        "start": 117.33,
+        "end": 117.39,
+        "score": 0.709,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "on",
+        "start": 117.45,
+        "end": 117.51,
+        "score": 0.826,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 117.53,
+        "end": 117.57,
+        "score": 0.441,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mal",
+        "start": 117.59,
+        "end": 117.69,
+        "score": 0.328,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "aux",
+        "start": 117.73,
+        "end": 117.79,
+        "score": 0.009,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jambes,",
+        "start": 117.81,
+        "end": 118.07,
+        "score": 0.258,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 118.09,
+        "end": 118.23,
+        "score": 0.754,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vraiment",
+        "start": 118.33,
+        "end": 118.55,
+        "score": 0.758,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "descendre",
+        "start": 118.57,
+        "end": 118.751,
+        "score": 0.182,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "parce",
+        "start": 118.771,
+        "end": 118.871,
+        "score": 0.818,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 118.891,
+        "end": 118.951,
+        "score": 0.014,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 118.971,
+        "end": 119.051,
+        "score": 0.708,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "marches",
+        "start": 119.071,
+        "end": 119.211,
+        "score": 0.705,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sont",
+        "start": 119.231,
+        "end": 119.331,
+        "score": 0.331,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 119.351,
+        "end": 119.411,
+        "score": 0.21,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "peu",
+        "start": 119.431,
+        "end": 119.531,
+        "score": 0.489,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 119.551,
+        "end": 119.631,
+        "score": 0.749,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "hautes.",
+        "start": 119.651,
+        "end": 120.131,
+        "score": 0.554,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Il",
+        "start": 120.231,
+        "end": 120.271,
+        "score": 0.934,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "faut",
+        "start": 120.311,
+        "end": 120.431,
+        "score": 0.888,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "remonter,",
+        "start": 120.471,
+        "end": 120.831,
+        "score": 0.878,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "là",
+        "start": 120.871,
+        "end": 120.931,
+        "score": 0.671,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ils",
+        "start": 120.971,
+        "end": 121.031,
+        "score": 0.448,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ont",
+        "start": 121.071,
+        "end": 121.151,
+        "score": 0.729,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mis",
+        "start": 121.191,
+        "end": 121.331,
+        "score": 0.643,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 121.371,
+        "end": 121.431,
+        "score": 0.778,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "peu",
+        "start": 121.451,
+        "end": 121.552,
+        "score": 0.331,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 121.592,
+        "end": 121.632,
+        "score": 0.706,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "câble",
+        "start": 121.672,
+        "end": 122.032,
+        "score": 0.858,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 122.072,
+        "end": 122.212,
+        "score": 0.821,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pouvoir",
+        "start": 122.252,
+        "end": 122.412,
+        "score": 0.989,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "du",
+        "start": 122.472,
+        "end": 122.512,
+        "score": 0.188,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "chemin",
+        "start": 122.552,
+        "end": 122.772,
+        "score": 0.505,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "passer,",
+        "start": 122.812,
+        "end": 123.232,
+        "score": 0.811,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "donc",
+        "start": 123.272,
+        "end": 123.412,
+        "score": 0.417,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ça",
+        "start": 123.432,
+        "end": 123.512,
+        "score": 0.252,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "va",
+        "start": 123.532,
+        "end": 123.592,
+        "score": 0.336,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "être",
+        "start": 123.612,
+        "end": 123.692,
+        "score": 0.4,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mieux",
+        "start": 123.712,
+        "end": 124.152,
+        "score": 0.358,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 124.193,
+        "end": 124.293,
+        "score": 0.294,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sécuriser",
+        "start": 124.313,
+        "end": 124.633,
+        "score": 0.332,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "là.",
+        "start": 124.753,
+        "end": 125.773,
+        "score": 0.699,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "C'est",
+        "start": 125.793,
+        "end": 125.973,
+        "score": 0.802,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bien",
+        "start": 126.013,
+        "end": 126.173,
+        "score": 0.958,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sécurisé",
+        "start": 126.213,
+        "end": 126.733,
+        "score": 0.911,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "déjà,",
+        "start": 126.753,
+        "end": 127.534,
+        "score": 0.648,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bravo,",
+        "start": 127.554,
+        "end": 128.454,
+        "score": 0.519,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bravo.",
+        "start": 128.494,
+        "end": 129.334,
+        "score": 0.601,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ah",
+        "start": 129.374,
+        "end": 129.434,
+        "score": 0.086,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "non,",
+        "start": 129.454,
+        "end": 129.554,
+        "score": 0.335,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "non,",
+        "start": 129.574,
+        "end": 129.655,
+        "score": 0.601,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "il",
+        "start": 129.695,
+        "end": 129.735,
+        "score": 0.487,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "y",
+        "start": 129.755,
+        "end": 129.775,
+        "score": 0.456,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 129.795,
+        "end": 129.855,
+        "score": 0.522,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 129.875,
+        "end": 129.955,
+        "score": 0.811,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "travail",
+        "start": 129.975,
+        "end": 130.235,
+        "score": 0.664,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "là.",
+        "start": 130.275,
+        "end": 130.335,
+        "score": 0.257,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "La",
+        "start": 131.475,
+        "end": 131.555,
+        "score": 0.922,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "suite",
+        "start": 131.595,
+        "end": 131.816,
+        "score": 0.824,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ne",
+        "start": 131.856,
+        "end": 131.936,
+        "score": 0.898,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sera",
+        "start": 131.976,
+        "end": 132.256,
+        "score": 0.982,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pas",
+        "start": 132.296,
+        "end": 132.456,
+        "score": 0.89,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 132.476,
+        "end": 132.576,
+        "score": 0.904,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "tout",
+        "start": 132.616,
+        "end": 132.756,
+        "score": 0.896,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "repos",
+        "start": 132.796,
+        "end": 133.137,
+        "score": 0.901,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "avec",
+        "start": 133.177,
+        "end": 133.377,
+        "score": 0.933,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aussi",
+        "start": 133.437,
+        "end": 133.697,
+        "score": 0.85,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 133.717,
+        "end": 133.817,
+        "score": 0.863,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "changement",
+        "start": 133.837,
+        "end": 134.237,
+        "score": 0.874,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 134.277,
+        "end": 134.418,
+        "score": 0.88,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'arrivée",
+        "start": 134.458,
+        "end": 134.778,
+        "score": 0.788,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 134.838,
+        "end": 134.878,
+        "score": 0.909,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Saint-Denis.",
+        "start": 134.918,
+        "end": 135.919,
+        "score": 0.745,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "La",
+        "start": 135.939,
+        "end": 136.019,
+        "score": 0.99,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "descente",
+        "start": 136.059,
+        "end": 136.399,
+        "score": 0.829,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 136.439,
+        "end": 136.519,
+        "score": 0.852,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Colorado",
+        "start": 136.539,
+        "end": 136.999,
+        "score": 0.932,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 137.039,
+        "end": 137.16,
+        "score": 0.812,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "impraticable.",
+        "start": 137.2,
+        "end": 138.3,
+        "score": 0.905,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Un",
+        "start": 138.34,
+        "end": 138.441,
+        "score": 0.74,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "important",
+        "start": 138.521,
+        "end": 139.001,
+        "score": 0.95,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "glissement",
+        "start": 139.021,
+        "end": 139.421,
+        "score": 0.819,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 139.461,
+        "end": 139.541,
+        "score": 0.916,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "terrain",
+        "start": 139.581,
+        "end": 140.142,
+        "score": 0.913,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 140.182,
+        "end": 140.222,
+        "score": 0.579,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "emporté",
+        "start": 140.282,
+        "end": 140.802,
+        "score": 0.918,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "toute",
+        "start": 140.822,
+        "end": 141.022,
+        "score": 0.897,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 141.062,
+        "end": 141.183,
+        "score": 0.935,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "section",
+        "start": 141.243,
+        "end": 141.603,
+        "score": 0.927,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 141.643,
+        "end": 141.743,
+        "score": 0.877,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sentier.",
+        "start": 141.783,
+        "end": 142.664,
+        "score": 0.805,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'est",
+        "start": 142.704,
+        "end": 142.864,
+        "score": 0.807,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "donc",
+        "start": 142.884,
+        "end": 143.064,
+        "score": 0.757,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 143.084,
+        "end": 143.244,
+        "score": 0.767,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 143.264,
+        "end": 143.324,
+        "score": 0.759,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "route",
+        "start": 143.364,
+        "end": 143.584,
+        "score": 0.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "par",
+        "start": 143.604,
+        "end": 143.744,
+        "score": 0.793,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 143.764,
+        "end": 143.845,
+        "score": 0.986,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vigie",
+        "start": 143.885,
+        "end": 144.205,
+        "score": 0.876,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 144.225,
+        "end": 144.345,
+        "score": 0.738,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 144.385,
+        "end": 144.765,
+        "score": 0.743,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "7000"
+      },
+      {
+        "word": "coureurs",
+        "start": 145.005,
+        "end": 145.446,
+        "score": 0.925,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 145.506,
+        "end": 145.626,
+        "score": 0.886,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "différentes",
+        "start": 145.646,
+        "end": 146.106,
+        "score": 0.913,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "courses",
+        "start": 146.166,
+        "end": 146.887,
+        "score": 0.858,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "termineront",
+        "start": 146.927,
+        "end": 147.647,
+        "score": 0.859,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "leur",
+        "start": 147.667,
+        "end": 147.827,
+        "score": 0.93,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aventure.",
+        "start": 147.867,
+        "end": 148.288,
+        "score": 0.861,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 149,
+  "transcription_duration": 11
+}

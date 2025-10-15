@@ -1,0 +1,5213 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 1.354,
+        "end": 6.359,
+        "text": " Chaque année, les derniers du Grand Raid rejoignent la ligne d'arrivée après une soixantaine d'heures de course.",
+        "words": [
+          {
+            "word": "Chaque",
+            "start": 1.354,
+            "end": 1.514,
+            "score": 0.072,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "année,",
+            "start": 1.574,
+            "end": 2.075,
+            "score": 0.419,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 2.115,
+            "end": 2.255,
+            "score": 0.617,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "derniers",
+            "start": 2.295,
+            "end": 2.575,
+            "score": 0.705,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 2.595,
+            "end": 2.675,
+            "score": 0.758,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Grand",
+            "start": 2.716,
+            "end": 2.876,
+            "score": 0.871,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Raid",
+            "start": 2.916,
+            "end": 3.156,
+            "score": 0.717,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rejoignent",
+            "start": 3.176,
+            "end": 3.516,
+            "score": 0.724,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 3.536,
+            "end": 3.596,
+            "score": 0.874,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ligne",
+            "start": 3.636,
+            "end": 3.817,
+            "score": 0.829,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'arrivée",
+            "start": 3.837,
+            "end": 4.257,
+            "score": 0.908,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "après",
+            "start": 4.297,
+            "end": 4.557,
+            "score": 0.885,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 4.597,
+            "end": 4.777,
+            "score": 0.833,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "soixantaine",
+            "start": 4.817,
+            "end": 5.358,
+            "score": 0.845,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'heures",
+            "start": 5.378,
+            "end": 5.578,
+            "score": 0.62,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 5.598,
+            "end": 5.698,
+            "score": 0.943,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "course.",
+            "start": 5.758,
+            "end": 6.359,
+            "score": 0.868,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 6.419,
+        "end": 12.725,
+        "text": "Trois jours et trois nuits dans les sentiers où les sportifs dorment très peu et où le corps mais aussi l'esprit sont mis à mal.",
+        "words": [
+          {
+            "word": "Trois",
+            "start": 6.419,
+            "end": 6.679,
+            "score": 0.87,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "jours",
+            "start": 6.719,
+            "end": 6.919,
+            "score": 0.698,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 6.959,
+            "end": 7.08,
+            "score": 0.477,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "trois",
+            "start": 7.12,
+            "end": 7.34,
+            "score": 0.76,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nuits",
+            "start": 7.42,
+            "end": 7.64,
+            "score": 0.651,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dans",
+            "start": 7.66,
+            "end": 7.76,
+            "score": 0.943,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 7.78,
+            "end": 7.88,
+            "score": 0.881,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sentiers",
+            "start": 7.92,
+            "end": 8.261,
+            "score": 0.764,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "où",
+            "start": 8.301,
+            "end": 8.401,
+            "score": 0.962,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 8.441,
+            "end": 8.521,
+            "score": 0.84,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sportifs",
+            "start": 8.541,
+            "end": 9.021,
+            "score": 0.884,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dorment",
+            "start": 9.081,
+            "end": 9.362,
+            "score": 0.677,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "très",
+            "start": 9.402,
+            "end": 9.582,
+            "score": 0.874,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "peu",
+            "start": 9.622,
+            "end": 9.982,
+            "score": 0.884,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 10.022,
+            "end": 10.122,
+            "score": 0.784,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "où",
+            "start": 10.162,
+            "end": 10.282,
+            "score": 0.898,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 10.303,
+            "end": 10.363,
+            "score": 0.98,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "corps",
+            "start": 10.403,
+            "end": 10.563,
+            "score": 0.794,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mais",
+            "start": 10.603,
+            "end": 10.723,
+            "score": 0.934,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "aussi",
+            "start": 10.763,
+            "end": 11.003,
+            "score": 0.902,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'esprit",
+            "start": 11.043,
+            "end": 11.464,
+            "score": 0.812,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 11.504,
+            "end": 11.644,
+            "score": 0.784,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mis",
+            "start": 11.664,
+            "end": 11.824,
+            "score": 0.739,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 11.864,
+            "end": 11.924,
+            "score": 0.648,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mal.",
+            "start": 11.964,
+            "end": 12.725,
+            "score": 0.988,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 12.765,
+        "end": 16.748,
+        "text": "C'est souvent à partir de la deuxième nuit de course que les hallucinations apparaissent.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 12.765,
+            "end": 12.905,
+            "score": 0.573,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "souvent",
+            "start": 12.925,
+            "end": 13.125,
+            "score": 0.929,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 13.145,
+            "end": 13.165,
+            "score": 0.941,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "partir",
+            "start": 13.225,
+            "end": 13.505,
+            "score": 0.811,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 13.525,
+            "end": 13.606,
+            "score": 0.965,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 13.646,
+            "end": 13.766,
+            "score": 0.976,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "deuxième",
+            "start": 13.806,
+            "end": 14.106,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nuit",
+            "start": 14.126,
+            "end": 14.266,
+            "score": 0.597,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 14.306,
+            "end": 14.446,
+            "score": 0.91,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "course",
+            "start": 14.486,
+            "end": 14.767,
+            "score": 0.793,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 14.807,
+            "end": 14.927,
+            "score": 0.826,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 14.967,
+            "end": 15.047,
+            "score": 0.866,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "hallucinations",
+            "start": 15.067,
+            "end": 15.667,
+            "score": 0.805,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "apparaissent.",
+            "start": 15.708,
+            "end": 16.748,
+            "score": 0.871,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 16.789,
+        "end": 19.211,
+        "text": "Benjamin l'a vécu lors de son dernier trail de Bourbon.",
+        "words": [
+          {
+            "word": "Benjamin",
+            "start": 16.789,
+            "end": 17.209,
+            "score": 0.65,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'a",
+            "start": 17.229,
+            "end": 17.349,
+            "score": 0.517,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vécu",
+            "start": 17.369,
+            "end": 17.649,
+            "score": 0.912,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "lors",
+            "start": 17.689,
+            "end": 17.85,
+            "score": 0.814,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 17.89,
+            "end": 17.97,
+            "score": 0.992,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "son",
+            "start": 18.01,
+            "end": 18.17,
+            "score": 0.967,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dernier",
+            "start": 18.21,
+            "end": 18.53,
+            "score": 0.854,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "trail",
+            "start": 18.55,
+            "end": 18.79,
+            "score": 0.726,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 18.81,
+            "end": 18.91,
+            "score": 0.637,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Bourbon.",
+            "start": 18.951,
+            "end": 19.211,
+            "score": 0.93,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 19.651,
+        "end": 38.942,
+        "text": " Ce que je voyais en fait c'était avec la frontale donc sur le chemin des anglais les gros cailloux des gros cailloux en fait je prenais enfin je voyais ça durait pas très longtemps j'appelais ça du coup des hallucinations maîtrisées puisque je voyais des hippos ou des hippopotames ou des éléphants.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 19.651,
+            "end": 19.731,
+            "score": 0.73,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "que",
+            "start": 19.751,
+            "end": 19.831,
+            "score": 0.626,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "je",
+            "start": 19.851,
+            "end": 19.911,
+            "score": 0.753,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "voyais",
+            "start": 19.931,
+            "end": 20.191,
+            "score": 0.834,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "en",
+            "start": 20.231,
+            "end": 20.291,
+            "score": 0.882,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "fait",
+            "start": 20.311,
+            "end": 20.492,
+            "score": 0.898,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "c'était",
+            "start": 20.532,
+            "end": 21.052,
+            "score": 0.839,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "avec",
+            "start": 21.072,
+            "end": 22.052,
+            "score": 0.926,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "la",
+            "start": 22.092,
+            "end": 22.152,
+            "score": 0.98,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "frontale",
+            "start": 22.212,
+            "end": 23.713,
+            "score": 0.863,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "donc",
+            "start": 23.753,
+            "end": 23.893,
+            "score": 0.613,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "sur",
+            "start": 23.913,
+            "end": 23.993,
+            "score": 0.971,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 24.033,
+            "end": 24.073,
+            "score": 0.984,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "chemin",
+            "start": 24.114,
+            "end": 24.334,
+            "score": 0.91,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 24.374,
+            "end": 24.454,
+            "score": 0.891,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "anglais",
+            "start": 24.494,
+            "end": 26.655,
+            "score": 0.894,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 26.695,
+            "end": 26.795,
+            "score": 0.964,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "gros",
+            "start": 26.835,
+            "end": 27.075,
+            "score": 0.825,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "cailloux",
+            "start": 27.115,
+            "end": 27.415,
+            "score": 0.402,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 27.455,
+            "end": 27.535,
+            "score": 0.944,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "gros",
+            "start": 27.575,
+            "end": 27.755,
+            "score": 0.873,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "cailloux",
+            "start": 27.776,
+            "end": 28.056,
+            "score": 0.537,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "en",
+            "start": 28.096,
+            "end": 28.136,
+            "score": 0.633,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "fait",
+            "start": 28.176,
+            "end": 28.296,
+            "score": 0.698,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "je",
+            "start": 28.316,
+            "end": 28.376,
+            "score": 0.542,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "prenais",
+            "start": 28.416,
+            "end": 28.716,
+            "score": 0.629,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "enfin",
+            "start": 28.756,
+            "end": 28.916,
+            "score": 0.288,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "je",
+            "start": 28.936,
+            "end": 28.996,
+            "score": 0.37,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "voyais",
+            "start": 29.036,
+            "end": 29.416,
+            "score": 0.687,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ça",
+            "start": 29.436,
+            "end": 29.556,
+            "score": 0.387,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "durait",
+            "start": 29.576,
+            "end": 29.797,
+            "score": 0.469,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "pas",
+            "start": 29.817,
+            "end": 29.897,
+            "score": 0.829,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "très",
+            "start": 29.917,
+            "end": 30.017,
+            "score": 0.878,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "longtemps",
+            "start": 30.057,
+            "end": 30.797,
+            "score": 0.921,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "j'appelais",
+            "start": 30.817,
+            "end": 31.077,
+            "score": 0.712,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ça",
+            "start": 31.097,
+            "end": 31.217,
+            "score": 0.498,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "du",
+            "start": 31.237,
+            "end": 31.297,
+            "score": 0.74,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "coup",
+            "start": 31.337,
+            "end": 31.478,
+            "score": 0.758,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 31.498,
+            "end": 31.598,
+            "score": 0.9,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "hallucinations",
+            "start": 31.618,
+            "end": 32.198,
+            "score": 0.82,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "maîtrisées",
+            "start": 32.258,
+            "end": 33.319,
+            "score": 0.858,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "puisque",
+            "start": 33.359,
+            "end": 34.219,
+            "score": 0.842,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "je",
+            "start": 34.239,
+            "end": 34.279,
+            "score": 0.693,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "voyais",
+            "start": 34.319,
+            "end": 35.079,
+            "score": 0.757,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 35.099,
+            "end": 35.38,
+            "score": 0.695,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "hippos",
+            "start": 35.42,
+            "end": 35.82,
+            "score": 0.776,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ou",
+            "start": 35.88,
+            "end": 36.18,
+            "score": 0.686,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 36.2,
+            "end": 36.26,
+            "score": 0.713,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "hippopotames",
+            "start": 36.3,
+            "end": 36.82,
+            "score": 0.725,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ou",
+            "start": 36.88,
+            "end": 36.98,
+            "score": 0.75,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 37.021,
+            "end": 37.141,
+            "score": 0.974,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "éléphants.",
+            "start": 37.201,
+            "end": 38.942,
+            "score": 0.623,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 39.102,
+        "end": 46.806,
+        "text": "Robin Koinus huitième de la diagonale des fous en 2024 a eu pour la première fois des apparitions en mai lorsqu'il remporte l'ultraterrestre.",
+        "words": [
+          {
+            "word": "Robin",
+            "start": 39.102,
+            "end": 39.362,
+            "score": 0.482,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Koinus",
+            "start": 39.382,
+            "end": 39.762,
+            "score": 0.56,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "huitième",
+            "start": 39.802,
+            "end": 40.202,
+            "score": 0.602,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 40.222,
+            "end": 40.342,
+            "score": 0.46,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 40.362,
+            "end": 40.422,
+            "score": 0.323,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "diagonale",
+            "start": 40.442,
+            "end": 40.903,
+            "score": 0.559,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 40.943,
+            "end": 41.043,
+            "score": 0.683,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "fous",
+            "start": 41.083,
+            "end": 41.323,
+            "score": 0.664,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "en",
+            "start": 41.383,
+            "end": 41.843,
+            "score": 0.24,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "2024"
+          },
+          {
+            "word": "a",
+            "start": 41.943,
+            "end": 42.403,
+            "score": 0.637,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "eu",
+            "start": 42.443,
+            "end": 42.584,
+            "score": 0.708,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pour",
+            "start": 42.624,
+            "end": 42.784,
+            "score": 0.891,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 42.804,
+            "end": 42.964,
+            "score": 0.916,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "première",
+            "start": 43.004,
+            "end": 43.344,
+            "score": 0.767,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "fois",
+            "start": 43.364,
+            "end": 43.544,
+            "score": 0.926,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 43.584,
+            "end": 43.684,
+            "score": 0.948,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "apparitions",
+            "start": 43.744,
+            "end": 44.344,
+            "score": 0.951,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "en",
+            "start": 44.385,
+            "end": 44.505,
+            "score": 0.698,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mai",
+            "start": 44.545,
+            "end": 44.945,
+            "score": 0.769,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "lorsqu'il",
+            "start": 44.985,
+            "end": 45.405,
+            "score": 0.834,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "remporte",
+            "start": 45.445,
+            "end": 45.965,
+            "score": 0.923,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'ultraterrestre.",
+            "start": 46.005,
+            "end": 46.806,
+            "score": 0.646,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 47.433,
+        "end": 57.138,
+        "text": " J'avais l'impression de voir des têtes géantes, un peu comme dans les, je ne sais plus où c'est, aux États-Unis, où il y a les têtes des présidents dans la roche, voir vraiment des silhouettes géantes.",
+        "words": [
+          {
+            "word": "J'avais",
+            "start": 47.433,
+            "end": 47.633,
+            "score": 0.232,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "l'impression",
+            "start": 47.653,
+            "end": 48.033,
+            "score": 0.105,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 48.053,
+            "end": 48.093,
+            "score": 0.227,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "voir",
+            "start": 48.153,
+            "end": 48.273,
+            "score": 0.71,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 48.313,
+            "end": 48.494,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "têtes",
+            "start": 48.534,
+            "end": 48.754,
+            "score": 0.904,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "géantes,",
+            "start": 48.794,
+            "end": 50.275,
+            "score": 0.93,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 50.335,
+            "end": 50.395,
+            "score": 0.978,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "peu",
+            "start": 50.415,
+            "end": 50.555,
+            "score": 0.784,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "comme",
+            "start": 50.575,
+            "end": 50.775,
+            "score": 0.903,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 50.795,
+            "end": 50.915,
+            "score": 0.704,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les,",
+            "start": 50.935,
+            "end": 51.175,
+            "score": 0.954,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 51.215,
+            "end": 51.275,
+            "score": 0.216,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ne",
+            "start": 51.315,
+            "end": 51.355,
+            "score": 0.009,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sais",
+            "start": 51.395,
+            "end": 51.495,
+            "score": 0.192,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 51.515,
+            "end": 51.635,
+            "score": 0.173,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "où",
+            "start": 51.695,
+            "end": 51.755,
+            "score": 0.295,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "c'est,",
+            "start": 51.815,
+            "end": 51.955,
+            "score": 0.435,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "aux",
+            "start": 51.995,
+            "end": 52.076,
+            "score": 0.876,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "États-Unis,",
+            "start": 52.136,
+            "end": 52.596,
+            "score": 0.828,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "où",
+            "start": 52.616,
+            "end": 52.656,
+            "score": 0.687,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "il",
+            "start": 52.676,
+            "end": 52.716,
+            "score": 0.294,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "y",
+            "start": 52.736,
+            "end": 52.756,
+            "score": 0.032,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 52.776,
+            "end": 52.816,
+            "score": 0.328,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 52.856,
+            "end": 52.976,
+            "score": 0.786,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "têtes",
+            "start": 53.016,
+            "end": 53.236,
+            "score": 0.897,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 53.276,
+            "end": 53.396,
+            "score": 0.827,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "présidents",
+            "start": 53.436,
+            "end": 53.816,
+            "score": 0.844,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 53.856,
+            "end": 53.977,
+            "score": 0.911,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 54.037,
+            "end": 54.097,
+            "score": 0.946,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "roche,",
+            "start": 54.157,
+            "end": 54.317,
+            "score": 0.592,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "voir",
+            "start": 55.157,
+            "end": 55.317,
+            "score": 0.681,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vraiment",
+            "start": 55.337,
+            "end": 55.597,
+            "score": 0.865,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 55.637,
+            "end": 55.758,
+            "score": 0.983,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "silhouettes",
+            "start": 55.798,
+            "end": 56.238,
+            "score": 0.596,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "géantes.",
+            "start": 56.278,
+            "end": 57.138,
+            "score": 0.955,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 57.178,
+        "end": 61.681,
+        "text": "Mais je savais que, en fait, c'était presque marrant parce que dès que je voyais un truc comme ça, je savais que ce n'était pas ça.",
+        "words": [
+          {
+            "word": "Mais",
+            "start": 57.178,
+            "end": 57.338,
+            "score": 0.914,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 57.358,
+            "end": 57.518,
+            "score": 0.902,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "savais",
+            "start": 57.558,
+            "end": 57.919,
+            "score": 0.832,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que,",
+            "start": 57.939,
+            "end": 58.459,
+            "score": 0.806,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 58.499,
+            "end": 58.559,
+            "score": 0.84,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "fait,",
+            "start": 58.579,
+            "end": 58.679,
+            "score": 0.698,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "c'était",
+            "start": 58.719,
+            "end": 58.919,
+            "score": 0.602,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "presque",
+            "start": 58.939,
+            "end": 59.259,
+            "score": 0.736,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "marrant",
+            "start": 59.299,
+            "end": 59.6,
+            "score": 0.687,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "parce",
+            "start": 59.62,
+            "end": 59.76,
+            "score": 0.824,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 59.78,
+            "end": 59.88,
+            "score": 0.795,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dès",
+            "start": 59.92,
+            "end": 59.98,
+            "score": 0.38,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 60.0,
+            "end": 60.08,
+            "score": 0.384,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 60.1,
+            "end": 60.14,
+            "score": 0.307,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "voyais",
+            "start": 60.16,
+            "end": 60.3,
+            "score": 0.245,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 60.34,
+            "end": 60.38,
+            "score": 0.465,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "truc",
+            "start": 60.4,
+            "end": 60.56,
+            "score": 0.677,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "comme",
+            "start": 60.58,
+            "end": 60.72,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ça,",
+            "start": 60.74,
+            "end": 60.88,
+            "score": 0.342,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 60.92,
+            "end": 60.98,
+            "score": 0.759,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "savais",
+            "start": 61.02,
+            "end": 61.16,
+            "score": 0.416,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 61.18,
+            "end": 61.24,
+            "score": 0.733,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 61.26,
+            "end": 61.301,
+            "score": 0.274,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "n'était",
+            "start": 61.321,
+            "end": 61.441,
+            "score": 0.054,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pas",
+            "start": 61.461,
+            "end": 61.521,
+            "score": 0.94,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ça.",
+            "start": 61.561,
+            "end": 61.681,
+            "score": 0.359,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 61.701,
+        "end": 67.064,
+        "text": "Et je me disais, dès que je vais être avec ma frontale à un mètre de ce que j'ai vu, je vais voir ce que c'était vraiment.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 61.701,
+            "end": 61.741,
+            "score": 0.242,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 61.761,
+            "end": 61.801,
+            "score": 0.944,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "me",
+            "start": 61.821,
+            "end": 61.921,
+            "score": 0.05,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "disais,",
+            "start": 61.941,
+            "end": 62.161,
+            "score": 0.782,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dès",
+            "start": 62.341,
+            "end": 62.421,
+            "score": 0.469,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 62.441,
+            "end": 62.501,
+            "score": 0.536,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 62.521,
+            "end": 62.561,
+            "score": 0.628,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vais",
+            "start": 62.581,
+            "end": 62.701,
+            "score": 0.38,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "être",
+            "start": 62.741,
+            "end": 62.861,
+            "score": 0.825,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "avec",
+            "start": 62.901,
+            "end": 63.041,
+            "score": 0.918,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ma",
+            "start": 63.081,
+            "end": 63.202,
+            "score": 0.92,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "frontale",
+            "start": 63.262,
+            "end": 63.642,
+            "score": 0.844,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 63.662,
+            "end": 64.222,
+            "score": 0.969,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 64.282,
+            "end": 64.382,
+            "score": 0.778,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mètre",
+            "start": 64.422,
+            "end": 64.742,
+            "score": 0.821,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 64.782,
+            "end": 64.842,
+            "score": 0.857,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 64.862,
+            "end": 64.922,
+            "score": 0.919,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 64.963,
+            "end": 65.063,
+            "score": 0.879,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "j'ai",
+            "start": 65.103,
+            "end": 65.243,
+            "score": 0.879,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vu,",
+            "start": 65.283,
+            "end": 65.403,
+            "score": 0.834,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 65.423,
+            "end": 65.503,
+            "score": 0.5,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vais",
+            "start": 65.523,
+            "end": 65.623,
+            "score": 0.837,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "voir",
+            "start": 65.663,
+            "end": 65.783,
+            "score": 0.84,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 65.823,
+            "end": 65.863,
+            "score": 0.925,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 65.883,
+            "end": 65.983,
+            "score": 0.901,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "c'était",
+            "start": 66.023,
+            "end": 66.303,
+            "score": 0.805,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vraiment.",
+            "start": 66.343,
+            "end": 67.064,
+            "score": 0.823,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 67.124,
+        "end": 73.227,
+        "text": "Et donc, ça m'amusait sur la fin de course de me dire, bon, là, j'ai vu une silhouette ou une tortue géante.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 67.124,
+            "end": 67.204,
+            "score": 0.5,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "donc,",
+            "start": 67.224,
+            "end": 67.404,
+            "score": 0.676,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ça",
+            "start": 67.424,
+            "end": 67.624,
+            "score": 0.273,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "m'amusait",
+            "start": 67.644,
+            "end": 68.064,
+            "score": 0.624,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sur",
+            "start": 68.104,
+            "end": 68.244,
+            "score": 0.73,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 68.284,
+            "end": 68.324,
+            "score": 0.96,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "fin",
+            "start": 68.364,
+            "end": 68.504,
+            "score": 0.545,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 68.524,
+            "end": 68.604,
+            "score": 0.681,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "course",
+            "start": 68.644,
+            "end": 68.845,
+            "score": 0.868,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 68.905,
+            "end": 68.965,
+            "score": 0.914,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "me",
+            "start": 68.985,
+            "end": 69.085,
+            "score": 0.346,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dire,",
+            "start": 69.125,
+            "end": 69.265,
+            "score": 0.544,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bon,",
+            "start": 69.305,
+            "end": 69.405,
+            "score": 0.578,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "là,",
+            "start": 69.545,
+            "end": 70.966,
+            "score": 0.912,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "j'ai",
+            "start": 71.006,
+            "end": 71.166,
+            "score": 0.933,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vu",
+            "start": 71.206,
+            "end": 71.546,
+            "score": 0.793,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "une",
+            "start": 71.586,
+            "end": 71.706,
+            "score": 0.845,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "silhouette",
+            "start": 71.746,
+            "end": 72.266,
+            "score": 0.72,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ou",
+            "start": 72.306,
+            "end": 72.367,
+            "score": 0.907,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "une",
+            "start": 72.407,
+            "end": 72.527,
+            "score": 0.931,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "tortue",
+            "start": 72.567,
+            "end": 72.867,
+            "score": 0.874,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "géante.",
+            "start": 72.907,
+            "end": 73.227,
+            "score": 0.874,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 73.267,
+        "end": 74.948,
+        "text": "Et en fait, c'est une carcasse de voitures.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 73.267,
+            "end": 73.327,
+            "score": 0.499,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 73.347,
+            "end": 73.427,
+            "score": 0.768,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "fait,",
+            "start": 73.467,
+            "end": 73.647,
+            "score": 0.827,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "c'est",
+            "start": 73.687,
+            "end": 73.787,
+            "score": 0.744,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "une",
+            "start": 73.807,
+            "end": 73.887,
+            "score": 0.843,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "carcasse",
+            "start": 73.927,
+            "end": 74.308,
+            "score": 0.892,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 74.348,
+            "end": 74.408,
+            "score": 0.976,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "voitures.",
+            "start": 74.448,
+            "end": 74.948,
+            "score": 0.689,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 75.467,
+        "end": 81.512,
+        "text": " Selon plusieurs études, c'est après plus de 30 heures de course que la privation de sommeil commence à se faire sentir.",
+        "words": [
+          {
+            "word": "Selon",
+            "start": 75.467,
+            "end": 75.727,
+            "score": 0.89,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plusieurs",
+            "start": 75.747,
+            "end": 76.068,
+            "score": 0.801,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "études,",
+            "start": 76.128,
+            "end": 76.408,
+            "score": 0.855,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "c'est",
+            "start": 76.448,
+            "end": 76.608,
+            "score": 0.902,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "après",
+            "start": 76.648,
+            "end": 76.888,
+            "score": 0.849,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 76.908,
+            "end": 77.068,
+            "score": 0.874,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 77.108,
+            "end": 77.208,
+            "score": 0.994,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "30"
+          },
+          {
+            "word": "heures",
+            "start": 77.549,
+            "end": 77.749,
+            "score": 0.677,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 77.789,
+            "end": 77.889,
+            "score": 0.948,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "course",
+            "start": 77.929,
+            "end": 78.209,
+            "score": 0.82,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 78.249,
+            "end": 78.369,
+            "score": 0.839,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 78.409,
+            "end": 78.469,
+            "score": 0.938,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "privation",
+            "start": 78.529,
+            "end": 78.99,
+            "score": 0.853,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 79.05,
+            "end": 79.15,
+            "score": 0.892,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sommeil",
+            "start": 79.21,
+            "end": 79.65,
+            "score": 0.952,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "commence",
+            "start": 79.71,
+            "end": 80.111,
+            "score": 0.896,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 80.151,
+            "end": 80.191,
+            "score": 0.475,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "se",
+            "start": 80.231,
+            "end": 80.331,
+            "score": 0.846,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "faire",
+            "start": 80.371,
+            "end": 80.551,
+            "score": 0.824,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sentir.",
+            "start": 80.591,
+            "end": 81.512,
+            "score": 0.855,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 81.552,
+        "end": 85.334,
+        "text": "La vigilance baisse autant que si l'on avait bu plusieurs verres d'alcool.",
+        "words": [
+          {
+            "word": "La",
+            "start": 81.552,
+            "end": 81.632,
+            "score": 0.923,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "vigilance",
+            "start": 81.652,
+            "end": 82.112,
+            "score": 0.892,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "baisse",
+            "start": 82.172,
+            "end": 82.592,
+            "score": 0.896,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "autant",
+            "start": 82.652,
+            "end": 82.933,
+            "score": 0.964,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 82.973,
+            "end": 83.073,
+            "score": 0.961,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "si",
+            "start": 83.113,
+            "end": 83.193,
+            "score": 0.77,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'on",
+            "start": 83.233,
+            "end": 83.353,
+            "score": 0.837,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "avait",
+            "start": 83.393,
+            "end": 83.553,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bu",
+            "start": 83.593,
+            "end": 83.793,
+            "score": 0.96,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plusieurs",
+            "start": 83.833,
+            "end": 84.153,
+            "score": 0.85,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "verres",
+            "start": 84.194,
+            "end": 84.414,
+            "score": 0.595,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'alcool.",
+            "start": 84.434,
+            "end": 85.334,
+            "score": 0.78,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 85.374,
+        "end": 92.7,
+        "text": "À partir du moment où on a des hallucinations, il vaut mieux s'arrêter, dormir 10-15 minutes.",
+        "words": [
+          {
+            "word": "À",
+            "start": 85.374,
+            "end": 85.414,
+            "score": 0.956,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "partir",
+            "start": 85.474,
+            "end": 85.715,
+            "score": 0.881,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 85.735,
+            "end": 85.875,
+            "score": 0.825,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "moment",
+            "start": 85.895,
+            "end": 86.055,
+            "score": 0.296,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "où",
+            "start": 86.075,
+            "end": 86.115,
+            "score": 0.121,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "on",
+            "start": 86.135,
+            "end": 86.175,
+            "score": 0.018,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 86.215,
+            "end": 86.295,
+            "score": 0.749,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 86.315,
+            "end": 86.395,
+            "score": 0.393,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "hallucinations,",
+            "start": 86.415,
+            "end": 88.457,
+            "score": 0.567,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "il",
+            "start": 88.517,
+            "end": 88.617,
+            "score": 0.745,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vaut",
+            "start": 88.637,
+            "end": 88.857,
+            "score": 0.893,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mieux",
+            "start": 88.897,
+            "end": 89.537,
+            "score": 0.863,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "s'arrêter,",
+            "start": 89.557,
+            "end": 90.638,
+            "score": 0.875,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dormir",
+            "start": 90.678,
+            "end": 91.299,
+            "score": 0.869,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "10-15",
+            "start": 91.319,
+            "end": 91.559,
+            "score": 0.72,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "minutes.",
+            "start": 91.599,
+            "end": 92.7,
+            "score": 0.75,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 92.76,
+        "end": 100.506,
+        "text": "On perd finalement moins de temps parce que ça permet vraiment au cerveau de regagner en lucidité.",
+        "words": [
+          {
+            "word": "On",
+            "start": 92.76,
+            "end": 92.9,
+            "score": 0.804,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "perd",
+            "start": 92.96,
+            "end": 93.38,
+            "score": 0.73,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "finalement",
+            "start": 93.4,
+            "end": 93.881,
+            "score": 0.83,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "moins",
+            "start": 93.921,
+            "end": 94.101,
+            "score": 0.79,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 94.141,
+            "end": 94.261,
+            "score": 0.73,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "temps",
+            "start": 94.281,
+            "end": 94.641,
+            "score": 0.73,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "parce",
+            "start": 94.681,
+            "end": 94.861,
+            "score": 0.865,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 94.921,
+            "end": 95.202,
+            "score": 0.812,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça",
+            "start": 95.222,
+            "end": 95.402,
+            "score": 0.679,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "permet",
+            "start": 95.422,
+            "end": 95.722,
+            "score": 0.849,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vraiment",
+            "start": 95.762,
+            "end": 96.763,
+            "score": 0.66,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "au",
+            "start": 96.803,
+            "end": 96.903,
+            "score": 0.719,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cerveau",
+            "start": 96.943,
+            "end": 99.345,
+            "score": 0.817,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 99.385,
+            "end": 99.505,
+            "score": 0.808,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "regagner",
+            "start": 99.525,
+            "end": 99.925,
+            "score": 0.65,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 99.965,
+            "end": 100.025,
+            "score": 0.264,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "lucidité.",
+            "start": 100.065,
+            "end": 100.506,
+            "score": 0.505,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 101.326,
+        "end": 105.448,
+        "text": " Dormir ou courir, c'est le paradoxe des participants d'Ultra Trail.",
+        "words": [
+          {
+            "word": "Dormir",
+            "start": 101.326,
+            "end": 102.006,
+            "score": 0.82,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ou",
+            "start": 102.046,
+            "end": 102.146,
+            "score": 0.939,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "courir,",
+            "start": 102.187,
+            "end": 102.607,
+            "score": 0.926,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "c'est",
+            "start": 102.627,
+            "end": 102.807,
+            "score": 0.769,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 102.847,
+            "end": 102.947,
+            "score": 0.994,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "paradoxe",
+            "start": 102.987,
+            "end": 103.627,
+            "score": 0.954,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 103.667,
+            "end": 103.767,
+            "score": 0.899,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "participants",
+            "start": 103.807,
+            "end": 104.408,
+            "score": 0.877,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'Ultra",
+            "start": 104.428,
+            "end": 104.748,
+            "score": 0.769,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Trail.",
+            "start": 104.768,
+            "end": 105.448,
+            "score": 0.812,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 105.488,
+        "end": 112.832,
+        "text": "Les hallucinations rappellent que ce sport est un défi autant physique que mental et que la sieste est parfois le meilleur moyen de rejoindre la ligne d'arrivée.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 105.488,
+            "end": 105.568,
+            "score": 0.826,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "hallucinations",
+            "start": 105.588,
+            "end": 106.248,
+            "score": 0.824,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rappellent",
+            "start": 106.289,
+            "end": 106.629,
+            "score": 0.823,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 106.649,
+            "end": 106.749,
+            "score": 0.891,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ce",
+            "start": 106.769,
+            "end": 106.869,
+            "score": 0.924,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sport",
+            "start": 106.909,
+            "end": 107.149,
+            "score": 0.897,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 107.209,
+            "end": 107.349,
+            "score": 0.748,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "un",
+            "start": 107.389,
+            "end": 107.449,
+            "score": 0.976,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "défi",
+            "start": 107.489,
+            "end": 107.729,
+            "score": 0.912,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "autant",
+            "start": 107.769,
+            "end": 108.069,
+            "score": 0.917,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "physique",
+            "start": 108.089,
+            "end": 108.43,
+            "score": 0.914,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 108.45,
+            "end": 108.57,
+            "score": 0.791,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mental",
+            "start": 108.59,
+            "end": 109.27,
+            "score": 0.961,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 109.31,
+            "end": 109.41,
+            "score": 0.671,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 109.43,
+            "end": 109.55,
+            "score": 0.888,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 109.59,
+            "end": 109.65,
+            "score": 0.976,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sieste",
+            "start": 109.69,
+            "end": 110.13,
+            "score": 0.954,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 110.17,
+            "end": 110.31,
+            "score": 0.839,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "parfois",
+            "start": 110.35,
+            "end": 110.651,
+            "score": 0.955,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 110.691,
+            "end": 110.811,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "meilleur",
+            "start": 110.831,
+            "end": 111.151,
+            "score": 0.904,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "moyen",
+            "start": 111.191,
+            "end": 111.471,
+            "score": 0.852,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 111.511,
+            "end": 111.611,
+            "score": 0.981,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "rejoindre",
+            "start": 111.651,
+            "end": 112.091,
+            "score": 0.887,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 112.131,
+            "end": 112.211,
+            "score": 0.968,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ligne",
+            "start": 112.251,
+            "end": 112.492,
+            "score": 0.929,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'arrivée.",
+            "start": 112.532,
+            "end": 112.832,
+            "score": 0.8,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Chaque",
+        "start": 1.354,
+        "end": 1.514,
+        "score": 0.072,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "année,",
+        "start": 1.574,
+        "end": 2.075,
+        "score": 0.419,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 2.115,
+        "end": 2.255,
+        "score": 0.617,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "derniers",
+        "start": 2.295,
+        "end": 2.575,
+        "score": 0.705,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 2.595,
+        "end": 2.675,
+        "score": 0.758,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Grand",
+        "start": 2.716,
+        "end": 2.876,
+        "score": 0.871,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Raid",
+        "start": 2.916,
+        "end": 3.156,
+        "score": 0.717,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rejoignent",
+        "start": 3.176,
+        "end": 3.516,
+        "score": 0.724,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 3.536,
+        "end": 3.596,
+        "score": 0.874,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ligne",
+        "start": 3.636,
+        "end": 3.817,
+        "score": 0.829,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'arrivée",
+        "start": 3.837,
+        "end": 4.257,
+        "score": 0.908,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "après",
+        "start": 4.297,
+        "end": 4.557,
+        "score": 0.885,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 4.597,
+        "end": 4.777,
+        "score": 0.833,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "soixantaine",
+        "start": 4.817,
+        "end": 5.358,
+        "score": 0.845,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'heures",
+        "start": 5.378,
+        "end": 5.578,
+        "score": 0.62,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 5.598,
+        "end": 5.698,
+        "score": 0.943,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "course.",
+        "start": 5.758,
+        "end": 6.359,
+        "score": 0.868,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Trois",
+        "start": 6.419,
+        "end": 6.679,
+        "score": 0.87,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "jours",
+        "start": 6.719,
+        "end": 6.919,
+        "score": 0.698,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 6.959,
+        "end": 7.08,
+        "score": 0.477,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "trois",
+        "start": 7.12,
+        "end": 7.34,
+        "score": 0.76,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nuits",
+        "start": 7.42,
+        "end": 7.64,
+        "score": 0.651,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dans",
+        "start": 7.66,
+        "end": 7.76,
+        "score": 0.943,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 7.78,
+        "end": 7.88,
+        "score": 0.881,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sentiers",
+        "start": 7.92,
+        "end": 8.261,
+        "score": 0.764,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "où",
+        "start": 8.301,
+        "end": 8.401,
+        "score": 0.962,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 8.441,
+        "end": 8.521,
+        "score": 0.84,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sportifs",
+        "start": 8.541,
+        "end": 9.021,
+        "score": 0.884,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dorment",
+        "start": 9.081,
+        "end": 9.362,
+        "score": 0.677,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "très",
+        "start": 9.402,
+        "end": 9.582,
+        "score": 0.874,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "peu",
+        "start": 9.622,
+        "end": 9.982,
+        "score": 0.884,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 10.022,
+        "end": 10.122,
+        "score": 0.784,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "où",
+        "start": 10.162,
+        "end": 10.282,
+        "score": 0.898,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 10.303,
+        "end": 10.363,
+        "score": 0.98,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "corps",
+        "start": 10.403,
+        "end": 10.563,
+        "score": 0.794,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mais",
+        "start": 10.603,
+        "end": 10.723,
+        "score": 0.934,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "aussi",
+        "start": 10.763,
+        "end": 11.003,
+        "score": 0.902,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'esprit",
+        "start": 11.043,
+        "end": 11.464,
+        "score": 0.812,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 11.504,
+        "end": 11.644,
+        "score": 0.784,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mis",
+        "start": 11.664,
+        "end": 11.824,
+        "score": 0.739,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 11.864,
+        "end": 11.924,
+        "score": 0.648,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mal.",
+        "start": 11.964,
+        "end": 12.725,
+        "score": 0.988,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'est",
+        "start": 12.765,
+        "end": 12.905,
+        "score": 0.573,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "souvent",
+        "start": 12.925,
+        "end": 13.125,
+        "score": 0.929,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 13.145,
+        "end": 13.165,
+        "score": 0.941,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "partir",
+        "start": 13.225,
+        "end": 13.505,
+        "score": 0.811,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 13.525,
+        "end": 13.606,
+        "score": 0.965,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 13.646,
+        "end": 13.766,
+        "score": 0.976,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "deuxième",
+        "start": 13.806,
+        "end": 14.106,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nuit",
+        "start": 14.126,
+        "end": 14.266,
+        "score": 0.597,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 14.306,
+        "end": 14.446,
+        "score": 0.91,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "course",
+        "start": 14.486,
+        "end": 14.767,
+        "score": 0.793,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 14.807,
+        "end": 14.927,
+        "score": 0.826,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 14.967,
+        "end": 15.047,
+        "score": 0.866,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "hallucinations",
+        "start": 15.067,
+        "end": 15.667,
+        "score": 0.805,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "apparaissent.",
+        "start": 15.708,
+        "end": 16.748,
+        "score": 0.871,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Benjamin",
+        "start": 16.789,
+        "end": 17.209,
+        "score": 0.65,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'a",
+        "start": 17.229,
+        "end": 17.349,
+        "score": 0.517,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vécu",
+        "start": 17.369,
+        "end": 17.649,
+        "score": 0.912,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "lors",
+        "start": 17.689,
+        "end": 17.85,
+        "score": 0.814,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 17.89,
+        "end": 17.97,
+        "score": 0.992,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "son",
+        "start": 18.01,
+        "end": 18.17,
+        "score": 0.967,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dernier",
+        "start": 18.21,
+        "end": 18.53,
+        "score": 0.854,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "trail",
+        "start": 18.55,
+        "end": 18.79,
+        "score": 0.726,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 18.81,
+        "end": 18.91,
+        "score": 0.637,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Bourbon.",
+        "start": 18.951,
+        "end": 19.211,
+        "score": 0.93,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ce",
+        "start": 19.651,
+        "end": 19.731,
+        "score": 0.73,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "que",
+        "start": 19.751,
+        "end": 19.831,
+        "score": 0.626,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "je",
+        "start": 19.851,
+        "end": 19.911,
+        "score": 0.753,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "voyais",
+        "start": 19.931,
+        "end": 20.191,
+        "score": 0.834,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "en",
+        "start": 20.231,
+        "end": 20.291,
+        "score": 0.882,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "fait",
+        "start": 20.311,
+        "end": 20.492,
+        "score": 0.898,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "c'était",
+        "start": 20.532,
+        "end": 21.052,
+        "score": 0.839,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "avec",
+        "start": 21.072,
+        "end": 22.052,
+        "score": 0.926,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "la",
+        "start": 22.092,
+        "end": 22.152,
+        "score": 0.98,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "frontale",
+        "start": 22.212,
+        "end": 23.713,
+        "score": 0.863,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "donc",
+        "start": 23.753,
+        "end": 23.893,
+        "score": 0.613,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "sur",
+        "start": 23.913,
+        "end": 23.993,
+        "score": 0.971,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 24.033,
+        "end": 24.073,
+        "score": 0.984,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "chemin",
+        "start": 24.114,
+        "end": 24.334,
+        "score": 0.91,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 24.374,
+        "end": 24.454,
+        "score": 0.891,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "anglais",
+        "start": 24.494,
+        "end": 26.655,
+        "score": 0.894,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 26.695,
+        "end": 26.795,
+        "score": 0.964,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "gros",
+        "start": 26.835,
+        "end": 27.075,
+        "score": 0.825,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "cailloux",
+        "start": 27.115,
+        "end": 27.415,
+        "score": 0.402,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 27.455,
+        "end": 27.535,
+        "score": 0.944,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "gros",
+        "start": 27.575,
+        "end": 27.755,
+        "score": 0.873,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "cailloux",
+        "start": 27.776,
+        "end": 28.056,
+        "score": 0.537,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "en",
+        "start": 28.096,
+        "end": 28.136,
+        "score": 0.633,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "fait",
+        "start": 28.176,
+        "end": 28.296,
+        "score": 0.698,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "je",
+        "start": 28.316,
+        "end": 28.376,
+        "score": 0.542,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "prenais",
+        "start": 28.416,
+        "end": 28.716,
+        "score": 0.629,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "enfin",
+        "start": 28.756,
+        "end": 28.916,
+        "score": 0.288,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "je",
+        "start": 28.936,
+        "end": 28.996,
+        "score": 0.37,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "voyais",
+        "start": 29.036,
+        "end": 29.416,
+        "score": 0.687,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ça",
+        "start": 29.436,
+        "end": 29.556,
+        "score": 0.387,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "durait",
+        "start": 29.576,
+        "end": 29.797,
+        "score": 0.469,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "pas",
+        "start": 29.817,
+        "end": 29.897,
+        "score": 0.829,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "très",
+        "start": 29.917,
+        "end": 30.017,
+        "score": 0.878,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "longtemps",
+        "start": 30.057,
+        "end": 30.797,
+        "score": 0.921,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "j'appelais",
+        "start": 30.817,
+        "end": 31.077,
+        "score": 0.712,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ça",
+        "start": 31.097,
+        "end": 31.217,
+        "score": 0.498,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "du",
+        "start": 31.237,
+        "end": 31.297,
+        "score": 0.74,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "coup",
+        "start": 31.337,
+        "end": 31.478,
+        "score": 0.758,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 31.498,
+        "end": 31.598,
+        "score": 0.9,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "hallucinations",
+        "start": 31.618,
+        "end": 32.198,
+        "score": 0.82,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "maîtrisées",
+        "start": 32.258,
+        "end": 33.319,
+        "score": 0.858,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "puisque",
+        "start": 33.359,
+        "end": 34.219,
+        "score": 0.842,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "je",
+        "start": 34.239,
+        "end": 34.279,
+        "score": 0.693,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "voyais",
+        "start": 34.319,
+        "end": 35.079,
+        "score": 0.757,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 35.099,
+        "end": 35.38,
+        "score": 0.695,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "hippos",
+        "start": 35.42,
+        "end": 35.82,
+        "score": 0.776,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ou",
+        "start": 35.88,
+        "end": 36.18,
+        "score": 0.686,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 36.2,
+        "end": 36.26,
+        "score": 0.713,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "hippopotames",
+        "start": 36.3,
+        "end": 36.82,
+        "score": 0.725,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ou",
+        "start": 36.88,
+        "end": 36.98,
+        "score": 0.75,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 37.021,
+        "end": 37.141,
+        "score": 0.974,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "éléphants.",
+        "start": 37.201,
+        "end": 38.942,
+        "score": 0.623,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Robin",
+        "start": 39.102,
+        "end": 39.362,
+        "score": 0.482,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Koinus",
+        "start": 39.382,
+        "end": 39.762,
+        "score": 0.56,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "huitième",
+        "start": 39.802,
+        "end": 40.202,
+        "score": 0.602,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 40.222,
+        "end": 40.342,
+        "score": 0.46,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 40.362,
+        "end": 40.422,
+        "score": 0.323,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "diagonale",
+        "start": 40.442,
+        "end": 40.903,
+        "score": 0.559,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 40.943,
+        "end": 41.043,
+        "score": 0.683,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "fous",
+        "start": 41.083,
+        "end": 41.323,
+        "score": 0.664,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "en",
+        "start": 41.383,
+        "end": 41.843,
+        "score": 0.24,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "2024"
+      },
+      {
+        "word": "a",
+        "start": 41.943,
+        "end": 42.403,
+        "score": 0.637,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "eu",
+        "start": 42.443,
+        "end": 42.584,
+        "score": 0.708,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pour",
+        "start": 42.624,
+        "end": 42.784,
+        "score": 0.891,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 42.804,
+        "end": 42.964,
+        "score": 0.916,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "première",
+        "start": 43.004,
+        "end": 43.344,
+        "score": 0.767,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "fois",
+        "start": 43.364,
+        "end": 43.544,
+        "score": 0.926,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 43.584,
+        "end": 43.684,
+        "score": 0.948,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "apparitions",
+        "start": 43.744,
+        "end": 44.344,
+        "score": 0.951,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "en",
+        "start": 44.385,
+        "end": 44.505,
+        "score": 0.698,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mai",
+        "start": 44.545,
+        "end": 44.945,
+        "score": 0.769,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "lorsqu'il",
+        "start": 44.985,
+        "end": 45.405,
+        "score": 0.834,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "remporte",
+        "start": 45.445,
+        "end": 45.965,
+        "score": 0.923,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'ultraterrestre.",
+        "start": 46.005,
+        "end": 46.806,
+        "score": 0.646,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "J'avais",
+        "start": 47.433,
+        "end": 47.633,
+        "score": 0.232,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "l'impression",
+        "start": 47.653,
+        "end": 48.033,
+        "score": 0.105,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 48.053,
+        "end": 48.093,
+        "score": 0.227,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "voir",
+        "start": 48.153,
+        "end": 48.273,
+        "score": 0.71,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 48.313,
+        "end": 48.494,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "têtes",
+        "start": 48.534,
+        "end": 48.754,
+        "score": 0.904,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "géantes,",
+        "start": 48.794,
+        "end": 50.275,
+        "score": 0.93,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 50.335,
+        "end": 50.395,
+        "score": 0.978,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "peu",
+        "start": 50.415,
+        "end": 50.555,
+        "score": 0.784,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "comme",
+        "start": 50.575,
+        "end": 50.775,
+        "score": 0.903,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 50.795,
+        "end": 50.915,
+        "score": 0.704,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les,",
+        "start": 50.935,
+        "end": 51.175,
+        "score": 0.954,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 51.215,
+        "end": 51.275,
+        "score": 0.216,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ne",
+        "start": 51.315,
+        "end": 51.355,
+        "score": 0.009,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sais",
+        "start": 51.395,
+        "end": 51.495,
+        "score": 0.192,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 51.515,
+        "end": 51.635,
+        "score": 0.173,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "où",
+        "start": 51.695,
+        "end": 51.755,
+        "score": 0.295,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "c'est,",
+        "start": 51.815,
+        "end": 51.955,
+        "score": 0.435,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "aux",
+        "start": 51.995,
+        "end": 52.076,
+        "score": 0.876,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "États-Unis,",
+        "start": 52.136,
+        "end": 52.596,
+        "score": 0.828,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "où",
+        "start": 52.616,
+        "end": 52.656,
+        "score": 0.687,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "il",
+        "start": 52.676,
+        "end": 52.716,
+        "score": 0.294,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "y",
+        "start": 52.736,
+        "end": 52.756,
+        "score": 0.032,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 52.776,
+        "end": 52.816,
+        "score": 0.328,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 52.856,
+        "end": 52.976,
+        "score": 0.786,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "têtes",
+        "start": 53.016,
+        "end": 53.236,
+        "score": 0.897,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 53.276,
+        "end": 53.396,
+        "score": 0.827,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "présidents",
+        "start": 53.436,
+        "end": 53.816,
+        "score": 0.844,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 53.856,
+        "end": 53.977,
+        "score": 0.911,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 54.037,
+        "end": 54.097,
+        "score": 0.946,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "roche,",
+        "start": 54.157,
+        "end": 54.317,
+        "score": 0.592,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "voir",
+        "start": 55.157,
+        "end": 55.317,
+        "score": 0.681,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vraiment",
+        "start": 55.337,
+        "end": 55.597,
+        "score": 0.865,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 55.637,
+        "end": 55.758,
+        "score": 0.983,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "silhouettes",
+        "start": 55.798,
+        "end": 56.238,
+        "score": 0.596,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "géantes.",
+        "start": 56.278,
+        "end": 57.138,
+        "score": 0.955,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Mais",
+        "start": 57.178,
+        "end": 57.338,
+        "score": 0.914,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 57.358,
+        "end": 57.518,
+        "score": 0.902,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "savais",
+        "start": 57.558,
+        "end": 57.919,
+        "score": 0.832,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que,",
+        "start": 57.939,
+        "end": 58.459,
+        "score": 0.806,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 58.499,
+        "end": 58.559,
+        "score": 0.84,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "fait,",
+        "start": 58.579,
+        "end": 58.679,
+        "score": 0.698,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "c'était",
+        "start": 58.719,
+        "end": 58.919,
+        "score": 0.602,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "presque",
+        "start": 58.939,
+        "end": 59.259,
+        "score": 0.736,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "marrant",
+        "start": 59.299,
+        "end": 59.6,
+        "score": 0.687,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "parce",
+        "start": 59.62,
+        "end": 59.76,
+        "score": 0.824,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 59.78,
+        "end": 59.88,
+        "score": 0.795,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dès",
+        "start": 59.92,
+        "end": 59.98,
+        "score": 0.38,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 60.0,
+        "end": 60.08,
+        "score": 0.384,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 60.1,
+        "end": 60.14,
+        "score": 0.307,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "voyais",
+        "start": 60.16,
+        "end": 60.3,
+        "score": 0.245,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 60.34,
+        "end": 60.38,
+        "score": 0.465,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "truc",
+        "start": 60.4,
+        "end": 60.56,
+        "score": 0.677,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "comme",
+        "start": 60.58,
+        "end": 60.72,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ça,",
+        "start": 60.74,
+        "end": 60.88,
+        "score": 0.342,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 60.92,
+        "end": 60.98,
+        "score": 0.759,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "savais",
+        "start": 61.02,
+        "end": 61.16,
+        "score": 0.416,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 61.18,
+        "end": 61.24,
+        "score": 0.733,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 61.26,
+        "end": 61.301,
+        "score": 0.274,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "n'était",
+        "start": 61.321,
+        "end": 61.441,
+        "score": 0.054,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pas",
+        "start": 61.461,
+        "end": 61.521,
+        "score": 0.94,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ça.",
+        "start": 61.561,
+        "end": 61.681,
+        "score": 0.359,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Et",
+        "start": 61.701,
+        "end": 61.741,
+        "score": 0.242,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 61.761,
+        "end": 61.801,
+        "score": 0.944,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "me",
+        "start": 61.821,
+        "end": 61.921,
+        "score": 0.05,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "disais,",
+        "start": 61.941,
+        "end": 62.161,
+        "score": 0.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dès",
+        "start": 62.341,
+        "end": 62.421,
+        "score": 0.469,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 62.441,
+        "end": 62.501,
+        "score": 0.536,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 62.521,
+        "end": 62.561,
+        "score": 0.628,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vais",
+        "start": 62.581,
+        "end": 62.701,
+        "score": 0.38,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "être",
+        "start": 62.741,
+        "end": 62.861,
+        "score": 0.825,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "avec",
+        "start": 62.901,
+        "end": 63.041,
+        "score": 0.918,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ma",
+        "start": 63.081,
+        "end": 63.202,
+        "score": 0.92,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "frontale",
+        "start": 63.262,
+        "end": 63.642,
+        "score": 0.844,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 63.662,
+        "end": 64.222,
+        "score": 0.969,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 64.282,
+        "end": 64.382,
+        "score": 0.778,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mètre",
+        "start": 64.422,
+        "end": 64.742,
+        "score": 0.821,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 64.782,
+        "end": 64.842,
+        "score": 0.857,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 64.862,
+        "end": 64.922,
+        "score": 0.919,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 64.963,
+        "end": 65.063,
+        "score": 0.879,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "j'ai",
+        "start": 65.103,
+        "end": 65.243,
+        "score": 0.879,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vu,",
+        "start": 65.283,
+        "end": 65.403,
+        "score": 0.834,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 65.423,
+        "end": 65.503,
+        "score": 0.5,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vais",
+        "start": 65.523,
+        "end": 65.623,
+        "score": 0.837,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "voir",
+        "start": 65.663,
+        "end": 65.783,
+        "score": 0.84,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 65.823,
+        "end": 65.863,
+        "score": 0.925,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 65.883,
+        "end": 65.983,
+        "score": 0.901,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "c'était",
+        "start": 66.023,
+        "end": 66.303,
+        "score": 0.805,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vraiment.",
+        "start": 66.343,
+        "end": 67.064,
+        "score": 0.823,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Et",
+        "start": 67.124,
+        "end": 67.204,
+        "score": 0.5,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "donc,",
+        "start": 67.224,
+        "end": 67.404,
+        "score": 0.676,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ça",
+        "start": 67.424,
+        "end": 67.624,
+        "score": 0.273,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "m'amusait",
+        "start": 67.644,
+        "end": 68.064,
+        "score": 0.624,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sur",
+        "start": 68.104,
+        "end": 68.244,
+        "score": 0.73,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 68.284,
+        "end": 68.324,
+        "score": 0.96,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "fin",
+        "start": 68.364,
+        "end": 68.504,
+        "score": 0.545,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 68.524,
+        "end": 68.604,
+        "score": 0.681,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "course",
+        "start": 68.644,
+        "end": 68.845,
+        "score": 0.868,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 68.905,
+        "end": 68.965,
+        "score": 0.914,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "me",
+        "start": 68.985,
+        "end": 69.085,
+        "score": 0.346,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dire,",
+        "start": 69.125,
+        "end": 69.265,
+        "score": 0.544,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bon,",
+        "start": 69.305,
+        "end": 69.405,
+        "score": 0.578,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "là,",
+        "start": 69.545,
+        "end": 70.966,
+        "score": 0.912,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "j'ai",
+        "start": 71.006,
+        "end": 71.166,
+        "score": 0.933,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vu",
+        "start": 71.206,
+        "end": 71.546,
+        "score": 0.793,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "une",
+        "start": 71.586,
+        "end": 71.706,
+        "score": 0.845,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "silhouette",
+        "start": 71.746,
+        "end": 72.266,
+        "score": 0.72,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ou",
+        "start": 72.306,
+        "end": 72.367,
+        "score": 0.907,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "une",
+        "start": 72.407,
+        "end": 72.527,
+        "score": 0.931,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "tortue",
+        "start": 72.567,
+        "end": 72.867,
+        "score": 0.874,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "géante.",
+        "start": 72.907,
+        "end": 73.227,
+        "score": 0.874,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Et",
+        "start": 73.267,
+        "end": 73.327,
+        "score": 0.499,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 73.347,
+        "end": 73.427,
+        "score": 0.768,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "fait,",
+        "start": 73.467,
+        "end": 73.647,
+        "score": 0.827,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "c'est",
+        "start": 73.687,
+        "end": 73.787,
+        "score": 0.744,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "une",
+        "start": 73.807,
+        "end": 73.887,
+        "score": 0.843,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "carcasse",
+        "start": 73.927,
+        "end": 74.308,
+        "score": 0.892,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 74.348,
+        "end": 74.408,
+        "score": 0.976,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "voitures.",
+        "start": 74.448,
+        "end": 74.948,
+        "score": 0.689,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Selon",
+        "start": 75.467,
+        "end": 75.727,
+        "score": 0.89,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plusieurs",
+        "start": 75.747,
+        "end": 76.068,
+        "score": 0.801,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "études,",
+        "start": 76.128,
+        "end": 76.408,
+        "score": 0.855,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "c'est",
+        "start": 76.448,
+        "end": 76.608,
+        "score": 0.902,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "après",
+        "start": 76.648,
+        "end": 76.888,
+        "score": 0.849,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 76.908,
+        "end": 77.068,
+        "score": 0.874,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 77.108,
+        "end": 77.208,
+        "score": 0.994,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "30"
+      },
+      {
+        "word": "heures",
+        "start": 77.549,
+        "end": 77.749,
+        "score": 0.677,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 77.789,
+        "end": 77.889,
+        "score": 0.948,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "course",
+        "start": 77.929,
+        "end": 78.209,
+        "score": 0.82,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 78.249,
+        "end": 78.369,
+        "score": 0.839,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 78.409,
+        "end": 78.469,
+        "score": 0.938,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "privation",
+        "start": 78.529,
+        "end": 78.99,
+        "score": 0.853,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 79.05,
+        "end": 79.15,
+        "score": 0.892,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sommeil",
+        "start": 79.21,
+        "end": 79.65,
+        "score": 0.952,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "commence",
+        "start": 79.71,
+        "end": 80.111,
+        "score": 0.896,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 80.151,
+        "end": 80.191,
+        "score": 0.475,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "se",
+        "start": 80.231,
+        "end": 80.331,
+        "score": 0.846,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "faire",
+        "start": 80.371,
+        "end": 80.551,
+        "score": 0.824,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sentir.",
+        "start": 80.591,
+        "end": 81.512,
+        "score": 0.855,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "La",
+        "start": 81.552,
+        "end": 81.632,
+        "score": 0.923,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "vigilance",
+        "start": 81.652,
+        "end": 82.112,
+        "score": 0.892,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "baisse",
+        "start": 82.172,
+        "end": 82.592,
+        "score": 0.896,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "autant",
+        "start": 82.652,
+        "end": 82.933,
+        "score": 0.964,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 82.973,
+        "end": 83.073,
+        "score": 0.961,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "si",
+        "start": 83.113,
+        "end": 83.193,
+        "score": 0.77,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'on",
+        "start": 83.233,
+        "end": 83.353,
+        "score": 0.837,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "avait",
+        "start": 83.393,
+        "end": 83.553,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bu",
+        "start": 83.593,
+        "end": 83.793,
+        "score": 0.96,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plusieurs",
+        "start": 83.833,
+        "end": 84.153,
+        "score": 0.85,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "verres",
+        "start": 84.194,
+        "end": 84.414,
+        "score": 0.595,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'alcool.",
+        "start": 84.434,
+        "end": 85.334,
+        "score": 0.78,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "À",
+        "start": 85.374,
+        "end": 85.414,
+        "score": 0.956,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "partir",
+        "start": 85.474,
+        "end": 85.715,
+        "score": 0.881,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 85.735,
+        "end": 85.875,
+        "score": 0.825,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "moment",
+        "start": 85.895,
+        "end": 86.055,
+        "score": 0.296,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "où",
+        "start": 86.075,
+        "end": 86.115,
+        "score": 0.121,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "on",
+        "start": 86.135,
+        "end": 86.175,
+        "score": 0.018,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 86.215,
+        "end": 86.295,
+        "score": 0.749,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 86.315,
+        "end": 86.395,
+        "score": 0.393,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "hallucinations,",
+        "start": 86.415,
+        "end": 88.457,
+        "score": 0.567,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "il",
+        "start": 88.517,
+        "end": 88.617,
+        "score": 0.745,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vaut",
+        "start": 88.637,
+        "end": 88.857,
+        "score": 0.893,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mieux",
+        "start": 88.897,
+        "end": 89.537,
+        "score": 0.863,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "s'arrêter,",
+        "start": 89.557,
+        "end": 90.638,
+        "score": 0.875,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dormir",
+        "start": 90.678,
+        "end": 91.299,
+        "score": 0.869,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "10-15",
+        "start": 91.319,
+        "end": 91.559,
+        "score": 0.72,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "minutes.",
+        "start": 91.599,
+        "end": 92.7,
+        "score": 0.75,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "On",
+        "start": 92.76,
+        "end": 92.9,
+        "score": 0.804,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "perd",
+        "start": 92.96,
+        "end": 93.38,
+        "score": 0.73,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "finalement",
+        "start": 93.4,
+        "end": 93.881,
+        "score": 0.83,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "moins",
+        "start": 93.921,
+        "end": 94.101,
+        "score": 0.79,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 94.141,
+        "end": 94.261,
+        "score": 0.73,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "temps",
+        "start": 94.281,
+        "end": 94.641,
+        "score": 0.73,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "parce",
+        "start": 94.681,
+        "end": 94.861,
+        "score": 0.865,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 94.921,
+        "end": 95.202,
+        "score": 0.812,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça",
+        "start": 95.222,
+        "end": 95.402,
+        "score": 0.679,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "permet",
+        "start": 95.422,
+        "end": 95.722,
+        "score": 0.849,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vraiment",
+        "start": 95.762,
+        "end": 96.763,
+        "score": 0.66,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "au",
+        "start": 96.803,
+        "end": 96.903,
+        "score": 0.719,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cerveau",
+        "start": 96.943,
+        "end": 99.345,
+        "score": 0.817,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 99.385,
+        "end": 99.505,
+        "score": 0.808,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "regagner",
+        "start": 99.525,
+        "end": 99.925,
+        "score": 0.65,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 99.965,
+        "end": 100.025,
+        "score": 0.264,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "lucidité.",
+        "start": 100.065,
+        "end": 100.506,
+        "score": 0.505,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Dormir",
+        "start": 101.326,
+        "end": 102.006,
+        "score": 0.82,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ou",
+        "start": 102.046,
+        "end": 102.146,
+        "score": 0.939,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "courir,",
+        "start": 102.187,
+        "end": 102.607,
+        "score": 0.926,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "c'est",
+        "start": 102.627,
+        "end": 102.807,
+        "score": 0.769,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 102.847,
+        "end": 102.947,
+        "score": 0.994,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "paradoxe",
+        "start": 102.987,
+        "end": 103.627,
+        "score": 0.954,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 103.667,
+        "end": 103.767,
+        "score": 0.899,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "participants",
+        "start": 103.807,
+        "end": 104.408,
+        "score": 0.877,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'Ultra",
+        "start": 104.428,
+        "end": 104.748,
+        "score": 0.769,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Trail.",
+        "start": 104.768,
+        "end": 105.448,
+        "score": 0.812,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Les",
+        "start": 105.488,
+        "end": 105.568,
+        "score": 0.826,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "hallucinations",
+        "start": 105.588,
+        "end": 106.248,
+        "score": 0.824,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rappellent",
+        "start": 106.289,
+        "end": 106.629,
+        "score": 0.823,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 106.649,
+        "end": 106.749,
+        "score": 0.891,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ce",
+        "start": 106.769,
+        "end": 106.869,
+        "score": 0.924,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sport",
+        "start": 106.909,
+        "end": 107.149,
+        "score": 0.897,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 107.209,
+        "end": 107.349,
+        "score": 0.748,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "un",
+        "start": 107.389,
+        "end": 107.449,
+        "score": 0.976,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "défi",
+        "start": 107.489,
+        "end": 107.729,
+        "score": 0.912,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "autant",
+        "start": 107.769,
+        "end": 108.069,
+        "score": 0.917,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "physique",
+        "start": 108.089,
+        "end": 108.43,
+        "score": 0.914,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 108.45,
+        "end": 108.57,
+        "score": 0.791,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mental",
+        "start": 108.59,
+        "end": 109.27,
+        "score": 0.961,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 109.31,
+        "end": 109.41,
+        "score": 0.671,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 109.43,
+        "end": 109.55,
+        "score": 0.888,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 109.59,
+        "end": 109.65,
+        "score": 0.976,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sieste",
+        "start": 109.69,
+        "end": 110.13,
+        "score": 0.954,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 110.17,
+        "end": 110.31,
+        "score": 0.839,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "parfois",
+        "start": 110.35,
+        "end": 110.651,
+        "score": 0.955,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 110.691,
+        "end": 110.811,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "meilleur",
+        "start": 110.831,
+        "end": 111.151,
+        "score": 0.904,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "moyen",
+        "start": 111.191,
+        "end": 111.471,
+        "score": 0.852,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 111.511,
+        "end": 111.611,
+        "score": 0.981,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "rejoindre",
+        "start": 111.651,
+        "end": 112.091,
+        "score": 0.887,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 112.131,
+        "end": 112.211,
+        "score": 0.968,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ligne",
+        "start": 112.251,
+        "end": 112.492,
+        "score": 0.929,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'arrivée.",
+        "start": 112.532,
+        "end": 112.832,
+        "score": 0.8,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 115,
+  "transcription_duration": 10
+}

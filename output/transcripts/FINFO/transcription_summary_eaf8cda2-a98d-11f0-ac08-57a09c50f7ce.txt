@@ -1,0 +1,25 @@
+=== RÉSUMÉ DE TRANSCRIPTION ===
+Durée source: 67s
+Temps de transcription: 6s
+Langue: fr
+Nombre de segments: 12
+Prompt utilisé: N/A
+
+=== TEXTE COMPLET ===
+[00:00:00 - 00:00:13] Voix 02 :
+  son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.
+
+[00:00:13 - 00:00:22] Voix 03 :
+ Si je clique dessus, on retrouve tout le bazar. Je me sens en otage parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.
+
+[00:00:23 - 00:00:36] Voix 02 :
+  Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité. Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.
+
+[00:00:36 - 00:00:43] Voix 00 :
+ Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.
+
+[00:00:43 - 00:00:53] Voix 02 :
+  Cette mise à jour représente un coût notamment pour les collectivités. Alors pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.
+
+[00:00:53 - 00:00:57] Voix 01 :
+ On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.

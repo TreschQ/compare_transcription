@@ -1,0 +1,19 @@
+Voici la transcription post-traitée :
+
+Journaliste:
+Son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.
+
+Invité:
+Si je clique dessus, on retrouve tout le bazar. Je me sens en otage parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.
+
+Journaliste:
+Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité. Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.
+
+Invité:
+Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.
+
+Journaliste:
+Cette mise à jour représente un coût notamment pour les collectivités. Alors pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.
+
+Invité:
+On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.

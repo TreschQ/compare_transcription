@@ -1,0 +1,3723 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 1.024,
+        "end": 5.508,
+        "text": " Un quartier cerné par les policiers à l'aube ce matin.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 1.024,
+            "end": 1.104,
+            "score": 0.796,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quartier",
+            "start": 1.124,
+            "end": 1.545,
+            "score": 0.796,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "cerné",
+            "start": 1.585,
+            "end": 1.925,
+            "score": 0.903,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "par",
+            "start": 1.965,
+            "end": 2.085,
+            "score": 0.905,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 2.105,
+            "end": 2.205,
+            "score": 0.952,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "policiers",
+            "start": 2.225,
+            "end": 2.706,
+            "score": 0.827,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 2.746,
+            "end": 2.806,
+            "score": 0.773,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'aube",
+            "start": 2.826,
+            "end": 3.046,
+            "score": 0.474,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ce",
+            "start": 3.066,
+            "end": 3.186,
+            "score": 0.855,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "matin.",
+            "start": 3.226,
+            "end": 5.508,
+            "score": 0.938,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 5.728,
+        "end": 7.369,
+        "text": "400 forces de l'ordre à Grenoble.",
+        "words": [
+          {
+            "word": "400"
+          },
+          {
+            "word": "forces",
+            "start": 5.768,
+            "end": 6.048,
+            "score": 0.776,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 6.108,
+            "end": 6.168,
+            "score": 0.994,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'ordre",
+            "start": 6.208,
+            "end": 6.429,
+            "score": 0.859,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 6.469,
+            "end": 6.489,
+            "score": 0.057,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Grenoble.",
+            "start": 6.529,
+            "end": 7.369,
+            "score": 0.953,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 7.429,
+        "end": 9.811,
+        "text": "Une opération d'envergure.",
+        "words": [
+          {
+            "word": "Une",
+            "start": 7.429,
+            "end": 7.529,
+            "score": 0.958,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "opération",
+            "start": 7.59,
+            "end": 8.07,
+            "score": 0.87,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "d'envergure.",
+            "start": 8.13,
+            "end": 9.811,
+            "score": 0.94,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 9.851,
+        "end": 18.899,
+        "text": "Pendant quatre heures, les CRS ratissent les halls d'entrée, fouillent les partis communes, perquisitionnent 63 appartements.",
+        "words": [
+          {
+            "word": "Pendant",
+            "start": 9.851,
+            "end": 10.152,
+            "score": 0.934,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quatre",
+            "start": 10.192,
+            "end": 10.472,
+            "score": 0.794,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "heures,",
+            "start": 10.492,
+            "end": 11.052,
+            "score": 0.716,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 11.092,
+            "end": 11.192,
+            "score": 0.674,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "CRS",
+            "start": 11.253,
+            "end": 11.653,
+            "score": 0.691,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ratissent",
+            "start": 11.773,
+            "end": 12.173,
+            "score": 0.753,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 12.193,
+            "end": 12.273,
+            "score": 0.697,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "halls",
+            "start": 12.293,
+            "end": 12.494,
+            "score": 0.539,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "d'entrée,",
+            "start": 12.534,
+            "end": 13.054,
+            "score": 0.877,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "fouillent",
+            "start": 13.094,
+            "end": 13.374,
+            "score": 0.561,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 13.394,
+            "end": 13.494,
+            "score": 0.473,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "partis",
+            "start": 13.534,
+            "end": 13.815,
+            "score": 0.871,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "communes,",
+            "start": 13.835,
+            "end": 15.056,
+            "score": 0.959,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "perquisitionnent",
+            "start": 15.096,
+            "end": 16.477,
+            "score": 0.838,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "63"
+          },
+          {
+            "word": "appartements.",
+            "start": 16.777,
+            "end": 18.899,
+            "score": 0.93,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 18.919,
+        "end": 26.085,
+        "text": "Sur l'un des principaux points de deal de l'agglomération, une des 100 anti-drogues XXL qui laissent les riverains dubitatifs.",
+        "words": [
+          {
+            "word": "Sur",
+            "start": 18.919,
+            "end": 19.079,
+            "score": 0.913,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'un",
+            "start": 19.119,
+            "end": 19.259,
+            "score": 0.737,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 19.279,
+            "end": 19.419,
+            "score": 0.984,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "principaux",
+            "start": 19.459,
+            "end": 19.94,
+            "score": 0.908,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "points",
+            "start": 19.98,
+            "end": 20.14,
+            "score": 0.824,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 20.18,
+            "end": 20.26,
+            "score": 0.806,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "deal",
+            "start": 20.28,
+            "end": 20.46,
+            "score": 0.52,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 20.5,
+            "end": 20.56,
+            "score": 0.894,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'agglomération,",
+            "start": 20.6,
+            "end": 21.281,
+            "score": 0.86,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "une",
+            "start": 21.301,
+            "end": 21.481,
+            "score": 0.582,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 21.521,
+            "end": 21.881,
+            "score": 0.721,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "100"
+          },
+          {
+            "word": "anti-drogues",
+            "start": 21.941,
+            "end": 22.422,
+            "score": 0.793,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "XXL",
+            "start": 22.522,
+            "end": 23.703,
+            "score": 0.842,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "qui",
+            "start": 23.723,
+            "end": 23.883,
+            "score": 0.779,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "laissent",
+            "start": 23.923,
+            "end": 24.163,
+            "score": 0.802,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 24.203,
+            "end": 24.263,
+            "score": 0.99,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "riverains",
+            "start": 24.303,
+            "end": 24.603,
+            "score": 0.62,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dubitatifs.",
+            "start": 24.624,
+            "end": 26.085,
+            "score": 0.933,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 26.125,
+        "end": 27.906,
+        "text": "Dès qu'ils sont partis, ça recommence.",
+        "words": [
+          {
+            "word": "Dès",
+            "start": 26.125,
+            "end": 26.205,
+            "score": 0.237,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qu'ils",
+            "start": 26.225,
+            "end": 26.345,
+            "score": 0.145,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 26.365,
+            "end": 26.505,
+            "score": 0.352,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "partis,",
+            "start": 26.545,
+            "end": 26.765,
+            "score": 0.355,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ça",
+            "start": 26.785,
+            "end": 26.885,
+            "score": 0.36,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "recommence.",
+            "start": 26.905,
+            "end": 27.906,
+            "score": 0.394,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 28.026,
+        "end": 28.547,
+        "text": "C'est comme ça.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 28.026,
+            "end": 28.246,
+            "score": 0.412,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "comme",
+            "start": 28.266,
+            "end": 28.427,
+            "score": 0.535,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ça.",
+            "start": 28.447,
+            "end": 28.547,
+            "score": 0.364,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 29.737,
+        "end": 33.098,
+        "text": " C'est pas tout pareil.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 29.737,
+            "end": 30.277,
+            "score": 0.544,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pas",
+            "start": 30.317,
+            "end": 30.397,
+            "score": 0.176,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "tout",
+            "start": 30.437,
+            "end": 32.818,
+            "score": 0.526,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pareil.",
+            "start": 32.858,
+            "end": 33.098,
+            "score": 0.361,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 33.118,
+        "end": 34.239,
+        "text": "C'est triste.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 33.118,
+            "end": 33.199,
+            "score": 0.002,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "triste.",
+            "start": 33.219,
+            "end": 34.239,
+            "score": 0.516,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 34.299,
+        "end": 39.441,
+        "text": "Une opération démarrée à 6h ce matin dans le quartier Mistral à Grenoble.",
+        "words": [
+          {
+            "word": "Une",
+            "start": 34.299,
+            "end": 34.399,
+            "score": 0.785,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "opération",
+            "start": 34.459,
+            "end": 35.419,
+            "score": 0.919,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "démarrée",
+            "start": 35.46,
+            "end": 35.86,
+            "score": 0.819,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 35.9,
+            "end": 36.18,
+            "score": 0.647,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "6h",
+            "start": 36.2,
+            "end": 36.44,
+            "score": 0.486,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ce",
+            "start": 36.46,
+            "end": 36.58,
+            "score": 0.964,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "matin",
+            "start": 36.62,
+            "end": 36.9,
+            "score": 0.852,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dans",
+            "start": 36.94,
+            "end": 37.06,
+            "score": 0.894,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 37.08,
+            "end": 37.14,
+            "score": 0.756,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quartier",
+            "start": 37.18,
+            "end": 37.48,
+            "score": 0.844,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Mistral",
+            "start": 37.52,
+            "end": 37.921,
+            "score": 0.711,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 37.981,
+            "end": 38.001,
+            "score": 0.003,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Grenoble.",
+            "start": 38.061,
+            "end": 39.441,
+            "score": 0.867,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 39.461,
+        "end": 45.684,
+        "text": "Dans le viseur des enquêteurs, une tour de 16 étages bien connue des services de police.",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 39.461,
+            "end": 39.601,
+            "score": 0.725,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 39.621,
+            "end": 39.681,
+            "score": 0.984,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "viseur",
+            "start": 39.721,
+            "end": 40.022,
+            "score": 0.938,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 40.082,
+            "end": 40.182,
+            "score": 0.932,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "enquêteurs,",
+            "start": 40.222,
+            "end": 41.222,
+            "score": 0.887,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "une",
+            "start": 41.262,
+            "end": 41.402,
+            "score": 0.893,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "tour",
+            "start": 41.442,
+            "end": 41.662,
+            "score": 0.986,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 41.702,
+            "end": 41.822,
+            "score": 0.946,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "16"
+          },
+          {
+            "word": "étages",
+            "start": 42.102,
+            "end": 42.603,
+            "score": 0.859,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "bien",
+            "start": 42.643,
+            "end": 42.843,
+            "score": 0.882,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "connue",
+            "start": 42.903,
+            "end": 43.183,
+            "score": 0.854,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 43.223,
+            "end": 43.343,
+            "score": 0.987,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "services",
+            "start": 43.383,
+            "end": 43.723,
+            "score": 0.812,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 43.763,
+            "end": 43.843,
+            "score": 0.931,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "police.",
+            "start": 43.883,
+            "end": 45.684,
+            "score": 0.922,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 45.724,
+        "end": 51.206,
+        "text": "Sur place, notre équipe filme les publicités placardées par les dealers.",
+        "words": [
+          {
+            "word": "Sur",
+            "start": 45.724,
+            "end": 45.884,
+            "score": 0.929,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "place,",
+            "start": 45.924,
+            "end": 46.724,
+            "score": 0.909,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "notre",
+            "start": 46.764,
+            "end": 46.925,
+            "score": 0.899,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "équipe",
+            "start": 46.965,
+            "end": 47.625,
+            "score": 0.897,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "filme",
+            "start": 47.665,
+            "end": 48.005,
+            "score": 0.926,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 48.025,
+            "end": 48.145,
+            "score": 0.924,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "publicités",
+            "start": 48.185,
+            "end": 48.905,
+            "score": 0.918,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "placardées",
+            "start": 48.965,
+            "end": 49.546,
+            "score": 0.817,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "par",
+            "start": 49.566,
+            "end": 49.686,
+            "score": 0.899,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 49.706,
+            "end": 49.806,
+            "score": 0.822,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dealers.",
+            "start": 49.826,
+            "end": 51.206,
+            "score": 0.838,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 51.226,
+        "end": 54.308,
+        "text": "Les contacts des trafiquants, les tarifs des stupéfiants.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 51.226,
+            "end": 51.346,
+            "score": 0.962,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "contacts",
+            "start": 51.386,
+            "end": 51.867,
+            "score": 0.867,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 51.907,
+            "end": 52.007,
+            "score": 0.889,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "trafiquants,",
+            "start": 52.047,
+            "end": 52.967,
+            "score": 0.924,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 53.007,
+            "end": 53.147,
+            "score": 0.89,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "tarifs",
+            "start": 53.187,
+            "end": 53.527,
+            "score": 0.832,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 53.587,
+            "end": 53.667,
+            "score": 0.914,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "stupéfiants.",
+            "start": 53.707,
+            "end": 54.308,
+            "score": 0.755,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 55.45,
+        "end": 63.296,
+        "text": " À l'intérieur, les policiers découvrent des armes, des munitions et une importante quantité de drogue, selon le procureur de Grenoble.",
+        "words": [
+          {
+            "word": "À",
+            "start": 55.45,
+            "end": 55.49,
+            "score": 0.504,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'intérieur,",
+            "start": 55.53,
+            "end": 56.391,
+            "score": 0.897,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 56.431,
+            "end": 56.531,
+            "score": 0.95,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "policiers",
+            "start": 56.571,
+            "end": 56.931,
+            "score": 0.823,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "découvrent",
+            "start": 56.971,
+            "end": 57.592,
+            "score": 0.771,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 57.612,
+            "end": 57.752,
+            "score": 0.965,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "armes,",
+            "start": 57.832,
+            "end": 58.052,
+            "score": 0.953,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 58.072,
+            "end": 58.132,
+            "score": 0.002,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "munitions",
+            "start": 58.272,
+            "end": 59.073,
+            "score": 0.878,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "et",
+            "start": 59.113,
+            "end": 59.213,
+            "score": 0.776,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "une",
+            "start": 59.273,
+            "end": 59.373,
+            "score": 0.989,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "importante",
+            "start": 59.433,
+            "end": 59.913,
+            "score": 0.941,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quantité",
+            "start": 59.933,
+            "end": 60.293,
+            "score": 0.951,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 60.313,
+            "end": 60.394,
+            "score": 0.982,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "drogue,",
+            "start": 60.434,
+            "end": 61.154,
+            "score": 0.857,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "selon",
+            "start": 61.194,
+            "end": 61.474,
+            "score": 0.957,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 61.494,
+            "end": 61.594,
+            "score": 0.982,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "procureur",
+            "start": 61.634,
+            "end": 62.115,
+            "score": 0.855,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 62.135,
+            "end": 62.215,
+            "score": 0.943,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Grenoble.",
+            "start": 62.255,
+            "end": 63.296,
+            "score": 0.847,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 63.456,
+        "end": 70.08,
+        "text": "10 kilos de résine de cannabis ont été saisis dans un appartement avec 10 000 euros en numéraire.",
+        "words": [
+          {
+            "word": "10"
+          },
+          {
+            "word": "kilos",
+            "start": 63.476,
+            "end": 64.176,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 64.196,
+            "end": 65.077,
+            "score": 0.977,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "résine",
+            "start": 65.117,
+            "end": 65.377,
+            "score": 0.902,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 65.397,
+            "end": 65.457,
+            "score": 0.846,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cannabis",
+            "start": 65.477,
+            "end": 65.817,
+            "score": 0.685,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ont",
+            "start": 65.857,
+            "end": 65.937,
+            "score": 0.811,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "été",
+            "start": 65.977,
+            "end": 66.137,
+            "score": 0.91,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "saisis",
+            "start": 66.178,
+            "end": 66.418,
+            "score": 0.792,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 66.438,
+            "end": 66.538,
+            "score": 0.724,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 66.578,
+            "end": 66.638,
+            "score": 0.808,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "appartement",
+            "start": 66.658,
+            "end": 67.558,
+            "score": 0.963,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "avec",
+            "start": 67.599,
+            "end": 68.039,
+            "score": 0.992,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "10"
+          },
+          {
+            "word": "000"
+          },
+          {
+            "word": "euros",
+            "start": 68.559,
+            "end": 69.26,
+            "score": 0.875,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 69.3,
+            "end": 69.38,
+            "score": 0.932,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "numéraire.",
+            "start": 69.42,
+            "end": 70.08,
+            "score": 0.965,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 70.12,
+        "end": 78.806,
+        "text": "Dans les gaines techniques ont été saisies une centaine de pochons contenant de la cocaïne, de la résine de cannabis et une drogue de synthèse, la MD et MA.",
+        "words": [
+          {
+            "word": "Dans",
+            "start": 70.12,
+            "end": 70.24,
+            "score": 0.654,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 70.28,
+            "end": 70.36,
+            "score": 0.84,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gaines",
+            "start": 70.38,
+            "end": 70.641,
+            "score": 0.926,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "techniques",
+            "start": 70.681,
+            "end": 71.221,
+            "score": 0.867,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ont",
+            "start": 71.261,
+            "end": 71.361,
+            "score": 0.919,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "été",
+            "start": 71.401,
+            "end": 71.561,
+            "score": 0.759,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "saisies",
+            "start": 71.581,
+            "end": 71.821,
+            "score": 0.782,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "une",
+            "start": 71.861,
+            "end": 71.942,
+            "score": 0.963,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "centaine",
+            "start": 71.982,
+            "end": 72.262,
+            "score": 0.979,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 72.302,
+            "end": 72.362,
+            "score": 0.997,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pochons",
+            "start": 72.402,
+            "end": 73.162,
+            "score": 0.928,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "contenant",
+            "start": 73.182,
+            "end": 73.463,
+            "score": 0.898,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 73.483,
+            "end": 73.543,
+            "score": 0.728,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 73.563,
+            "end": 73.623,
+            "score": 0.785,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cocaïne,",
+            "start": 73.643,
+            "end": 74.203,
+            "score": 0.86,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 74.243,
+            "end": 74.303,
+            "score": 0.881,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 74.323,
+            "end": 74.403,
+            "score": 0.937,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "résine",
+            "start": 74.423,
+            "end": 74.663,
+            "score": 0.899,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 74.683,
+            "end": 74.743,
+            "score": 0.74,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cannabis",
+            "start": 74.783,
+            "end": 75.384,
+            "score": 0.866,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "et",
+            "start": 75.424,
+            "end": 76.004,
+            "score": 0.827,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "une",
+            "start": 76.044,
+            "end": 76.124,
+            "score": 0.762,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "drogue",
+            "start": 76.144,
+            "end": 76.325,
+            "score": 0.524,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 76.345,
+            "end": 76.405,
+            "score": 0.709,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "synthèse,",
+            "start": 76.425,
+            "end": 77.205,
+            "score": 0.9,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 77.245,
+            "end": 77.305,
+            "score": 0.878,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "MD",
+            "start": 77.445,
+            "end": 77.906,
+            "score": 0.886,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "et",
+            "start": 77.966,
+            "end": 78.066,
+            "score": 0.603,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "MA.",
+            "start": 78.086,
+            "end": 78.806,
+            "score": 0.812,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 78.846,
+        "end": 83.65,
+        "text": "Des trafiquants qui s'étaient installés et barricadés dans plusieurs appartements vacants",
+        "words": [
+          {
+            "word": "Des",
+            "start": 78.846,
+            "end": 78.986,
+            "score": 0.99,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "trafiquants",
+            "start": 79.026,
+            "end": 79.947,
+            "score": 0.901,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "qui",
+            "start": 79.967,
+            "end": 80.107,
+            "score": 0.838,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "s'étaient",
+            "start": 80.147,
+            "end": 80.447,
+            "score": 0.738,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "installés",
+            "start": 80.487,
+            "end": 81.188,
+            "score": 0.914,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "et",
+            "start": 81.228,
+            "end": 81.388,
+            "score": 0.81,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "barricadés",
+            "start": 81.428,
+            "end": 82.069,
+            "score": 0.88,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dans",
+            "start": 82.109,
+            "end": 82.289,
+            "score": 0.948,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "plusieurs",
+            "start": 82.329,
+            "end": 82.729,
+            "score": 0.761,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "appartements",
+            "start": 82.789,
+            "end": 83.289,
+            "score": 0.898,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "vacants",
+            "start": 83.349,
+            "end": 83.65,
+            "score": 0.827,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 84.51,
+        "end": 87.414,
+        "text": " difficilement accessibles pour les forces de l'ordre.",
+        "words": [
+          {
+            "word": "difficilement",
+            "start": 84.51,
+            "end": 85.151,
+            "score": 0.955,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "accessibles",
+            "start": 85.211,
+            "end": 85.952,
+            "score": 0.943,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "pour",
+            "start": 85.992,
+            "end": 86.112,
+            "score": 0.966,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 86.152,
+            "end": 86.212,
+            "score": 0.987,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "forces",
+            "start": 86.252,
+            "end": 86.533,
+            "score": 0.929,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 86.573,
+            "end": 86.633,
+            "score": 0.962,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'ordre.",
+            "start": 86.653,
+            "end": 87.414,
+            "score": 0.573,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 87.434,
+        "end": 90.797,
+        "text": "Vous aviez des portes d'entrée qui n'étaient plus ouvrables.",
+        "words": [
+          {
+            "word": "Vous",
+            "start": 87.434,
+            "end": 87.574,
+            "score": 0.917,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aviez",
+            "start": 87.614,
+            "end": 87.914,
+            "score": 0.848,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 87.934,
+            "end": 88.074,
+            "score": 0.927,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "portes",
+            "start": 88.094,
+            "end": 88.375,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'entrée",
+            "start": 88.435,
+            "end": 89.055,
+            "score": 0.76,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 89.095,
+            "end": 89.236,
+            "score": 0.876,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "n'étaient",
+            "start": 89.276,
+            "end": 89.716,
+            "score": 0.876,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plus",
+            "start": 89.736,
+            "end": 90.057,
+            "score": 0.746,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ouvrables.",
+            "start": 90.117,
+            "end": 90.797,
+            "score": 0.93,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 90.837,
+        "end": 92.9,
+        "text": "Elles avaient été soudées en plusieurs endroits.",
+        "words": [
+          {
+            "word": "Elles",
+            "start": 90.837,
+            "end": 91.018,
+            "score": 0.82,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avaient",
+            "start": 91.078,
+            "end": 91.258,
+            "score": 0.851,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "été",
+            "start": 91.278,
+            "end": 91.478,
+            "score": 0.983,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "soudées",
+            "start": 91.518,
+            "end": 91.859,
+            "score": 0.834,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "en",
+            "start": 91.919,
+            "end": 92.059,
+            "score": 0.768,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plusieurs",
+            "start": 92.079,
+            "end": 92.439,
+            "score": 0.823,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "endroits.",
+            "start": 92.499,
+            "end": 92.9,
+            "score": 0.874,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 92.96,
+        "end": 97.365,
+        "text": "Il a fallu intervenir à la disqueuse pour pouvoir rétablir l'accès.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 92.96,
+            "end": 93.06,
+            "score": 0.861,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "a",
+            "start": 93.08,
+            "end": 93.12,
+            "score": 0.494,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "fallu",
+            "start": 93.16,
+            "end": 93.38,
+            "score": 0.822,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "intervenir",
+            "start": 93.44,
+            "end": 93.901,
+            "score": 0.947,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "à",
+            "start": 93.921,
+            "end": 93.961,
+            "score": 0.479,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 94.001,
+            "end": 94.101,
+            "score": 0.776,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "disqueuse",
+            "start": 94.141,
+            "end": 94.862,
+            "score": 0.758,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 94.902,
+            "end": 95.082,
+            "score": 0.845,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pouvoir",
+            "start": 95.122,
+            "end": 95.803,
+            "score": 0.893,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "rétablir",
+            "start": 95.823,
+            "end": 96.444,
+            "score": 0.906,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'accès.",
+            "start": 96.484,
+            "end": 97.365,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 97.405,
+        "end": 100.828,
+        "text": "Ce matin à Grenoble, trois personnes ont été interpellées.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 97.405,
+            "end": 97.505,
+            "score": 0.96,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "matin",
+            "start": 97.545,
+            "end": 97.805,
+            "score": 0.875,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 97.845,
+            "end": 97.865,
+            "score": 0.837,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Grenoble,",
+            "start": 97.905,
+            "end": 98.626,
+            "score": 0.899,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "trois",
+            "start": 98.666,
+            "end": 98.886,
+            "score": 0.795,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "personnes",
+            "start": 98.926,
+            "end": 99.267,
+            "score": 0.793,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ont",
+            "start": 99.307,
+            "end": 99.407,
+            "score": 0.76,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "été",
+            "start": 99.447,
+            "end": 99.587,
+            "score": 0.987,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "interpellées.",
+            "start": 99.647,
+            "end": 100.828,
+            "score": 0.872,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 100.848,
+        "end": 105.654,
+        "text": "Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 100.848,
+            "end": 100.969,
+            "score": 0.933,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "autorités",
+            "start": 101.009,
+            "end": 101.389,
+            "score": 0.893,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "annoncent",
+            "start": 101.449,
+            "end": 101.729,
+            "score": 0.861,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "que",
+            "start": 101.749,
+            "end": 101.91,
+            "score": 0.82,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "d'autres",
+            "start": 101.95,
+            "end": 102.33,
+            "score": 0.901,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "opérations",
+            "start": 102.39,
+            "end": 102.871,
+            "score": 0.914,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 102.891,
+            "end": 103.011,
+            "score": 0.684,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ce",
+            "start": 103.031,
+            "end": 103.171,
+            "score": 0.968,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "type",
+            "start": 103.211,
+            "end": 103.852,
+            "score": 0.983,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "seront",
+            "start": 103.892,
+            "end": 104.152,
+            "score": 0.841,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "menées",
+            "start": 104.172,
+            "end": 104.372,
+            "score": 0.885,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dans",
+            "start": 104.412,
+            "end": 104.513,
+            "score": 0.977,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 104.533,
+            "end": 104.613,
+            "score": 0.834,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "différents",
+            "start": 104.653,
+            "end": 104.973,
+            "score": 0.944,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quartiers",
+            "start": 105.013,
+            "end": 105.273,
+            "score": 0.892,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 105.293,
+            "end": 105.353,
+            "score": 0.948,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "la",
+            "start": 105.393,
+            "end": 105.454,
+            "score": 0.988,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ville.",
+            "start": 105.494,
+            "end": 105.654,
+            "score": 0.894,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Un",
+        "start": 1.024,
+        "end": 1.104,
+        "score": 0.796,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quartier",
+        "start": 1.124,
+        "end": 1.545,
+        "score": 0.796,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "cerné",
+        "start": 1.585,
+        "end": 1.925,
+        "score": 0.903,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "par",
+        "start": 1.965,
+        "end": 2.085,
+        "score": 0.905,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 2.105,
+        "end": 2.205,
+        "score": 0.952,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "policiers",
+        "start": 2.225,
+        "end": 2.706,
+        "score": 0.827,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 2.746,
+        "end": 2.806,
+        "score": 0.773,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'aube",
+        "start": 2.826,
+        "end": 3.046,
+        "score": 0.474,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ce",
+        "start": 3.066,
+        "end": 3.186,
+        "score": 0.855,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "matin.",
+        "start": 3.226,
+        "end": 5.508,
+        "score": 0.938,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "400"
+      },
+      {
+        "word": "forces",
+        "start": 5.768,
+        "end": 6.048,
+        "score": 0.776,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 6.108,
+        "end": 6.168,
+        "score": 0.994,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'ordre",
+        "start": 6.208,
+        "end": 6.429,
+        "score": 0.859,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 6.469,
+        "end": 6.489,
+        "score": 0.057,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Grenoble.",
+        "start": 6.529,
+        "end": 7.369,
+        "score": 0.953,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Une",
+        "start": 7.429,
+        "end": 7.529,
+        "score": 0.958,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "opération",
+        "start": 7.59,
+        "end": 8.07,
+        "score": 0.87,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "d'envergure.",
+        "start": 8.13,
+        "end": 9.811,
+        "score": 0.94,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Pendant",
+        "start": 9.851,
+        "end": 10.152,
+        "score": 0.934,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quatre",
+        "start": 10.192,
+        "end": 10.472,
+        "score": 0.794,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "heures,",
+        "start": 10.492,
+        "end": 11.052,
+        "score": 0.716,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 11.092,
+        "end": 11.192,
+        "score": 0.674,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "CRS",
+        "start": 11.253,
+        "end": 11.653,
+        "score": 0.691,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ratissent",
+        "start": 11.773,
+        "end": 12.173,
+        "score": 0.753,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 12.193,
+        "end": 12.273,
+        "score": 0.697,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "halls",
+        "start": 12.293,
+        "end": 12.494,
+        "score": 0.539,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "d'entrée,",
+        "start": 12.534,
+        "end": 13.054,
+        "score": 0.877,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "fouillent",
+        "start": 13.094,
+        "end": 13.374,
+        "score": 0.561,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 13.394,
+        "end": 13.494,
+        "score": 0.473,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "partis",
+        "start": 13.534,
+        "end": 13.815,
+        "score": 0.871,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "communes,",
+        "start": 13.835,
+        "end": 15.056,
+        "score": 0.959,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "perquisitionnent",
+        "start": 15.096,
+        "end": 16.477,
+        "score": 0.838,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "63"
+      },
+      {
+        "word": "appartements.",
+        "start": 16.777,
+        "end": 18.899,
+        "score": 0.93,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Sur",
+        "start": 18.919,
+        "end": 19.079,
+        "score": 0.913,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'un",
+        "start": 19.119,
+        "end": 19.259,
+        "score": 0.737,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 19.279,
+        "end": 19.419,
+        "score": 0.984,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "principaux",
+        "start": 19.459,
+        "end": 19.94,
+        "score": 0.908,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "points",
+        "start": 19.98,
+        "end": 20.14,
+        "score": 0.824,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 20.18,
+        "end": 20.26,
+        "score": 0.806,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "deal",
+        "start": 20.28,
+        "end": 20.46,
+        "score": 0.52,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 20.5,
+        "end": 20.56,
+        "score": 0.894,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'agglomération,",
+        "start": 20.6,
+        "end": 21.281,
+        "score": 0.86,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "une",
+        "start": 21.301,
+        "end": 21.481,
+        "score": 0.582,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 21.521,
+        "end": 21.881,
+        "score": 0.721,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "100"
+      },
+      {
+        "word": "anti-drogues",
+        "start": 21.941,
+        "end": 22.422,
+        "score": 0.793,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "XXL",
+        "start": 22.522,
+        "end": 23.703,
+        "score": 0.842,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "qui",
+        "start": 23.723,
+        "end": 23.883,
+        "score": 0.779,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "laissent",
+        "start": 23.923,
+        "end": 24.163,
+        "score": 0.802,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 24.203,
+        "end": 24.263,
+        "score": 0.99,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "riverains",
+        "start": 24.303,
+        "end": 24.603,
+        "score": 0.62,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dubitatifs.",
+        "start": 24.624,
+        "end": 26.085,
+        "score": 0.933,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Dès",
+        "start": 26.125,
+        "end": 26.205,
+        "score": 0.237,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qu'ils",
+        "start": 26.225,
+        "end": 26.345,
+        "score": 0.145,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 26.365,
+        "end": 26.505,
+        "score": 0.352,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "partis,",
+        "start": 26.545,
+        "end": 26.765,
+        "score": 0.355,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ça",
+        "start": 26.785,
+        "end": 26.885,
+        "score": 0.36,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "recommence.",
+        "start": 26.905,
+        "end": 27.906,
+        "score": 0.394,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'est",
+        "start": 28.026,
+        "end": 28.246,
+        "score": 0.412,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "comme",
+        "start": 28.266,
+        "end": 28.427,
+        "score": 0.535,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ça.",
+        "start": 28.447,
+        "end": 28.547,
+        "score": 0.364,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'est",
+        "start": 29.737,
+        "end": 30.277,
+        "score": 0.544,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pas",
+        "start": 30.317,
+        "end": 30.397,
+        "score": 0.176,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "tout",
+        "start": 30.437,
+        "end": 32.818,
+        "score": 0.526,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pareil.",
+        "start": 32.858,
+        "end": 33.098,
+        "score": 0.361,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "C'est",
+        "start": 33.118,
+        "end": 33.199,
+        "score": 0.002,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "triste.",
+        "start": 33.219,
+        "end": 34.239,
+        "score": 0.516,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Une",
+        "start": 34.299,
+        "end": 34.399,
+        "score": 0.785,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "opération",
+        "start": 34.459,
+        "end": 35.419,
+        "score": 0.919,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "démarrée",
+        "start": 35.46,
+        "end": 35.86,
+        "score": 0.819,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 35.9,
+        "end": 36.18,
+        "score": 0.647,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "6h",
+        "start": 36.2,
+        "end": 36.44,
+        "score": 0.486,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ce",
+        "start": 36.46,
+        "end": 36.58,
+        "score": 0.964,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "matin",
+        "start": 36.62,
+        "end": 36.9,
+        "score": 0.852,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dans",
+        "start": 36.94,
+        "end": 37.06,
+        "score": 0.894,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 37.08,
+        "end": 37.14,
+        "score": 0.756,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quartier",
+        "start": 37.18,
+        "end": 37.48,
+        "score": 0.844,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Mistral",
+        "start": 37.52,
+        "end": 37.921,
+        "score": 0.711,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 37.981,
+        "end": 38.001,
+        "score": 0.003,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Grenoble.",
+        "start": 38.061,
+        "end": 39.441,
+        "score": 0.867,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Dans",
+        "start": 39.461,
+        "end": 39.601,
+        "score": 0.725,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 39.621,
+        "end": 39.681,
+        "score": 0.984,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "viseur",
+        "start": 39.721,
+        "end": 40.022,
+        "score": 0.938,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 40.082,
+        "end": 40.182,
+        "score": 0.932,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "enquêteurs,",
+        "start": 40.222,
+        "end": 41.222,
+        "score": 0.887,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "une",
+        "start": 41.262,
+        "end": 41.402,
+        "score": 0.893,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "tour",
+        "start": 41.442,
+        "end": 41.662,
+        "score": 0.986,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 41.702,
+        "end": 41.822,
+        "score": 0.946,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "16"
+      },
+      {
+        "word": "étages",
+        "start": 42.102,
+        "end": 42.603,
+        "score": 0.859,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "bien",
+        "start": 42.643,
+        "end": 42.843,
+        "score": 0.882,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "connue",
+        "start": 42.903,
+        "end": 43.183,
+        "score": 0.854,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 43.223,
+        "end": 43.343,
+        "score": 0.987,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "services",
+        "start": 43.383,
+        "end": 43.723,
+        "score": 0.812,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 43.763,
+        "end": 43.843,
+        "score": 0.931,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "police.",
+        "start": 43.883,
+        "end": 45.684,
+        "score": 0.922,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Sur",
+        "start": 45.724,
+        "end": 45.884,
+        "score": 0.929,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "place,",
+        "start": 45.924,
+        "end": 46.724,
+        "score": 0.909,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "notre",
+        "start": 46.764,
+        "end": 46.925,
+        "score": 0.899,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "équipe",
+        "start": 46.965,
+        "end": 47.625,
+        "score": 0.897,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "filme",
+        "start": 47.665,
+        "end": 48.005,
+        "score": 0.926,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 48.025,
+        "end": 48.145,
+        "score": 0.924,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "publicités",
+        "start": 48.185,
+        "end": 48.905,
+        "score": 0.918,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "placardées",
+        "start": 48.965,
+        "end": 49.546,
+        "score": 0.817,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "par",
+        "start": 49.566,
+        "end": 49.686,
+        "score": 0.899,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 49.706,
+        "end": 49.806,
+        "score": 0.822,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dealers.",
+        "start": 49.826,
+        "end": 51.206,
+        "score": 0.838,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Les",
+        "start": 51.226,
+        "end": 51.346,
+        "score": 0.962,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "contacts",
+        "start": 51.386,
+        "end": 51.867,
+        "score": 0.867,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 51.907,
+        "end": 52.007,
+        "score": 0.889,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "trafiquants,",
+        "start": 52.047,
+        "end": 52.967,
+        "score": 0.924,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 53.007,
+        "end": 53.147,
+        "score": 0.89,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "tarifs",
+        "start": 53.187,
+        "end": 53.527,
+        "score": 0.832,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 53.587,
+        "end": 53.667,
+        "score": 0.914,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "stupéfiants.",
+        "start": 53.707,
+        "end": 54.308,
+        "score": 0.755,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "À",
+        "start": 55.45,
+        "end": 55.49,
+        "score": 0.504,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'intérieur,",
+        "start": 55.53,
+        "end": 56.391,
+        "score": 0.897,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 56.431,
+        "end": 56.531,
+        "score": 0.95,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "policiers",
+        "start": 56.571,
+        "end": 56.931,
+        "score": 0.823,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "découvrent",
+        "start": 56.971,
+        "end": 57.592,
+        "score": 0.771,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 57.612,
+        "end": 57.752,
+        "score": 0.965,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "armes,",
+        "start": 57.832,
+        "end": 58.052,
+        "score": 0.953,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 58.072,
+        "end": 58.132,
+        "score": 0.002,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "munitions",
+        "start": 58.272,
+        "end": 59.073,
+        "score": 0.878,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "et",
+        "start": 59.113,
+        "end": 59.213,
+        "score": 0.776,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "une",
+        "start": 59.273,
+        "end": 59.373,
+        "score": 0.989,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "importante",
+        "start": 59.433,
+        "end": 59.913,
+        "score": 0.941,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quantité",
+        "start": 59.933,
+        "end": 60.293,
+        "score": 0.951,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 60.313,
+        "end": 60.394,
+        "score": 0.982,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "drogue,",
+        "start": 60.434,
+        "end": 61.154,
+        "score": 0.857,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "selon",
+        "start": 61.194,
+        "end": 61.474,
+        "score": 0.957,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 61.494,
+        "end": 61.594,
+        "score": 0.982,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "procureur",
+        "start": 61.634,
+        "end": 62.115,
+        "score": 0.855,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 62.135,
+        "end": 62.215,
+        "score": 0.943,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Grenoble.",
+        "start": 62.255,
+        "end": 63.296,
+        "score": 0.847,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "10"
+      },
+      {
+        "word": "kilos",
+        "start": 63.476,
+        "end": 64.176,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 64.196,
+        "end": 65.077,
+        "score": 0.977,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "résine",
+        "start": 65.117,
+        "end": 65.377,
+        "score": 0.902,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 65.397,
+        "end": 65.457,
+        "score": 0.846,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cannabis",
+        "start": 65.477,
+        "end": 65.817,
+        "score": 0.685,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ont",
+        "start": 65.857,
+        "end": 65.937,
+        "score": 0.811,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "été",
+        "start": 65.977,
+        "end": 66.137,
+        "score": 0.91,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "saisis",
+        "start": 66.178,
+        "end": 66.418,
+        "score": 0.792,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 66.438,
+        "end": 66.538,
+        "score": 0.724,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 66.578,
+        "end": 66.638,
+        "score": 0.808,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "appartement",
+        "start": 66.658,
+        "end": 67.558,
+        "score": 0.963,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "avec",
+        "start": 67.599,
+        "end": 68.039,
+        "score": 0.992,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "10"
+      },
+      {
+        "word": "000"
+      },
+      {
+        "word": "euros",
+        "start": 68.559,
+        "end": 69.26,
+        "score": 0.875,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 69.3,
+        "end": 69.38,
+        "score": 0.932,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "numéraire.",
+        "start": 69.42,
+        "end": 70.08,
+        "score": 0.965,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Dans",
+        "start": 70.12,
+        "end": 70.24,
+        "score": 0.654,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 70.28,
+        "end": 70.36,
+        "score": 0.84,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gaines",
+        "start": 70.38,
+        "end": 70.641,
+        "score": 0.926,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "techniques",
+        "start": 70.681,
+        "end": 71.221,
+        "score": 0.867,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ont",
+        "start": 71.261,
+        "end": 71.361,
+        "score": 0.919,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "été",
+        "start": 71.401,
+        "end": 71.561,
+        "score": 0.759,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "saisies",
+        "start": 71.581,
+        "end": 71.821,
+        "score": 0.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "une",
+        "start": 71.861,
+        "end": 71.942,
+        "score": 0.963,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "centaine",
+        "start": 71.982,
+        "end": 72.262,
+        "score": 0.979,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 72.302,
+        "end": 72.362,
+        "score": 0.997,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pochons",
+        "start": 72.402,
+        "end": 73.162,
+        "score": 0.928,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "contenant",
+        "start": 73.182,
+        "end": 73.463,
+        "score": 0.898,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 73.483,
+        "end": 73.543,
+        "score": 0.728,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 73.563,
+        "end": 73.623,
+        "score": 0.785,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cocaïne,",
+        "start": 73.643,
+        "end": 74.203,
+        "score": 0.86,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 74.243,
+        "end": 74.303,
+        "score": 0.881,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 74.323,
+        "end": 74.403,
+        "score": 0.937,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "résine",
+        "start": 74.423,
+        "end": 74.663,
+        "score": 0.899,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 74.683,
+        "end": 74.743,
+        "score": 0.74,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cannabis",
+        "start": 74.783,
+        "end": 75.384,
+        "score": 0.866,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "et",
+        "start": 75.424,
+        "end": 76.004,
+        "score": 0.827,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "une",
+        "start": 76.044,
+        "end": 76.124,
+        "score": 0.762,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "drogue",
+        "start": 76.144,
+        "end": 76.325,
+        "score": 0.524,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 76.345,
+        "end": 76.405,
+        "score": 0.709,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "synthèse,",
+        "start": 76.425,
+        "end": 77.205,
+        "score": 0.9,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 77.245,
+        "end": 77.305,
+        "score": 0.878,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "MD",
+        "start": 77.445,
+        "end": 77.906,
+        "score": 0.886,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "et",
+        "start": 77.966,
+        "end": 78.066,
+        "score": 0.603,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "MA.",
+        "start": 78.086,
+        "end": 78.806,
+        "score": 0.812,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Des",
+        "start": 78.846,
+        "end": 78.986,
+        "score": 0.99,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "trafiquants",
+        "start": 79.026,
+        "end": 79.947,
+        "score": 0.901,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "qui",
+        "start": 79.967,
+        "end": 80.107,
+        "score": 0.838,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "s'étaient",
+        "start": 80.147,
+        "end": 80.447,
+        "score": 0.738,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "installés",
+        "start": 80.487,
+        "end": 81.188,
+        "score": 0.914,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "et",
+        "start": 81.228,
+        "end": 81.388,
+        "score": 0.81,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "barricadés",
+        "start": 81.428,
+        "end": 82.069,
+        "score": 0.88,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dans",
+        "start": 82.109,
+        "end": 82.289,
+        "score": 0.948,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "plusieurs",
+        "start": 82.329,
+        "end": 82.729,
+        "score": 0.761,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "appartements",
+        "start": 82.789,
+        "end": 83.289,
+        "score": 0.898,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "vacants",
+        "start": 83.349,
+        "end": 83.65,
+        "score": 0.827,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "difficilement",
+        "start": 84.51,
+        "end": 85.151,
+        "score": 0.955,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "accessibles",
+        "start": 85.211,
+        "end": 85.952,
+        "score": 0.943,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "pour",
+        "start": 85.992,
+        "end": 86.112,
+        "score": 0.966,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 86.152,
+        "end": 86.212,
+        "score": 0.987,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "forces",
+        "start": 86.252,
+        "end": 86.533,
+        "score": 0.929,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 86.573,
+        "end": 86.633,
+        "score": 0.962,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'ordre.",
+        "start": 86.653,
+        "end": 87.414,
+        "score": 0.573,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Vous",
+        "start": 87.434,
+        "end": 87.574,
+        "score": 0.917,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aviez",
+        "start": 87.614,
+        "end": 87.914,
+        "score": 0.848,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 87.934,
+        "end": 88.074,
+        "score": 0.927,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "portes",
+        "start": 88.094,
+        "end": 88.375,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'entrée",
+        "start": 88.435,
+        "end": 89.055,
+        "score": 0.76,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 89.095,
+        "end": 89.236,
+        "score": 0.876,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "n'étaient",
+        "start": 89.276,
+        "end": 89.716,
+        "score": 0.876,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plus",
+        "start": 89.736,
+        "end": 90.057,
+        "score": 0.746,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ouvrables.",
+        "start": 90.117,
+        "end": 90.797,
+        "score": 0.93,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Elles",
+        "start": 90.837,
+        "end": 91.018,
+        "score": 0.82,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avaient",
+        "start": 91.078,
+        "end": 91.258,
+        "score": 0.851,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "été",
+        "start": 91.278,
+        "end": 91.478,
+        "score": 0.983,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "soudées",
+        "start": 91.518,
+        "end": 91.859,
+        "score": 0.834,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "en",
+        "start": 91.919,
+        "end": 92.059,
+        "score": 0.768,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plusieurs",
+        "start": 92.079,
+        "end": 92.439,
+        "score": 0.823,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "endroits.",
+        "start": 92.499,
+        "end": 92.9,
+        "score": 0.874,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Il",
+        "start": 92.96,
+        "end": 93.06,
+        "score": 0.861,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "a",
+        "start": 93.08,
+        "end": 93.12,
+        "score": 0.494,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "fallu",
+        "start": 93.16,
+        "end": 93.38,
+        "score": 0.822,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "intervenir",
+        "start": 93.44,
+        "end": 93.901,
+        "score": 0.947,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "à",
+        "start": 93.921,
+        "end": 93.961,
+        "score": 0.479,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 94.001,
+        "end": 94.101,
+        "score": 0.776,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "disqueuse",
+        "start": 94.141,
+        "end": 94.862,
+        "score": 0.758,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 94.902,
+        "end": 95.082,
+        "score": 0.845,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pouvoir",
+        "start": 95.122,
+        "end": 95.803,
+        "score": 0.893,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "rétablir",
+        "start": 95.823,
+        "end": 96.444,
+        "score": 0.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'accès.",
+        "start": 96.484,
+        "end": 97.365,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Ce",
+        "start": 97.405,
+        "end": 97.505,
+        "score": 0.96,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "matin",
+        "start": 97.545,
+        "end": 97.805,
+        "score": 0.875,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 97.845,
+        "end": 97.865,
+        "score": 0.837,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Grenoble,",
+        "start": 97.905,
+        "end": 98.626,
+        "score": 0.899,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "trois",
+        "start": 98.666,
+        "end": 98.886,
+        "score": 0.795,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "personnes",
+        "start": 98.926,
+        "end": 99.267,
+        "score": 0.793,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ont",
+        "start": 99.307,
+        "end": 99.407,
+        "score": 0.76,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "été",
+        "start": 99.447,
+        "end": 99.587,
+        "score": 0.987,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "interpellées.",
+        "start": 99.647,
+        "end": 100.828,
+        "score": 0.872,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Les",
+        "start": 100.848,
+        "end": 100.969,
+        "score": 0.933,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "autorités",
+        "start": 101.009,
+        "end": 101.389,
+        "score": 0.893,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "annoncent",
+        "start": 101.449,
+        "end": 101.729,
+        "score": 0.861,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "que",
+        "start": 101.749,
+        "end": 101.91,
+        "score": 0.82,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "d'autres",
+        "start": 101.95,
+        "end": 102.33,
+        "score": 0.901,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "opérations",
+        "start": 102.39,
+        "end": 102.871,
+        "score": 0.914,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 102.891,
+        "end": 103.011,
+        "score": 0.684,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ce",
+        "start": 103.031,
+        "end": 103.171,
+        "score": 0.968,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "type",
+        "start": 103.211,
+        "end": 103.852,
+        "score": 0.983,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "seront",
+        "start": 103.892,
+        "end": 104.152,
+        "score": 0.841,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "menées",
+        "start": 104.172,
+        "end": 104.372,
+        "score": 0.885,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dans",
+        "start": 104.412,
+        "end": 104.513,
+        "score": 0.977,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 104.533,
+        "end": 104.613,
+        "score": 0.834,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "différents",
+        "start": 104.653,
+        "end": 104.973,
+        "score": 0.944,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quartiers",
+        "start": 105.013,
+        "end": 105.273,
+        "score": 0.892,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 105.293,
+        "end": 105.353,
+        "score": 0.948,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "la",
+        "start": 105.393,
+        "end": 105.454,
+        "score": 0.988,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ville.",
+        "start": 105.494,
+        "end": 105.654,
+        "score": 0.894,
+        "speaker": "SPEAKER_03"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 106,
+  "transcription_duration": 9
+}

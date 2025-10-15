@@ -1,0 +1,5237 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.211,
+        "end": 5.673,
+        "text": " Un raton laveur comme chez lui sur la terrasse et dans le salon.",
+        "words": [
+          {
+            "word": "Un",
+            "start": 0.211,
+            "end": 0.811,
+            "score": 0.418,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "raton",
+            "start": 0.851,
+            "end": 1.211,
+            "score": 0.852,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "laveur",
+            "start": 1.271,
+            "end": 1.872,
+            "score": 0.857,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "comme",
+            "start": 1.892,
+            "end": 2.212,
+            "score": 0.904,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "chez",
+            "start": 2.272,
+            "end": 2.452,
+            "score": 0.807,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "lui",
+            "start": 2.492,
+            "end": 2.832,
+            "score": 0.821,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "sur",
+            "start": 2.872,
+            "end": 3.072,
+            "score": 0.851,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "la",
+            "start": 3.112,
+            "end": 3.172,
+            "score": 0.972,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "terrasse",
+            "start": 3.232,
+            "end": 3.752,
+            "score": 0.748,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "et",
+            "start": 3.792,
+            "end": 3.932,
+            "score": 0.858,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dans",
+            "start": 3.952,
+            "end": 4.092,
+            "score": 0.963,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 4.132,
+            "end": 4.232,
+            "score": 0.837,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "salon.",
+            "start": 4.272,
+            "end": 5.673,
+            "score": 0.993,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 5.713,
+        "end": 8.654,
+        "text": "Le propriétaire de la maison a posé une cache-piège.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 5.713,
+            "end": 5.793,
+            "score": 0.985,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "propriétaire",
+            "start": 5.813,
+            "end": 6.313,
+            "score": 0.918,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 6.353,
+            "end": 6.433,
+            "score": 0.99,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "la",
+            "start": 6.473,
+            "end": 6.553,
+            "score": 0.968,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "maison",
+            "start": 6.593,
+            "end": 6.833,
+            "score": 0.96,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "a",
+            "start": 6.853,
+            "end": 6.873,
+            "score": 0.001,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "posé",
+            "start": 7.033,
+            "end": 7.313,
+            "score": 0.911,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "une",
+            "start": 7.373,
+            "end": 7.493,
+            "score": 0.593,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "cache-piège.",
+            "start": 7.513,
+            "end": 8.654,
+            "score": 0.851,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 8.694,
+        "end": 14.736,
+        "text": "Sans se faire prendre, le petit animal subtilisera à l'intérieur les croquettes du chat.",
+        "words": [
+          {
+            "word": "Sans",
+            "start": 8.694,
+            "end": 8.834,
+            "score": 0.986,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "se",
+            "start": 8.894,
+            "end": 8.954,
+            "score": 0.244,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "faire",
+            "start": 8.994,
+            "end": 9.214,
+            "score": 0.897,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "prendre,",
+            "start": 9.274,
+            "end": 9.814,
+            "score": 0.862,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 9.854,
+            "end": 9.954,
+            "score": 0.905,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "petit",
+            "start": 9.994,
+            "end": 10.294,
+            "score": 0.898,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "animal",
+            "start": 10.334,
+            "end": 10.854,
+            "score": 0.926,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "subtilisera",
+            "start": 10.914,
+            "end": 11.615,
+            "score": 0.883,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 11.635,
+            "end": 11.655,
+            "score": 0.914,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'intérieur",
+            "start": 11.675,
+            "end": 12.815,
+            "score": 0.851,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 12.835,
+            "end": 12.915,
+            "score": 0.973,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "croquettes",
+            "start": 12.955,
+            "end": 13.335,
+            "score": 0.806,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "du",
+            "start": 13.375,
+            "end": 13.475,
+            "score": 0.922,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "chat.",
+            "start": 13.515,
+            "end": 14.736,
+            "score": 0.771,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 14.776,
+        "end": 21.318,
+        "text": "C'est très simple, ils passent par la chatière et puis ils font leur vie dans le salon jusque dans la cuisine pour manger les croquettes.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 14.776,
+            "end": 14.896,
+            "score": 0.75,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "très",
+            "start": 14.936,
+            "end": 15.076,
+            "score": 0.818,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "simple,",
+            "start": 15.116,
+            "end": 15.296,
+            "score": 0.774,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ils",
+            "start": 15.396,
+            "end": 15.476,
+            "score": 0.254,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "passent",
+            "start": 15.496,
+            "end": 16.076,
+            "score": 0.54,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "par",
+            "start": 16.096,
+            "end": 16.196,
+            "score": 0.815,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 16.216,
+            "end": 16.276,
+            "score": 0.838,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "chatière",
+            "start": 16.316,
+            "end": 16.656,
+            "score": 0.784,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "et",
+            "start": 17.616,
+            "end": 17.676,
+            "score": 0.434,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "puis",
+            "start": 17.696,
+            "end": 17.776,
+            "score": 0.352,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ils",
+            "start": 17.796,
+            "end": 17.856,
+            "score": 0.282,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "font",
+            "start": 17.876,
+            "end": 17.977,
+            "score": 0.612,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "leur",
+            "start": 18.037,
+            "end": 18.117,
+            "score": 0.482,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vie",
+            "start": 18.177,
+            "end": 18.257,
+            "score": 0.834,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 18.277,
+            "end": 18.377,
+            "score": 0.837,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "le",
+            "start": 18.417,
+            "end": 18.477,
+            "score": 0.96,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "salon",
+            "start": 18.517,
+            "end": 18.937,
+            "score": 0.839,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jusque",
+            "start": 18.977,
+            "end": 19.957,
+            "score": 0.878,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dans",
+            "start": 19.997,
+            "end": 20.097,
+            "score": 0.886,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 20.137,
+            "end": 20.177,
+            "score": 0.937,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cuisine",
+            "start": 20.217,
+            "end": 20.477,
+            "score": 0.629,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 20.497,
+            "end": 20.577,
+            "score": 0.615,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "manger",
+            "start": 20.597,
+            "end": 20.757,
+            "score": 0.274,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 20.777,
+            "end": 20.857,
+            "score": 0.379,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "croquettes.",
+            "start": 20.877,
+            "end": 21.318,
+            "score": 0.468,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 21.358,
+        "end": 23.838,
+        "text": "Ces visites nocturnes ont débuté il y a 5 ans.",
+        "words": [
+          {
+            "word": "Ces",
+            "start": 21.358,
+            "end": 21.518,
+            "score": 0.671,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "visites",
+            "start": 21.538,
+            "end": 21.798,
+            "score": 0.907,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "nocturnes",
+            "start": 21.838,
+            "end": 22.198,
+            "score": 0.794,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ont",
+            "start": 22.258,
+            "end": 22.418,
+            "score": 0.689,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "débuté",
+            "start": 22.458,
+            "end": 22.878,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "il",
+            "start": 22.938,
+            "end": 23.018,
+            "score": 0.682,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "y",
+            "start": 23.038,
+            "end": 23.058,
+            "score": 0.983,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 23.118,
+            "end": 23.278,
+            "score": 0.874,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "5"
+          },
+          {
+            "word": "ans.",
+            "start": 23.578,
+            "end": 23.838,
+            "score": 0.987,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 23.878,
+        "end": 26.319,
+        "text": "Pour empêcher qu'ils reviennent, je n'ai aucune solution.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 23.878,
+            "end": 23.998,
+            "score": 0.892,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "empêcher",
+            "start": 24.038,
+            "end": 24.438,
+            "score": 0.683,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "qu'ils",
+            "start": 24.458,
+            "end": 24.579,
+            "score": 0.449,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "reviennent,",
+            "start": 24.619,
+            "end": 25.079,
+            "score": 0.607,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 25.099,
+            "end": 25.239,
+            "score": 0.676,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "n'ai",
+            "start": 25.259,
+            "end": 25.479,
+            "score": 0.529,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "aucune",
+            "start": 25.519,
+            "end": 25.819,
+            "score": 0.918,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "solution.",
+            "start": 25.839,
+            "end": 26.319,
+            "score": 0.94,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 26.379,
+        "end": 28.78,
+        "text": "On voit bien leur comportement quand on est sur la terrasse.",
+        "words": [
+          {
+            "word": "On",
+            "start": 26.379,
+            "end": 26.459,
+            "score": 0.658,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "voit",
+            "start": 26.479,
+            "end": 26.619,
+            "score": 0.837,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bien",
+            "start": 26.659,
+            "end": 26.999,
+            "score": 0.89,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "leur",
+            "start": 27.099,
+            "end": 27.239,
+            "score": 0.837,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "comportement",
+            "start": 27.259,
+            "end": 27.76,
+            "score": 0.909,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "quand",
+            "start": 27.8,
+            "end": 27.94,
+            "score": 0.842,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "on",
+            "start": 27.98,
+            "end": 28.04,
+            "score": 0.844,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "est",
+            "start": 28.08,
+            "end": 28.2,
+            "score": 0.655,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sur",
+            "start": 28.22,
+            "end": 28.34,
+            "score": 0.797,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 28.36,
+            "end": 28.42,
+            "score": 0.669,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "terrasse.",
+            "start": 28.44,
+            "end": 28.78,
+            "score": 0.756,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 29.923,
+        "end": 33.046,
+        "text": " Peur de rien, le moindre petit trou, ils s'y mettent dedans.",
+        "words": [
+          {
+            "word": "Peur",
+            "start": 29.923,
+            "end": 30.043,
+            "score": 0.175,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 30.063,
+            "end": 30.183,
+            "score": 0.548,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "rien,",
+            "start": 30.203,
+            "end": 30.684,
+            "score": 0.604,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "le",
+            "start": 30.704,
+            "end": 30.744,
+            "score": 0.926,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "moindre",
+            "start": 30.764,
+            "end": 31.044,
+            "score": 0.875,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "petit",
+            "start": 31.064,
+            "end": 31.304,
+            "score": 0.792,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "trou,",
+            "start": 31.345,
+            "end": 31.805,
+            "score": 0.499,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ils",
+            "start": 31.865,
+            "end": 31.925,
+            "score": 0.225,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "s'y",
+            "start": 31.965,
+            "end": 32.065,
+            "score": 0.443,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mettent",
+            "start": 32.105,
+            "end": 32.285,
+            "score": 0.46,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dedans.",
+            "start": 32.305,
+            "end": 33.046,
+            "score": 0.506,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 33.066,
+        "end": 35.608,
+        "text": "Les croquettes, ils les récupèrent même quand on les met en hauteur.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 33.066,
+            "end": 33.166,
+            "score": 0.939,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "croquettes,",
+            "start": 33.186,
+            "end": 33.567,
+            "score": 0.609,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ils",
+            "start": 33.687,
+            "end": 33.787,
+            "score": 0.634,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 33.807,
+            "end": 33.907,
+            "score": 0.805,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "récupèrent",
+            "start": 33.947,
+            "end": 34.467,
+            "score": 0.764,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "même",
+            "start": 34.487,
+            "end": 34.647,
+            "score": 0.945,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "quand",
+            "start": 34.688,
+            "end": 34.808,
+            "score": 0.904,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "on",
+            "start": 34.848,
+            "end": 34.928,
+            "score": 0.87,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 34.948,
+            "end": 35.028,
+            "score": 0.782,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "met",
+            "start": 35.048,
+            "end": 35.148,
+            "score": 0.59,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 35.168,
+            "end": 35.228,
+            "score": 0.238,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "hauteur.",
+            "start": 35.248,
+            "end": 35.608,
+            "score": 0.842,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 35.969,
+        "end": 38.751,
+        "text": "C'est compliqué.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 35.969,
+            "end": 37.65,
+            "score": 0.713,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "compliqué.",
+            "start": 37.67,
+            "end": 38.751,
+            "score": 0.541,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 38.771,
+        "end": 43.716,
+        "text": "Des spécimens se seraient échappés d'un parc animalier de Gironde il y a une quinzaine d'années.",
+        "words": [
+          {
+            "word": "Des",
+            "start": 38.771,
+            "end": 38.871,
+            "score": 0.776,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "spécimens",
+            "start": 38.911,
+            "end": 39.752,
+            "score": 0.787,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "se",
+            "start": 39.772,
+            "end": 39.892,
+            "score": 0.946,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "seraient",
+            "start": 39.952,
+            "end": 40.273,
+            "score": 0.663,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "échappés",
+            "start": 40.333,
+            "end": 40.873,
+            "score": 0.792,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "d'un",
+            "start": 40.933,
+            "end": 41.053,
+            "score": 0.558,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "parc",
+            "start": 41.093,
+            "end": 41.273,
+            "score": 0.81,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "animalier",
+            "start": 41.353,
+            "end": 41.874,
+            "score": 0.856,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 41.914,
+            "end": 42.014,
+            "score": 0.895,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Gironde",
+            "start": 42.054,
+            "end": 42.454,
+            "score": 0.83,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "il",
+            "start": 42.495,
+            "end": 42.595,
+            "score": 0.547,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "y",
+            "start": 42.615,
+            "end": 42.635,
+            "score": 0.976,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "a",
+            "start": 42.675,
+            "end": 42.735,
+            "score": 0.738,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "une",
+            "start": 42.775,
+            "end": 42.915,
+            "score": 0.729,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quinzaine",
+            "start": 42.955,
+            "end": 43.435,
+            "score": 0.861,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "d'années.",
+            "start": 43.475,
+            "end": 43.716,
+            "score": 0.816,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 44.716,
+        "end": 51.042,
+        "text": "Or des cages, cette espèce d'Amérique du Nord s'est adaptée.",
+        "words": [
+          {
+            "word": "Or",
+            "start": 44.716,
+            "end": 46.738,
+            "score": 0.847,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 46.999,
+            "end": 47.479,
+            "score": 0.495,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "cages,",
+            "start": 47.859,
+            "end": 48.4,
+            "score": 0.657,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "cette",
+            "start": 48.42,
+            "end": 48.62,
+            "score": 0.851,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "espèce",
+            "start": 48.66,
+            "end": 49.08,
+            "score": 0.741,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "d'Amérique",
+            "start": 49.14,
+            "end": 49.541,
+            "score": 0.845,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "du",
+            "start": 49.561,
+            "end": 49.661,
+            "score": 0.904,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Nord",
+            "start": 49.681,
+            "end": 49.901,
+            "score": 0.873,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "s'est",
+            "start": 49.941,
+            "end": 50.141,
+            "score": 0.796,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "adaptée.",
+            "start": 50.181,
+            "end": 51.042,
+            "score": 0.917,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 51.082,
+        "end": 53.905,
+        "text": "Aujourd'hui, leur population est nombreuse dans le département.",
+        "words": [
+          {
+            "word": "Aujourd'hui,",
+            "start": 51.082,
+            "end": 51.483,
+            "score": 0.885,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "leur",
+            "start": 51.543,
+            "end": 51.723,
+            "score": 0.826,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "population",
+            "start": 51.763,
+            "end": 52.323,
+            "score": 0.907,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "est",
+            "start": 52.363,
+            "end": 52.523,
+            "score": 0.671,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "nombreuse",
+            "start": 52.584,
+            "end": 53.024,
+            "score": 0.822,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dans",
+            "start": 53.064,
+            "end": 53.184,
+            "score": 0.992,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 53.204,
+            "end": 53.304,
+            "score": 0.726,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "département.",
+            "start": 53.344,
+            "end": 53.905,
+            "score": 0.97,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 54.625,
+        "end": 56.287,
+        "text": "Moi, j'aurais plutôt envie de les laisser tranquilles.",
+        "words": [
+          {
+            "word": "Moi,",
+            "start": 54.625,
+            "end": 54.766,
+            "score": 0.449,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "j'aurais",
+            "start": 54.786,
+            "end": 55.026,
+            "score": 0.684,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "plutôt",
+            "start": 55.046,
+            "end": 55.166,
+            "score": 0.292,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "envie",
+            "start": 55.186,
+            "end": 55.306,
+            "score": 0.162,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 55.326,
+            "end": 55.406,
+            "score": 0.329,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 55.426,
+            "end": 55.546,
+            "score": 0.453,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "laisser",
+            "start": 55.566,
+            "end": 55.826,
+            "score": 0.515,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tranquilles.",
+            "start": 55.866,
+            "end": 56.287,
+            "score": 0.697,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 58.14,
+        "end": 60.102,
+        "text": " Mais ils font aussi des dégâts.",
+        "words": [
+          {
+            "word": "Mais",
+            "start": 58.14,
+            "end": 58.32,
+            "score": 0.897,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ils",
+            "start": 58.38,
+            "end": 58.52,
+            "score": 0.64,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "font",
+            "start": 58.54,
+            "end": 58.761,
+            "score": 0.808,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "aussi",
+            "start": 58.821,
+            "end": 59.101,
+            "score": 0.987,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "des",
+            "start": 59.121,
+            "end": 59.261,
+            "score": 0.909,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dégâts.",
+            "start": 59.301,
+            "end": 60.102,
+            "score": 0.838,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 60.162,
+        "end": 65.025,
+        "text": "Omnivore, les ratons laveurs s'attaquent aux arbres fruitiers et aux poulaillers.",
+        "words": [
+          {
+            "word": "Omnivore,",
+            "start": 60.162,
+            "end": 60.782,
+            "score": 0.769,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "les",
+            "start": 60.822,
+            "end": 60.922,
+            "score": 0.884,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "ratons",
+            "start": 60.962,
+            "end": 61.242,
+            "score": 0.836,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "laveurs",
+            "start": 61.283,
+            "end": 61.743,
+            "score": 0.835,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "s'attaquent",
+            "start": 61.783,
+            "end": 62.283,
+            "score": 0.764,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "aux",
+            "start": 62.323,
+            "end": 62.423,
+            "score": 0.705,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "arbres",
+            "start": 62.483,
+            "end": 62.704,
+            "score": 0.647,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "fruitiers",
+            "start": 62.884,
+            "end": 63.444,
+            "score": 0.833,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "et",
+            "start": 63.484,
+            "end": 63.604,
+            "score": 0.898,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "aux",
+            "start": 63.664,
+            "end": 63.764,
+            "score": 0.712,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "poulaillers.",
+            "start": 63.784,
+            "end": 65.025,
+            "score": 0.667,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 65.065,
+        "end": 68.108,
+        "text": "Des habitants se plaignent de leur nuisance.",
+        "words": [
+          {
+            "word": "Des",
+            "start": 65.065,
+            "end": 65.185,
+            "score": 0.911,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "habitants",
+            "start": 65.226,
+            "end": 65.666,
+            "score": 0.949,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "se",
+            "start": 65.726,
+            "end": 65.846,
+            "score": 0.988,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "plaignent",
+            "start": 65.906,
+            "end": 66.186,
+            "score": 0.799,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 66.206,
+            "end": 66.286,
+            "score": 0.708,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "leur",
+            "start": 66.306,
+            "end": 66.446,
+            "score": 0.905,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "nuisance.",
+            "start": 66.486,
+            "end": 68.108,
+            "score": 0.826,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 68.148,
+        "end": 72.091,
+        "text": "Ce retraité a dû abattre son prunier.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 68.148,
+            "end": 68.408,
+            "score": 0.798,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "retraité",
+            "start": 68.448,
+            "end": 69.068,
+            "score": 0.91,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "a",
+            "start": 69.108,
+            "end": 69.169,
+            "score": 0.847,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "dû",
+            "start": 69.229,
+            "end": 69.369,
+            "score": 0.81,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "abattre",
+            "start": 69.409,
+            "end": 69.929,
+            "score": 0.88,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "son",
+            "start": 69.969,
+            "end": 70.129,
+            "score": 0.793,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "prunier.",
+            "start": 70.169,
+            "end": 72.091,
+            "score": 0.786,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 72.171,
+        "end": 75.633,
+        "text": "Il était plein de mirabelles.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 72.171,
+            "end": 72.271,
+            "score": 0.677,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "était",
+            "start": 72.311,
+            "end": 72.511,
+            "score": 0.756,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plein",
+            "start": 72.551,
+            "end": 73.312,
+            "score": 0.774,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 73.332,
+            "end": 73.412,
+            "score": 0.652,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mirabelles.",
+            "start": 73.432,
+            "end": 75.633,
+            "score": 0.698,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 75.694,
+        "end": 80.637,
+        "text": "Et les ratons laveurs sont arrivés en force.",
+        "words": [
+          {
+            "word": "Et",
+            "start": 75.694,
+            "end": 76.114,
+            "score": 0.815,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 76.134,
+            "end": 76.234,
+            "score": 0.677,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ratons",
+            "start": 76.274,
+            "end": 76.554,
+            "score": 0.622,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "laveurs",
+            "start": 76.574,
+            "end": 76.974,
+            "score": 0.641,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 76.994,
+            "end": 77.395,
+            "score": 0.708,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "arrivés",
+            "start": 77.435,
+            "end": 78.436,
+            "score": 0.738,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "en",
+            "start": 78.476,
+            "end": 78.576,
+            "score": 0.49,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "force.",
+            "start": 78.636,
+            "end": 80.637,
+            "score": 0.685,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 80.697,
+        "end": 82.999,
+        "text": "Ils ont cassé les branches.",
+        "words": [
+          {
+            "word": "Ils",
+            "start": 80.697,
+            "end": 80.797,
+            "score": 0.695,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ont",
+            "start": 80.837,
+            "end": 80.917,
+            "score": 0.557,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "cassé",
+            "start": 80.937,
+            "end": 81.198,
+            "score": 0.769,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 81.218,
+            "end": 81.298,
+            "score": 0.779,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "branches.",
+            "start": 81.318,
+            "end": 82.999,
+            "score": 0.713,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 83.019,
+        "end": 84.08,
+        "text": "Ça a fait crever l'arbre.",
+        "words": [
+          {
+            "word": "Ça",
+            "start": 83.019,
+            "end": 83.139,
+            "score": 0.502,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 83.159,
+            "end": 83.219,
+            "score": 0.491,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "fait",
+            "start": 83.239,
+            "end": 83.359,
+            "score": 0.798,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "crever",
+            "start": 83.399,
+            "end": 83.64,
+            "score": 0.676,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'arbre.",
+            "start": 83.66,
+            "end": 84.08,
+            "score": 0.435,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 84.555,
+        "end": 99.921,
+        "text": " Malgré son museau sympathique, le raton laveur est classé espèce nuisible en France.",
+        "words": [
+          {
+            "word": "Malgré",
+            "start": 84.555,
+            "end": 84.855,
+            "score": 0.856,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "son",
+            "start": 84.895,
+            "end": 85.015,
+            "score": 0.935,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "museau",
+            "start": 85.035,
+            "end": 85.295,
+            "score": 0.856,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "sympathique,",
+            "start": 85.355,
+            "end": 85.916,
+            "score": 0.912,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 85.956,
+            "end": 86.036,
+            "score": 0.859,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "raton",
+            "start": 86.076,
+            "end": 86.356,
+            "score": 0.896,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "laveur",
+            "start": 86.416,
+            "end": 86.716,
+            "score": 0.848,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "est",
+            "start": 86.756,
+            "end": 86.896,
+            "score": 0.643,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "classé",
+            "start": 86.916,
+            "end": 87.316,
+            "score": 0.861,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "espèce",
+            "start": 87.376,
+            "end": 87.796,
+            "score": 0.96,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "nuisible",
+            "start": 87.836,
+            "end": 88.296,
+            "score": 0.772,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "en",
+            "start": 88.336,
+            "end": 88.436,
+            "score": 0.8,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "France.",
+            "start": 88.477,
+            "end": 99.921,
+            "score": 0.886,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 99.961,
+        "end": 103.382,
+        "text": "L'animal est piégé pour réguler sa population.",
+        "words": [
+          {
+            "word": "L'animal",
+            "start": 99.961,
+            "end": 100.401,
+            "score": 0.969,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "est",
+            "start": 100.461,
+            "end": 100.581,
+            "score": 0.788,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "piégé",
+            "start": 100.601,
+            "end": 101.141,
+            "score": 0.907,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "pour",
+            "start": 101.181,
+            "end": 101.401,
+            "score": 0.915,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "réguler",
+            "start": 101.441,
+            "end": 101.921,
+            "score": 0.922,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "sa",
+            "start": 101.981,
+            "end": 102.122,
+            "score": 0.9,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "population.",
+            "start": 102.162,
+            "end": 103.382,
+            "score": 0.952,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 103.422,
+        "end": 107.964,
+        "text": "Chaque année, en Gironde, 300 sont capturés, eux tannasiés.",
+        "words": [
+          {
+            "word": "Chaque",
+            "start": 103.422,
+            "end": 103.602,
+            "score": 0.851,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "année,",
+            "start": 103.642,
+            "end": 103.822,
+            "score": 0.833,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "en",
+            "start": 103.862,
+            "end": 103.962,
+            "score": 0.728,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "Gironde,",
+            "start": 104.002,
+            "end": 104.762,
+            "score": 0.935,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "300"
+          },
+          {
+            "word": "sont",
+            "start": 105.443,
+            "end": 105.663,
+            "score": 0.897,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "capturés,",
+            "start": 105.703,
+            "end": 106.323,
+            "score": 0.753,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "eux",
+            "start": 106.423,
+            "end": 106.543,
+            "score": 0.903,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "tannasiés.",
+            "start": 106.583,
+            "end": 107.964,
+            "score": 0.798,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 108.004,
+        "end": 111.345,
+        "text": "Même si certains, toujours aussi futés, parviennent à s'échapper.",
+        "words": [
+          {
+            "word": "Même",
+            "start": 108.004,
+            "end": 108.184,
+            "score": 0.984,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "si",
+            "start": 108.224,
+            "end": 108.404,
+            "score": 0.95,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "certains,",
+            "start": 108.444,
+            "end": 108.844,
+            "score": 0.832,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "toujours",
+            "start": 108.884,
+            "end": 109.164,
+            "score": 0.761,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "aussi",
+            "start": 109.204,
+            "end": 109.384,
+            "score": 0.996,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "futés,",
+            "start": 109.424,
+            "end": 110.224,
+            "score": 0.906,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "parviennent",
+            "start": 110.265,
+            "end": 110.725,
+            "score": 0.85,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 110.765,
+            "end": 110.805,
+            "score": 0.576,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "s'échapper.",
+            "start": 110.865,
+            "end": 111.345,
+            "score": 0.839,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 113.718,
+        "end": 119.727,
+        "text": " L'animal, il va rentrer dans la cage et donc il va mettre sa patte ici sur la palette.",
+        "words": [
+          {
+            "word": "L'animal,",
+            "start": 113.718,
+            "end": 114.039,
+            "score": 0.728,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "il",
+            "start": 114.199,
+            "end": 114.279,
+            "score": 0.449,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 114.299,
+            "end": 114.419,
+            "score": 0.795,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "rentrer",
+            "start": 114.459,
+            "end": 114.74,
+            "score": 0.793,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dans",
+            "start": 114.76,
+            "end": 114.88,
+            "score": 0.905,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 114.92,
+            "end": 114.98,
+            "score": 0.984,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "cage",
+            "start": 115.02,
+            "end": 115.641,
+            "score": 0.906,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 115.701,
+            "end": 115.781,
+            "score": 0.892,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donc",
+            "start": 115.821,
+            "end": 115.982,
+            "score": 0.53,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "il",
+            "start": 116.062,
+            "end": 116.162,
+            "score": 0.629,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 116.202,
+            "end": 116.843,
+            "score": 0.892,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "mettre",
+            "start": 116.863,
+            "end": 117.083,
+            "score": 0.891,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sa",
+            "start": 117.123,
+            "end": 117.203,
+            "score": 0.96,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "patte",
+            "start": 117.243,
+            "end": 117.704,
+            "score": 0.89,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ici",
+            "start": 117.744,
+            "end": 117.964,
+            "score": 0.986,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sur",
+            "start": 118.004,
+            "end": 118.125,
+            "score": 0.912,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 118.165,
+            "end": 118.225,
+            "score": 0.927,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "palette.",
+            "start": 118.245,
+            "end": 119.727,
+            "score": 0.931,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 119.747,
+        "end": 123.092,
+        "text": "La porte va tomber l'animal qui est capturé.",
+        "words": [
+          {
+            "word": "La",
+            "start": 119.747,
+            "end": 119.847,
+            "score": 0.986,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "porte",
+            "start": 119.927,
+            "end": 121.169,
+            "score": 0.921,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "va",
+            "start": 121.209,
+            "end": 121.309,
+            "score": 0.98,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tomber",
+            "start": 121.369,
+            "end": 121.71,
+            "score": 0.586,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'animal",
+            "start": 121.75,
+            "end": 122.13,
+            "score": 0.938,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 122.15,
+            "end": 122.31,
+            "score": 0.386,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "est",
+            "start": 122.371,
+            "end": 122.451,
+            "score": 0.076,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "capturé.",
+            "start": 122.471,
+            "end": 123.092,
+            "score": 0.765,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 123.132,
+        "end": 126.557,
+        "text": "Une association de piégeurs bénévoles est chargée de réguler l'espèce.",
+        "words": [
+          {
+            "word": "Une",
+            "start": 123.132,
+            "end": 123.272,
+            "score": 0.722,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "association",
+            "start": 123.312,
+            "end": 123.893,
+            "score": 0.936,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 123.933,
+            "end": 124.033,
+            "score": 0.883,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "piégeurs",
+            "start": 124.053,
+            "end": 124.434,
+            "score": 0.772,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "bénévoles",
+            "start": 124.474,
+            "end": 124.974,
+            "score": 0.709,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "est",
+            "start": 125.014,
+            "end": 125.135,
+            "score": 0.77,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "chargée",
+            "start": 125.155,
+            "end": 125.555,
+            "score": 0.849,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 125.575,
+            "end": 125.715,
+            "score": 0.839,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "réguler",
+            "start": 125.755,
+            "end": 126.156,
+            "score": 0.942,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'espèce.",
+            "start": 126.196,
+            "end": 126.557,
+            "score": 0.703,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 127.184,
+        "end": 134.767,
+        "text": " qui dit espèce exotique envahissante dit aussi un déséquilibre écologique avec les espèces qui sont autochtones.",
+        "words": [
+          {
+            "word": "qui",
+            "start": 127.184,
+            "end": 127.444,
+            "score": 0.246,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dit",
+            "start": 127.464,
+            "end": 127.544,
+            "score": 0.146,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "espèce",
+            "start": 127.584,
+            "end": 127.784,
+            "score": 0.232,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "exotique",
+            "start": 127.824,
+            "end": 128.124,
+            "score": 0.272,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "envahissante",
+            "start": 128.164,
+            "end": 128.745,
+            "score": 0.451,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dit",
+            "start": 128.785,
+            "end": 128.885,
+            "score": 0.909,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "aussi",
+            "start": 128.945,
+            "end": 129.245,
+            "score": 0.974,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "un",
+            "start": 129.325,
+            "end": 129.505,
+            "score": 0.88,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "déséquilibre",
+            "start": 129.525,
+            "end": 130.746,
+            "score": 0.803,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "écologique",
+            "start": 130.786,
+            "end": 131.286,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "avec",
+            "start": 131.326,
+            "end": 132.486,
+            "score": 0.942,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 132.506,
+            "end": 132.606,
+            "score": 0.969,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "espèces",
+            "start": 132.646,
+            "end": 133.047,
+            "score": 0.929,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 133.087,
+            "end": 133.247,
+            "score": 0.906,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sont",
+            "start": 133.287,
+            "end": 133.827,
+            "score": 0.972,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "autochtones.",
+            "start": 133.867,
+            "end": 134.767,
+            "score": 0.937,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 134.827,
+        "end": 147.033,
+        "text": "On pourrait parler de la loutre, du visant d'Europe ou alors certains oiseaux qui sont protégés et dont les nichers sont systématiquement prédatés par les ratons laveurs.",
+        "words": [
+          {
+            "word": "On",
+            "start": 134.827,
+            "end": 135.348,
+            "score": 0.632,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pourrait",
+            "start": 135.368,
+            "end": 135.628,
+            "score": 0.855,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "parler",
+            "start": 135.668,
+            "end": 136.788,
+            "score": 0.957,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 136.828,
+            "end": 136.928,
+            "score": 0.904,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "la",
+            "start": 136.948,
+            "end": 137.048,
+            "score": 0.977,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "loutre,",
+            "start": 137.088,
+            "end": 138.389,
+            "score": 0.899,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "du",
+            "start": 138.409,
+            "end": 138.509,
+            "score": 0.828,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "visant",
+            "start": 138.529,
+            "end": 138.769,
+            "score": 0.847,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "d'Europe",
+            "start": 138.789,
+            "end": 139.71,
+            "score": 0.741,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ou",
+            "start": 139.75,
+            "end": 139.85,
+            "score": 0.853,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "alors",
+            "start": 139.89,
+            "end": 140.41,
+            "score": 0.643,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "certains",
+            "start": 140.43,
+            "end": 140.89,
+            "score": 0.887,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "oiseaux",
+            "start": 140.97,
+            "end": 142.191,
+            "score": 0.819,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qui",
+            "start": 142.211,
+            "end": 142.351,
+            "score": 0.757,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sont",
+            "start": 142.371,
+            "end": 142.531,
+            "score": 0.923,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "protégés",
+            "start": 142.571,
+            "end": 143.851,
+            "score": 0.956,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 143.891,
+            "end": 144.012,
+            "score": 0.832,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "dont",
+            "start": 144.032,
+            "end": 144.152,
+            "score": 0.548,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 144.172,
+            "end": 144.252,
+            "score": 0.806,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "nichers",
+            "start": 144.292,
+            "end": 144.532,
+            "score": 0.706,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "sont",
+            "start": 144.572,
+            "end": 144.732,
+            "score": 0.543,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "systématiquement",
+            "start": 144.752,
+            "end": 145.312,
+            "score": 0.909,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prédatés",
+            "start": 145.372,
+            "end": 145.732,
+            "score": 0.919,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "par",
+            "start": 145.772,
+            "end": 145.852,
+            "score": 0.963,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "les",
+            "start": 145.872,
+            "end": 145.932,
+            "score": 0.912,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ratons",
+            "start": 145.972,
+            "end": 146.152,
+            "score": 0.672,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "laveurs.",
+            "start": 146.172,
+            "end": 147.033,
+            "score": 0.385,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 147.053,
+        "end": 150.935,
+        "text": "Le raton laveur est aussi porteur de maladies transmissibles à l'homme.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 147.053,
+            "end": 147.153,
+            "score": 0.782,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "raton",
+            "start": 147.173,
+            "end": 147.433,
+            "score": 0.783,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "laveur",
+            "start": 147.453,
+            "end": 147.713,
+            "score": 0.832,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "est",
+            "start": 147.813,
+            "end": 147.953,
+            "score": 0.354,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "aussi",
+            "start": 147.993,
+            "end": 148.313,
+            "score": 0.739,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "porteur",
+            "start": 148.333,
+            "end": 148.754,
+            "score": 0.673,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 148.774,
+            "end": 148.954,
+            "score": 0.678,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "maladies",
+            "start": 148.974,
+            "end": 149.414,
+            "score": 0.933,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "transmissibles",
+            "start": 149.454,
+            "end": 150.114,
+            "score": 0.868,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "à",
+            "start": 150.154,
+            "end": 150.194,
+            "score": 0.788,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'homme.",
+            "start": 150.234,
+            "end": 150.935,
+            "score": 0.781,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 150.955,
+        "end": 154.536,
+        "text": "Peu farouche, l'approcher n'est pas recommandé.",
+        "words": [
+          {
+            "word": "Peu",
+            "start": 150.955,
+            "end": 151.115,
+            "score": 0.873,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "farouche,",
+            "start": 151.155,
+            "end": 152.115,
+            "score": 0.849,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'approcher",
+            "start": 152.155,
+            "end": 152.695,
+            "score": 0.812,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "n'est",
+            "start": 152.715,
+            "end": 152.875,
+            "score": 0.933,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "pas",
+            "start": 152.915,
+            "end": 153.036,
+            "score": 0.936,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "recommandé.",
+            "start": 153.056,
+            "end": 154.536,
+            "score": 0.81,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 154.556,
+        "end": 156.017,
+        "text": "Moi je te donne tout ce que tu vas manger.",
+        "words": [
+          {
+            "word": "Moi",
+            "start": 154.556,
+            "end": 154.636,
+            "score": 0.184,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "je",
+            "start": 154.656,
+            "end": 154.716,
+            "score": 0.236,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "te",
+            "start": 154.736,
+            "end": 154.836,
+            "score": 0.365,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "donne",
+            "start": 154.876,
+            "end": 155.036,
+            "score": 0.231,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tout",
+            "start": 155.056,
+            "end": 155.136,
+            "score": 0.231,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ce",
+            "start": 155.177,
+            "end": 155.217,
+            "score": 0.134,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 155.257,
+            "end": 155.397,
+            "score": 0.302,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "tu",
+            "start": 155.437,
+            "end": 155.517,
+            "score": 0.479,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vas",
+            "start": 155.537,
+            "end": 155.617,
+            "score": 0.169,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "manger.",
+            "start": 155.757,
+            "end": 156.017,
+            "score": 0.16,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Un",
+        "start": 0.211,
+        "end": 0.811,
+        "score": 0.418,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "raton",
+        "start": 0.851,
+        "end": 1.211,
+        "score": 0.852,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "laveur",
+        "start": 1.271,
+        "end": 1.872,
+        "score": 0.857,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "comme",
+        "start": 1.892,
+        "end": 2.212,
+        "score": 0.904,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "chez",
+        "start": 2.272,
+        "end": 2.452,
+        "score": 0.807,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "lui",
+        "start": 2.492,
+        "end": 2.832,
+        "score": 0.821,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "sur",
+        "start": 2.872,
+        "end": 3.072,
+        "score": 0.851,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "la",
+        "start": 3.112,
+        "end": 3.172,
+        "score": 0.972,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "terrasse",
+        "start": 3.232,
+        "end": 3.752,
+        "score": 0.748,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "et",
+        "start": 3.792,
+        "end": 3.932,
+        "score": 0.858,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dans",
+        "start": 3.952,
+        "end": 4.092,
+        "score": 0.963,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 4.132,
+        "end": 4.232,
+        "score": 0.837,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "salon.",
+        "start": 4.272,
+        "end": 5.673,
+        "score": 0.993,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Le",
+        "start": 5.713,
+        "end": 5.793,
+        "score": 0.985,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "propriétaire",
+        "start": 5.813,
+        "end": 6.313,
+        "score": 0.918,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 6.353,
+        "end": 6.433,
+        "score": 0.99,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "la",
+        "start": 6.473,
+        "end": 6.553,
+        "score": 0.968,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "maison",
+        "start": 6.593,
+        "end": 6.833,
+        "score": 0.96,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "a",
+        "start": 6.853,
+        "end": 6.873,
+        "score": 0.001,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "posé",
+        "start": 7.033,
+        "end": 7.313,
+        "score": 0.911,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "une",
+        "start": 7.373,
+        "end": 7.493,
+        "score": 0.593,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "cache-piège.",
+        "start": 7.513,
+        "end": 8.654,
+        "score": 0.851,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Sans",
+        "start": 8.694,
+        "end": 8.834,
+        "score": 0.986,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "se",
+        "start": 8.894,
+        "end": 8.954,
+        "score": 0.244,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "faire",
+        "start": 8.994,
+        "end": 9.214,
+        "score": 0.897,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "prendre,",
+        "start": 9.274,
+        "end": 9.814,
+        "score": 0.862,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 9.854,
+        "end": 9.954,
+        "score": 0.905,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "petit",
+        "start": 9.994,
+        "end": 10.294,
+        "score": 0.898,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "animal",
+        "start": 10.334,
+        "end": 10.854,
+        "score": 0.926,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "subtilisera",
+        "start": 10.914,
+        "end": 11.615,
+        "score": 0.883,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 11.635,
+        "end": 11.655,
+        "score": 0.914,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'intérieur",
+        "start": 11.675,
+        "end": 12.815,
+        "score": 0.851,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 12.835,
+        "end": 12.915,
+        "score": 0.973,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "croquettes",
+        "start": 12.955,
+        "end": 13.335,
+        "score": 0.806,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "du",
+        "start": 13.375,
+        "end": 13.475,
+        "score": 0.922,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "chat.",
+        "start": 13.515,
+        "end": 14.736,
+        "score": 0.771,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "C'est",
+        "start": 14.776,
+        "end": 14.896,
+        "score": 0.75,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "très",
+        "start": 14.936,
+        "end": 15.076,
+        "score": 0.818,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "simple,",
+        "start": 15.116,
+        "end": 15.296,
+        "score": 0.774,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ils",
+        "start": 15.396,
+        "end": 15.476,
+        "score": 0.254,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "passent",
+        "start": 15.496,
+        "end": 16.076,
+        "score": 0.54,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "par",
+        "start": 16.096,
+        "end": 16.196,
+        "score": 0.815,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 16.216,
+        "end": 16.276,
+        "score": 0.838,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "chatière",
+        "start": 16.316,
+        "end": 16.656,
+        "score": 0.784,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "et",
+        "start": 17.616,
+        "end": 17.676,
+        "score": 0.434,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "puis",
+        "start": 17.696,
+        "end": 17.776,
+        "score": 0.352,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ils",
+        "start": 17.796,
+        "end": 17.856,
+        "score": 0.282,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "font",
+        "start": 17.876,
+        "end": 17.977,
+        "score": 0.612,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "leur",
+        "start": 18.037,
+        "end": 18.117,
+        "score": 0.482,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vie",
+        "start": 18.177,
+        "end": 18.257,
+        "score": 0.834,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 18.277,
+        "end": 18.377,
+        "score": 0.837,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "le",
+        "start": 18.417,
+        "end": 18.477,
+        "score": 0.96,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "salon",
+        "start": 18.517,
+        "end": 18.937,
+        "score": 0.839,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jusque",
+        "start": 18.977,
+        "end": 19.957,
+        "score": 0.878,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dans",
+        "start": 19.997,
+        "end": 20.097,
+        "score": 0.886,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 20.137,
+        "end": 20.177,
+        "score": 0.937,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cuisine",
+        "start": 20.217,
+        "end": 20.477,
+        "score": 0.629,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 20.497,
+        "end": 20.577,
+        "score": 0.615,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "manger",
+        "start": 20.597,
+        "end": 20.757,
+        "score": 0.274,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 20.777,
+        "end": 20.857,
+        "score": 0.379,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "croquettes.",
+        "start": 20.877,
+        "end": 21.318,
+        "score": 0.468,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Ces",
+        "start": 21.358,
+        "end": 21.518,
+        "score": 0.671,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "visites",
+        "start": 21.538,
+        "end": 21.798,
+        "score": 0.907,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "nocturnes",
+        "start": 21.838,
+        "end": 22.198,
+        "score": 0.794,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ont",
+        "start": 22.258,
+        "end": 22.418,
+        "score": 0.689,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "débuté",
+        "start": 22.458,
+        "end": 22.878,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "il",
+        "start": 22.938,
+        "end": 23.018,
+        "score": 0.682,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "y",
+        "start": 23.038,
+        "end": 23.058,
+        "score": 0.983,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 23.118,
+        "end": 23.278,
+        "score": 0.874,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "5"
+      },
+      {
+        "word": "ans.",
+        "start": 23.578,
+        "end": 23.838,
+        "score": 0.987,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Pour",
+        "start": 23.878,
+        "end": 23.998,
+        "score": 0.892,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "empêcher",
+        "start": 24.038,
+        "end": 24.438,
+        "score": 0.683,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "qu'ils",
+        "start": 24.458,
+        "end": 24.579,
+        "score": 0.449,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "reviennent,",
+        "start": 24.619,
+        "end": 25.079,
+        "score": 0.607,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 25.099,
+        "end": 25.239,
+        "score": 0.676,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "n'ai",
+        "start": 25.259,
+        "end": 25.479,
+        "score": 0.529,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "aucune",
+        "start": 25.519,
+        "end": 25.819,
+        "score": 0.918,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "solution.",
+        "start": 25.839,
+        "end": 26.319,
+        "score": 0.94,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "On",
+        "start": 26.379,
+        "end": 26.459,
+        "score": 0.658,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "voit",
+        "start": 26.479,
+        "end": 26.619,
+        "score": 0.837,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bien",
+        "start": 26.659,
+        "end": 26.999,
+        "score": 0.89,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "leur",
+        "start": 27.099,
+        "end": 27.239,
+        "score": 0.837,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "comportement",
+        "start": 27.259,
+        "end": 27.76,
+        "score": 0.909,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "quand",
+        "start": 27.8,
+        "end": 27.94,
+        "score": 0.842,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "on",
+        "start": 27.98,
+        "end": 28.04,
+        "score": 0.844,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "est",
+        "start": 28.08,
+        "end": 28.2,
+        "score": 0.655,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sur",
+        "start": 28.22,
+        "end": 28.34,
+        "score": 0.797,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 28.36,
+        "end": 28.42,
+        "score": 0.669,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "terrasse.",
+        "start": 28.44,
+        "end": 28.78,
+        "score": 0.756,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Peur",
+        "start": 29.923,
+        "end": 30.043,
+        "score": 0.175,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 30.063,
+        "end": 30.183,
+        "score": 0.548,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "rien,",
+        "start": 30.203,
+        "end": 30.684,
+        "score": 0.604,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "le",
+        "start": 30.704,
+        "end": 30.744,
+        "score": 0.926,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "moindre",
+        "start": 30.764,
+        "end": 31.044,
+        "score": 0.875,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "petit",
+        "start": 31.064,
+        "end": 31.304,
+        "score": 0.792,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "trou,",
+        "start": 31.345,
+        "end": 31.805,
+        "score": 0.499,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ils",
+        "start": 31.865,
+        "end": 31.925,
+        "score": 0.225,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "s'y",
+        "start": 31.965,
+        "end": 32.065,
+        "score": 0.443,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mettent",
+        "start": 32.105,
+        "end": 32.285,
+        "score": 0.46,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dedans.",
+        "start": 32.305,
+        "end": 33.046,
+        "score": 0.506,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Les",
+        "start": 33.066,
+        "end": 33.166,
+        "score": 0.939,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "croquettes,",
+        "start": 33.186,
+        "end": 33.567,
+        "score": 0.609,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ils",
+        "start": 33.687,
+        "end": 33.787,
+        "score": 0.634,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 33.807,
+        "end": 33.907,
+        "score": 0.805,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "récupèrent",
+        "start": 33.947,
+        "end": 34.467,
+        "score": 0.764,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "même",
+        "start": 34.487,
+        "end": 34.647,
+        "score": 0.945,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "quand",
+        "start": 34.688,
+        "end": 34.808,
+        "score": 0.904,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "on",
+        "start": 34.848,
+        "end": 34.928,
+        "score": 0.87,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 34.948,
+        "end": 35.028,
+        "score": 0.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "met",
+        "start": 35.048,
+        "end": 35.148,
+        "score": 0.59,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 35.168,
+        "end": 35.228,
+        "score": 0.238,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "hauteur.",
+        "start": 35.248,
+        "end": 35.608,
+        "score": 0.842,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "C'est",
+        "start": 35.969,
+        "end": 37.65,
+        "score": 0.713,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "compliqué.",
+        "start": 37.67,
+        "end": 38.751,
+        "score": 0.541,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Des",
+        "start": 38.771,
+        "end": 38.871,
+        "score": 0.776,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "spécimens",
+        "start": 38.911,
+        "end": 39.752,
+        "score": 0.787,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "se",
+        "start": 39.772,
+        "end": 39.892,
+        "score": 0.946,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "seraient",
+        "start": 39.952,
+        "end": 40.273,
+        "score": 0.663,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "échappés",
+        "start": 40.333,
+        "end": 40.873,
+        "score": 0.792,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "d'un",
+        "start": 40.933,
+        "end": 41.053,
+        "score": 0.558,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "parc",
+        "start": 41.093,
+        "end": 41.273,
+        "score": 0.81,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "animalier",
+        "start": 41.353,
+        "end": 41.874,
+        "score": 0.856,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 41.914,
+        "end": 42.014,
+        "score": 0.895,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Gironde",
+        "start": 42.054,
+        "end": 42.454,
+        "score": 0.83,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "il",
+        "start": 42.495,
+        "end": 42.595,
+        "score": 0.547,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "y",
+        "start": 42.615,
+        "end": 42.635,
+        "score": 0.976,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "a",
+        "start": 42.675,
+        "end": 42.735,
+        "score": 0.738,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "une",
+        "start": 42.775,
+        "end": 42.915,
+        "score": 0.729,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quinzaine",
+        "start": 42.955,
+        "end": 43.435,
+        "score": 0.861,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "d'années.",
+        "start": 43.475,
+        "end": 43.716,
+        "score": 0.816,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Or",
+        "start": 44.716,
+        "end": 46.738,
+        "score": 0.847,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 46.999,
+        "end": 47.479,
+        "score": 0.495,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "cages,",
+        "start": 47.859,
+        "end": 48.4,
+        "score": 0.657,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "cette",
+        "start": 48.42,
+        "end": 48.62,
+        "score": 0.851,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "espèce",
+        "start": 48.66,
+        "end": 49.08,
+        "score": 0.741,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "d'Amérique",
+        "start": 49.14,
+        "end": 49.541,
+        "score": 0.845,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "du",
+        "start": 49.561,
+        "end": 49.661,
+        "score": 0.904,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Nord",
+        "start": 49.681,
+        "end": 49.901,
+        "score": 0.873,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "s'est",
+        "start": 49.941,
+        "end": 50.141,
+        "score": 0.796,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "adaptée.",
+        "start": 50.181,
+        "end": 51.042,
+        "score": 0.917,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Aujourd'hui,",
+        "start": 51.082,
+        "end": 51.483,
+        "score": 0.885,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "leur",
+        "start": 51.543,
+        "end": 51.723,
+        "score": 0.826,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "population",
+        "start": 51.763,
+        "end": 52.323,
+        "score": 0.907,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "est",
+        "start": 52.363,
+        "end": 52.523,
+        "score": 0.671,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "nombreuse",
+        "start": 52.584,
+        "end": 53.024,
+        "score": 0.822,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dans",
+        "start": 53.064,
+        "end": 53.184,
+        "score": 0.992,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 53.204,
+        "end": 53.304,
+        "score": 0.726,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "département.",
+        "start": 53.344,
+        "end": 53.905,
+        "score": 0.97,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Moi,",
+        "start": 54.625,
+        "end": 54.766,
+        "score": 0.449,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "j'aurais",
+        "start": 54.786,
+        "end": 55.026,
+        "score": 0.684,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "plutôt",
+        "start": 55.046,
+        "end": 55.166,
+        "score": 0.292,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "envie",
+        "start": 55.186,
+        "end": 55.306,
+        "score": 0.162,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 55.326,
+        "end": 55.406,
+        "score": 0.329,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 55.426,
+        "end": 55.546,
+        "score": 0.453,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "laisser",
+        "start": 55.566,
+        "end": 55.826,
+        "score": 0.515,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tranquilles.",
+        "start": 55.866,
+        "end": 56.287,
+        "score": 0.697,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Mais",
+        "start": 58.14,
+        "end": 58.32,
+        "score": 0.897,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ils",
+        "start": 58.38,
+        "end": 58.52,
+        "score": 0.64,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "font",
+        "start": 58.54,
+        "end": 58.761,
+        "score": 0.808,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "aussi",
+        "start": 58.821,
+        "end": 59.101,
+        "score": 0.987,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "des",
+        "start": 59.121,
+        "end": 59.261,
+        "score": 0.909,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dégâts.",
+        "start": 59.301,
+        "end": 60.102,
+        "score": 0.838,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Omnivore,",
+        "start": 60.162,
+        "end": 60.782,
+        "score": 0.769,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "les",
+        "start": 60.822,
+        "end": 60.922,
+        "score": 0.884,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "ratons",
+        "start": 60.962,
+        "end": 61.242,
+        "score": 0.836,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "laveurs",
+        "start": 61.283,
+        "end": 61.743,
+        "score": 0.835,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "s'attaquent",
+        "start": 61.783,
+        "end": 62.283,
+        "score": 0.764,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "aux",
+        "start": 62.323,
+        "end": 62.423,
+        "score": 0.705,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "arbres",
+        "start": 62.483,
+        "end": 62.704,
+        "score": 0.647,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "fruitiers",
+        "start": 62.884,
+        "end": 63.444,
+        "score": 0.833,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "et",
+        "start": 63.484,
+        "end": 63.604,
+        "score": 0.898,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "aux",
+        "start": 63.664,
+        "end": 63.764,
+        "score": 0.712,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "poulaillers.",
+        "start": 63.784,
+        "end": 65.025,
+        "score": 0.667,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Des",
+        "start": 65.065,
+        "end": 65.185,
+        "score": 0.911,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "habitants",
+        "start": 65.226,
+        "end": 65.666,
+        "score": 0.949,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "se",
+        "start": 65.726,
+        "end": 65.846,
+        "score": 0.988,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "plaignent",
+        "start": 65.906,
+        "end": 66.186,
+        "score": 0.799,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 66.206,
+        "end": 66.286,
+        "score": 0.708,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "leur",
+        "start": 66.306,
+        "end": 66.446,
+        "score": 0.905,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "nuisance.",
+        "start": 66.486,
+        "end": 68.108,
+        "score": 0.826,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Ce",
+        "start": 68.148,
+        "end": 68.408,
+        "score": 0.798,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "retraité",
+        "start": 68.448,
+        "end": 69.068,
+        "score": 0.91,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "a",
+        "start": 69.108,
+        "end": 69.169,
+        "score": 0.847,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "dû",
+        "start": 69.229,
+        "end": 69.369,
+        "score": 0.81,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "abattre",
+        "start": 69.409,
+        "end": 69.929,
+        "score": 0.88,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "son",
+        "start": 69.969,
+        "end": 70.129,
+        "score": 0.793,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "prunier.",
+        "start": 70.169,
+        "end": 72.091,
+        "score": 0.786,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Il",
+        "start": 72.171,
+        "end": 72.271,
+        "score": 0.677,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "était",
+        "start": 72.311,
+        "end": 72.511,
+        "score": 0.756,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plein",
+        "start": 72.551,
+        "end": 73.312,
+        "score": 0.774,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 73.332,
+        "end": 73.412,
+        "score": 0.652,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mirabelles.",
+        "start": 73.432,
+        "end": 75.633,
+        "score": 0.698,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Et",
+        "start": 75.694,
+        "end": 76.114,
+        "score": 0.815,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 76.134,
+        "end": 76.234,
+        "score": 0.677,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ratons",
+        "start": 76.274,
+        "end": 76.554,
+        "score": 0.622,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "laveurs",
+        "start": 76.574,
+        "end": 76.974,
+        "score": 0.641,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 76.994,
+        "end": 77.395,
+        "score": 0.708,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "arrivés",
+        "start": 77.435,
+        "end": 78.436,
+        "score": 0.738,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "en",
+        "start": 78.476,
+        "end": 78.576,
+        "score": 0.49,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "force.",
+        "start": 78.636,
+        "end": 80.637,
+        "score": 0.685,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ils",
+        "start": 80.697,
+        "end": 80.797,
+        "score": 0.695,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ont",
+        "start": 80.837,
+        "end": 80.917,
+        "score": 0.557,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "cassé",
+        "start": 80.937,
+        "end": 81.198,
+        "score": 0.769,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 81.218,
+        "end": 81.298,
+        "score": 0.779,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "branches.",
+        "start": 81.318,
+        "end": 82.999,
+        "score": 0.713,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ça",
+        "start": 83.019,
+        "end": 83.139,
+        "score": 0.502,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 83.159,
+        "end": 83.219,
+        "score": 0.491,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "fait",
+        "start": 83.239,
+        "end": 83.359,
+        "score": 0.798,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "crever",
+        "start": 83.399,
+        "end": 83.64,
+        "score": 0.676,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'arbre.",
+        "start": 83.66,
+        "end": 84.08,
+        "score": 0.435,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Malgré",
+        "start": 84.555,
+        "end": 84.855,
+        "score": 0.856,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "son",
+        "start": 84.895,
+        "end": 85.015,
+        "score": 0.935,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "museau",
+        "start": 85.035,
+        "end": 85.295,
+        "score": 0.856,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "sympathique,",
+        "start": 85.355,
+        "end": 85.916,
+        "score": 0.912,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 85.956,
+        "end": 86.036,
+        "score": 0.859,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "raton",
+        "start": 86.076,
+        "end": 86.356,
+        "score": 0.896,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "laveur",
+        "start": 86.416,
+        "end": 86.716,
+        "score": 0.848,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "est",
+        "start": 86.756,
+        "end": 86.896,
+        "score": 0.643,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "classé",
+        "start": 86.916,
+        "end": 87.316,
+        "score": 0.861,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "espèce",
+        "start": 87.376,
+        "end": 87.796,
+        "score": 0.96,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "nuisible",
+        "start": 87.836,
+        "end": 88.296,
+        "score": 0.772,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "en",
+        "start": 88.336,
+        "end": 88.436,
+        "score": 0.8,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "France.",
+        "start": 88.477,
+        "end": 99.921,
+        "score": 0.886,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "L'animal",
+        "start": 99.961,
+        "end": 100.401,
+        "score": 0.969,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "est",
+        "start": 100.461,
+        "end": 100.581,
+        "score": 0.788,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "piégé",
+        "start": 100.601,
+        "end": 101.141,
+        "score": 0.907,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "pour",
+        "start": 101.181,
+        "end": 101.401,
+        "score": 0.915,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "réguler",
+        "start": 101.441,
+        "end": 101.921,
+        "score": 0.922,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "sa",
+        "start": 101.981,
+        "end": 102.122,
+        "score": 0.9,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "population.",
+        "start": 102.162,
+        "end": 103.382,
+        "score": 0.952,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Chaque",
+        "start": 103.422,
+        "end": 103.602,
+        "score": 0.851,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "année,",
+        "start": 103.642,
+        "end": 103.822,
+        "score": 0.833,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "en",
+        "start": 103.862,
+        "end": 103.962,
+        "score": 0.728,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Gironde,",
+        "start": 104.002,
+        "end": 104.762,
+        "score": 0.935,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "300"
+      },
+      {
+        "word": "sont",
+        "start": 105.443,
+        "end": 105.663,
+        "score": 0.897,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "capturés,",
+        "start": 105.703,
+        "end": 106.323,
+        "score": 0.753,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "eux",
+        "start": 106.423,
+        "end": 106.543,
+        "score": 0.903,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "tannasiés.",
+        "start": 106.583,
+        "end": 107.964,
+        "score": 0.798,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Même",
+        "start": 108.004,
+        "end": 108.184,
+        "score": 0.984,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "si",
+        "start": 108.224,
+        "end": 108.404,
+        "score": 0.95,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "certains,",
+        "start": 108.444,
+        "end": 108.844,
+        "score": 0.832,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "toujours",
+        "start": 108.884,
+        "end": 109.164,
+        "score": 0.761,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "aussi",
+        "start": 109.204,
+        "end": 109.384,
+        "score": 0.996,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "futés,",
+        "start": 109.424,
+        "end": 110.224,
+        "score": 0.906,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "parviennent",
+        "start": 110.265,
+        "end": 110.725,
+        "score": 0.85,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 110.765,
+        "end": 110.805,
+        "score": 0.576,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "s'échapper.",
+        "start": 110.865,
+        "end": 111.345,
+        "score": 0.839,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "L'animal,",
+        "start": 113.718,
+        "end": 114.039,
+        "score": 0.728,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "il",
+        "start": 114.199,
+        "end": 114.279,
+        "score": 0.449,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 114.299,
+        "end": 114.419,
+        "score": 0.795,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "rentrer",
+        "start": 114.459,
+        "end": 114.74,
+        "score": 0.793,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dans",
+        "start": 114.76,
+        "end": 114.88,
+        "score": 0.905,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 114.92,
+        "end": 114.98,
+        "score": 0.984,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "cage",
+        "start": 115.02,
+        "end": 115.641,
+        "score": 0.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 115.701,
+        "end": 115.781,
+        "score": 0.892,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donc",
+        "start": 115.821,
+        "end": 115.982,
+        "score": 0.53,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "il",
+        "start": 116.062,
+        "end": 116.162,
+        "score": 0.629,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 116.202,
+        "end": 116.843,
+        "score": 0.892,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "mettre",
+        "start": 116.863,
+        "end": 117.083,
+        "score": 0.891,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sa",
+        "start": 117.123,
+        "end": 117.203,
+        "score": 0.96,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "patte",
+        "start": 117.243,
+        "end": 117.704,
+        "score": 0.89,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ici",
+        "start": 117.744,
+        "end": 117.964,
+        "score": 0.986,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sur",
+        "start": 118.004,
+        "end": 118.125,
+        "score": 0.912,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 118.165,
+        "end": 118.225,
+        "score": 0.927,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "palette.",
+        "start": 118.245,
+        "end": 119.727,
+        "score": 0.931,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "La",
+        "start": 119.747,
+        "end": 119.847,
+        "score": 0.986,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "porte",
+        "start": 119.927,
+        "end": 121.169,
+        "score": 0.921,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "va",
+        "start": 121.209,
+        "end": 121.309,
+        "score": 0.98,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tomber",
+        "start": 121.369,
+        "end": 121.71,
+        "score": 0.586,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'animal",
+        "start": 121.75,
+        "end": 122.13,
+        "score": 0.938,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 122.15,
+        "end": 122.31,
+        "score": 0.386,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "est",
+        "start": 122.371,
+        "end": 122.451,
+        "score": 0.076,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "capturé.",
+        "start": 122.471,
+        "end": 123.092,
+        "score": 0.765,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Une",
+        "start": 123.132,
+        "end": 123.272,
+        "score": 0.722,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "association",
+        "start": 123.312,
+        "end": 123.893,
+        "score": 0.936,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 123.933,
+        "end": 124.033,
+        "score": 0.883,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "piégeurs",
+        "start": 124.053,
+        "end": 124.434,
+        "score": 0.772,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "bénévoles",
+        "start": 124.474,
+        "end": 124.974,
+        "score": 0.709,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "est",
+        "start": 125.014,
+        "end": 125.135,
+        "score": 0.77,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "chargée",
+        "start": 125.155,
+        "end": 125.555,
+        "score": 0.849,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 125.575,
+        "end": 125.715,
+        "score": 0.839,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "réguler",
+        "start": 125.755,
+        "end": 126.156,
+        "score": 0.942,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'espèce.",
+        "start": 126.196,
+        "end": 126.557,
+        "score": 0.703,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "qui",
+        "start": 127.184,
+        "end": 127.444,
+        "score": 0.246,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dit",
+        "start": 127.464,
+        "end": 127.544,
+        "score": 0.146,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "espèce",
+        "start": 127.584,
+        "end": 127.784,
+        "score": 0.232,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "exotique",
+        "start": 127.824,
+        "end": 128.124,
+        "score": 0.272,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "envahissante",
+        "start": 128.164,
+        "end": 128.745,
+        "score": 0.451,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dit",
+        "start": 128.785,
+        "end": 128.885,
+        "score": 0.909,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "aussi",
+        "start": 128.945,
+        "end": 129.245,
+        "score": 0.974,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "un",
+        "start": 129.325,
+        "end": 129.505,
+        "score": 0.88,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "déséquilibre",
+        "start": 129.525,
+        "end": 130.746,
+        "score": 0.803,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "écologique",
+        "start": 130.786,
+        "end": 131.286,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "avec",
+        "start": 131.326,
+        "end": 132.486,
+        "score": 0.942,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 132.506,
+        "end": 132.606,
+        "score": 0.969,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "espèces",
+        "start": 132.646,
+        "end": 133.047,
+        "score": 0.929,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 133.087,
+        "end": 133.247,
+        "score": 0.906,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sont",
+        "start": 133.287,
+        "end": 133.827,
+        "score": 0.972,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "autochtones.",
+        "start": 133.867,
+        "end": 134.767,
+        "score": 0.937,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "On",
+        "start": 134.827,
+        "end": 135.348,
+        "score": 0.632,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pourrait",
+        "start": 135.368,
+        "end": 135.628,
+        "score": 0.855,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "parler",
+        "start": 135.668,
+        "end": 136.788,
+        "score": 0.957,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 136.828,
+        "end": 136.928,
+        "score": 0.904,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "la",
+        "start": 136.948,
+        "end": 137.048,
+        "score": 0.977,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "loutre,",
+        "start": 137.088,
+        "end": 138.389,
+        "score": 0.899,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "du",
+        "start": 138.409,
+        "end": 138.509,
+        "score": 0.828,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "visant",
+        "start": 138.529,
+        "end": 138.769,
+        "score": 0.847,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "d'Europe",
+        "start": 138.789,
+        "end": 139.71,
+        "score": 0.741,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ou",
+        "start": 139.75,
+        "end": 139.85,
+        "score": 0.853,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "alors",
+        "start": 139.89,
+        "end": 140.41,
+        "score": 0.643,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "certains",
+        "start": 140.43,
+        "end": 140.89,
+        "score": 0.887,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "oiseaux",
+        "start": 140.97,
+        "end": 142.191,
+        "score": 0.819,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qui",
+        "start": 142.211,
+        "end": 142.351,
+        "score": 0.757,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sont",
+        "start": 142.371,
+        "end": 142.531,
+        "score": 0.923,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "protégés",
+        "start": 142.571,
+        "end": 143.851,
+        "score": 0.956,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 143.891,
+        "end": 144.012,
+        "score": 0.832,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "dont",
+        "start": 144.032,
+        "end": 144.152,
+        "score": 0.548,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 144.172,
+        "end": 144.252,
+        "score": 0.806,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "nichers",
+        "start": 144.292,
+        "end": 144.532,
+        "score": 0.706,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "sont",
+        "start": 144.572,
+        "end": 144.732,
+        "score": 0.543,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "systématiquement",
+        "start": 144.752,
+        "end": 145.312,
+        "score": 0.909,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prédatés",
+        "start": 145.372,
+        "end": 145.732,
+        "score": 0.919,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "par",
+        "start": 145.772,
+        "end": 145.852,
+        "score": 0.963,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "les",
+        "start": 145.872,
+        "end": 145.932,
+        "score": 0.912,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ratons",
+        "start": 145.972,
+        "end": 146.152,
+        "score": 0.672,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "laveurs.",
+        "start": 146.172,
+        "end": 147.033,
+        "score": 0.385,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Le",
+        "start": 147.053,
+        "end": 147.153,
+        "score": 0.782,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "raton",
+        "start": 147.173,
+        "end": 147.433,
+        "score": 0.783,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "laveur",
+        "start": 147.453,
+        "end": 147.713,
+        "score": 0.832,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "est",
+        "start": 147.813,
+        "end": 147.953,
+        "score": 0.354,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "aussi",
+        "start": 147.993,
+        "end": 148.313,
+        "score": 0.739,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "porteur",
+        "start": 148.333,
+        "end": 148.754,
+        "score": 0.673,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 148.774,
+        "end": 148.954,
+        "score": 0.678,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "maladies",
+        "start": 148.974,
+        "end": 149.414,
+        "score": 0.933,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "transmissibles",
+        "start": 149.454,
+        "end": 150.114,
+        "score": 0.868,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "à",
+        "start": 150.154,
+        "end": 150.194,
+        "score": 0.788,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'homme.",
+        "start": 150.234,
+        "end": 150.935,
+        "score": 0.781,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Peu",
+        "start": 150.955,
+        "end": 151.115,
+        "score": 0.873,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "farouche,",
+        "start": 151.155,
+        "end": 152.115,
+        "score": 0.849,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'approcher",
+        "start": 152.155,
+        "end": 152.695,
+        "score": 0.812,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "n'est",
+        "start": 152.715,
+        "end": 152.875,
+        "score": 0.933,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "pas",
+        "start": 152.915,
+        "end": 153.036,
+        "score": 0.936,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "recommandé.",
+        "start": 153.056,
+        "end": 154.536,
+        "score": 0.81,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Moi",
+        "start": 154.556,
+        "end": 154.636,
+        "score": 0.184,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "je",
+        "start": 154.656,
+        "end": 154.716,
+        "score": 0.236,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "te",
+        "start": 154.736,
+        "end": 154.836,
+        "score": 0.365,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "donne",
+        "start": 154.876,
+        "end": 155.036,
+        "score": 0.231,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tout",
+        "start": 155.056,
+        "end": 155.136,
+        "score": 0.231,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ce",
+        "start": 155.177,
+        "end": 155.217,
+        "score": 0.134,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 155.257,
+        "end": 155.397,
+        "score": 0.302,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "tu",
+        "start": 155.437,
+        "end": 155.517,
+        "score": 0.479,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vas",
+        "start": 155.537,
+        "end": 155.617,
+        "score": 0.169,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "manger.",
+        "start": 155.757,
+        "end": 156.017,
+        "score": 0.16,
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 156,
+  "transcription_duration": 12
+}

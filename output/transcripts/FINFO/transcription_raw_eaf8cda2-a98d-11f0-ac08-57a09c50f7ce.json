@@ -1,0 +1,2969 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 6.376,
+        "text": " son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence et donc gratuit.",
+        "words": [
+          {
+            "word": "son",
+            "start": 0.031,
+            "end": 0.231,
+            "score": 0.18,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ordinateur,",
+            "start": 0.271,
+            "end": 1.232,
+            "score": 0.873,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "Hélène",
+            "start": 1.312,
+            "end": 1.632,
+            "score": 0.56,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "se",
+            "start": 1.672,
+            "end": 1.793,
+            "score": 0.844,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "familiarise",
+            "start": 1.813,
+            "end": 2.453,
+            "score": 0.906,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "avec",
+            "start": 2.493,
+            "end": 2.753,
+            "score": 0.961,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 2.813,
+            "end": 2.974,
+            "score": 0.896,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "nouveau",
+            "start": 3.014,
+            "end": 3.274,
+            "score": 0.91,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "logiciel",
+            "start": 3.314,
+            "end": 4.054,
+            "score": 0.942,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sans",
+            "start": 4.095,
+            "end": 4.295,
+            "score": 0.961,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "licence",
+            "start": 4.335,
+            "end": 4.895,
+            "score": 0.995,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "et",
+            "start": 4.935,
+            "end": 5.075,
+            "score": 0.828,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "donc",
+            "start": 5.095,
+            "end": 5.336,
+            "score": 0.916,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gratuit.",
+            "start": 5.356,
+            "end": 6.376,
+            "score": 0.877,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 6.417,
+        "end": 13.423,
+        "text": "Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.",
+        "words": [
+          {
+            "word": "Pas",
+            "start": 6.417,
+            "end": 6.537,
+            "score": 0.947,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "question",
+            "start": 6.577,
+            "end": 6.897,
+            "score": 0.907,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 6.937,
+            "end": 7.077,
+            "score": 0.8,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "elle",
+            "start": 7.117,
+            "end": 7.337,
+            "score": 0.82,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 7.357,
+            "end": 7.517,
+            "score": 0.853,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "payer",
+            "start": 7.537,
+            "end": 7.898,
+            "score": 0.872,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 7.938,
+            "end": 8.158,
+            "score": 0.849,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "consulter",
+            "start": 8.198,
+            "end": 8.678,
+            "score": 0.982,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ses",
+            "start": 8.698,
+            "end": 8.859,
+            "score": 0.748,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mails",
+            "start": 8.899,
+            "end": 9.179,
+            "score": 0.654,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "et",
+            "start": 9.259,
+            "end": 9.339,
+            "score": 0.574,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "surfer",
+            "start": 9.379,
+            "end": 9.759,
+            "score": 0.738,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sur",
+            "start": 9.779,
+            "end": 9.92,
+            "score": 0.878,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "internet,",
+            "start": 9.98,
+            "end": 10.74,
+            "score": 0.94,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "elle",
+            "start": 10.78,
+            "end": 10.94,
+            "score": 0.777,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 10.98,
+            "end": 11.061,
+            "score": 0.954,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "préféré",
+            "start": 11.101,
+            "end": 11.681,
+            "score": 0.935,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "une",
+            "start": 11.741,
+            "end": 11.861,
+            "score": 0.855,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "autre",
+            "start": 11.921,
+            "end": 12.201,
+            "score": 0.938,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "solution.",
+            "start": 12.222,
+            "end": 13.423,
+            "score": 0.926,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 13.443,
+        "end": 16.665,
+        "text": "Si je clique dessus, on retrouve tout le bazar.",
+        "words": [
+          {
+            "word": "Si",
+            "start": 13.443,
+            "end": 13.583,
+            "score": 0.609,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "je",
+            "start": 13.603,
+            "end": 13.703,
+            "score": 0.706,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "clique",
+            "start": 13.823,
+            "end": 14.383,
+            "score": 0.537,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dessus,",
+            "start": 14.403,
+            "end": 15.344,
+            "score": 0.755,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "on",
+            "start": 15.404,
+            "end": 15.544,
+            "score": 0.432,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "retrouve",
+            "start": 15.584,
+            "end": 15.965,
+            "score": 0.453,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "tout",
+            "start": 15.985,
+            "end": 16.085,
+            "score": 0.126,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "le",
+            "start": 16.105,
+            "end": 16.185,
+            "score": 0.494,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "bazar.",
+            "start": 16.225,
+            "end": 16.665,
+            "score": 0.694,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 16.705,
+        "end": 22.731,
+        "text": "Je me sens en otage parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.",
+        "words": [
+          {
+            "word": "Je",
+            "start": 16.705,
+            "end": 16.765,
+            "score": 0.25,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "me",
+            "start": 16.805,
+            "end": 16.906,
+            "score": 0.462,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "sens",
+            "start": 16.926,
+            "end": 17.106,
+            "score": 0.562,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "en",
+            "start": 17.166,
+            "end": 17.226,
+            "score": 0.257,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "otage",
+            "start": 17.246,
+            "end": 17.486,
+            "score": 0.535,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "parce",
+            "start": 17.506,
+            "end": 17.626,
+            "score": 0.829,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "que",
+            "start": 17.646,
+            "end": 17.726,
+            "score": 0.892,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "j'ai",
+            "start": 17.746,
+            "end": 17.806,
+            "score": 0.267,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "l'impression",
+            "start": 17.826,
+            "end": 18.127,
+            "score": 0.353,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "qu'on",
+            "start": 18.147,
+            "end": 18.387,
+            "score": 0.763,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "est",
+            "start": 18.427,
+            "end": 18.547,
+            "score": 0.427,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "en",
+            "start": 18.587,
+            "end": 18.647,
+            "score": 0.734,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "train",
+            "start": 18.667,
+            "end": 20.569,
+            "score": 0.916,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 20.609,
+            "end": 20.749,
+            "score": 0.884,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "vouloir",
+            "start": 20.789,
+            "end": 21.149,
+            "score": 0.902,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "toujours",
+            "start": 21.169,
+            "end": 21.449,
+            "score": 0.852,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "me",
+            "start": 21.489,
+            "end": 21.59,
+            "score": 0.946,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "vendre",
+            "start": 21.63,
+            "end": 21.95,
+            "score": 0.882,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "quelque",
+            "start": 21.99,
+            "end": 22.23,
+            "score": 0.939,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "chose",
+            "start": 22.25,
+            "end": 22.43,
+            "score": 0.902,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "de",
+            "start": 22.45,
+            "end": 22.59,
+            "score": 0.728,
+            "speaker": "SPEAKER_03"
+          },
+          {
+            "word": "plus.",
+            "start": 22.61,
+            "end": 22.731,
+            "score": 0.68,
+            "speaker": "SPEAKER_03"
+          }
+        ],
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "start": 23.605,
+        "end": 28.307,
+        "text": " Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité.",
+        "words": [
+          {
+            "word": "Sans",
+            "start": 23.605,
+            "end": 23.985,
+            "score": 0.315,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cette",
+            "start": 24.005,
+            "end": 24.145,
+            "score": 0.308,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mise",
+            "start": 24.165,
+            "end": 24.285,
+            "score": 0.273,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 24.325,
+            "end": 24.385,
+            "score": 0.216,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jour",
+            "start": 24.405,
+            "end": 24.565,
+            "score": 0.384,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 24.585,
+            "end": 24.665,
+            "score": 0.526,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "Windows,",
+            "start": 24.705,
+            "end": 25.366,
+            "score": 0.58,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 25.386,
+            "end": 25.486,
+            "score": 0.819,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "PC",
+            "start": 25.506,
+            "end": 25.846,
+            "score": 0.742,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sont",
+            "start": 25.886,
+            "end": 26.086,
+            "score": 0.854,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "exposés",
+            "start": 26.126,
+            "end": 26.586,
+            "score": 0.866,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 26.646,
+            "end": 26.686,
+            "score": 0.486,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 26.746,
+            "end": 26.866,
+            "score": 0.929,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "failles",
+            "start": 26.906,
+            "end": 27.166,
+            "score": 0.758,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 27.186,
+            "end": 27.266,
+            "score": 0.837,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sécurité.",
+            "start": 27.326,
+            "end": 28.307,
+            "score": 0.917,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 28.347,
+        "end": 36.09,
+        "text": "Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 28.347,
+            "end": 28.507,
+            "score": 0.884,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "éviter",
+            "start": 28.527,
+            "end": 28.787,
+            "score": 0.962,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 28.827,
+            "end": 28.907,
+            "score": 0.864,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "devoir",
+            "start": 28.947,
+            "end": 29.267,
+            "score": 0.876,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "racheter",
+            "start": 29.307,
+            "end": 29.647,
+            "score": 0.743,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 29.687,
+            "end": 29.767,
+            "score": 0.698,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "nouvel",
+            "start": 29.807,
+            "end": 30.068,
+            "score": 0.815,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ordinateur",
+            "start": 30.128,
+            "end": 30.668,
+            "score": 0.862,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ou",
+            "start": 30.728,
+            "end": 30.888,
+            "score": 0.855,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "d'effectuer",
+            "start": 30.928,
+            "end": 31.408,
+            "score": 0.887,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 31.448,
+            "end": 31.528,
+            "score": 0.948,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mise",
+            "start": 31.568,
+            "end": 31.688,
+            "score": 0.92,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 31.748,
+            "end": 31.808,
+            "score": 0.921,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jour,",
+            "start": 31.848,
+            "end": 32.509,
+            "score": 0.978,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 32.529,
+            "end": 32.649,
+            "score": 0.812,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "associations",
+            "start": 32.689,
+            "end": 33.329,
+            "score": 0.868,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "proposent",
+            "start": 33.369,
+            "end": 33.769,
+            "score": 0.801,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "leur",
+            "start": 33.809,
+            "end": 33.949,
+            "score": 0.942,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "aide",
+            "start": 34.009,
+            "end": 34.229,
+            "score": 0.831,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 34.269,
+            "end": 34.409,
+            "score": 0.93,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "installer",
+            "start": 34.469,
+            "end": 34.89,
+            "score": 0.852,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 34.93,
+            "end": 35.03,
+            "score": 0.855,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "logiciels",
+            "start": 35.05,
+            "end": 35.51,
+            "score": 0.766,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gratuits.",
+            "start": 35.53,
+            "end": 36.09,
+            "score": 0.759,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 36.17,
+        "end": 43.533,
+        "text": "Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 36.17,
+            "end": 36.23,
+            "score": 0.639,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faut",
+            "start": 36.25,
+            "end": 36.37,
+            "score": 0.849,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 36.39,
+            "end": 36.45,
+            "score": 0.681,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "gens",
+            "start": 36.47,
+            "end": 36.63,
+            "score": 0.367,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pour",
+            "start": 36.65,
+            "end": 36.79,
+            "score": 0.833,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "accompagner",
+            "start": 36.85,
+            "end": 37.31,
+            "score": 0.822,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "et",
+            "start": 37.391,
+            "end": 38.091,
+            "score": 0.831,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "montrer",
+            "start": 38.111,
+            "end": 38.311,
+            "score": 0.771,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 38.331,
+            "end": 38.431,
+            "score": 0.848,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "c'est",
+            "start": 38.471,
+            "end": 38.751,
+            "score": 0.795,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faisable,",
+            "start": 38.771,
+            "end": 39.171,
+            "score": 0.683,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "possible,",
+            "start": 39.211,
+            "end": 39.511,
+            "score": 0.883,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 39.531,
+            "end": 39.651,
+            "score": 0.744,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'interface",
+            "start": 39.671,
+            "end": 40.032,
+            "score": 0.727,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 40.052,
+            "end": 40.092,
+            "score": 0.054,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "change",
+            "start": 40.112,
+            "end": 40.312,
+            "score": 0.753,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 40.332,
+            "end": 40.452,
+            "score": 0.818,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "beaucoup,",
+            "start": 40.492,
+            "end": 40.872,
+            "score": 0.505,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "que",
+            "start": 40.912,
+            "end": 41.692,
+            "score": 0.556,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça",
+            "start": 41.712,
+            "end": 41.892,
+            "score": 0.552,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "permet",
+            "start": 41.912,
+            "end": 42.152,
+            "score": 0.864,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 42.172,
+            "end": 42.252,
+            "score": 0.814,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 42.493,
+            "end": 42.533,
+            "score": 0.029,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 42.553,
+            "end": 42.673,
+            "score": 0.631,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "réinvestir",
+            "start": 42.693,
+            "end": 43.133,
+            "score": 0.789,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 43.173,
+            "end": 43.253,
+            "score": 0.835,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'argent.",
+            "start": 43.273,
+            "end": 43.533,
+            "score": 0.588,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 43.753,
+        "end": 47.496,
+        "text": " Cette mise à jour représente un coût notamment pour les collectivités.",
+        "words": [
+          {
+            "word": "Cette",
+            "start": 43.753,
+            "end": 43.953,
+            "score": 0.865,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mise",
+            "start": 43.993,
+            "end": 44.133,
+            "score": 0.845,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 44.173,
+            "end": 44.213,
+            "score": 0.516,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jour",
+            "start": 44.254,
+            "end": 44.434,
+            "score": 0.834,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "représente",
+            "start": 44.454,
+            "end": 44.954,
+            "score": 0.88,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 45.014,
+            "end": 45.114,
+            "score": 0.871,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "coût",
+            "start": 45.154,
+            "end": 45.415,
+            "score": 0.944,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "notamment",
+            "start": 45.455,
+            "end": 45.975,
+            "score": 0.883,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 46.015,
+            "end": 46.155,
+            "score": 0.961,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 46.195,
+            "end": 46.275,
+            "score": 0.904,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "collectivités.",
+            "start": 46.315,
+            "end": 47.496,
+            "score": 0.996,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 47.556,
+        "end": 53.662,
+        "text": "Alors pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.",
+        "words": [
+          {
+            "word": "Alors",
+            "start": 47.556,
+            "end": 47.777,
+            "score": 0.853,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 47.817,
+            "end": 47.977,
+            "score": 0.958,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "éviter",
+            "start": 48.017,
+            "end": 48.317,
+            "score": 0.955,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 48.357,
+            "end": 48.477,
+            "score": 0.892,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "remplacer",
+            "start": 48.517,
+            "end": 48.978,
+            "score": 0.88,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "son",
+            "start": 49.038,
+            "end": 49.198,
+            "score": 0.981,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "parc",
+            "start": 49.238,
+            "end": 49.478,
+            "score": 0.792,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "informatique,",
+            "start": 49.518,
+            "end": 50.439,
+            "score": 0.922,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cette",
+            "start": 50.459,
+            "end": 50.659,
+            "score": 0.794,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mairie",
+            "start": 50.679,
+            "end": 50.939,
+            "score": 0.67,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "a",
+            "start": 50.979,
+            "end": 51.04,
+            "score": 0.629,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "opté",
+            "start": 51.1,
+            "end": 51.38,
+            "score": 0.925,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 51.42,
+            "end": 51.66,
+            "score": 0.881,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "Linux,",
+            "start": 51.7,
+            "end": 52.08,
+            "score": 0.889,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "un",
+            "start": 52.181,
+            "end": 52.321,
+            "score": 0.36,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "logiciel",
+            "start": 52.361,
+            "end": 52.921,
+            "score": 0.883,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gratuit.",
+            "start": 52.961,
+            "end": 53.662,
+            "score": 0.857,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 53.722,
+        "end": 57.065,
+        "text": "On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows.",
+        "words": [
+          {
+            "word": "On",
+            "start": 53.722,
+            "end": 53.822,
+            "score": 0.956,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "travaille",
+            "start": 53.862,
+            "end": 54.342,
+            "score": 0.857,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "avec",
+            "start": 54.362,
+            "end": 54.543,
+            "score": 0.941,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 54.563,
+            "end": 54.643,
+            "score": 0.913,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mêmes",
+            "start": 54.663,
+            "end": 54.843,
+            "score": 0.787,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "outils",
+            "start": 54.883,
+            "end": 55.123,
+            "score": 0.728,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qu'avec",
+            "start": 55.143,
+            "end": 55.423,
+            "score": 0.735,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "les",
+            "start": 55.443,
+            "end": 55.523,
+            "score": 0.706,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "collègues",
+            "start": 55.543,
+            "end": 55.744,
+            "score": 0.84,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qui",
+            "start": 55.764,
+            "end": 55.844,
+            "score": 0.068,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sont",
+            "start": 55.864,
+            "end": 55.984,
+            "score": 0.756,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "encore",
+            "start": 56.004,
+            "end": 56.164,
+            "score": 0.765,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "restés",
+            "start": 56.184,
+            "end": 56.404,
+            "score": 0.808,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sous",
+            "start": 56.424,
+            "end": 56.504,
+            "score": 0.812,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "Windows.",
+            "start": 56.524,
+            "end": 57.065,
+            "score": 0.556,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 57.085,
+        "end": 62.41,
+        "text": "Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers.",
+        "words": [
+          {
+            "word": "Donc",
+            "start": 57.085,
+            "end": 57.225,
+            "score": 0.714,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "on",
+            "start": 57.305,
+            "end": 57.405,
+            "score": 0.63,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 58.046,
+            "end": 58.106,
+            "score": 0.563,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 58.126,
+            "end": 58.226,
+            "score": 0.689,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "compatibilités",
+            "start": 58.246,
+            "end": 58.866,
+            "score": 0.78,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "au",
+            "start": 58.886,
+            "end": 58.946,
+            "score": 0.976,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "niveau",
+            "start": 58.986,
+            "end": 59.187,
+            "score": 0.89,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "des",
+            "start": 59.207,
+            "end": 59.287,
+            "score": 0.848,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "applis,",
+            "start": 59.327,
+            "end": 59.707,
+            "score": 0.842,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "on",
+            "start": 59.747,
+            "end": 60.027,
+            "score": 0.357,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "peut",
+            "start": 60.067,
+            "end": 60.688,
+            "score": 0.806,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "se",
+            "start": 60.708,
+            "end": 60.788,
+            "score": 0.922,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "partager",
+            "start": 60.828,
+            "end": 61.128,
+            "score": 0.884,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nos",
+            "start": 61.168,
+            "end": 61.269,
+            "score": 0.785,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "fichiers.",
+            "start": 61.309,
+            "end": 62.41,
+            "score": 0.882,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 62.43,
+        "end": 67.294,
+        "text": "Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 62.43,
+            "end": 62.57,
+            "score": 0.961,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "changement",
+            "start": 62.61,
+            "end": 62.95,
+            "score": 0.829,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 62.99,
+            "end": 63.07,
+            "score": 0.85,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "permis",
+            "start": 63.11,
+            "end": 63.39,
+            "score": 0.759,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 63.41,
+            "end": 63.43,
+            "score": 0.989,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 63.49,
+            "end": 63.571,
+            "score": 0.824,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ville",
+            "start": 63.591,
+            "end": 63.791,
+            "score": 0.876,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'économiser",
+            "start": 63.811,
+            "end": 64.651,
+            "score": 0.904,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "2,5"
+          },
+          {
+            "word": "millions",
+            "start": 64.892,
+            "end": 65.152,
+            "score": 0.867,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "d'euros",
+            "start": 65.532,
+            "end": 66.133,
+            "score": 0.789,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sur",
+            "start": 66.173,
+            "end": 66.353,
+            "score": 0.815,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "l'ensemble",
+            "start": 66.393,
+            "end": 66.873,
+            "score": 0.891,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 66.913,
+            "end": 67.034,
+            "score": 0.975,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mandat.",
+            "start": 67.054,
+            "end": 67.294,
+            "score": 0.988,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "son",
+        "start": 0.031,
+        "end": 0.231,
+        "score": 0.18,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ordinateur,",
+        "start": 0.271,
+        "end": 1.232,
+        "score": 0.873,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Hélène",
+        "start": 1.312,
+        "end": 1.632,
+        "score": 0.56,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "se",
+        "start": 1.672,
+        "end": 1.793,
+        "score": 0.844,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "familiarise",
+        "start": 1.813,
+        "end": 2.453,
+        "score": 0.906,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "avec",
+        "start": 2.493,
+        "end": 2.753,
+        "score": 0.961,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 2.813,
+        "end": 2.974,
+        "score": 0.896,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "nouveau",
+        "start": 3.014,
+        "end": 3.274,
+        "score": 0.91,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "logiciel",
+        "start": 3.314,
+        "end": 4.054,
+        "score": 0.942,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sans",
+        "start": 4.095,
+        "end": 4.295,
+        "score": 0.961,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "licence",
+        "start": 4.335,
+        "end": 4.895,
+        "score": 0.995,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "et",
+        "start": 4.935,
+        "end": 5.075,
+        "score": 0.828,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "donc",
+        "start": 5.095,
+        "end": 5.336,
+        "score": 0.916,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gratuit.",
+        "start": 5.356,
+        "end": 6.376,
+        "score": 0.877,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Pas",
+        "start": 6.417,
+        "end": 6.537,
+        "score": 0.947,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "question",
+        "start": 6.577,
+        "end": 6.897,
+        "score": 0.907,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 6.937,
+        "end": 7.077,
+        "score": 0.8,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "elle",
+        "start": 7.117,
+        "end": 7.337,
+        "score": 0.82,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 7.357,
+        "end": 7.517,
+        "score": 0.853,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "payer",
+        "start": 7.537,
+        "end": 7.898,
+        "score": 0.872,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 7.938,
+        "end": 8.158,
+        "score": 0.849,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "consulter",
+        "start": 8.198,
+        "end": 8.678,
+        "score": 0.982,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ses",
+        "start": 8.698,
+        "end": 8.859,
+        "score": 0.748,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mails",
+        "start": 8.899,
+        "end": 9.179,
+        "score": 0.654,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "et",
+        "start": 9.259,
+        "end": 9.339,
+        "score": 0.574,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "surfer",
+        "start": 9.379,
+        "end": 9.759,
+        "score": 0.738,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sur",
+        "start": 9.779,
+        "end": 9.92,
+        "score": 0.878,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "internet,",
+        "start": 9.98,
+        "end": 10.74,
+        "score": 0.94,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "elle",
+        "start": 10.78,
+        "end": 10.94,
+        "score": 0.777,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 10.98,
+        "end": 11.061,
+        "score": 0.954,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "préféré",
+        "start": 11.101,
+        "end": 11.681,
+        "score": 0.935,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "une",
+        "start": 11.741,
+        "end": 11.861,
+        "score": 0.855,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "autre",
+        "start": 11.921,
+        "end": 12.201,
+        "score": 0.938,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "solution.",
+        "start": 12.222,
+        "end": 13.423,
+        "score": 0.926,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Si",
+        "start": 13.443,
+        "end": 13.583,
+        "score": 0.609,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "je",
+        "start": 13.603,
+        "end": 13.703,
+        "score": 0.706,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "clique",
+        "start": 13.823,
+        "end": 14.383,
+        "score": 0.537,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dessus,",
+        "start": 14.403,
+        "end": 15.344,
+        "score": 0.755,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "on",
+        "start": 15.404,
+        "end": 15.544,
+        "score": 0.432,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "retrouve",
+        "start": 15.584,
+        "end": 15.965,
+        "score": 0.453,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "tout",
+        "start": 15.985,
+        "end": 16.085,
+        "score": 0.126,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "le",
+        "start": 16.105,
+        "end": 16.185,
+        "score": 0.494,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "bazar.",
+        "start": 16.225,
+        "end": 16.665,
+        "score": 0.694,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Je",
+        "start": 16.705,
+        "end": 16.765,
+        "score": 0.25,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "me",
+        "start": 16.805,
+        "end": 16.906,
+        "score": 0.462,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "sens",
+        "start": 16.926,
+        "end": 17.106,
+        "score": 0.562,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "en",
+        "start": 17.166,
+        "end": 17.226,
+        "score": 0.257,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "otage",
+        "start": 17.246,
+        "end": 17.486,
+        "score": 0.535,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "parce",
+        "start": 17.506,
+        "end": 17.626,
+        "score": 0.829,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "que",
+        "start": 17.646,
+        "end": 17.726,
+        "score": 0.892,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "j'ai",
+        "start": 17.746,
+        "end": 17.806,
+        "score": 0.267,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "l'impression",
+        "start": 17.826,
+        "end": 18.127,
+        "score": 0.353,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "qu'on",
+        "start": 18.147,
+        "end": 18.387,
+        "score": 0.763,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "est",
+        "start": 18.427,
+        "end": 18.547,
+        "score": 0.427,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "en",
+        "start": 18.587,
+        "end": 18.647,
+        "score": 0.734,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "train",
+        "start": 18.667,
+        "end": 20.569,
+        "score": 0.916,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 20.609,
+        "end": 20.749,
+        "score": 0.884,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "vouloir",
+        "start": 20.789,
+        "end": 21.149,
+        "score": 0.902,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "toujours",
+        "start": 21.169,
+        "end": 21.449,
+        "score": 0.852,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "me",
+        "start": 21.489,
+        "end": 21.59,
+        "score": 0.946,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "vendre",
+        "start": 21.63,
+        "end": 21.95,
+        "score": 0.882,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "quelque",
+        "start": 21.99,
+        "end": 22.23,
+        "score": 0.939,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "chose",
+        "start": 22.25,
+        "end": 22.43,
+        "score": 0.902,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "de",
+        "start": 22.45,
+        "end": 22.59,
+        "score": 0.728,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "plus.",
+        "start": 22.61,
+        "end": 22.731,
+        "score": 0.68,
+        "speaker": "SPEAKER_03"
+      },
+      {
+        "word": "Sans",
+        "start": 23.605,
+        "end": 23.985,
+        "score": 0.315,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cette",
+        "start": 24.005,
+        "end": 24.145,
+        "score": 0.308,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mise",
+        "start": 24.165,
+        "end": 24.285,
+        "score": 0.273,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 24.325,
+        "end": 24.385,
+        "score": 0.216,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jour",
+        "start": 24.405,
+        "end": 24.565,
+        "score": 0.384,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 24.585,
+        "end": 24.665,
+        "score": 0.526,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Windows,",
+        "start": 24.705,
+        "end": 25.366,
+        "score": 0.58,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 25.386,
+        "end": 25.486,
+        "score": 0.819,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "PC",
+        "start": 25.506,
+        "end": 25.846,
+        "score": 0.742,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sont",
+        "start": 25.886,
+        "end": 26.086,
+        "score": 0.854,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "exposés",
+        "start": 26.126,
+        "end": 26.586,
+        "score": 0.866,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 26.646,
+        "end": 26.686,
+        "score": 0.486,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 26.746,
+        "end": 26.866,
+        "score": 0.929,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "failles",
+        "start": 26.906,
+        "end": 27.166,
+        "score": 0.758,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 27.186,
+        "end": 27.266,
+        "score": 0.837,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sécurité.",
+        "start": 27.326,
+        "end": 28.307,
+        "score": 0.917,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Pour",
+        "start": 28.347,
+        "end": 28.507,
+        "score": 0.884,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "éviter",
+        "start": 28.527,
+        "end": 28.787,
+        "score": 0.962,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 28.827,
+        "end": 28.907,
+        "score": 0.864,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "devoir",
+        "start": 28.947,
+        "end": 29.267,
+        "score": 0.876,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "racheter",
+        "start": 29.307,
+        "end": 29.647,
+        "score": 0.743,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 29.687,
+        "end": 29.767,
+        "score": 0.698,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "nouvel",
+        "start": 29.807,
+        "end": 30.068,
+        "score": 0.815,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ordinateur",
+        "start": 30.128,
+        "end": 30.668,
+        "score": 0.862,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ou",
+        "start": 30.728,
+        "end": 30.888,
+        "score": 0.855,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "d'effectuer",
+        "start": 30.928,
+        "end": 31.408,
+        "score": 0.887,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 31.448,
+        "end": 31.528,
+        "score": 0.948,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mise",
+        "start": 31.568,
+        "end": 31.688,
+        "score": 0.92,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 31.748,
+        "end": 31.808,
+        "score": 0.921,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jour,",
+        "start": 31.848,
+        "end": 32.509,
+        "score": 0.978,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 32.529,
+        "end": 32.649,
+        "score": 0.812,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "associations",
+        "start": 32.689,
+        "end": 33.329,
+        "score": 0.868,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "proposent",
+        "start": 33.369,
+        "end": 33.769,
+        "score": 0.801,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "leur",
+        "start": 33.809,
+        "end": 33.949,
+        "score": 0.942,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "aide",
+        "start": 34.009,
+        "end": 34.229,
+        "score": 0.831,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 34.269,
+        "end": 34.409,
+        "score": 0.93,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "installer",
+        "start": 34.469,
+        "end": 34.89,
+        "score": 0.852,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 34.93,
+        "end": 35.03,
+        "score": 0.855,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "logiciels",
+        "start": 35.05,
+        "end": 35.51,
+        "score": 0.766,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gratuits.",
+        "start": 35.53,
+        "end": 36.09,
+        "score": 0.759,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Il",
+        "start": 36.17,
+        "end": 36.23,
+        "score": 0.639,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faut",
+        "start": 36.25,
+        "end": 36.37,
+        "score": 0.849,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 36.39,
+        "end": 36.45,
+        "score": 0.681,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "gens",
+        "start": 36.47,
+        "end": 36.63,
+        "score": 0.367,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pour",
+        "start": 36.65,
+        "end": 36.79,
+        "score": 0.833,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "accompagner",
+        "start": 36.85,
+        "end": 37.31,
+        "score": 0.822,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "et",
+        "start": 37.391,
+        "end": 38.091,
+        "score": 0.831,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "montrer",
+        "start": 38.111,
+        "end": 38.311,
+        "score": 0.771,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 38.331,
+        "end": 38.431,
+        "score": 0.848,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "c'est",
+        "start": 38.471,
+        "end": 38.751,
+        "score": 0.795,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faisable,",
+        "start": 38.771,
+        "end": 39.171,
+        "score": 0.683,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "possible,",
+        "start": 39.211,
+        "end": 39.511,
+        "score": 0.883,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 39.531,
+        "end": 39.651,
+        "score": 0.744,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'interface",
+        "start": 39.671,
+        "end": 40.032,
+        "score": 0.727,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 40.052,
+        "end": 40.092,
+        "score": 0.054,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "change",
+        "start": 40.112,
+        "end": 40.312,
+        "score": 0.753,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 40.332,
+        "end": 40.452,
+        "score": 0.818,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "beaucoup,",
+        "start": 40.492,
+        "end": 40.872,
+        "score": 0.505,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "que",
+        "start": 40.912,
+        "end": 41.692,
+        "score": 0.556,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça",
+        "start": 41.712,
+        "end": 41.892,
+        "score": 0.552,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "permet",
+        "start": 41.912,
+        "end": 42.152,
+        "score": 0.864,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 42.172,
+        "end": 42.252,
+        "score": 0.814,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 42.493,
+        "end": 42.533,
+        "score": 0.029,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 42.553,
+        "end": 42.673,
+        "score": 0.631,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "réinvestir",
+        "start": 42.693,
+        "end": 43.133,
+        "score": 0.789,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 43.173,
+        "end": 43.253,
+        "score": 0.835,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'argent.",
+        "start": 43.273,
+        "end": 43.533,
+        "score": 0.588,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Cette",
+        "start": 43.753,
+        "end": 43.953,
+        "score": 0.865,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mise",
+        "start": 43.993,
+        "end": 44.133,
+        "score": 0.845,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 44.173,
+        "end": 44.213,
+        "score": 0.516,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jour",
+        "start": 44.254,
+        "end": 44.434,
+        "score": 0.834,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "représente",
+        "start": 44.454,
+        "end": 44.954,
+        "score": 0.88,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 45.014,
+        "end": 45.114,
+        "score": 0.871,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "coût",
+        "start": 45.154,
+        "end": 45.415,
+        "score": 0.944,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "notamment",
+        "start": 45.455,
+        "end": 45.975,
+        "score": 0.883,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 46.015,
+        "end": 46.155,
+        "score": 0.961,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 46.195,
+        "end": 46.275,
+        "score": 0.904,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "collectivités.",
+        "start": 46.315,
+        "end": 47.496,
+        "score": 0.996,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Alors",
+        "start": 47.556,
+        "end": 47.777,
+        "score": 0.853,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 47.817,
+        "end": 47.977,
+        "score": 0.958,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "éviter",
+        "start": 48.017,
+        "end": 48.317,
+        "score": 0.955,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 48.357,
+        "end": 48.477,
+        "score": 0.892,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "remplacer",
+        "start": 48.517,
+        "end": 48.978,
+        "score": 0.88,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "son",
+        "start": 49.038,
+        "end": 49.198,
+        "score": 0.981,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "parc",
+        "start": 49.238,
+        "end": 49.478,
+        "score": 0.792,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "informatique,",
+        "start": 49.518,
+        "end": 50.439,
+        "score": 0.922,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cette",
+        "start": 50.459,
+        "end": 50.659,
+        "score": 0.794,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mairie",
+        "start": 50.679,
+        "end": 50.939,
+        "score": 0.67,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "a",
+        "start": 50.979,
+        "end": 51.04,
+        "score": 0.629,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "opté",
+        "start": 51.1,
+        "end": 51.38,
+        "score": 0.925,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 51.42,
+        "end": 51.66,
+        "score": 0.881,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Linux,",
+        "start": 51.7,
+        "end": 52.08,
+        "score": 0.889,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "un",
+        "start": 52.181,
+        "end": 52.321,
+        "score": 0.36,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "logiciel",
+        "start": 52.361,
+        "end": 52.921,
+        "score": 0.883,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gratuit.",
+        "start": 52.961,
+        "end": 53.662,
+        "score": 0.857,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "On",
+        "start": 53.722,
+        "end": 53.822,
+        "score": 0.956,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "travaille",
+        "start": 53.862,
+        "end": 54.342,
+        "score": 0.857,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "avec",
+        "start": 54.362,
+        "end": 54.543,
+        "score": 0.941,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 54.563,
+        "end": 54.643,
+        "score": 0.913,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mêmes",
+        "start": 54.663,
+        "end": 54.843,
+        "score": 0.787,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "outils",
+        "start": 54.883,
+        "end": 55.123,
+        "score": 0.728,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qu'avec",
+        "start": 55.143,
+        "end": 55.423,
+        "score": 0.735,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "les",
+        "start": 55.443,
+        "end": 55.523,
+        "score": 0.706,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "collègues",
+        "start": 55.543,
+        "end": 55.744,
+        "score": 0.84,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qui",
+        "start": 55.764,
+        "end": 55.844,
+        "score": 0.068,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sont",
+        "start": 55.864,
+        "end": 55.984,
+        "score": 0.756,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "encore",
+        "start": 56.004,
+        "end": 56.164,
+        "score": 0.765,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "restés",
+        "start": 56.184,
+        "end": 56.404,
+        "score": 0.808,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sous",
+        "start": 56.424,
+        "end": 56.504,
+        "score": 0.812,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Windows.",
+        "start": 56.524,
+        "end": 57.065,
+        "score": 0.556,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Donc",
+        "start": 57.085,
+        "end": 57.225,
+        "score": 0.714,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "on",
+        "start": 57.305,
+        "end": 57.405,
+        "score": 0.63,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 58.046,
+        "end": 58.106,
+        "score": 0.563,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 58.126,
+        "end": 58.226,
+        "score": 0.689,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "compatibilités",
+        "start": 58.246,
+        "end": 58.866,
+        "score": 0.78,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "au",
+        "start": 58.886,
+        "end": 58.946,
+        "score": 0.976,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "niveau",
+        "start": 58.986,
+        "end": 59.187,
+        "score": 0.89,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "des",
+        "start": 59.207,
+        "end": 59.287,
+        "score": 0.848,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "applis,",
+        "start": 59.327,
+        "end": 59.707,
+        "score": 0.842,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "on",
+        "start": 59.747,
+        "end": 60.027,
+        "score": 0.357,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "peut",
+        "start": 60.067,
+        "end": 60.688,
+        "score": 0.806,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "se",
+        "start": 60.708,
+        "end": 60.788,
+        "score": 0.922,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "partager",
+        "start": 60.828,
+        "end": 61.128,
+        "score": 0.884,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nos",
+        "start": 61.168,
+        "end": 61.269,
+        "score": 0.785,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "fichiers.",
+        "start": 61.309,
+        "end": 62.41,
+        "score": 0.882,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Ce",
+        "start": 62.43,
+        "end": 62.57,
+        "score": 0.961,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "changement",
+        "start": 62.61,
+        "end": 62.95,
+        "score": 0.829,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 62.99,
+        "end": 63.07,
+        "score": 0.85,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "permis",
+        "start": 63.11,
+        "end": 63.39,
+        "score": 0.759,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 63.41,
+        "end": 63.43,
+        "score": 0.989,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 63.49,
+        "end": 63.571,
+        "score": 0.824,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ville",
+        "start": 63.591,
+        "end": 63.791,
+        "score": 0.876,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'économiser",
+        "start": 63.811,
+        "end": 64.651,
+        "score": 0.904,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "2,5"
+      },
+      {
+        "word": "millions",
+        "start": 64.892,
+        "end": 65.152,
+        "score": 0.867,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "d'euros",
+        "start": 65.532,
+        "end": 66.133,
+        "score": 0.789,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sur",
+        "start": 66.173,
+        "end": 66.353,
+        "score": 0.815,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "l'ensemble",
+        "start": 66.393,
+        "end": 66.873,
+        "score": 0.891,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 66.913,
+        "end": 67.034,
+        "score": 0.975,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mandat.",
+        "start": 67.054,
+        "end": 67.294,
+        "score": 0.988,
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 67,
+  "transcription_duration": 6
+}

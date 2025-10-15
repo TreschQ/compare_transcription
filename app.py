@@ -14,50 +14,117 @@ st.set_page_config(
     layout="wide"
 )
 
-def load_transcript_files(base_directory):
-    """Charge tous les fichiers de transcription depuis les dossiers"""
-    # Chercher dans output/videos/ pour les originaux
-    videos_dir = os.path.join(base_directory, 'videos')
+def get_available_scopes(base_directory):
+    """Récupère la liste des périmètres disponibles"""
+    transcripts_dir = os.path.join(base_directory, 'transcripts')
     improved_dir = os.path.join(base_directory, 'improved_transcripts')
     
-    st.write(f"DEBUG: Cherche dans {videos_dir} et {improved_dir}")
+    scopes = set()
     
-    transcript_files = glob.glob(os.path.join(videos_dir, 'transcript_formatted_*.txt'))
-    improved_files = glob.glob(os.path.join(improved_dir, 'improved_*.txt'))
+    # Chercher les dossiers dans transcripts et improved_transcripts
+    if os.path.exists(transcripts_dir):
+        scopes.update([d for d in os.listdir(transcripts_dir) if os.path.isdir(os.path.join(transcripts_dir, d))])
     
-    st.write(f"DEBUG: Trouvé {len(transcript_files)} fichiers originaux")
-    st.write(f"DEBUG: Trouvé {len(improved_files)} fichiers améliorés")
+    if os.path.exists(improved_dir):
+        scopes.update([d for d in os.listdir(improved_dir) if os.path.isdir(os.path.join(improved_dir, d))])
+    
+    return sorted(list(scopes))
+
+def load_transcript_files(base_directory, selected_scope=None):
+    """Charge tous les fichiers de transcription depuis les dossiers par périmètre"""
+    transcripts_dir = os.path.join(base_directory, 'transcripts')
+    improved_dir = os.path.join(base_directory, 'improved_transcripts')
     
     files_data = {}
     
-    # Charger les fichiers originaux
-    for file_path in transcript_files:
-        filename = os.path.basename(file_path)
-        base_name = filename.replace('transcript_formatted_', '').replace('.txt', '')
+    if selected_scope == "TOUS":
+        # Charger tous les périmètres
+        scopes = get_available_scopes(base_directory)
+        scopes = [s for s in scopes if s != "TOUS"]
+    elif selected_scope:
+        # Charger un périmètre spécifique
+        scopes = [selected_scope]
+    else:
+        # Mode rétrocompatible (recherche dans le dossier racine)
+        videos_dir = os.path.join(base_directory, 'videos')
         
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+        transcript_files = glob.glob(os.path.join(videos_dir, 'transcript_formatted_*.txt'))
+        improved_files = glob.glob(os.path.join(improved_dir, 'improved_*.txt'))
         
-        files_data[base_name] = {
-            'original': content,
-            'original_path': file_path,
-            'improved': None,
-            'improved_path': None
-        }
+        # Charger les fichiers originaux
+        for file_path in transcript_files:
+            filename = os.path.basename(file_path)
+            base_name = filename.replace('transcript_formatted_', '').replace('.txt', '')
+            
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            files_data[base_name] = {
+                'original': content,
+                'original_path': file_path,
+                'improved': None,
+                'improved_path': None,
+                'scope': 'LEGACY'
+            }
+        
+        # Charger les fichiers améliorés
+        for file_path in improved_files:
+            filename = os.path.basename(file_path)
+            base_name = filename.replace('improved_', '').replace('.txt', '')
+            
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            if base_name in files_data:
+                files_data[base_name]['improved'] = content
+                files_data[base_name]['improved_path'] = file_path
+        
+        return files_data
     
-    # Charger les fichiers améliorés
-    for file_path in improved_files:
-        filename = os.path.basename(file_path)
-        base_name = filename.replace('improved_', '').replace('.txt', '')
+    # Charger les fichiers par périmètre
+    for scope in scopes:
+        scope_transcripts_dir = os.path.join(transcripts_dir, scope)
+        scope_improved_dir = os.path.join(improved_dir, scope)
         
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+        if os.path.exists(scope_transcripts_dir):
+            transcript_files = glob.glob(os.path.join(scope_transcripts_dir, 'transcript_formatted_*.txt'))
+        else:
+            transcript_files = []
+            
+        if os.path.exists(scope_improved_dir):
+            improved_files = glob.glob(os.path.join(scope_improved_dir, 'improved_*.txt'))
+        else:
+            improved_files = []
         
-        if base_name in files_data:
-            files_data[base_name]['improved'] = content
-            files_data[base_name]['improved_path'] = file_path
-    
-    st.write(f"DEBUG: {len(files_data)} fichiers appariés")
+        # Charger les fichiers originaux du périmètre
+        for file_path in transcript_files:
+            filename = os.path.basename(file_path)
+            base_name = filename.replace('transcript_formatted_', '').replace('.txt', '')
+            file_key = f"{scope}:{base_name}" if selected_scope == "TOUS" else base_name
+            
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            files_data[file_key] = {
+                'original': content,
+                'original_path': file_path,
+                'improved': None,
+                'improved_path': None,
+                'scope': scope
+            }
+        
+        # Charger les fichiers améliorés du périmètre
+        for file_path in improved_files:
+            filename = os.path.basename(file_path)
+            base_name = filename.replace('improved_', '').replace('.txt', '')
+            file_key = f"{scope}:{base_name}" if selected_scope == "TOUS" else base_name
+            
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            if file_key in files_data:
+                files_data[file_key]['improved'] = content
+                files_data[file_key]['improved_path'] = file_path
     
     return files_data
 
@@ -276,6 +343,7 @@ def calculate_all_diff_percentages(files_data):
     """Calcule les pourcentages d'écart pour toutes les transcriptions (avec filtrage automatique)"""
     percentages = []
     file_names = []
+    scopes = []
     
     for file_name, data in files_data.items():
         if data['improved'] is not None:
@@ -291,53 +359,93 @@ def calculate_all_diff_percentages(files_data):
             stats = calculate_diff_stats(aligned_original, aligned_improved)
             percentages.append(stats['change_percentage'])
             file_names.append(file_name)
+            scopes.append(data.get('scope', 'Unknown'))
     
-    return percentages, file_names
+    return percentages, file_names, scopes
 
-def create_distribution_chart(percentages, file_names):
+def create_distribution_chart(percentages, file_names, scopes=None):
     """Crée un graphique de distribution des écarts de tokens"""
-    df = pd.DataFrame({
+    df_data = {
         'Fichier': file_names,
         'Écart_pourcentage': percentages
-    })
+    }
+    
+    if scopes:
+        df_data['Périmètre'] = scopes
+    
+    df = pd.DataFrame(df_data)
     
     # Histogramme
-    fig_hist = px.histogram(
-        df, 
-        x='Écart_pourcentage',
-        nbins=20,
-        title="Distribution des écarts de tokens (%)",
-        labels={'Écart_pourcentage': 'Écart de tokens (%)', 'count': 'Nombre de fichiers'},
-        color_discrete_sequence=['#1f77b4']
-    )
+    if scopes and len(set(scopes)) > 1:
+        fig_hist = px.histogram(
+            df, 
+            x='Écart_pourcentage',
+            color='Périmètre',
+            nbins=20,
+            title="Distribution des écarts de tokens (%) par périmètre",
+            labels={'Écart_pourcentage': 'Écart de tokens (%)', 'count': 'Nombre de fichiers'}
+        )
+    else:
+        fig_hist = px.histogram(
+            df, 
+            x='Écart_pourcentage',
+            nbins=20,
+            title="Distribution des écarts de tokens (%)",
+            labels={'Écart_pourcentage': 'Écart de tokens (%)', 'count': 'Nombre de fichiers'},
+            color_discrete_sequence=['#1f77b4']
+        )
+    
     fig_hist.update_layout(
         xaxis_title="Écart de tokens (%)",
-        yaxis_title="Nombre de fichiers",
-        showlegend=False
+        yaxis_title="Nombre de fichiers"
     )
     
     # Box plot
-    fig_box = px.box(
-        df,
-        y='Écart_pourcentage',
-        title="Répartition des écarts de tokens",
-        labels={'Écart_pourcentage': 'Écart de tokens (%)'}
-    )
-    fig_box.update_layout(
-        yaxis_title="Écart de tokens (%)",
-        showlegend=False
-    )
+    if scopes and len(set(scopes)) > 1:
+        fig_box = px.box(
+            df,
+            x='Périmètre',
+            y='Écart_pourcentage',
+            title="Répartition des écarts de tokens par périmètre",
+            labels={'Écart_pourcentage': 'Écart de tokens (%)', 'Périmètre': 'Périmètre'}
+        )
+        fig_box.update_layout(
+            xaxis_title="Périmètre",
+            yaxis_title="Écart de tokens (%)"
+        )
+    else:
+        fig_box = px.box(
+            df,
+            y='Écart_pourcentage',
+            title="Répartition des écarts de tokens",
+            labels={'Écart_pourcentage': 'Écart de tokens (%)'}
+        )
+        fig_box.update_layout(
+            yaxis_title="Écart de tokens (%)",
+            showlegend=False
+        )
     
     # Graphique en barres détaillé
-    fig_bar = px.bar(
-        df.sort_values('Écart_pourcentage', ascending=False),
-        x='Fichier',
-        y='Écart_pourcentage',
-        title="Écarts de tokens par fichier",
-        labels={'Écart_pourcentage': 'Écart de tokens (%)', 'Fichier': 'Nom du fichier'},
-        color='Écart_pourcentage',
-        color_continuous_scale='Viridis'
-    )
+    if scopes and len(set(scopes)) > 1:
+        fig_bar = px.bar(
+            df.sort_values('Écart_pourcentage', ascending=False),
+            x='Fichier',
+            y='Écart_pourcentage',
+            color='Périmètre',
+            title="Écarts de tokens par fichier et périmètre",
+            labels={'Écart_pourcentage': 'Écart de tokens (%)', 'Fichier': 'Nom du fichier'}
+        )
+    else:
+        fig_bar = px.bar(
+            df.sort_values('Écart_pourcentage', ascending=False),
+            x='Fichier',
+            y='Écart_pourcentage',
+            title="Écarts de tokens par fichier",
+            labels={'Écart_pourcentage': 'Écart de tokens (%)', 'Fichier': 'Nom du fichier'},
+            color='Écart_pourcentage',
+            color_continuous_scale='Viridis'
+        )
+    
     fig_bar.update_layout(
         xaxis_title="Fichiers",
         yaxis_title="Écart de tokens (%)",
@@ -350,8 +458,8 @@ def create_distribution_chart(percentages, file_names):
 st.title("📝 Comparateur de Transcriptions")
 st.markdown("Comparez les transcriptions originales avec les versions améliorées par l'IA")
 
-# Sélection du dossier
-col1, col2 = st.columns([2, 1])
+# Sélection du dossier et périmètre
+col1, col2, col3 = st.columns([2, 1, 1])
 
 with col1:
     directory = st.text_input(
@@ -361,6 +469,23 @@ with col1:
     )
 
 with col2:
+    # Sélection du périmètre
+    if os.path.exists(directory):
+        available_scopes = get_available_scopes(directory)
+        if available_scopes:
+            scope_options = ["TOUS"] + available_scopes
+            selected_scope = st.selectbox(
+                "Périmètre:",
+                scope_options,
+                help="Sélectionnez un périmètre spécifique ou tous les périmètres"
+            )
+        else:
+            selected_scope = None
+            st.warning("Aucun périmètre détecté")
+    else:
+        selected_scope = None
+
+with col3:
     min_common_words = st.slider(
         "Mots communs minimum:",
         min_value=3,
@@ -371,7 +496,7 @@ with col2:
 
 # Charger les fichiers si le dossier existe
 if os.path.exists(directory):
-    files_data = load_transcript_files(directory)
+    files_data = load_transcript_files(directory, selected_scope)
     
     if files_data:
         # Section Distribution des écarts
@@ -383,11 +508,18 @@ if os.path.exists(directory):
         if available_files:
             # Calculer les écarts pour tous les fichiers
             with st.spinner("Calcul des écarts pour tous les fichiers..."):
-                percentages, file_names = calculate_all_diff_percentages(files_data)
+                percentages, file_names, scopes = calculate_all_diff_percentages(files_data)
                 
                 if percentages:
+                    # Afficher le périmètre sélectionné
+                    if selected_scope:
+                        if selected_scope == "TOUS":
+                            st.info(f"📊 Analyse de tous les périmètres ({len(set(scopes))} périmètres: {', '.join(sorted(set(scopes)))})")
+                        else:
+                            st.info(f"📊 Analyse du périmètre: **{selected_scope}**")
+                    
                     # Créer les graphiques
-                    fig_hist, fig_box, fig_bar, df = create_distribution_chart(percentages, file_names)
+                    fig_hist, fig_box, fig_bar, df = create_distribution_chart(percentages, file_names, scopes)
                     
                     # Afficher les statistiques globales
                     col1, col2, col3, col4 = st.columns(4)
@@ -403,6 +535,13 @@ if os.path.exists(directory):
                     
                     with col4:
                         st.metric("Écart max", f"{pd.Series(percentages).max():.1f}%")
+                    
+                    # Statistiques par périmètre si TOUS est sélectionné
+                    if selected_scope == "TOUS" and len(set(scopes)) > 1:
+                        st.markdown("### 📈 Statistiques par périmètre")
+                        scope_stats = df.groupby('Périmètre')['Écart_pourcentage'].agg(['count', 'mean', 'median', 'max']).round(1)
+                        scope_stats.columns = ['Nb fichiers', 'Moyenne (%)', 'Médiane (%)', 'Max (%)']
+                        st.dataframe(scope_stats, use_container_width=True)
                     
                     # Onglets pour différentes visualisations
                     tab1, tab2, tab3, tab4 = st.tabs(["📈 Histogramme", "📦 Box Plot", "📊 Par fichier", "📋 Tableau"])
@@ -421,7 +560,13 @@ if os.path.exists(directory):
                         df_display = df.copy()
                         df_display['Écart_pourcentage'] = df_display['Écart_pourcentage'].round(2)
                         df_display = df_display.sort_values('Écart_pourcentage', ascending=False)
-                        df_display.columns = ['Fichier', 'Écart (%)']
+                        
+                        if 'Périmètre' in df_display.columns:
+                            df_display.columns = ['Fichier', 'Écart (%)', 'Périmètre']
+                            df_display = df_display[['Périmètre', 'Fichier', 'Écart (%)']]
+                        else:
+                            df_display.columns = ['Fichier', 'Écart (%)']
+                        
                         st.dataframe(df_display, use_container_width=True)
         
         # Section Comparaison détaillée
@@ -432,11 +577,29 @@ if os.path.exists(directory):
             col1, col2 = st.columns([3, 1])
             
             with col1:
-                selected_file = st.selectbox(
-                    "Sélectionnez un fichier à comparer:",
-                    available_files,
-                    help="Seuls les fichiers ayant une version améliorée sont affichés"
-                )
+                # Créer des options avec informations de périmètre pour l'affichage
+                if selected_scope == "TOUS":
+                    file_options = []
+                    for file_name in available_files:
+                        scope = files_data[file_name].get('scope', 'Unknown')
+                        display_name = f"[{scope}] {file_name.split(':')[-1] if ':' in file_name else file_name}"
+                        file_options.append(display_name)
+                    
+                    selected_display = st.selectbox(
+                        "Sélectionnez un fichier à comparer:",
+                        file_options,
+                        help="Seuls les fichiers ayant une version améliorée sont affichés"
+                    )
+                    
+                    # Retrouver le nom de fichier original
+                    selected_index = file_options.index(selected_display)
+                    selected_file = available_files[selected_index]
+                else:
+                    selected_file = st.selectbox(
+                        "Sélectionnez un fichier à comparer:",
+                        available_files,
+                        help="Seuls les fichiers ayant une version améliorée sont affichés"
+                    )
             
             with col2:
                 disable_filter = st.checkbox(
@@ -604,16 +767,25 @@ st.sidebar.markdown("""
 Cette application compare les transcriptions originales avec leurs versions améliorées par l'IA.
 
 **Fonctionnalités :**
-- 📊 **Distribution des écarts** : Analyse statistique globale
+- 🎯 **Sélection par périmètre** : BATCH1_MELTING, FINFO, OUTREMER, REGIONS
+- 📊 **Distribution des écarts** : Analyse statistique globale et par périmètre
 - 📈 **Visualisations interactives** : Histogrammes, box plots, graphiques
 - 🔍 Alignement automatique des textes
 - 🎨 Surbrillance des différences
 - 📊 Statistiques de comparaison
 - 🔄 Comparaison côte à côte
 
-**Nouvelles analyses :**
+**Périmètres disponibles :**
+- **TOUS** : Vue agrégée de tous les périmètres
+- **BATCH1_MELTING** : Transcriptions du lot MELTING
+- **FINFO** : Transcriptions FINFO
+- **OUTREMER** : Transcriptions Outre-mer
+- **REGIONS** : Transcriptions des régions
+
+**Analyses disponibles :**
 - Écart moyen, médian et maximum
-- Distribution par fichier
+- Distribution par fichier et périmètre
+- Statistiques comparatives par périmètre
 - Tableau de données détaillé
 
 **Couleurs :**

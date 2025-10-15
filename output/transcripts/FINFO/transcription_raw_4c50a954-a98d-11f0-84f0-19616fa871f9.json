@@ -1,0 +1,3203 @@
+{
+  "result": {
+    "segments": [
+      {
+        "start": 0.291,
+        "end": 4.094,
+        "text": " Travailler au contact de la poussière, pour combien de temps encore ?",
+        "words": [
+          {
+            "word": "Travailler",
+            "start": 0.291,
+            "end": 0.692,
+            "score": 0.806,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "au",
+            "start": 0.732,
+            "end": 0.852,
+            "score": 0.671,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "contact",
+            "start": 0.872,
+            "end": 1.312,
+            "score": 0.936,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 1.352,
+            "end": 1.432,
+            "score": 0.898,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 1.452,
+            "end": 1.532,
+            "score": 0.946,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "poussière,",
+            "start": 1.572,
+            "end": 2.153,
+            "score": 0.744,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 2.173,
+            "end": 2.453,
+            "score": 0.818,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "combien",
+            "start": 2.473,
+            "end": 2.773,
+            "score": 0.866,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 2.793,
+            "end": 2.853,
+            "score": 0.925,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "temps",
+            "start": 2.893,
+            "end": 3.073,
+            "score": 0.689,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "encore",
+            "start": 3.114,
+            "end": 4.094,
+            "score": 0.855,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 4.134,
+        "end": 7.477,
+        "text": "C'est la question que se pose Manuel da Silva, marbrier.",
+        "words": [
+          {
+            "word": "C'est",
+            "start": 4.134,
+            "end": 4.294,
+            "score": 0.75,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 4.335,
+            "end": 4.395,
+            "score": 0.96,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "question",
+            "start": 4.435,
+            "end": 4.715,
+            "score": 0.862,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 4.735,
+            "end": 4.875,
+            "score": 0.81,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "se",
+            "start": 4.915,
+            "end": 4.995,
+            "score": 0.975,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pose",
+            "start": 5.055,
+            "end": 5.315,
+            "score": 0.948,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "Manuel",
+            "start": 5.355,
+            "end": 5.656,
+            "score": 0.901,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "da",
+            "start": 5.696,
+            "end": 5.836,
+            "score": 0.944,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "Silva,",
+            "start": 5.856,
+            "end": 6.396,
+            "score": 0.912,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "marbrier.",
+            "start": 6.416,
+            "end": 7.477,
+            "score": 0.92,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 7.537,
+        "end": 9.058,
+        "text": "Il est né en 1968.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 7.537,
+            "end": 7.617,
+            "score": 0.758,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "est",
+            "start": 7.677,
+            "end": 7.777,
+            "score": 0.885,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "né",
+            "start": 7.817,
+            "end": 8.478,
+            "score": 0.68,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 8.538,
+            "end": 9.058,
+            "score": 0.32,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1968."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 9.559,
+        "end": 13.602,
+        "text": "Sans cette suspension de la réforme, il aurait dû travailler jusqu'à 64 ans.",
+        "words": [
+          {
+            "word": "Sans",
+            "start": 9.559,
+            "end": 9.699,
+            "score": 0.918,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "cette",
+            "start": 9.739,
+            "end": 9.939,
+            "score": 0.871,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "suspension",
+            "start": 9.959,
+            "end": 10.419,
+            "score": 0.896,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 10.439,
+            "end": 10.54,
+            "score": 0.994,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 10.58,
+            "end": 10.64,
+            "score": 0.997,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "réforme,",
+            "start": 10.68,
+            "end": 11.3,
+            "score": 0.986,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "il",
+            "start": 11.36,
+            "end": 11.44,
+            "score": 0.972,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "aurait",
+            "start": 11.48,
+            "end": 11.66,
+            "score": 0.817,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "dû",
+            "start": 11.68,
+            "end": 11.801,
+            "score": 0.634,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "travailler",
+            "start": 11.821,
+            "end": 12.221,
+            "score": 0.905,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jusqu'à",
+            "start": 12.261,
+            "end": 13.022,
+            "score": 0.892,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "64"
+          },
+          {
+            "word": "ans.",
+            "start": 13.302,
+            "end": 13.602,
+            "score": 0.925,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 13.662,
+        "end": 15.283,
+        "text": "Il pourrait aujourd'hui partir plus tôt.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 13.662,
+            "end": 13.802,
+            "score": 0.826,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pourrait",
+            "start": 13.822,
+            "end": 14.163,
+            "score": 0.868,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "aujourd'hui",
+            "start": 14.203,
+            "end": 14.583,
+            "score": 0.828,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "partir",
+            "start": 14.603,
+            "end": 14.983,
+            "score": 0.956,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 15.003,
+            "end": 15.123,
+            "score": 0.787,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "tôt.",
+            "start": 15.143,
+            "end": 15.283,
+            "score": 0.695,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 16.264,
+        "end": 17.825,
+        "text": "Ce sera tout bénéfice, c'est sûr.",
+        "words": [
+          {
+            "word": "Ce",
+            "start": 16.264,
+            "end": 16.344,
+            "score": 0.45,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sera",
+            "start": 16.364,
+            "end": 16.504,
+            "score": 0.526,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "tout",
+            "start": 16.544,
+            "end": 16.645,
+            "score": 0.41,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bénéfice,",
+            "start": 16.665,
+            "end": 17.185,
+            "score": 0.516,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "c'est",
+            "start": 17.205,
+            "end": 17.325,
+            "score": 0.378,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "sûr.",
+            "start": 17.345,
+            "end": 17.825,
+            "score": 0.665,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 17.846,
+        "end": 22.83,
+        "text": "Parce que le boulot est dur et que du coup, on a un métier qui est assez dur, qui est très physique.",
+        "words": [
+          {
+            "word": "Parce",
+            "start": 17.846,
+            "end": 18.006,
+            "score": 0.848,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 18.046,
+            "end": 18.146,
+            "score": 0.678,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "le",
+            "start": 18.186,
+            "end": 18.266,
+            "score": 0.775,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "boulot",
+            "start": 18.286,
+            "end": 18.486,
+            "score": 0.383,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 18.526,
+            "end": 18.606,
+            "score": 0.181,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dur",
+            "start": 18.646,
+            "end": 18.846,
+            "score": 0.592,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "et",
+            "start": 18.886,
+            "end": 19.006,
+            "score": 0.826,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 19.046,
+            "end": 19.327,
+            "score": 0.754,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "du",
+            "start": 19.347,
+            "end": 19.467,
+            "score": 0.879,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "coup,",
+            "start": 19.507,
+            "end": 19.727,
+            "score": 0.829,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "on",
+            "start": 19.807,
+            "end": 20.127,
+            "score": 0.498,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "a",
+            "start": 20.167,
+            "end": 20.207,
+            "score": 0.802,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "un",
+            "start": 20.267,
+            "end": 20.308,
+            "score": 0.017,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "métier",
+            "start": 20.348,
+            "end": 20.588,
+            "score": 0.373,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qui",
+            "start": 20.608,
+            "end": 20.688,
+            "score": 0.352,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 20.708,
+            "end": 20.768,
+            "score": 0.057,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "assez",
+            "start": 20.808,
+            "end": 20.988,
+            "score": 0.376,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dur,",
+            "start": 21.008,
+            "end": 21.689,
+            "score": 0.69,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "qui",
+            "start": 21.709,
+            "end": 21.789,
+            "score": 0.326,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est",
+            "start": 21.829,
+            "end": 21.889,
+            "score": 0.261,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "très",
+            "start": 21.929,
+            "end": 22.049,
+            "score": 0.157,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "physique.",
+            "start": 22.069,
+            "end": 22.83,
+            "score": 0.394,
+            "speaker": "SPEAKER_01"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 22.91,
+        "end": 28.955,
+        "text": "Et voilà, donc c'est une bonne nouvelle de pouvoir partir dans ça, est-ce que quelques mois plus tôt à la fête ?",
+        "words": [
+          {
+            "word": "Et",
+            "start": 22.91,
+            "end": 23.87,
+            "score": 0.828,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "voilà,",
+            "start": 23.89,
+            "end": 24.171,
+            "score": 0.487,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "donc",
+            "start": 24.191,
+            "end": 24.471,
+            "score": 0.493,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "c'est",
+            "start": 24.491,
+            "end": 24.691,
+            "score": 0.576,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "une",
+            "start": 24.751,
+            "end": 24.851,
+            "score": 0.855,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "bonne",
+            "start": 24.871,
+            "end": 25.011,
+            "score": 0.789,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "nouvelle",
+            "start": 25.031,
+            "end": 25.312,
+            "score": 0.765,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "de",
+            "start": 25.332,
+            "end": 25.972,
+            "score": 0.9,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "pouvoir",
+            "start": 25.992,
+            "end": 26.453,
+            "score": 0.702,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "partir",
+            "start": 26.493,
+            "end": 27.173,
+            "score": 0.784,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "dans",
+            "start": 27.193,
+            "end": 27.273,
+            "score": 0.6,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "ça,",
+            "start": 27.313,
+            "end": 27.353,
+            "score": 0.008,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "est-ce",
+            "start": 27.373,
+            "end": 27.533,
+            "score": 0.302,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "que",
+            "start": 27.553,
+            "end": 27.694,
+            "score": 0.555,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "quelques",
+            "start": 27.714,
+            "end": 28.014,
+            "score": 0.68,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "mois",
+            "start": 28.054,
+            "end": 28.274,
+            "score": 0.757,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "plus",
+            "start": 28.294,
+            "end": 28.394,
+            "score": 0.323,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "tôt",
+            "start": 28.414,
+            "end": 28.554,
+            "score": 0.394,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "à",
+            "start": 28.594,
+            "end": 28.674,
+            "score": 0.479,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "la",
+            "start": 28.694,
+            "end": 28.794,
+            "score": 0.456,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "fête",
+            "start": 28.834,
+            "end": 28.955,
+            "score": 0.152,
+            "speaker": "SPEAKER_01"
+          },
+          {
+            "word": "?"
+          }
+        ],
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "start": 29.843,
+        "end": 35.787,
+        "text": " La suspension de la réforme bornes bloquerait donc l'âge de départ à la retraite à 62 ans et 9 mois jusqu'à janvier 2028.",
+        "words": [
+          {
+            "word": "La",
+            "start": 29.843,
+            "end": 29.883,
+            "score": 0.25,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "suspension",
+            "start": 29.903,
+            "end": 30.504,
+            "score": 0.067,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 30.524,
+            "end": 30.624,
+            "score": 0.078,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 30.684,
+            "end": 30.724,
+            "score": 0.148,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "réforme",
+            "start": 30.744,
+            "end": 31.084,
+            "score": 0.202,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bornes",
+            "start": 31.124,
+            "end": 31.404,
+            "score": 0.538,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bloquerait",
+            "start": 31.444,
+            "end": 31.804,
+            "score": 0.694,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "donc",
+            "start": 31.824,
+            "end": 32.064,
+            "score": 0.98,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "l'âge",
+            "start": 32.105,
+            "end": 32.325,
+            "score": 0.678,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 32.365,
+            "end": 32.445,
+            "score": 0.866,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "départ",
+            "start": 32.485,
+            "end": 32.805,
+            "score": 0.82,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 32.825,
+            "end": 32.845,
+            "score": 0.005,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 32.885,
+            "end": 32.965,
+            "score": 0.833,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "retraite",
+            "start": 33.005,
+            "end": 33.325,
+            "score": 0.805,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 33.365,
+            "end": 33.946,
+            "score": 0.477,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "62"
+          },
+          {
+            "word": "ans",
+            "start": 34.146,
+            "end": 34.246,
+            "score": 0.776,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "et",
+            "start": 34.286,
+            "end": 34.386,
+            "score": 0.662,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "9"
+          },
+          {
+            "word": "mois",
+            "start": 34.646,
+            "end": 34.826,
+            "score": 0.824,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "jusqu'à",
+            "start": 34.886,
+            "end": 35.166,
+            "score": 0.814,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "janvier",
+            "start": 35.226,
+            "end": 35.787,
+            "score": 0.695,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "2028."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 36.807,
+        "end": 45.373,
+        "text": "Les grands gagnants, ce sont les générations nées entre 1964 et 1965 qui auraient la garantie de partir plus tôt que prévu.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 36.807,
+            "end": 36.908,
+            "score": 0.85,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "grands",
+            "start": 36.928,
+            "end": 37.108,
+            "score": 0.788,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gagnants,",
+            "start": 37.128,
+            "end": 37.908,
+            "score": 0.822,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ce",
+            "start": 37.948,
+            "end": 38.068,
+            "score": 0.852,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sont",
+            "start": 38.088,
+            "end": 38.288,
+            "score": 0.76,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 38.328,
+            "end": 38.428,
+            "score": 0.981,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "générations",
+            "start": 38.468,
+            "end": 38.969,
+            "score": 0.875,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "nées",
+            "start": 38.989,
+            "end": 39.809,
+            "score": 0.384,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "entre",
+            "start": 39.869,
+            "end": 41.11,
+            "score": 0.596,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1964"
+          },
+          {
+            "word": "et",
+            "start": 41.17,
+            "end": 41.27,
+            "score": 0.782,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1965"
+          },
+          {
+            "word": "qui",
+            "start": 41.811,
+            "end": 42.371,
+            "score": 0.852,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "auraient",
+            "start": 42.411,
+            "end": 42.651,
+            "score": 0.737,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 42.711,
+            "end": 42.851,
+            "score": 0.996,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "garantie",
+            "start": 42.911,
+            "end": 43.352,
+            "score": 0.817,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 43.392,
+            "end": 43.492,
+            "score": 0.995,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "partir",
+            "start": 43.532,
+            "end": 43.892,
+            "score": 0.914,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "plus",
+            "start": 43.932,
+            "end": 44.032,
+            "score": 0.63,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "tôt",
+            "start": 44.052,
+            "end": 44.172,
+            "score": 0.848,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "que",
+            "start": 44.192,
+            "end": 44.332,
+            "score": 0.798,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "prévu.",
+            "start": 44.372,
+            "end": 45.373,
+            "score": 0.888,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 45.413,
+        "end": 53.318,
+        "text": "Même chose pour celles nées entre 1966 et 1968 si toutefois rien ne bouge à la présidentielle de 2027.",
+        "words": [
+          {
+            "word": "Même",
+            "start": 45.413,
+            "end": 45.593,
+            "score": 0.917,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "chose",
+            "start": 45.613,
+            "end": 45.893,
+            "score": 0.782,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 45.913,
+            "end": 46.073,
+            "score": 0.793,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "celles",
+            "start": 46.093,
+            "end": 46.273,
+            "score": 0.942,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "nées",
+            "start": 46.293,
+            "end": 47.054,
+            "score": 0.473,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "entre",
+            "start": 47.094,
+            "end": 47.614,
+            "score": 0.67,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1966"
+          },
+          {
+            "word": "et",
+            "start": 48.355,
+            "end": 48.455,
+            "score": 0.552,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1968"
+          },
+          {
+            "word": "si",
+            "start": 49.595,
+            "end": 49.736,
+            "score": 0.939,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "toutefois",
+            "start": 49.776,
+            "end": 50.176,
+            "score": 0.965,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "rien",
+            "start": 50.236,
+            "end": 50.416,
+            "score": 0.771,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ne",
+            "start": 50.456,
+            "end": 50.556,
+            "score": 0.97,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bouge",
+            "start": 50.576,
+            "end": 50.816,
+            "score": 0.754,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "à",
+            "start": 50.836,
+            "end": 50.856,
+            "score": 0.988,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "la",
+            "start": 50.916,
+            "end": 50.996,
+            "score": 0.91,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "présidentielle",
+            "start": 51.036,
+            "end": 52.117,
+            "score": 0.809,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 52.157,
+            "end": 53.318,
+            "score": 0.498,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "2027."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 53.558,
+        "end": 56.74,
+        "text": "3,5 millions de gagnants potentiels mais des français divisés.",
+        "words": [
+          {
+            "word": "3,5"
+          },
+          {
+            "word": "millions",
+            "start": 53.598,
+            "end": 53.858,
+            "score": 0.802,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "de",
+            "start": 53.958,
+            "end": 54.138,
+            "score": 0.704,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gagnants",
+            "start": 54.298,
+            "end": 54.599,
+            "score": 0.796,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "potentiels",
+            "start": 54.639,
+            "end": 55.659,
+            "score": 0.871,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mais",
+            "start": 55.679,
+            "end": 55.839,
+            "score": 0.746,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "des",
+            "start": 55.879,
+            "end": 55.959,
+            "score": 0.823,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "français",
+            "start": 55.979,
+            "end": 56.32,
+            "score": 0.872,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "divisés.",
+            "start": 56.38,
+            "end": 56.74,
+            "score": 0.892,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 57.727,
+        "end": 60.331,
+        "text": " La France, elle ne peut pas prendre de l'argent comme ça.",
+        "words": [
+          {
+            "word": "La",
+            "start": 57.727,
+            "end": 57.767,
+            "score": 0.932,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "France,",
+            "start": 57.807,
+            "end": 58.008,
+            "score": 0.372,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "elle",
+            "start": 58.048,
+            "end": 58.208,
+            "score": 0.302,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ne",
+            "start": 58.228,
+            "end": 58.308,
+            "score": 0.448,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "peut",
+            "start": 58.328,
+            "end": 58.529,
+            "score": 0.668,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "pas",
+            "start": 58.549,
+            "end": 59.21,
+            "score": 0.929,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "prendre",
+            "start": 59.23,
+            "end": 59.53,
+            "score": 0.773,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "de",
+            "start": 59.55,
+            "end": 59.65,
+            "score": 0.97,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "l'argent",
+            "start": 59.69,
+            "end": 59.991,
+            "score": 0.899,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "comme",
+            "start": 60.031,
+            "end": 60.191,
+            "score": 0.93,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ça.",
+            "start": 60.211,
+            "end": 60.331,
+            "score": 0.524,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 61.152,
+        "end": 63.376,
+        "text": "Il faudra une vraie forme des retraites qu'ils le veuillent ou non.",
+        "words": [
+          {
+            "word": "Il",
+            "start": 61.152,
+            "end": 61.253,
+            "score": 0.785,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "faudra",
+            "start": 61.273,
+            "end": 61.533,
+            "score": 0.947,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "une",
+            "start": 61.593,
+            "end": 61.673,
+            "score": 0.833,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "vraie",
+            "start": 61.713,
+            "end": 61.853,
+            "score": 0.447,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "forme",
+            "start": 61.894,
+            "end": 62.074,
+            "score": 0.838,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 62.094,
+            "end": 62.194,
+            "score": 0.944,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "retraites",
+            "start": 62.234,
+            "end": 62.534,
+            "score": 0.83,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "qu'ils",
+            "start": 62.554,
+            "end": 62.735,
+            "score": 0.734,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "le",
+            "start": 62.755,
+            "end": 62.815,
+            "score": 0.716,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "veuillent",
+            "start": 62.835,
+            "end": 63.035,
+            "score": 0.935,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "ou",
+            "start": 63.055,
+            "end": 63.135,
+            "score": 0.758,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "non.",
+            "start": 63.175,
+            "end": 63.376,
+            "score": 0.903,
+            "speaker": "SPEAKER_00"
+          }
+        ],
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "start": 63.396,
+        "end": 68.223,
+        "text": "L'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles.",
+        "words": [
+          {
+            "word": "L'allongement",
+            "start": 63.396,
+            "end": 63.856,
+            "score": 0.843,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "des",
+            "start": 63.917,
+            "end": 64.017,
+            "score": 0.87,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "retraites",
+            "start": 64.057,
+            "end": 64.437,
+            "score": 0.818,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "soit",
+            "start": 64.457,
+            "end": 64.658,
+            "score": 0.881,
+            "speaker": "SPEAKER_00"
+          },
+          {
+            "word": "suspendu,",
+            "start": 64.698,
+            "end": 65.439,
+            "score": 0.974,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "ça",
+            "start": 65.459,
+            "end": 65.579,
+            "score": 0.268,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "sera",
+            "start": 65.599,
+            "end": 65.799,
+            "score": 0.843,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "bien",
+            "start": 65.819,
+            "end": 66.0,
+            "score": 0.894,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "pour",
+            "start": 66.04,
+            "end": 66.2,
+            "score": 0.791,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "les",
+            "start": 66.22,
+            "end": 66.3,
+            "score": 0.887,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "métiers",
+            "start": 66.32,
+            "end": 67.021,
+            "score": 0.972,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "difficiles.",
+            "start": 67.061,
+            "end": 68.223,
+            "score": 0.889,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 68.263,
+        "end": 71.087,
+        "text": "Cette mesure entrera en vigueur en janvier prochain.",
+        "words": [
+          {
+            "word": "Cette",
+            "start": 68.263,
+            "end": 68.463,
+            "score": 0.955,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "mesure",
+            "start": 68.503,
+            "end": 68.844,
+            "score": 0.859,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "entrera",
+            "start": 68.904,
+            "end": 69.264,
+            "score": 0.904,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 69.305,
+            "end": 69.385,
+            "score": 0.836,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "vigueur",
+            "start": 69.405,
+            "end": 69.685,
+            "score": 0.881,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 69.725,
+            "end": 69.825,
+            "score": 0.623,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "janvier",
+            "start": 69.845,
+            "end": 70.166,
+            "score": 0.878,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "prochain.",
+            "start": 70.206,
+            "end": 71.087,
+            "score": 0.874,
+            "speaker": "SPEAKER_02"
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "start": 71.147,
+        "end": 74.472,
+        "text": "Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027.",
+        "words": [
+          {
+            "word": "Selon",
+            "start": 71.147,
+            "end": 71.408,
+            "score": 0.897,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "le",
+            "start": 71.448,
+            "end": 71.548,
+            "score": 0.901,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "gouvernement,",
+            "start": 71.588,
+            "end": 72.509,
+            "score": 0.892,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "elle",
+            "start": 72.569,
+            "end": 72.73,
+            "score": 0.929,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "coûtera",
+            "start": 72.77,
+            "end": 73.07,
+            "score": 0.875,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "400"
+          },
+          {
+            "word": "millions",
+            "start": 73.11,
+            "end": 73.27,
+            "score": 0.0,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "d'euros",
+            "start": 73.29,
+            "end": 73.451,
+            "score": 0.262,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 73.471,
+            "end": 73.511,
+            "score": 0.5,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "2026"
+          },
+          {
+            "word": "et",
+            "start": 73.571,
+            "end": 73.711,
+            "score": 0.468,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "1,8"
+          },
+          {
+            "word": "milliard",
+            "start": 73.751,
+            "end": 74.092,
+            "score": 0.556,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "d'euros",
+            "start": 74.132,
+            "end": 74.352,
+            "score": 0.783,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "en",
+            "start": 74.412,
+            "end": 74.472,
+            "score": 0.934,
+            "speaker": "SPEAKER_02"
+          },
+          {
+            "word": "2027."
+          }
+        ],
+        "speaker": "SPEAKER_02"
+      }
+    ],
+    "word_segments": [
+      {
+        "word": "Travailler",
+        "start": 0.291,
+        "end": 0.692,
+        "score": 0.806,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "au",
+        "start": 0.732,
+        "end": 0.852,
+        "score": 0.671,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "contact",
+        "start": 0.872,
+        "end": 1.312,
+        "score": 0.936,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 1.352,
+        "end": 1.432,
+        "score": 0.898,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 1.452,
+        "end": 1.532,
+        "score": 0.946,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "poussière,",
+        "start": 1.572,
+        "end": 2.153,
+        "score": 0.744,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 2.173,
+        "end": 2.453,
+        "score": 0.818,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "combien",
+        "start": 2.473,
+        "end": 2.773,
+        "score": 0.866,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 2.793,
+        "end": 2.853,
+        "score": 0.925,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "temps",
+        "start": 2.893,
+        "end": 3.073,
+        "score": 0.689,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "encore",
+        "start": 3.114,
+        "end": 4.094,
+        "score": 0.855,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "C'est",
+        "start": 4.134,
+        "end": 4.294,
+        "score": 0.75,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 4.335,
+        "end": 4.395,
+        "score": 0.96,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "question",
+        "start": 4.435,
+        "end": 4.715,
+        "score": 0.862,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 4.735,
+        "end": 4.875,
+        "score": 0.81,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "se",
+        "start": 4.915,
+        "end": 4.995,
+        "score": 0.975,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pose",
+        "start": 5.055,
+        "end": 5.315,
+        "score": 0.948,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Manuel",
+        "start": 5.355,
+        "end": 5.656,
+        "score": 0.901,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "da",
+        "start": 5.696,
+        "end": 5.836,
+        "score": 0.944,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Silva,",
+        "start": 5.856,
+        "end": 6.396,
+        "score": 0.912,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "marbrier.",
+        "start": 6.416,
+        "end": 7.477,
+        "score": 0.92,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Il",
+        "start": 7.537,
+        "end": 7.617,
+        "score": 0.758,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "est",
+        "start": 7.677,
+        "end": 7.777,
+        "score": 0.885,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "né",
+        "start": 7.817,
+        "end": 8.478,
+        "score": 0.68,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 8.538,
+        "end": 9.058,
+        "score": 0.32,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1968."
+      },
+      {
+        "word": "Sans",
+        "start": 9.559,
+        "end": 9.699,
+        "score": 0.918,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "cette",
+        "start": 9.739,
+        "end": 9.939,
+        "score": 0.871,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "suspension",
+        "start": 9.959,
+        "end": 10.419,
+        "score": 0.896,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 10.439,
+        "end": 10.54,
+        "score": 0.994,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 10.58,
+        "end": 10.64,
+        "score": 0.997,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "réforme,",
+        "start": 10.68,
+        "end": 11.3,
+        "score": 0.986,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "il",
+        "start": 11.36,
+        "end": 11.44,
+        "score": 0.972,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "aurait",
+        "start": 11.48,
+        "end": 11.66,
+        "score": 0.817,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "dû",
+        "start": 11.68,
+        "end": 11.801,
+        "score": 0.634,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "travailler",
+        "start": 11.821,
+        "end": 12.221,
+        "score": 0.905,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jusqu'à",
+        "start": 12.261,
+        "end": 13.022,
+        "score": 0.892,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "64"
+      },
+      {
+        "word": "ans.",
+        "start": 13.302,
+        "end": 13.602,
+        "score": 0.925,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Il",
+        "start": 13.662,
+        "end": 13.802,
+        "score": 0.826,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pourrait",
+        "start": 13.822,
+        "end": 14.163,
+        "score": 0.868,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "aujourd'hui",
+        "start": 14.203,
+        "end": 14.583,
+        "score": 0.828,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "partir",
+        "start": 14.603,
+        "end": 14.983,
+        "score": 0.956,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 15.003,
+        "end": 15.123,
+        "score": 0.787,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "tôt.",
+        "start": 15.143,
+        "end": 15.283,
+        "score": 0.695,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Ce",
+        "start": 16.264,
+        "end": 16.344,
+        "score": 0.45,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sera",
+        "start": 16.364,
+        "end": 16.504,
+        "score": 0.526,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "tout",
+        "start": 16.544,
+        "end": 16.645,
+        "score": 0.41,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bénéfice,",
+        "start": 16.665,
+        "end": 17.185,
+        "score": 0.516,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "c'est",
+        "start": 17.205,
+        "end": 17.325,
+        "score": 0.378,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "sûr.",
+        "start": 17.345,
+        "end": 17.825,
+        "score": 0.665,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Parce",
+        "start": 17.846,
+        "end": 18.006,
+        "score": 0.848,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 18.046,
+        "end": 18.146,
+        "score": 0.678,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "le",
+        "start": 18.186,
+        "end": 18.266,
+        "score": 0.775,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "boulot",
+        "start": 18.286,
+        "end": 18.486,
+        "score": 0.383,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 18.526,
+        "end": 18.606,
+        "score": 0.181,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dur",
+        "start": 18.646,
+        "end": 18.846,
+        "score": 0.592,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "et",
+        "start": 18.886,
+        "end": 19.006,
+        "score": 0.826,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 19.046,
+        "end": 19.327,
+        "score": 0.754,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "du",
+        "start": 19.347,
+        "end": 19.467,
+        "score": 0.879,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "coup,",
+        "start": 19.507,
+        "end": 19.727,
+        "score": 0.829,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "on",
+        "start": 19.807,
+        "end": 20.127,
+        "score": 0.498,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "a",
+        "start": 20.167,
+        "end": 20.207,
+        "score": 0.802,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "un",
+        "start": 20.267,
+        "end": 20.308,
+        "score": 0.017,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "métier",
+        "start": 20.348,
+        "end": 20.588,
+        "score": 0.373,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qui",
+        "start": 20.608,
+        "end": 20.688,
+        "score": 0.352,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 20.708,
+        "end": 20.768,
+        "score": 0.057,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "assez",
+        "start": 20.808,
+        "end": 20.988,
+        "score": 0.376,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dur,",
+        "start": 21.008,
+        "end": 21.689,
+        "score": 0.69,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "qui",
+        "start": 21.709,
+        "end": 21.789,
+        "score": 0.326,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est",
+        "start": 21.829,
+        "end": 21.889,
+        "score": 0.261,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "très",
+        "start": 21.929,
+        "end": 22.049,
+        "score": 0.157,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "physique.",
+        "start": 22.069,
+        "end": 22.83,
+        "score": 0.394,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "Et",
+        "start": 22.91,
+        "end": 23.87,
+        "score": 0.828,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "voilà,",
+        "start": 23.89,
+        "end": 24.171,
+        "score": 0.487,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "donc",
+        "start": 24.191,
+        "end": 24.471,
+        "score": 0.493,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "c'est",
+        "start": 24.491,
+        "end": 24.691,
+        "score": 0.576,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "une",
+        "start": 24.751,
+        "end": 24.851,
+        "score": 0.855,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "bonne",
+        "start": 24.871,
+        "end": 25.011,
+        "score": 0.789,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "nouvelle",
+        "start": 25.031,
+        "end": 25.312,
+        "score": 0.765,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "de",
+        "start": 25.332,
+        "end": 25.972,
+        "score": 0.9,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "pouvoir",
+        "start": 25.992,
+        "end": 26.453,
+        "score": 0.702,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "partir",
+        "start": 26.493,
+        "end": 27.173,
+        "score": 0.784,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "dans",
+        "start": 27.193,
+        "end": 27.273,
+        "score": 0.6,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "ça,",
+        "start": 27.313,
+        "end": 27.353,
+        "score": 0.008,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "est-ce",
+        "start": 27.373,
+        "end": 27.533,
+        "score": 0.302,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "que",
+        "start": 27.553,
+        "end": 27.694,
+        "score": 0.555,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "quelques",
+        "start": 27.714,
+        "end": 28.014,
+        "score": 0.68,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "mois",
+        "start": 28.054,
+        "end": 28.274,
+        "score": 0.757,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "plus",
+        "start": 28.294,
+        "end": 28.394,
+        "score": 0.323,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "tôt",
+        "start": 28.414,
+        "end": 28.554,
+        "score": 0.394,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "à",
+        "start": 28.594,
+        "end": 28.674,
+        "score": 0.479,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "la",
+        "start": 28.694,
+        "end": 28.794,
+        "score": 0.456,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "fête",
+        "start": 28.834,
+        "end": 28.955,
+        "score": 0.152,
+        "speaker": "SPEAKER_01"
+      },
+      {
+        "word": "?"
+      },
+      {
+        "word": "La",
+        "start": 29.843,
+        "end": 29.883,
+        "score": 0.25,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "suspension",
+        "start": 29.903,
+        "end": 30.504,
+        "score": 0.067,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 30.524,
+        "end": 30.624,
+        "score": 0.078,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 30.684,
+        "end": 30.724,
+        "score": 0.148,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "réforme",
+        "start": 30.744,
+        "end": 31.084,
+        "score": 0.202,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bornes",
+        "start": 31.124,
+        "end": 31.404,
+        "score": 0.538,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bloquerait",
+        "start": 31.444,
+        "end": 31.804,
+        "score": 0.694,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "donc",
+        "start": 31.824,
+        "end": 32.064,
+        "score": 0.98,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "l'âge",
+        "start": 32.105,
+        "end": 32.325,
+        "score": 0.678,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 32.365,
+        "end": 32.445,
+        "score": 0.866,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "départ",
+        "start": 32.485,
+        "end": 32.805,
+        "score": 0.82,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 32.825,
+        "end": 32.845,
+        "score": 0.005,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 32.885,
+        "end": 32.965,
+        "score": 0.833,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "retraite",
+        "start": 33.005,
+        "end": 33.325,
+        "score": 0.805,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 33.365,
+        "end": 33.946,
+        "score": 0.477,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "62"
+      },
+      {
+        "word": "ans",
+        "start": 34.146,
+        "end": 34.246,
+        "score": 0.776,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "et",
+        "start": 34.286,
+        "end": 34.386,
+        "score": 0.662,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "9"
+      },
+      {
+        "word": "mois",
+        "start": 34.646,
+        "end": 34.826,
+        "score": 0.824,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "jusqu'à",
+        "start": 34.886,
+        "end": 35.166,
+        "score": 0.814,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "janvier",
+        "start": 35.226,
+        "end": 35.787,
+        "score": 0.695,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "2028."
+      },
+      {
+        "word": "Les",
+        "start": 36.807,
+        "end": 36.908,
+        "score": 0.85,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "grands",
+        "start": 36.928,
+        "end": 37.108,
+        "score": 0.788,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gagnants,",
+        "start": 37.128,
+        "end": 37.908,
+        "score": 0.822,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ce",
+        "start": 37.948,
+        "end": 38.068,
+        "score": 0.852,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sont",
+        "start": 38.088,
+        "end": 38.288,
+        "score": 0.76,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 38.328,
+        "end": 38.428,
+        "score": 0.981,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "générations",
+        "start": 38.468,
+        "end": 38.969,
+        "score": 0.875,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "nées",
+        "start": 38.989,
+        "end": 39.809,
+        "score": 0.384,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "entre",
+        "start": 39.869,
+        "end": 41.11,
+        "score": 0.596,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1964"
+      },
+      {
+        "word": "et",
+        "start": 41.17,
+        "end": 41.27,
+        "score": 0.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1965"
+      },
+      {
+        "word": "qui",
+        "start": 41.811,
+        "end": 42.371,
+        "score": 0.852,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "auraient",
+        "start": 42.411,
+        "end": 42.651,
+        "score": 0.737,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 42.711,
+        "end": 42.851,
+        "score": 0.996,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "garantie",
+        "start": 42.911,
+        "end": 43.352,
+        "score": 0.817,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 43.392,
+        "end": 43.492,
+        "score": 0.995,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "partir",
+        "start": 43.532,
+        "end": 43.892,
+        "score": 0.914,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "plus",
+        "start": 43.932,
+        "end": 44.032,
+        "score": 0.63,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "tôt",
+        "start": 44.052,
+        "end": 44.172,
+        "score": 0.848,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "que",
+        "start": 44.192,
+        "end": 44.332,
+        "score": 0.798,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "prévu.",
+        "start": 44.372,
+        "end": 45.373,
+        "score": 0.888,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Même",
+        "start": 45.413,
+        "end": 45.593,
+        "score": 0.917,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "chose",
+        "start": 45.613,
+        "end": 45.893,
+        "score": 0.782,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 45.913,
+        "end": 46.073,
+        "score": 0.793,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "celles",
+        "start": 46.093,
+        "end": 46.273,
+        "score": 0.942,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "nées",
+        "start": 46.293,
+        "end": 47.054,
+        "score": 0.473,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "entre",
+        "start": 47.094,
+        "end": 47.614,
+        "score": 0.67,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1966"
+      },
+      {
+        "word": "et",
+        "start": 48.355,
+        "end": 48.455,
+        "score": 0.552,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1968"
+      },
+      {
+        "word": "si",
+        "start": 49.595,
+        "end": 49.736,
+        "score": 0.939,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "toutefois",
+        "start": 49.776,
+        "end": 50.176,
+        "score": 0.965,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "rien",
+        "start": 50.236,
+        "end": 50.416,
+        "score": 0.771,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ne",
+        "start": 50.456,
+        "end": 50.556,
+        "score": 0.97,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bouge",
+        "start": 50.576,
+        "end": 50.816,
+        "score": 0.754,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "à",
+        "start": 50.836,
+        "end": 50.856,
+        "score": 0.988,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "la",
+        "start": 50.916,
+        "end": 50.996,
+        "score": 0.91,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "présidentielle",
+        "start": 51.036,
+        "end": 52.117,
+        "score": 0.809,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 52.157,
+        "end": 53.318,
+        "score": 0.498,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "2027."
+      },
+      {
+        "word": "3,5"
+      },
+      {
+        "word": "millions",
+        "start": 53.598,
+        "end": 53.858,
+        "score": 0.802,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "de",
+        "start": 53.958,
+        "end": 54.138,
+        "score": 0.704,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gagnants",
+        "start": 54.298,
+        "end": 54.599,
+        "score": 0.796,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "potentiels",
+        "start": 54.639,
+        "end": 55.659,
+        "score": 0.871,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mais",
+        "start": 55.679,
+        "end": 55.839,
+        "score": 0.746,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "des",
+        "start": 55.879,
+        "end": 55.959,
+        "score": 0.823,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "français",
+        "start": 55.979,
+        "end": 56.32,
+        "score": 0.872,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "divisés.",
+        "start": 56.38,
+        "end": 56.74,
+        "score": 0.892,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "La",
+        "start": 57.727,
+        "end": 57.767,
+        "score": 0.932,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "France,",
+        "start": 57.807,
+        "end": 58.008,
+        "score": 0.372,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "elle",
+        "start": 58.048,
+        "end": 58.208,
+        "score": 0.302,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ne",
+        "start": 58.228,
+        "end": 58.308,
+        "score": 0.448,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "peut",
+        "start": 58.328,
+        "end": 58.529,
+        "score": 0.668,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "pas",
+        "start": 58.549,
+        "end": 59.21,
+        "score": 0.929,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "prendre",
+        "start": 59.23,
+        "end": 59.53,
+        "score": 0.773,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "de",
+        "start": 59.55,
+        "end": 59.65,
+        "score": 0.97,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "l'argent",
+        "start": 59.69,
+        "end": 59.991,
+        "score": 0.899,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "comme",
+        "start": 60.031,
+        "end": 60.191,
+        "score": 0.93,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ça.",
+        "start": 60.211,
+        "end": 60.331,
+        "score": 0.524,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "Il",
+        "start": 61.152,
+        "end": 61.253,
+        "score": 0.785,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "faudra",
+        "start": 61.273,
+        "end": 61.533,
+        "score": 0.947,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "une",
+        "start": 61.593,
+        "end": 61.673,
+        "score": 0.833,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "vraie",
+        "start": 61.713,
+        "end": 61.853,
+        "score": 0.447,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "forme",
+        "start": 61.894,
+        "end": 62.074,
+        "score": 0.838,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 62.094,
+        "end": 62.194,
+        "score": 0.944,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "retraites",
+        "start": 62.234,
+        "end": 62.534,
+        "score": 0.83,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "qu'ils",
+        "start": 62.554,
+        "end": 62.735,
+        "score": 0.734,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "le",
+        "start": 62.755,
+        "end": 62.815,
+        "score": 0.716,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "veuillent",
+        "start": 62.835,
+        "end": 63.035,
+        "score": 0.935,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "ou",
+        "start": 63.055,
+        "end": 63.135,
+        "score": 0.758,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "non.",
+        "start": 63.175,
+        "end": 63.376,
+        "score": 0.903,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "L'allongement",
+        "start": 63.396,
+        "end": 63.856,
+        "score": 0.843,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "des",
+        "start": 63.917,
+        "end": 64.017,
+        "score": 0.87,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "retraites",
+        "start": 64.057,
+        "end": 64.437,
+        "score": 0.818,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "soit",
+        "start": 64.457,
+        "end": 64.658,
+        "score": 0.881,
+        "speaker": "SPEAKER_00"
+      },
+      {
+        "word": "suspendu,",
+        "start": 64.698,
+        "end": 65.439,
+        "score": 0.974,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "ça",
+        "start": 65.459,
+        "end": 65.579,
+        "score": 0.268,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "sera",
+        "start": 65.599,
+        "end": 65.799,
+        "score": 0.843,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "bien",
+        "start": 65.819,
+        "end": 66.0,
+        "score": 0.894,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "pour",
+        "start": 66.04,
+        "end": 66.2,
+        "score": 0.791,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "les",
+        "start": 66.22,
+        "end": 66.3,
+        "score": 0.887,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "métiers",
+        "start": 66.32,
+        "end": 67.021,
+        "score": 0.972,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "difficiles.",
+        "start": 67.061,
+        "end": 68.223,
+        "score": 0.889,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Cette",
+        "start": 68.263,
+        "end": 68.463,
+        "score": 0.955,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "mesure",
+        "start": 68.503,
+        "end": 68.844,
+        "score": 0.859,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "entrera",
+        "start": 68.904,
+        "end": 69.264,
+        "score": 0.904,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 69.305,
+        "end": 69.385,
+        "score": 0.836,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "vigueur",
+        "start": 69.405,
+        "end": 69.685,
+        "score": 0.881,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 69.725,
+        "end": 69.825,
+        "score": 0.623,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "janvier",
+        "start": 69.845,
+        "end": 70.166,
+        "score": 0.878,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "prochain.",
+        "start": 70.206,
+        "end": 71.087,
+        "score": 0.874,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "Selon",
+        "start": 71.147,
+        "end": 71.408,
+        "score": 0.897,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "le",
+        "start": 71.448,
+        "end": 71.548,
+        "score": 0.901,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "gouvernement,",
+        "start": 71.588,
+        "end": 72.509,
+        "score": 0.892,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "elle",
+        "start": 72.569,
+        "end": 72.73,
+        "score": 0.929,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "coûtera",
+        "start": 72.77,
+        "end": 73.07,
+        "score": 0.875,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "400"
+      },
+      {
+        "word": "millions",
+        "start": 73.11,
+        "end": 73.27,
+        "score": 0.0,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "d'euros",
+        "start": 73.29,
+        "end": 73.451,
+        "score": 0.262,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 73.471,
+        "end": 73.511,
+        "score": 0.5,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "2026"
+      },
+      {
+        "word": "et",
+        "start": 73.571,
+        "end": 73.711,
+        "score": 0.468,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "1,8"
+      },
+      {
+        "word": "milliard",
+        "start": 73.751,
+        "end": 74.092,
+        "score": 0.556,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "d'euros",
+        "start": 74.132,
+        "end": 74.352,
+        "score": 0.783,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "en",
+        "start": 74.412,
+        "end": 74.472,
+        "score": 0.934,
+        "speaker": "SPEAKER_02"
+      },
+      {
+        "word": "2027."
+      }
+    ]
+  },
+  "language": "fr",
+  "source_duration": 78,
+  "transcription_duration": 8
+}
