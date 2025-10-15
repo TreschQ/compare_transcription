@@ -344,6 +344,7 @@ def calculate_all_diff_percentages(files_data):
     percentages = []
     file_names = []
     scopes = []
+    all_stats = []
     
     for file_name, data in files_data.items():
         if data['improved'] is not None:
@@ -360,8 +361,137 @@ def calculate_all_diff_percentages(files_data):
             percentages.append(stats['change_percentage'])
             file_names.append(file_name)
             scopes.append(data.get('scope', 'Unknown'))
+            all_stats.append(stats)
     
-    return percentages, file_names, scopes
+    return percentages, file_names, scopes, all_stats
+
+def calculate_global_token_stats(all_stats, scopes=None):
+    """Calcule les statistiques globales de tokens"""
+    if not all_stats:
+        return None
+    
+    # Statistiques globales
+    global_stats = {
+        'total_files': len(all_stats),
+        'total_tokens_original': sum(stat['total_original'] for stat in all_stats),
+        'total_tokens_improved': sum(stat['total_improved'] for stat in all_stats),
+        'total_equal': sum(stat['equal'] for stat in all_stats),
+        'total_replaced': sum(stat['replaced'] for stat in all_stats),
+        'total_deleted': sum(stat['deleted'] for stat in all_stats),
+        'total_inserted': sum(stat['inserted'] for stat in all_stats)
+    }
+    
+    # Calculer les pourcentages globaux
+    total_changes = global_stats['total_replaced'] + global_stats['total_deleted'] + global_stats['total_inserted']
+    global_stats['global_change_percentage'] = (total_changes / global_stats['total_tokens_original'] * 100) if global_stats['total_tokens_original'] > 0 else 0
+    
+    # Statistiques par périmètre si disponible
+    scope_stats = {}
+    if scopes and len(set(scopes)) > 1:
+        unique_scopes = list(set(scopes))
+        for scope in unique_scopes:
+            scope_indices = [i for i, s in enumerate(scopes) if s == scope]
+            scope_data = [all_stats[i] for i in scope_indices]
+            
+            scope_stats[scope] = {
+                'files': len(scope_data),
+                'total_original': sum(stat['total_original'] for stat in scope_data),
+                'total_improved': sum(stat['total_improved'] for stat in scope_data),
+                'equal': sum(stat['equal'] for stat in scope_data),
+                'replaced': sum(stat['replaced'] for stat in scope_data),
+                'deleted': sum(stat['deleted'] for stat in scope_data),
+                'inserted': sum(stat['inserted'] for stat in scope_data)
+            }
+            
+            total_scope_changes = scope_stats[scope]['replaced'] + scope_stats[scope]['deleted'] + scope_stats[scope]['inserted']
+            scope_stats[scope]['change_percentage'] = (total_scope_changes / scope_stats[scope]['total_original'] * 100) if scope_stats[scope]['total_original'] > 0 else 0
+    
+    return global_stats, scope_stats
+
+def create_token_statistics_charts(all_stats, scopes=None):
+    """Crée des graphiques pour les statistiques de tokens"""
+    if not all_stats:
+        return None, None, None
+    
+    # Préparer les données pour les graphiques
+    data_for_charts = []
+    for i, stat in enumerate(all_stats):
+        scope = scopes[i] if scopes else 'All'
+        data_for_charts.append({
+            'Fichier': f"File {i+1}",
+            'Périmètre': scope,
+            'Supprimés': stat['deleted'],
+            'Modifiés': stat['replaced'],
+            'Ajoutés': stat['inserted'],
+            'Identiques': stat['equal']
+        })
+    
+    df_tokens = pd.DataFrame(data_for_charts)
+    
+    # Graphique en barres empilées pour les types de changements
+    fig_stacked = go.Figure()
+    
+    colors = {
+        'Supprimés': '#8B0000',
+        'Modifiés': '#1E3A8A', 
+        'Ajoutés': '#166534',
+        'Identiques': '#cccccc'
+    }
+    
+    for change_type in ['Supprimés', 'Modifiés', 'Ajoutés', 'Identiques']:
+        fig_stacked.add_trace(go.Bar(
+            name=change_type,
+            x=df_tokens['Fichier'],
+            y=df_tokens[change_type],
+            marker_color=colors[change_type]
+        ))
+    
+    fig_stacked.update_layout(
+        title="Distribution des types de changements de tokens par fichier",
+        xaxis_title="Fichiers",
+        yaxis_title="Nombre de tokens",
+        barmode='stack',
+        showlegend=True
+    )
+    
+    # Graphique en secteurs pour la répartition globale
+    global_stats, _ = calculate_global_token_stats(all_stats, scopes)
+    
+    fig_pie = go.Figure(data=[go.Pie(
+        labels=['Identiques', 'Modifiés', 'Supprimés', 'Ajoutés'],
+        values=[global_stats['total_equal'], global_stats['total_replaced'], 
+                global_stats['total_deleted'], global_stats['total_inserted']],
+        hole=.3,
+        marker_colors=[colors['Identiques'], colors['Modifiés'], colors['Supprimés'], colors['Ajoutés']]
+    )])
+    
+    fig_pie.update_layout(
+        title="Répartition globale des types de changements",
+        annotations=[dict(text='Tokens', x=0.5, y=0.5, font_size=20, showarrow=False)]
+    )
+    
+    # Graphique de distribution des changements par périmètre (si applicable)
+    fig_scope = None
+    if scopes and len(set(scopes)) > 1:
+        scope_totals = df_tokens.groupby('Périmètre')[['Supprimés', 'Modifiés', 'Ajoutés']].sum()
+        
+        fig_scope = go.Figure()
+        for change_type in ['Supprimés', 'Modifiés', 'Ajoutés']:
+            fig_scope.add_trace(go.Bar(
+                name=change_type,
+                x=scope_totals.index,
+                y=scope_totals[change_type],
+                marker_color=colors[change_type]
+            ))
+        
+        fig_scope.update_layout(
+            title="Total des changements par périmètre",
+            xaxis_title="Périmètres",
+            yaxis_title="Nombre de tokens",
+            barmode='group'
+        )
+    
+    return fig_stacked, fig_pie, fig_scope
 
 def create_distribution_chart(percentages, file_names, scopes=None):
     """Crée un graphique de distribution des écarts de tokens"""
@@ -499,16 +629,14 @@ if os.path.exists(directory):
     files_data = load_transcript_files(directory, selected_scope)
     
     if files_data:
-        # Section Distribution des écarts
-        st.markdown("---")
-        st.markdown("## 📊 Distribution des écarts de tokens (avec filtrage automatique)")
+        # Section Analyses des transcriptions
         
         available_files = [name for name, data in files_data.items() if data['improved'] is not None]
         
         if available_files:
             # Calculer les écarts pour tous les fichiers
             with st.spinner("Calcul des écarts pour tous les fichiers..."):
-                percentages, file_names, scopes = calculate_all_diff_percentages(files_data)
+                percentages, file_names, scopes, all_stats = calculate_all_diff_percentages(files_data)
                 
                 if percentages:
                     # Afficher le périmètre sélectionné
@@ -517,6 +645,92 @@ if os.path.exists(directory):
                             st.info(f"📊 Analyse de tous les périmètres ({len(set(scopes))} périmètres: {', '.join(sorted(set(scopes)))})")
                         else:
                             st.info(f"📊 Analyse du périmètre: **{selected_scope}**")
+                    
+                    # === SECTION STATISTIQUES GLOBALES DE TOKENS ===
+                    st.markdown("## 🔢 Statistiques globales des tokens")
+                    
+                    # Calculer les statistiques globales
+                    global_stats, scope_stats = calculate_global_token_stats(all_stats, scopes)
+                    
+                    # Affichage des métriques principales
+                    col1, col2, col3, col4, col5 = st.columns(5)
+                    
+                    with col1:
+                        st.metric("📁 Fichiers analysés", global_stats['total_files'])
+                    
+                    with col2:
+                        st.metric("🔗 Tokens originaux", f"{global_stats['total_tokens_original']:,}")
+                    
+                    with col3:
+                        st.metric("✨ Tokens améliorés", f"{global_stats['total_tokens_improved']:,}")
+                    
+                    with col4:
+                        diff_tokens = global_stats['total_tokens_improved'] - global_stats['total_tokens_original']
+                        st.metric("📈 Différence nette", f"{diff_tokens:+,}")
+                    
+                    with col5:
+                        st.metric("🎯 % changement global", f"{global_stats['global_change_percentage']:.1f}%")
+                    
+                    # Métriques détaillées des changements
+                    st.markdown("### 📊 Détail des changements de tokens")
+                    col1, col2, col3, col4 = st.columns(4)
+                    
+                    with col1:
+                        st.metric("🟢 Identiques", f"{global_stats['total_equal']:,}")
+                    
+                    with col2:
+                        st.metric("🔴 Supprimés", f"{global_stats['total_deleted']:,}")
+                    
+                    with col3:
+                        st.metric("🔵 Modifiés", f"{global_stats['total_replaced']:,}")
+                    
+                    with col4:
+                        st.metric("🟡 Ajoutés", f"{global_stats['total_inserted']:,}")
+                    
+                    # Graphiques des statistiques de tokens
+                    st.markdown("### 📈 Visualisations des changements de tokens")
+                    
+                    fig_stacked, fig_pie, fig_scope = create_token_statistics_charts(all_stats, scopes)
+                    
+                    if fig_stacked and fig_pie:
+                        tab_tokens1, tab_tokens2, tab_tokens3 = st.tabs(["🥧 Répartition globale", "📊 Par fichier", "🏛️ Par périmètre"])
+                        
+                        with tab_tokens1:
+                            st.plotly_chart(fig_pie, use_container_width=True)
+                        
+                        with tab_tokens2:
+                            st.plotly_chart(fig_stacked, use_container_width=True)
+                        
+                        with tab_tokens3:
+                            if fig_scope:
+                                st.plotly_chart(fig_scope, use_container_width=True)
+                            else:
+                                st.info("Visualisation par périmètre disponible uniquement avec l'option 'TOUS'")
+                    
+                    # Tableau des statistiques par périmètre
+                    if scope_stats and len(scope_stats) > 1:
+                        st.markdown("### 🏛️ Statistiques détaillées par périmètre")
+                        
+                        scope_df_data = []
+                        for scope, stats in scope_stats.items():
+                            scope_df_data.append({
+                                'Périmètre': scope,
+                                'Fichiers': stats['files'],
+                                'Tokens orig.': f"{stats['total_original']:,}",
+                                'Tokens amél.': f"{stats['total_improved']:,}",
+                                'Identiques': f"{stats['equal']:,}",
+                                'Supprimés': f"{stats['deleted']:,}",
+                                'Modifiés': f"{stats['replaced']:,}",
+                                'Ajoutés': f"{stats['inserted']:,}",
+                                '% changement': f"{stats['change_percentage']:.1f}%"
+                            })
+                        
+                        scope_df = pd.DataFrame(scope_df_data)
+                        st.dataframe(scope_df, use_container_width=True)
+                    
+                    # === SECTION DISTRIBUTION DES ÉCARTS ===
+                    st.markdown("---")
+                    st.markdown("## 📊 Distribution des pourcentages d'écarts")
                     
                     # Créer les graphiques
                     fig_hist, fig_box, fig_bar, df = create_distribution_chart(percentages, file_names, scopes)
@@ -783,14 +997,9 @@ Cette application compare les transcriptions originales avec leurs versions amé
 - **REGIONS** : Transcriptions des régions
 
 **Analyses disponibles :**
-- Écart moyen, médian et maximum
-- Distribution par fichier et périmètre
-- Statistiques comparatives par périmètre
-- Tableau de données détaillé
-
-**Couleurs :**
-- 🟢 Vert : Texte identique
-- 🔴 Rouge : Texte modifié/supprimé
-- 🔵 Bleu : Texte modifié (version améliorée)
-- 🟡 Vert clair : Texte ajouté
+- 🔢 **Statistiques globales de tokens** : Nombre total de tokens supprimés, modifiés, ajoutés
+- 📊 **Visualisations détaillées** : Graphiques en secteurs, barres empilées, distributions par périmètre
+- 📈 **Métriques par périmètre** : Comparaison détaillée entre BATCH1_MELTING, FINFO, OUTREMER, REGIONS
+- 📋 **Tableaux de synthèse** : Statistiques complètes par fichier et périmètre
+- 🎯 **Pourcentages d'écarts** : Distribution, moyenne, médiane, maximum
 """)
