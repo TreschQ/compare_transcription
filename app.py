@@ -752,66 +752,6 @@ if os.path.exists(directory):
                         else:
                             st.info(f"📊 Analyse du périmètre: **{selected_scope}**")
                     
-                    # === SECTION KPI ANALYSES NLP ===
-                    # Charger et afficher les KPI NLP si disponibles pour le périmètre sélectionné
-                    if selected_scope and selected_scope != "TOUS":
-                        nlp_data = load_nlp_analysis(directory, selected_scope)
-                        if nlp_data:
-                            st.markdown("## 🧠 KPI des Types de Changements (Analyse NLP)")
-                            
-                            kpi_data = calculate_nlp_kpis(nlp_data)
-                            if kpi_data:
-                                # Afficher les métriques principales
-                                col1, col2, col3, col4 = st.columns(4)
-                                
-                                with col1:
-                                    st.metric("📄 Fichiers analysés (NLP)", kpi_data['total_files'])
-                                
-                                with col2:
-                                    st.metric("📊 Changements moyens/fichier", f"{kpi_data['total_mean']:.1f}")
-                                
-                                with col3:
-                                    top_type = max(kpi_data['means'], key=kpi_data['means'].get)
-                                    st.metric("🏆 Type principal", top_type.title())
-                                
-                                with col4:
-                                    top_percentage = kpi_data['percentages'][top_type]
-                                    st.metric("📈 % du type principal", f"{top_percentage:.1f}%")
-                                
-                                # Tableaux détaillés des moyennes
-                                st.markdown("### 📋 Détail des moyennes par type de changement")
-                                
-                                kpi_df_data = []
-                                for change_type, mean_value in kpi_data['means'].items():
-                                    percentage = kpi_data['percentages'][change_type]
-                                    kpi_df_data.append({
-                                        'Type de changement': change_type.title(),
-                                        'Moyenne': f"{mean_value:.2f}",
-                                        'Pourcentage': f"{percentage:.1f}%"
-                                    })
-                                
-                                kpi_df = pd.DataFrame(kpi_df_data)
-                                kpi_df = kpi_df.sort_values('Moyenne', key=lambda x: x.str.replace(',', '.').astype(float), ascending=False)
-                                st.dataframe(kpi_df, use_container_width=True)
-                                
-                                # Graphiques des KPI NLP
-                                fig_means, fig_pie = create_nlp_kpi_charts(kpi_data)
-                                
-                                if fig_means and fig_pie:
-                                    tab_nlp1, tab_nlp2 = st.tabs(["📊 Moyennes par type", "🥧 Répartition"])
-                                    
-                                    with tab_nlp1:
-                                        st.plotly_chart(fig_means, use_container_width=True)
-                                    
-                                    with tab_nlp2:
-                                        st.plotly_chart(fig_pie, use_container_width=True)
-                                
-                                st.markdown("---")
-                            else:
-                                st.warning("⚠️ Impossible de calculer les KPI à partir des données NLP")
-                        else:
-                            st.info(f"ℹ️ Aucune analyse NLP disponible pour le périmètre **{selected_scope}**")
-                    
                     # === SECTION STATISTIQUES GLOBALES DE TOKENS ===
                     st.markdown("## 🔢 Statistiques globales des tokens")
                     
@@ -893,6 +833,66 @@ if os.path.exists(directory):
                         
                         scope_df = pd.DataFrame(scope_df_data)
                         st.dataframe(scope_df, use_container_width=True)
+                    
+                    # === SECTION KPI ANALYSES NLP ===
+                    # Charger et afficher les KPI NLP si disponibles pour le périmètre sélectionné
+                    if selected_scope and selected_scope != "TOUS":
+                        nlp_data = load_nlp_analysis(directory, selected_scope)
+                        if nlp_data:
+                            st.markdown("## 🧠 KPI des Types de Changements (Analyse NLP)")
+                            
+                            kpi_data = calculate_nlp_kpis(nlp_data)
+                            if kpi_data:
+                                # Afficher les métriques principales
+                                col1, col2, col3, col4 = st.columns(4)
+                                
+                                with col1:
+                                    st.metric("📄 Fichiers analysés (NLP)", kpi_data['total_files'])
+                                
+                                with col2:
+                                    st.metric("📊 Changements moyens/fichier", f"{kpi_data['total_mean']:.1f}")
+                                
+                                with col3:
+                                    top_type = max(kpi_data['means'], key=kpi_data['means'].get)
+                                    st.metric("🏆 Type principal", top_type.title())
+                                
+                                with col4:
+                                    top_percentage = kpi_data['percentages'][top_type]
+                                    st.metric("📈 % du type principal", f"{top_percentage:.1f}%")
+                                
+                                # Tableaux détaillés des moyennes
+                                st.markdown("### 📋 Détail des moyennes par type de changement")
+                                
+                                kpi_df_data = []
+                                for change_type, mean_value in kpi_data['means'].items():
+                                    percentage = kpi_data['percentages'][change_type]
+                                    kpi_df_data.append({
+                                        'Type de changement': change_type.title(),
+                                        'Moyenne': f"{mean_value:.2f}",
+                                        'Pourcentage': f"{percentage:.1f}%"
+                                    })
+                                
+                                kpi_df = pd.DataFrame(kpi_df_data)
+                                kpi_df = kpi_df.sort_values('Moyenne', key=lambda x: x.str.replace(',', '.').astype(float), ascending=False)
+                                st.dataframe(kpi_df, use_container_width=True)
+                                
+                                # Graphiques des KPI NLP
+                                fig_means, fig_pie = create_nlp_kpi_charts(kpi_data)
+                                
+                                if fig_means and fig_pie:
+                                    tab_nlp1, tab_nlp2 = st.tabs(["📊 Moyennes par type", "🥧 Répartition"])
+                                    
+                                    with tab_nlp1:
+                                        st.plotly_chart(fig_means, use_container_width=True)
+                                    
+                                    with tab_nlp2:
+                                        st.plotly_chart(fig_pie, use_container_width=True)
+                                
+                                st.markdown("---")
+                            else:
+                                st.warning("⚠️ Impossible de calculer les KPI à partir des données NLP")
+                        else:
+                            st.info(f"ℹ️ Aucune analyse NLP disponible pour le périmètre **{selected_scope}**")
                     
                     # === SECTION DISTRIBUTION DES ÉCARTS ===
                     st.markdown("---")
