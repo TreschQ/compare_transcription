@@ -586,21 +586,45 @@ def create_distribution_chart(percentages, file_names, scopes=None):
     return fig_hist, fig_box, fig_bar, df
 
 def load_nlp_analysis(base_directory, scope):
-    """Charge les analyses NLP pour un périmètre donné"""
-    if scope == "TOUS" or not scope:
+    """Charge les analyses NLP pour un périmètre donné ou tous les périmètres"""
+    if not scope:
         return None
     
-    analysis_file = os.path.join(base_directory, 'improved_transcripts', scope, f'nlp_analyses_{scope}.json')
-    
-    if not os.path.exists(analysis_file):
-        return None
-    
-    try:
-        with open(analysis_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except Exception as e:
-        st.error(f"Erreur lors du chargement de l'analyse NLP : {e}")
-        return None
+    if scope == "TOUS":
+        # Charger toutes les analyses disponibles
+        available_scopes = get_available_scopes(base_directory)
+        all_analyses = []
+        
+        for individual_scope in available_scopes:
+            analysis_file = os.path.join(base_directory, 'improved_transcripts', individual_scope, f'nlp_analyses_{individual_scope}.json')
+            
+            if os.path.exists(analysis_file):
+                try:
+                    with open(analysis_file, 'r', encoding='utf-8') as f:
+                        scope_data = json.load(f)
+                        if 'analyses' in scope_data:
+                            all_analyses.extend(scope_data['analyses'])
+                except Exception as e:
+                    st.warning(f"Erreur lors du chargement de l'analyse NLP pour {individual_scope} : {e}")
+                    continue
+        
+        if all_analyses:
+            return {'analyses': all_analyses}
+        else:
+            return None
+    else:
+        # Charger un périmètre spécifique
+        analysis_file = os.path.join(base_directory, 'improved_transcripts', scope, f'nlp_analyses_{scope}.json')
+        
+        if not os.path.exists(analysis_file):
+            return None
+        
+        try:
+            with open(analysis_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            st.error(f"Erreur lors du chargement de l'analyse NLP : {e}")
+            return None
 
 def calculate_nlp_kpis(nlp_data):
     """Calcule les KPI moyens des types de changements à partir des analyses NLP"""
@@ -835,8 +859,8 @@ if os.path.exists(directory):
                         st.dataframe(scope_df, use_container_width=True)
                     
                     # === SECTION KPI ANALYSES NLP ===
-                    # Charger et afficher les KPI NLP si disponibles pour le périmètre sélectionné
-                    if selected_scope and selected_scope != "TOUS":
+                    # Charger et afficher les KPI NLP si disponibles
+                    if selected_scope:
                         nlp_data = load_nlp_analysis(directory, selected_scope)
                         if nlp_data:
                             st.markdown("## 🧠 KPI des Types de Changements (Analyse NLP)")
