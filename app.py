@@ -3,6 +3,7 @@ import os
 import glob
 import difflib
 import re
+import json
 from pathlib import Path
 import pandas as pd
 import plotly.express as px
@@ -584,6 +585,111 @@ def create_distribution_chart(percentages, file_names, scopes=None):
     
     return fig_hist, fig_box, fig_bar, df
 
+def load_nlp_analysis(base_directory, scope):
+    """Charge les analyses NLP pour un périmètre donné"""
+    if scope == "TOUS" or not scope:
+        return None
+    
+    analysis_file = os.path.join(base_directory, 'improved_transcripts', scope, f'nlp_analyses_{scope}.json')
+    
+    if not os.path.exists(analysis_file):
+        return None
+    
+    try:
+        with open(analysis_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        st.error(f"Erreur lors du chargement de l'analyse NLP : {e}")
+        return None
+
+def calculate_nlp_kpis(nlp_data):
+    """Calcule les KPI moyens des types de changements à partir des analyses NLP"""
+    if not nlp_data or 'analyses' not in nlp_data:
+        return None
+    
+    all_change_types = []
+    
+    for analysis in nlp_data['analyses']:
+        if 'report_summary' in analysis and 'change_types' in analysis['report_summary']:
+            change_types = analysis['report_summary']['change_types']
+            all_change_types.append(change_types)
+    
+    if not all_change_types:
+        return None
+    
+    # Calculer les moyennes pour chaque type de changement
+    df = pd.DataFrame(all_change_types)
+    means = df.mean()
+    
+    # Calculer le total moyen et les pourcentages
+    total_mean = means.sum()
+    percentages = (means / total_mean * 100) if total_mean > 0 else means * 0
+    
+    return {
+        'means': means.to_dict(),
+        'percentages': percentages.to_dict(),
+        'total_files': len(all_change_types),
+        'total_mean': total_mean
+    }
+
+def create_nlp_kpi_charts(kpi_data):
+    """Crée des graphiques pour les KPI des types de changements NLP"""
+    if not kpi_data:
+        return None, None
+    
+    means = kpi_data['means']
+    percentages = kpi_data['percentages']
+    
+    # Couleurs pour chaque type de changement
+    colors = {
+        'orthographic': '#2E8B57',  # Vert foncé
+        'grammatical': '#4169E1',   # Bleu royal
+        'punctuation': '#FF6347',   # Rouge tomate
+        'lexical': '#DAA520',       # Or
+        'structural': '#8A2BE2',    # Violet
+        'additions': '#32CD32',     # Vert lime
+        'deletions': '#DC143C'      # Rouge cramoisi
+    }
+    
+    # Graphique en barres des moyennes
+    fig_means = go.Figure()
+    
+    change_types = list(means.keys())
+    values = list(means.values())
+    bar_colors = [colors.get(ct, '#666666') for ct in change_types]
+    
+    fig_means.add_trace(go.Bar(
+        x=change_types,
+        y=values,
+        marker_color=bar_colors,
+        text=[f'{v:.1f}' for v in values],
+        textposition='auto'
+    ))
+    
+    fig_means.update_layout(
+        title="Moyenne des types de changements par fichier (Analyse NLP)",
+        xaxis_title="Types de changements",
+        yaxis_title="Nombre moyen de changements",
+        showlegend=False
+    )
+    
+    # Graphique en secteurs des pourcentages
+    fig_pie = go.Figure(data=[go.Pie(
+        labels=change_types,
+        values=list(percentages.values()),
+        hole=.3,
+        marker_colors=[colors.get(ct, '#666666') for ct in change_types],
+        textinfo='label+percent',
+        textposition='auto'
+    )])
+    
+    fig_pie.update_layout(
+        title="Répartition des types de changements (Analyse NLP)",
+        annotations=[dict(text=f'Total: {kpi_data["total_mean"]:.1f}', x=0.5, y=0.5, font_size=16, showarrow=False)]
+    )
+    
+    return fig_means, fig_pie
+
 # Interface Streamlit
 st.title("📝 Comparateur de Transcriptions")
 st.markdown("Comparez les transcriptions originales avec les versions améliorées par l'IA")
@@ -645,6 +751,66 @@ if os.path.exists(directory):
                             st.info(f"📊 Analyse de tous les périmètres ({len(set(scopes))} périmètres: {', '.join(sorted(set(scopes)))})")
                         else:
                             st.info(f"📊 Analyse du périmètre: **{selected_scope}**")
+                    
+                    # === SECTION KPI ANALYSES NLP ===
+                    # Charger et afficher les KPI NLP si disponibles pour le périmètre sélectionné
+                    if selected_scope and selected_scope != "TOUS":
+                        nlp_data = load_nlp_analysis(directory, selected_scope)
+                        if nlp_data:
+                            st.markdown("## 🧠 KPI des Types de Changements (Analyse NLP)")
+                            
+                            kpi_data = calculate_nlp_kpis(nlp_data)
+                            if kpi_data:
+                                # Afficher les métriques principales
+                                col1, col2, col3, col4 = st.columns(4)
+                                
+                                with col1:
+                                    st.metric("📄 Fichiers analysés (NLP)", kpi_data['total_files'])
+                                
+                                with col2:
+                                    st.metric("📊 Changements moyens/fichier", f"{kpi_data['total_mean']:.1f}")
+                                
+                                with col3:
+                                    top_type = max(kpi_data['means'], key=kpi_data['means'].get)
+                                    st.metric("🏆 Type principal", top_type.title())
+                                
+                                with col4:
+                                    top_percentage = kpi_data['percentages'][top_type]
+                                    st.metric("📈 % du type principal", f"{top_percentage:.1f}%")
+                                
+                                # Tableaux détaillés des moyennes
+                                st.markdown("### 📋 Détail des moyennes par type de changement")
+                                
+                                kpi_df_data = []
+                                for change_type, mean_value in kpi_data['means'].items():
+                                    percentage = kpi_data['percentages'][change_type]
+                                    kpi_df_data.append({
+                                        'Type de changement': change_type.title(),
+                                        'Moyenne': f"{mean_value:.2f}",
+                                        'Pourcentage': f"{percentage:.1f}%"
+                                    })
+                                
+                                kpi_df = pd.DataFrame(kpi_df_data)
+                                kpi_df = kpi_df.sort_values('Moyenne', key=lambda x: x.str.replace(',', '.').astype(float), ascending=False)
+                                st.dataframe(kpi_df, use_container_width=True)
+                                
+                                # Graphiques des KPI NLP
+                                fig_means, fig_pie = create_nlp_kpi_charts(kpi_data)
+                                
+                                if fig_means and fig_pie:
+                                    tab_nlp1, tab_nlp2 = st.tabs(["📊 Moyennes par type", "🥧 Répartition"])
+                                    
+                                    with tab_nlp1:
+                                        st.plotly_chart(fig_means, use_container_width=True)
+                                    
+                                    with tab_nlp2:
+                                        st.plotly_chart(fig_pie, use_container_width=True)
+                                
+                                st.markdown("---")
+                            else:
+                                st.warning("⚠️ Impossible de calculer les KPI à partir des données NLP")
+                        else:
+                            st.info(f"ℹ️ Aucune analyse NLP disponible pour le périmètre **{selected_scope}**")
                     
                     # === SECTION STATISTIQUES GLOBALES DE TOKENS ===
                     st.markdown("## 🔢 Statistiques globales des tokens")
@@ -1002,4 +1168,5 @@ Cette application compare les transcriptions originales avec leurs versions amé
 - 📈 **Métriques par périmètre** : Comparaison détaillée entre BATCH1_MELTING, FINFO, OUTREMER, REGIONS
 - 📋 **Tableaux de synthèse** : Statistiques complètes par fichier et périmètre
 - 🎯 **Pourcentages d'écarts** : Distribution, moyenne, médiane, maximum
+- 🧠 **KPI Analyses NLP** : Types de changements moyens par périmètre (orthographique, grammatical, ponctuation, lexical, structurel, ajouts, suppressions)
 """)
