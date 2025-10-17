@@ -1,0 +1,2 @@
+filename,is_valid,reason,coverage_ratio,original_tokens,llm_tokens,filtered_tokens
+transcript_formatted_02da75ca-9aa1-11f0-8240-957ddefc544d.txt,True,Correspondance trouvée,1.0691699604743083,4211,4257,4257

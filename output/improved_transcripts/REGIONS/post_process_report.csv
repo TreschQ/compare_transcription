@@ -1,0 +1,22 @@
+filename,is_valid,reason,coverage_ratio,original_tokens,llm_tokens,filtered_tokens
+transcript_formatted_55ffbb6e-5c9d-4f16-aa75-36256c91b6ce.txt,True,Correspondance trouvée,1.064367816091954,685,683,683
+transcript_formatted_a7a3522a-e5d2-4c59-9c7a-228dbd9f3468.txt,False,Texte vide après tokenisation,0.0,0,63,0
+transcript_formatted_a434d7e1-ac87-45df-85dd-8afcea96cd0d.txt,True,Correspondance trouvée,1.0401891252955082,703,708,706
+transcript_formatted_ab6060c6-d8cb-4112-8263-5f6e180b2e3c.txt,True,Correspondance trouvée,1.0488505747126438,578,574,574
+transcript_formatted_0bbc4992-4fcf-4a55-b468-057843a231df.txt,True,Correspondance trouvée,1.0378071833648392,788,794,792
+transcript_formatted_03291620-becb-465e-a66b-dee3bc3f13b1.txt,True,Correspondance trouvée,1.0302013422818792,721,741,741
+transcript_formatted_2658a649-de96-436b-928d-dc55dcba62f8.txt,True,Correspondance trouvée,1.0688622754491017,608,616,616
+transcript_formatted_9dbc49cd-681b-434a-afdc-59cfd6519f2e.txt,True,Correspondance trouvée,1.0406976744186047,851,841,839
+transcript_formatted_0105da9c-f48b-4540-8bc5-844f6a8f7c4a.txt,True,Correspondance trouvée,1.0237529691211402,699,695,678
+transcript_formatted_90199cef-801b-411c-8b37-21a4097d2e1e.txt,True,Correspondance trouvée,1.1065217391304347,771,794,789
+transcript_formatted_621cb033-e87c-437a-a7bf-dbd4f5ea8eeb.txt,True,Correspondance trouvée,1.0118483412322274,660,648,646
+transcript_formatted_5050a28f-1d30-42b2-9469-54241452c7ac.txt,True,Correspondance trouvée,1.088235294117647,102,109,90
+transcript_formatted_fde78672-7b48-4dcb-895b-f8551f37d346.txt,False,Impossible de trouver une correspondance avec moins de 30 tokens consécutifs non correspondants,0.0,46,61,46
+transcript_formatted_9306a3fa-a435-44d6-bdf0-57224c58bbaa.txt,True,Correspondance trouvée,1.0586666666666666,756,725,725
+transcript_formatted_7078edf2-0f38-401b-848e-1c057619c0b8.txt,True,Correspondance trouvée,1.1255230125523012,441,459,457
+transcript_formatted_b7e7e11e-fc3a-4879-b97e-610314a69c41.txt,True,Correspondance trouvée,1.042830540037244,734,749,749
+transcript_formatted_f4c54f75-08dc-445e-a98b-767f3cd6dfe4.txt,True,Correspondance trouvée,1.0,51,50,31
+transcript_formatted_8c4e7a93-be7f-4e83-8d06-2ae6e640a178.txt,True,Correspondance trouvée,1.0435967302452316,616,616,614
+transcript_formatted_df789797-0681-4b98-ad50-3ebe9aebf8f9.txt,True,Correspondance trouvée,1.0451612903225806,791,791,789
+transcript_formatted_457fca99-d6f0-4786-b1f0-6252018a8311.txt,True,Correspondance trouvée,1.0588235294117647,597,623,621
+transcript_formatted_f9b9a214-a756-4477-b14e-f74d71d7ff97.txt,True,Correspondance trouvée,1.027237354085603,395,392,390

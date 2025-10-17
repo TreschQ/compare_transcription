@@ -1,5 +1,5 @@
-filename,original_length,original_tokens,original_text,improved_text,input_tokens,output_tokens,token_ratio,success,error
-transcript_formatted_55ffbb6e-5c9d-4f16-aa75-36256c91b6ce.txt,2292,685,"[00:00:01 - 00:00:13] Voix 03 :
+filename,perimetre,original_length,original_tokens,original_text,improved_text,input_tokens,output_tokens,token_ratio,success,error,post_process,filtered_text,filtered_tokens,coverage_ratio
+transcript_formatted_55ffbb6e-5c9d-4f16-aa75-36256c91b6ce.txt,REGIONS,2292,685,"[00:00:01 - 00:00:13] Voix 03 :
   Depuis un an, Anastasia n'a plus Windows sur son poste de travail. Elle utilise Linux, un système d'exploitation libre, gratuit, et dont l'apparence ressemble au bien connu système américain.
 
 [00:00:15 - 00:00:47] Voix 02 :
@@ -18,34 +18,55 @@ transcript_formatted_55ffbb6e-5c9d-4f16-aa75-36256c91b6ce.txt,2292,685,"[00:00:0
  Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème par exemple.
 
 [00:01:51 - 00:01:57] Voix 03 :
-  Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.","Voici la transcription post-traitée selon les instructions :
+  Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.","Voici la transcription post-traitée :
 
-Journaliste:
+[00:00:01 - 00:00:13] Narrateur :
 Depuis un an, Anastasia n'a plus Windows sur son poste de travail. Elle utilise Linux, un système d'exploitation libre, gratuit, et dont l'apparence ressemble au bien connu système américain.
 
-Invité 1 (Anastasia):
-Quand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau, mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.
+[00:00:15 - 00:00:47] Anastasia :
+Quand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau : mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.
 
-Journaliste:
-Sur les 1000 postes de travail de la mairie des Chiroles, une centaine sont comme celui d'Anastasia, équipée de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.
+[00:00:47 - 00:00:58] Narrateur :
+Sur les 1000 postes de travail de la mairie d'Échirolles, une centaine sont comme celui d'Anastasia, équipés de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.
 
-Invité 2 (Élu au numérique):
-Le logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répond à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.
+[00:00:59 - 00:01:23] Élu au numérique :
+Le logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répondent à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.
 
-Journaliste:
-Économie, écologie et sécurité. Grâce à l'utilisation des logiciels libres, les données des habitants sont stockées et hébergées au sous-sol de la mairie.
+[00:01:24 - 00:01:34] Narrateur :
+Économie, écologie et sécurité grâce à l'utilisation des logiciels libres : les données des habitants sont stockées et hébergées au sous-sol de la mairie.
 
-Invité 2 (Élu au numérique):
-Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème par exemple.
+[0001:34 - 00:01:50] Expert IT :
+Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc, ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème, par exemple.
 
-Journaliste:
-Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",685,604,0.8817518248175182,True,
-transcript_formatted_a7a3522a-e5d2-4c59-9c7a-228dbd9f3468.txt,0,0,,"Je comprends l'objectif de ce contrôle qualité et post-traitement de transcription pour France Télévisions. Je suis prêt à appliquer l'ensemble des instructions détaillées (analyse initiale, corrections linguistiques minimales, formatage structurel, vérification de l'intégrité et contrôle qualité final) pour produire un document brut de haute qualité.
+[00:01:51 - 00:01:57] Narrateur :
+Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",685,683,0.997080291970803,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée :\n\n[00:00:01 - 00:00:13] Narrateur :\nDepuis un an, Anastasia n'a plus Windows sur son poste de travail. Elle utilise Linux, un système d'exploitation libre, gratuit, et dont l'apparence ressemble au bien connu système américain.\n\n[00:00:15 - 00:00:47] Anastasia :\nQuand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau : mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.\n\n[00:00:47 - 00:00:58] Narrateur :\nSur les 1000 postes de travail de la mairie d'Échirolles, une centaine sont comme celui d'Anastasia, équipés de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.\n\n[00:00:59 - 00:01:23] Élu au numérique :\nLe logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répondent à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.\n\n[00:01:24 - 00:01:34] Narrateur :\nÉconomie, écologie et sécurité grâce à l'utilisation des logiciels libres : les données des habitants sont stockées et hébergées au sous-sol de la mairie.\n\n[0001:34 - 00:01:50] Expert IT :\nEt parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc, ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème, par exemple.\n\n[00:01:51 - 00:01:57] Narrateur :\nLes logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat."", 'original_length': 435, 'llm_length': 463, 'filtered_length': 463, 'match_start': 0, 'match_end': 462, 'coverage_ratio': 1.064367816091954}","Voici la transcription post-traitée :
 
-Cependant, il semble que **la transcription à traiter n'a pas été fournie** dans votre requête.
+[00:00:01 - 00:00:13] Narrateur :
+Depuis un an, Anastasia n'a plus Windows sur son poste de travail. Elle utilise Linux, un système d'exploitation libre, gratuit, et dont l'apparence ressemble au bien connu système américain.
 
-Veuillez coller ou taper la transcription que je dois analyser et post-traiter. Une fois que vous l'aurez fournie, je procéderai immédiatement selon les consignes pour vous livrer le résultat attendu.",0,161,0.0,True,
-transcript_formatted_a434d7e1-ac87-45df-85dd-8afcea96cd0d.txt,2402,703,"[00:00:00 - 00:00:43] Voix 00 :
+[00:00:15 - 00:00:47] Anastasia :
+Quand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau : mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.
+
+[00:00:47 - 00:00:58] Narrateur :
+Sur les 1000 postes de travail de la mairie d'Échirolles, une centaine sont comme celui d'Anastasia, équipés de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.
+
+[00:00:59 - 00:01:23] Élu au numérique :
+Le logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répondent à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.
+
+[00:01:24 - 00:01:34] Narrateur :
+Économie, écologie et sécurité grâce à l'utilisation des logiciels libres : les données des habitants sont stockées et hébergées au sous-sol de la mairie.
+
+[0001:34 - 00:01:50] Expert IT :
+Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc, ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème, par exemple.
+
+[00:01:51 - 00:01:57] Narrateur :
+Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",683,1.064367816091954
+transcript_formatted_a7a3522a-e5d2-4c59-9c7a-228dbd9f3468.txt,REGIONS,0,0,,"Je suis prêt à effectuer le contrôle qualité et le post-traitement selon les instructions.
+
+Cependant, il semble que la transcription à traiter n'ait pas été fournie dans votre message.
+
+Veuillez coller ou joindre la transcription pour que je puisse commencer le traitement.",0,63,0.0,True,,"{'is_valid': False, 'reason': 'Texte vide après tokenisation', 'filtered_text': ""Je suis prêt à effectuer le contrôle qualité et le post-traitement selon les instructions.\n\nCependant, il semble que la transcription à traiter n'ait pas été fournie dans votre message.\n\nVeuillez coller ou joindre la transcription pour que je puisse commencer le traitement."", 'original_length': 0, 'llm_length': 50, 'match_start': 0, 'match_end': 0}",,0,0.0
+transcript_formatted_a434d7e1-ac87-45df-85dd-8afcea96cd0d.txt,REGIONS,2402,703,"[00:00:00 - 00:00:43] Voix 00 :
   C'était l'un des projets phares de la loi narcotrafique voulue par le ministre de la Justice Gérald Darmanin. Au total, 40 narcotrafiquants considérés comme dangereux et influents seront incarcérés ici, au quartier de lutte contre la criminalité organisée de Condé-sur-Sarte. Ils y seront détenus pour une durée d'un an renouvelable. Nous avons pu visiter cet après-midi les coursifs de ce nouveau quartier qui présente des normes de sécurité particulièrement strictes.  Il y a par exemple des portiques à ondes millimétriques pour détecter tout objet illicite, des salles de visioconférence pour limiter les extractions, des arrêtoires de portes, ou encore des parloirs igiaphone hermétiques pour échanger avec les visiteurs sans contact physique. L'objectif est de limiter et de contrôler tout contact avec l'extérieur.
 
 [00:00:44 - 00:00:59] Voix 02 :
@@ -58,23 +79,38 @@ transcript_formatted_a434d7e1-ac87-45df-85dd-8afcea96cd0d.txt,2402,703,"[00:00:0
   Tout ça a été validé dans la loi narcotrafique par le Conseil d'État en amont, validé en aval par le Conseil constitutionnel, donc il n'y a pas de difficulté juridique. Pour l'instant, l'ensemble de ces recours ont été rejetés, n'ont pas abouti et qu'il n'y a eu aucune contestation, ni d'emplacement en QLCO par la justice, ni aucun recours sur les conditions de détention en tant que telle qui a abouti et donc ça prouve que l'arsenal juridique est solide.
 
 [00:01:43 - 00:01:46] Voix 00 :
-  Pour encadrer cette nouvelle population, les effectifs ont été renforcés. Ils atteignent désormais les 250 surveillants. Tous ont suivi une formation spécifique, notamment sur le risque corruption. Les premiers détenus arriveront ici à la prison de Condé-sur-Sarte début novembre.","Voici la transcription post-traitée :
+  Pour encadrer cette nouvelle population, les effectifs ont été renforcés. Ils atteignent désormais les 250 surveillants. Tous ont suivi une formation spécifique, notamment sur le risque corruption. Les premiers détenus arriveront ici à la prison de Condé-sur-Sarte début novembre.","Voici la transcription post-traitée, conformément à vos instructions :
 
-Journaliste:
-C'était l'un des projets phares de la loi narcotrafic voulue par le ministre de la Justice Gérald Darmanin. Au total, 40 narcotrafiquants considérés comme dangereux et influents seront incarcérés ici, au quartier de lutte contre la criminalité organisée de Condé-sur-Sarthe. Ils y seront détenus pour une durée d'un an renouvelable. Nous avons pu visiter cet après-midi les coursives de ce nouveau quartier qui présente des normes de sécurité particulièrement strictes. Il y a par exemple des portiques à ondes millimétriques pour détecter tout objet illicite, des salles de visioconférence pour limiter les extractions, des arrêtoires de portes, ou encore des parloirs visiophone hermétiques pour échanger avec les visiteurs sans contact physique. L'objectif est de limiter et de contrôler tout contact avec l'extérieur.
+[00:00:00 - 00:00:43] Journaliste:
+C'était l'un des projets phares de la loi narcotrafic voulue par le ministre de la Justice, Gérald Darmanin. Au total, 40 narcotrafiquants considérés comme dangereux et influents seront incarcérés ici, au quartier de lutte contre la criminalité organisée de Condé-sur-Sarte. Ils y seront détenus pour une durée d'un an renouvelable. Nous avons pu visiter cet après-midi les coursifs de ce nouveau quartier qui présente des normes de sécurité particulièrement strictes. Il y a par exemple des portiques à ondes millimétriques pour détecter tout objet illicite, des salles de visioconférence pour limiter les extractions, des arrêtoires de portes, ou encore des parloirs hygiaphone hermétiques pour échanger avec les visiteurs sans contact physique. L'objectif est de limiter et de contrôler tout contact avec l'extérieur.
 
-Invité 1:
+[00:00:44 - 00:00:59] Invité 1:
 Le ministre a voulu à juste titre frapper fort en disant que le narcotrafic est un vrai problème de société. Il faut que les établissements huit anciens se mettent en ordre de bataille pour pouvoir accueillir ces profils. Ces quartiers sont là pour répondre à cette dangerosité particulière.
 
-Journaliste:
-Les détenus seront par ailleurs privés d'unités de vie familiale. Toutes ces conditions de détention soulèvent la question des droits fondamentaux de ces détenus. Certains ont déjà protesté à la prison de Vendin-le-Vieil, dont le quartier de haute sécurité fonctionne depuis cet été. Plusieurs recours ont été déposés, notamment par l'association des avocats pénalistes.
+[00:01:00 - 00:01:19] Journaliste:
+Les détenus seront par ailleurs privés d'unités de vie familiale. Toutes ces conditions de détention soulèvent la question des droits fondamentaux de ces détenus. Certains ont déjà protesté à la prison de Vendin-le-Vieille, dont le quartier de haute sécurité fonctionne depuis cet été. Plusieurs recours ont été déposés, notamment par l'association des avocats pénalistes.
 
-Invité 2:
-Tout ça a été validé dans la loi narcotrafic par le Conseil d'État en amont, validé en aval par le Conseil constitutionnel, donc il n'y a pas de difficulté juridique. Pour l'instant, l'ensemble de ces recours ont été rejetés, n'ont pas abouti et qu'il n'y a eu aucune contestation, ni d'emplacement en QLCO par la justice, ni aucun recours sur les conditions de détention en tant que telles qui a abouti et donc ça prouve que l'arsenal juridique est solide.
+[00:01:20 - 00:01:43] Invité 2:
+Tout ça a été validé dans la loi narcotrafic par le Conseil d'État en amont, validé en aval par le Conseil constitutionnel, donc il n'y a pas de difficulté juridique. Pour l'instant, l'ensemble de ces recours ont été rejetés, n'ont pas abouti et qu'il n'y a eu aucune contestation, ni d'emplacement en QLCO par la justice, ni aucun recours sur les conditions de détention en tant que telle qui a abouti et donc ça prouve que l'arsenal juridique est solide.
 
-Journaliste:
-Pour encadrer cette nouvelle population, les effectifs ont été renforcés. Ils atteignent désormais les 250 surveillants. Tous ont suivi une formation spécifique, notamment sur le risque corruption. Les premiers détenus arriveront ici à la prison de Condé-sur-Sarthe début novembre.",703,632,0.89900426742532,True,
-transcript_formatted_ab6060c6-d8cb-4112-8263-5f6e180b2e3c.txt,1734,578,"[00:00:04 - 00:00:15] Voix 00 :
+[00:01:43 - 00:01:46] Journaliste:
+Pour encadrer cette nouvelle population, les effectifs ont été renforcés. Ils atteignent désormais les 250 surveillants. Tous ont suivi une formation spécifique, notamment sur le risque corruption. Les premiers détenus arriveront ici à la prison de Condé-sur-Sarte début novembre.",703,708,1.0071123755334281,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""transcription post-traitée, conformément à vos instructions :\n\n[00:00:00 - 00:00:43] Journaliste:\nC'était l'un des projets phares de la loi narcotrafic voulue par le ministre de la Justice, Gérald Darmanin. Au total, 40 narcotrafiquants considérés comme dangereux et influents seront incarcérés ici, au quartier de lutte contre la criminalité organisée de Condé-sur-Sarte. Ils y seront détenus pour une durée d'un an renouvelable. Nous avons pu visiter cet après-midi les coursifs de ce nouveau quartier qui présente des normes de sécurité particulièrement strictes. Il y a par exemple des portiques à ondes millimétriques pour détecter tout objet illicite, des salles de visioconférence pour limiter les extractions, des arrêtoires de portes, ou encore des parloirs hygiaphone hermétiques pour échanger avec les visiteurs sans contact physique. L'objectif est de limiter et de contrôler tout contact avec l'extérieur.\n\n[00:00:44 - 00:00:59] Invité 1:\nLe ministre a voulu à juste titre frapper fort en disant que le narcotrafic est un vrai problème de société. Il faut que les établissements huit anciens se mettent en ordre de bataille pour pouvoir accueillir ces profils. Ces quartiers sont là pour répondre à cette dangerosité particulière.\n\n[00:01:00 - 00:01:19] Journaliste:\nLes détenus seront par ailleurs privés d'unités de vie familiale. Toutes ces conditions de détention soulèvent la question des droits fondamentaux de ces détenus. Certains ont déjà protesté à la prison de Vendin-le-Vieille, dont le quartier de haute sécurité fonctionne depuis cet été. Plusieurs recours ont été déposés, notamment par l'association des avocats pénalistes.\n\n[00:01:20 - 00:01:43] Invité 2:\nTout ça a été validé dans la loi narcotrafic par le Conseil d'État en amont, validé en aval par le Conseil constitutionnel, donc il n'y a pas de difficulté juridique. Pour l'instant, l'ensemble de ces recours ont été rejetés, n'ont pas abouti et qu'il n'y a eu aucune contestation, ni d'emplacement en QLCO par la justice, ni aucun recours sur les conditions de détention en tant que telle qui a abouti et donc ça prouve que l'arsenal juridique est solide.\n\n[00:01:43 - 00:01:46] Journaliste:\nPour encadrer cette nouvelle population, les effectifs ont été renforcés. Ils atteignent désormais les 250 surveillants. Tous ont suivi une formation spécifique, notamment sur le risque corruption. Les premiers détenus arriveront ici à la prison de Condé-sur-Sarte début novembre."", 'original_length': 423, 'llm_length': 442, 'filtered_length': 440, 'match_start': 2, 'match_end': 441, 'coverage_ratio': 1.0401891252955082}","transcription post-traitée, conformément à vos instructions :
+
+[00:00:00 - 00:00:43] Journaliste:
+C'était l'un des projets phares de la loi narcotrafic voulue par le ministre de la Justice, Gérald Darmanin. Au total, 40 narcotrafiquants considérés comme dangereux et influents seront incarcérés ici, au quartier de lutte contre la criminalité organisée de Condé-sur-Sarte. Ils y seront détenus pour une durée d'un an renouvelable. Nous avons pu visiter cet après-midi les coursifs de ce nouveau quartier qui présente des normes de sécurité particulièrement strictes. Il y a par exemple des portiques à ondes millimétriques pour détecter tout objet illicite, des salles de visioconférence pour limiter les extractions, des arrêtoires de portes, ou encore des parloirs hygiaphone hermétiques pour échanger avec les visiteurs sans contact physique. L'objectif est de limiter et de contrôler tout contact avec l'extérieur.
+
+[00:00:44 - 00:00:59] Invité 1:
+Le ministre a voulu à juste titre frapper fort en disant que le narcotrafic est un vrai problème de société. Il faut que les établissements huit anciens se mettent en ordre de bataille pour pouvoir accueillir ces profils. Ces quartiers sont là pour répondre à cette dangerosité particulière.
+
+[00:01:00 - 00:01:19] Journaliste:
+Les détenus seront par ailleurs privés d'unités de vie familiale. Toutes ces conditions de détention soulèvent la question des droits fondamentaux de ces détenus. Certains ont déjà protesté à la prison de Vendin-le-Vieille, dont le quartier de haute sécurité fonctionne depuis cet été. Plusieurs recours ont été déposés, notamment par l'association des avocats pénalistes.
+
+[00:01:20 - 00:01:43] Invité 2:
+Tout ça a été validé dans la loi narcotrafic par le Conseil d'État en amont, validé en aval par le Conseil constitutionnel, donc il n'y a pas de difficulté juridique. Pour l'instant, l'ensemble de ces recours ont été rejetés, n'ont pas abouti et qu'il n'y a eu aucune contestation, ni d'emplacement en QLCO par la justice, ni aucun recours sur les conditions de détention en tant que telle qui a abouti et donc ça prouve que l'arsenal juridique est solide.
+
+[00:01:43 - 00:01:46] Journaliste:
+Pour encadrer cette nouvelle population, les effectifs ont été renforcés. Ils atteignent désormais les 250 surveillants. Tous ont suivi une formation spécifique, notamment sur le risque corruption. Les premiers détenus arriveront ici à la prison de Condé-sur-Sarte début novembre.",706,1.0401891252955082
+transcript_formatted_ab6060c6-d8cb-4112-8263-5f6e180b2e3c.txt,REGIONS,1734,578,"[00:00:04 - 00:00:15] Voix 00 :
   Ce sont les dernières baguettes. Cette boulangerie historique, reprise il y a huit ans par un jeune boulanger, va fermer dans quelques heures au grand regret des fidèles clients. Je suis la coiffeuse d'en face en fait.
 
 [00:00:27 - 00:00:35] Voix 02 :
@@ -93,34 +129,50 @@ transcript_formatted_ab6060c6-d8cb-4112-8263-5f6e180b2e3c.txt,1734,578,"[00:00:0
  Moi, j'aimais bien, justement, me dire que les gens qui mangent mon pain, mes gâteaux, ça vient de chez nous. C'est nous qui l'avons créé et que derrière, on a les retours de clients en disant qu'on a aujourd'hui, votre pain était délicieux, ça va nous manquer et tout. Ça, c'est la plus grande récompense qu'on a pu avoir sur le soie 8.
 
 [00:01:31 - 00:01:34] Voix 00 :
-  Cédric Boucher espère bien rebondir sur un autre projet. La boulangerie, elle, n'aura certainement pas de repreneurs.","Voici la transcription post-traitée, conformément à vos instructions :
+  Cédric Boucher espère bien rebondir sur un autre projet. La boulangerie, elle, n'aura certainement pas de repreneurs.","Voici la transcription post-traitée conformément à vos instructions :
 
-**Locuteurs identifiés :**
-*   **Journaliste :** Voix narrative, introduction et clôture du reportage.
-*   **Cliente :** Personne interrogée dans la rue.
-*   **Boulanger :** Cédric Boucher, le boulanger.
+[00:00:04 - 00:00:15] Journaliste:
+Ce sont les dernières baguettes. Cette boulangerie historique, reprise il y a huit ans par un jeune boulanger, va fermer dans quelques heures au grand regret des fidèles clients. Je suis la coiffeuse d'en face en fait.
 
-Journaliste:
-Ce sont les dernières baguettes. Cette boulangerie historique, reprise il y a huit ans par un jeune boulanger, va fermer dans quelques heures, au grand regret des fidèles clients.
+[00:00:27 - 00:00:35] Client:
+Donc, du coup, c'est vrai que ça va faire un manque, un manque de passage, un manque de pain, un commerce qui ferme. C'est dommage.
 
-Cliente:
-Je suis la coiffeuse d'en face, en fait. Donc, du coup, c'est vrai que ça va faire un manque, un manque de passage, un manque de pain. Un commerce qui ferme, c'est dommage.
-
-Journaliste:
+[00:00:35 - 00:00:47] Journaliste:
 Du côté du pétrin, les machines se sont tues. C'est le grand ménage. En moins de trois ans, la trésorerie de Cédric Boucher est passée dans le rouge. Par peur de ne plus pouvoir payer ses salariés et ses fournisseurs, il préfère arrêter les frais.
 
-Boulanger:
-On a énormément de charges qui sont très lourdes. Les matières premières qui ont grimpé à tout point de vue. Au début, ce n'est que le beurre et que la farine. Au final, tout s'y est mis : l'huile, le sucre, le sel. Toutes les matières premières qu'on utilise dans notre métier. Ça a été notre projet de vie. On a tout claqué pour ça.
+[00:00:47 - 00:01:07] Boulanger:
+On a énormément de charges qui sont très lourdes. Les matières premières qui ont grimpé à tout point de vue. Au début, c'est que le beurre et que la farine. Au final, tout s'est mis. Leure, le sucre, le sel. Toutes les matières premières qu'on utilise dans notre métier. Ça a été notre projet de vie. On a tout claqué pour ça.
 
-Journaliste:
-Pourtant, en huit ans, la boulangerie avait fidélisé sa clientèle. La boulangerie tournait à plein régime.
+[00:01:08 - 00:01:13] Journaliste:
+Pourtant, en huit ans, la bouchée de pain avait fidélisé sa clientèle. La boulangerie tournait à plein régime.
 
-Boulanger:
-Moi, j'aimais bien, justement, me dire que les gens qui mangent mon pain, mes gâteaux, ça vient de chez nous. C'est nous qui l'avons créé et que derrière, on a les retours de clients en disant : « Aujourd'hui, votre pain était délicieux, ça va nous manquer ! » et tout. Ça, c'est la plus grande récompense qu'on a pu avoir sur ces huit ans.
+[00:01:14 - 00:01:30] Boulanger:
+Moi, j'aimais bien, justement, me dire que les gens qui mangent mon pain, mes gâteaux, ça vient de chez nous. C'est nous qui l'avons créé et que derrière, on a les retours de clients en disant qu'on a aujourd'hui, votre pain était délicieux, ça va nous manquer et tout. Ça, c'est la plus grande récompense qu'on a pu avoir sur le soie 8.
 
-Journaliste:
-Cédric Boucher espère bien rebondir sur un autre projet. La boulangerie, elle, n'aura certainement pas de repreneurs.",578,546,0.9446366782006921,True,
-transcript_formatted_0bbc4992-4fcf-4a55-b468-057843a231df.txt,2620,788,"[00:00:02 - 00:00:23] Voix 00 :
+[00:01:31 - 00:01:34] Journaliste:
+Cédric Boucher espère bien rebondir sur un autre projet. La boulangerie, elle, n'aura certainement pas de repreneurs.",578,574,0.9930795847750865,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée conformément à vos instructions :\n\n[00:00:04 - 00:00:15] Journaliste:\nCe sont les dernières baguettes. Cette boulangerie historique, reprise il y a huit ans par un jeune boulanger, va fermer dans quelques heures au grand regret des fidèles clients. Je suis la coiffeuse d'en face en fait.\n\n[00:00:27 - 00:00:35] Client:\nDonc, du coup, c'est vrai que ça va faire un manque, un manque de passage, un manque de pain, un commerce qui ferme. C'est dommage.\n\n[00:00:35 - 00:00:47] Journaliste:\nDu côté du pétrin, les machines se sont tues. C'est le grand ménage. En moins de trois ans, la trésorerie de Cédric Boucher est passée dans le rouge. Par peur de ne plus pouvoir payer ses salariés et ses fournisseurs, il préfère arrêter les frais.\n\n[00:00:47 - 00:01:07] Boulanger:\nOn a énormément de charges qui sont très lourdes. Les matières premières qui ont grimpé à tout point de vue. Au début, c'est que le beurre et que la farine. Au final, tout s'est mis. Leure, le sucre, le sel. Toutes les matières premières qu'on utilise dans notre métier. Ça a été notre projet de vie. On a tout claqué pour ça.\n\n[00:01:08 - 00:01:13] Journaliste:\nPourtant, en huit ans, la bouchée de pain avait fidélisé sa clientèle. La boulangerie tournait à plein régime.\n\n[00:01:14 - 00:01:30] Boulanger:\nMoi, j'aimais bien, justement, me dire que les gens qui mangent mon pain, mes gâteaux, ça vient de chez nous. C'est nous qui l'avons créé et que derrière, on a les retours de clients en disant qu'on a aujourd'hui, votre pain était délicieux, ça va nous manquer et tout. Ça, c'est la plus grande récompense qu'on a pu avoir sur le soie 8.\n\n[00:01:31 - 00:01:34] Journaliste:\nCédric Boucher espère bien rebondir sur un autre projet. La boulangerie, elle, n'aura certainement pas de repreneurs."", 'original_length': 348, 'llm_length': 365, 'filtered_length': 365, 'match_start': 0, 'match_end': 364, 'coverage_ratio': 1.0488505747126438}","Voici la transcription post-traitée conformément à vos instructions :
+
+[00:00:04 - 00:00:15] Journaliste:
+Ce sont les dernières baguettes. Cette boulangerie historique, reprise il y a huit ans par un jeune boulanger, va fermer dans quelques heures au grand regret des fidèles clients. Je suis la coiffeuse d'en face en fait.
+
+[00:00:27 - 00:00:35] Client:
+Donc, du coup, c'est vrai que ça va faire un manque, un manque de passage, un manque de pain, un commerce qui ferme. C'est dommage.
+
+[00:00:35 - 00:00:47] Journaliste:
+Du côté du pétrin, les machines se sont tues. C'est le grand ménage. En moins de trois ans, la trésorerie de Cédric Boucher est passée dans le rouge. Par peur de ne plus pouvoir payer ses salariés et ses fournisseurs, il préfère arrêter les frais.
+
+[00:00:47 - 00:01:07] Boulanger:
+On a énormément de charges qui sont très lourdes. Les matières premières qui ont grimpé à tout point de vue. Au début, c'est que le beurre et que la farine. Au final, tout s'est mis. Leure, le sucre, le sel. Toutes les matières premières qu'on utilise dans notre métier. Ça a été notre projet de vie. On a tout claqué pour ça.
+
+[00:01:08 - 00:01:13] Journaliste:
+Pourtant, en huit ans, la bouchée de pain avait fidélisé sa clientèle. La boulangerie tournait à plein régime.
+
+[00:01:14 - 00:01:30] Boulanger:
+Moi, j'aimais bien, justement, me dire que les gens qui mangent mon pain, mes gâteaux, ça vient de chez nous. C'est nous qui l'avons créé et que derrière, on a les retours de clients en disant qu'on a aujourd'hui, votre pain était délicieux, ça va nous manquer et tout. Ça, c'est la plus grande récompense qu'on a pu avoir sur le soie 8.
+
+[00:01:31 - 00:01:34] Journaliste:
+Cédric Boucher espère bien rebondir sur un autre projet. La boulangerie, elle, n'aura certainement pas de repreneurs.",574,1.0488505747126438
+transcript_formatted_0bbc4992-4fcf-4a55-b468-057843a231df.txt,REGIONS,2620,788,"[00:00:02 - 00:00:23] Voix 00 :
   Le verdict va tomber à trois mètres de l'accusé, les parties civiles et leurs conseils. Deux minutes plus tard, les proches de Madame Pietri s'étreignent en souriant. Son viol en 2019 a été reconnu par la cour criminelle. L'accusé prend dix ans de prison. La famille de la victime voit ce verdict comme un hommage posthume à Marcel, décédé depuis.
 
 [00:00:23 - 00:00:41] Voix 01 :
@@ -136,32 +188,76 @@ transcript_formatted_0bbc4992-4fcf-4a55-b468-057843a231df.txt,2620,788,"[00:00:0
   Au-delà de moi, il y a une grosse déception pour la vérité du dossier. C'est carrément la négation des erreurs de l'enquête, des points que nous avons pu mettre en exergue sur le fait qu'il y avait un manque évident d'investigation et que le doute, à tout le moins, n'a pas profité à l'accuser.  Je pense vraiment que c'est le procès des a priori, ce d'autant que j'attire votre attention sur le fait que la personne qui a déclaré les faits et pour laquelle on est venu rendre justice aujourd'hui ne voulait pas déposer plainte. On est venu lui porter des mots là où elle ne savait pas en mettre et en fait on est sur une déclaration de culpabilité sur un dépôt de plainte déposé par autrui.
 
 [00:02:09 - 00:02:19] Voix 00 :
-  L'accusé marié et père d'une petite fille a donc été condamné à 10 ans de réclusion criminelle et trois ans de soins socio judiciaires pour viol sur personnes vulnérables. Il a l'intention de faire appel de la décision pour défendre de nouveau son innocence.","Voici la transcription post-traitée selon vos instructions :
+  L'accusé marié et père d'une petite fille a donc été condamné à 10 ans de réclusion criminelle et trois ans de soins socio judiciaires pour viol sur personnes vulnérables. Il a l'intention de faire appel de la décision pour défendre de nouveau son innocence.","Voici la transcription post-traitée :
 
 [00:00:02 - 00:00:23] Journaliste:
 Le verdict va tomber à trois mètres de l'accusé, les parties civiles et leurs conseils. Deux minutes plus tard, les proches de Madame Pietri s'étreignent en souriant. Son viol en 2019 a été reconnu par la cour criminelle. L'accusé prend dix ans de prison. La famille de la victime voit ce verdict comme un hommage posthume à Marcel, décédé depuis.
 
-[00:00:23 - 00:00:41] Avocat des parties civiles 1:
-Satisfaisant, oui, parce que ce qui leur importait, c'était la reconnaissance malheureusement du calvaire qu'avait vécu leur mère. Et même six ans après les faits, c'était ça qui était important : qu'il y ait cette vérité judiciaire qui soit établie, et je pense que c'est le cas aujourd'hui.
+[00:00:23 - 00:00:41] Avocat Parties Civiles:
+Satisfaisant, oui, parce que ce qui leur importait c'était la reconnaissance malheureusement du calvaire qu'avait vécu leur mère et même six ans après les faits c'était ça qui était important qu'il y ait cette vérité judiciaire qui soit établie et je pense que c'est le cas aujourd'hui.
 
-[00:00:41 - 00:00:57] Avocat des parties civiles 2:
+[00:00:41 - 00:00:57] Avocat:
 C'est un verdict qui me semble juste, c'est une peine qui me semble proportionnée au regard de la nature des faits, au regard de l'état de vulnérabilité et de la victime et aussi au regard de tous les débats qui se sont déroulés pendant deux jours d'audience qui, à mon sens, ont permis la manifestation de la vérité.
 
 [00:00:58 - 00:01:28] Journaliste:
 C'est la fin d'un procès étouffant. Le livreur, 34 ans à l'époque, était accusé d'avoir eu un rapport sexuel non consenti après être passé au domicile d'une femme de 74 ans qui souffrait de troubles cognitifs liés notamment à un début d'Alzheimer. Des examens gynécologiques et des hématomes relevés sur le corps de cette dame plusieurs jours plus tard accréditaient la thèse d'un rapport forcé. Mais selon la défense de l'accusé, qui ne reconnaît qu'un adultère, l'enquête a laissé beaucoup de zones d'ombre.
 
-[00:01:30 - 00:02:08] Avocat de la défense:
-Au-delà de moi, il y a une grosse déception pour la vérité du dossier. C'est carrément la négation des erreurs de l'enquête, des points que nous avons pu mettre en exergue sur le fait qu'il y avait un manque évident d'investigation et que le doute, à tout le moins, n'a pas profité à l'accusé. Je pense vraiment que c'est le procès des a priori, ce d'autant que j'attire votre attention sur le fait que la personne qui a déclaré les faits et pour laquelle on est venu rendre justice aujourd'hui ne voulait pas déposer plainte. On est venu lui porter des mots là où elle ne savait pas en mettre. Et en fait, on est sur une déclaration de culpabilité sur un dépôt de plainte déposé par autrui.
+[00:01:30 - 00:02:08] Avocat Défense:
+Au-delà de moi, il y a une grosse déception pour la vérité du dossier. C'est carrément la négation des erreurs de l'enquête, des points que nous avons pu mettre en exergue sur le fait qu'il y avait un manque évident d'investigation et que le doute, à tout le moins, n'a pas profité à l'accusé. Je pense vraiment que c'est le procès des a priori, ce d'autant que j'attire votre attention sur le fait que la personne qui a déclaré les faits, et pour laquelle on est venu rendre justice aujourd'hui, ne voulait pas déposer plainte. On est venu lui porter des mots là où elle ne savait pas en mettre et en fait, on est sur une déclaration de culpabilité sur un dépôt de plainte déposé par autrui.
 
 [00:02:09 - 00:02:19] Journaliste:
-L'accusé marié et père d'une petite fille a donc été condamné à 10 ans de réclusion criminelle et trois ans de soins socio-judiciaires pour viol sur personnes vulnérables. Il a l'intention de faire appel de la décision pour défendre de nouveau son innocence.",788,811,1.0291878172588833,True,
-transcript_formatted_03291620-becb-465e-a66b-dee3bc3f13b1.txt,2359,721,"[00:00:05 - 00:00:13] Voix 00 :
-  Bonjour à tout le monde, je m'appelle Nora Kostenko. Je fais du piano depuis mes cinq ans et j'ai gagné le concours à vous deux jouer. Le début, j'étais à la gare et avec mon père, on a dit « Tiens, il y a le concours à vous deux jouer », et on a fait un petit vidéo. Après, j'ai passé au demi-finale et ils ont dit qu'ils se passent à la finale, j'étais trop contente. Après, c'est passé à 21 juin, le final.  et après j'ai gagné la première place avec Yanael. J'ai joué toujours le même morceau, c'était l'April 8 de Igor Chambeau.  Igor Chameau, c'est un compositor ukrainien, compétent-parrain. J'aime bien ce morceau parce qu'il parle de notre pays, de la guerre, de mes amis anciens. J'aime bien lui jouer parce qu'il me ressemble. Il y a des notes qui font une histoire d'Ukraine. J'ai gagné un piano, Yamaha, et je l'ai trop cantante. Il est arrivé 28 août, donc ce n'était pas trop longtemps.  En Ukraine, j'avais une vie super joyeuse. J'avais plein d'amis, j'avais deux écoles, une primaire et une de musique. Mais tout a changé très tôt le matin du 24 février 2022. J'ai réveillé à cause des préhorribles, c'était les explosions. Mes parents ont décidé vite de partir. On est voyagé du jour et on est arrivé en France.  J'ai commencé le piano à 5 ans, le plus grand souvenir que j'avais à peine de 2 ans. J'ai écouté ma grand-sœur Michel qui a joué plein de morceaux Chopin, Mozart, Debussy. Une fois j'ai grimpé sur le tabouret, j'ai appuyé sur une touche. C'était pour moi, c'était comme un magie et pour moi le piano c'est comme un jouet qui me parle. Mon papa est prof d'orchestre.  Ma mamie, elle est professeure du musique. Ma grand-soeur joue aussi du piano, donc je voulais être aussi pianiste. J'aime bien jouer plusieurs professeurs, par exemple Bach ou Schubert. J'aime bien aussi du jazz, mais je n'avais pas appris encore.  Je sais qu'en futur je vais être la professeure du musique et faire plein de concerts. Et je sais que si tu ne vas pas faire ça, tu ne vas pas être en futur ce que tu veux. Donc je fais par jour 4 heures ou 13 heures de piano.  parce que je sais que le piano, c'est comme mon ami pour la vie. J'ai écouté un concert à Paris, c'était chantalisé. C'est comme un château musical. Je rêve de faire un concert là-bas avec un orchestre derrière moi. Peut-être ça va arriver un jour.","Voici la transcription traitée selon vos instructions :
+L'accusé marié et père d'une petite fille a donc été condamné à 10 ans de réclusion criminelle et trois ans de soins socio-judiciaires pour viol sur personnes vulnérables. Il a l'intention de faire appel de la décision pour défendre de nouveau son innocence.",788,794,1.0076142131979695,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""transcription post-traitée :\n\n[00:00:02 - 00:00:23] Journaliste:\nLe verdict va tomber à trois mètres de l'accusé, les parties civiles et leurs conseils. Deux minutes plus tard, les proches de Madame Pietri s'étreignent en souriant. Son viol en 2019 a été reconnu par la cour criminelle. L'accusé prend dix ans de prison. La famille de la victime voit ce verdict comme un hommage posthume à Marcel, décédé depuis.\n\n[00:00:23 - 00:00:41] Avocat Parties Civiles:\nSatisfaisant, oui, parce que ce qui leur importait c'était la reconnaissance malheureusement du calvaire qu'avait vécu leur mère et même six ans après les faits c'était ça qui était important qu'il y ait cette vérité judiciaire qui soit établie et je pense que c'est le cas aujourd'hui.\n\n[00:00:41 - 00:00:57] Avocat:\nC'est un verdict qui me semble juste, c'est une peine qui me semble proportionnée au regard de la nature des faits, au regard de l'état de vulnérabilité et de la victime et aussi au regard de tous les débats qui se sont déroulés pendant deux jours d'audience qui, à mon sens, ont permis la manifestation de la vérité.\n\n[00:00:58 - 00:01:28] Journaliste:\nC'est la fin d'un procès étouffant. Le livreur, 34 ans à l'époque, était accusé d'avoir eu un rapport sexuel non consenti après être passé au domicile d'une femme de 74 ans qui souffrait de troubles cognitifs liés notamment à un début d'Alzheimer. Des examens gynécologiques et des hématomes relevés sur le corps de cette dame plusieurs jours plus tard accréditaient la thèse d'un rapport forcé. Mais selon la défense de l'accusé, qui ne reconnaît qu'un adultère, l'enquête a laissé beaucoup de zones d'ombre.\n\n[00:01:30 - 00:02:08] Avocat Défense:\nAu-delà de moi, il y a une grosse déception pour la vérité du dossier. C'est carrément la négation des erreurs de l'enquête, des points que nous avons pu mettre en exergue sur le fait qu'il y avait un manque évident d'investigation et que le doute, à tout le moins, n'a pas profité à l'accusé. Je pense vraiment que c'est le procès des a priori, ce d'autant que j'attire votre attention sur le fait que la personne qui a déclaré les faits, et pour laquelle on est venu rendre justice aujourd'hui, ne voulait pas déposer plainte. On est venu lui porter des mots là où elle ne savait pas en mettre et en fait, on est sur une déclaration de culpabilité sur un dépôt de plainte déposé par autrui.\n\n[00:02:09 - 00:02:19] Journaliste:\nL'accusé marié et père d'une petite fille a donc été condamné à 10 ans de réclusion criminelle et trois ans de soins socio-judiciaires pour viol sur personnes vulnérables. Il a l'intention de faire appel de la décision pour défendre de nouveau son innocence."", 'original_length': 529, 'llm_length': 551, 'filtered_length': 549, 'match_start': 2, 'match_end': 550, 'coverage_ratio': 1.0378071833648392}","transcription post-traitée :
 
-```
-[00:00:05 - 00:00:13] Voix 00 : Bonjour à tout le monde, je m'appelle Nora Kostenko. Je fais du piano depuis mes cinq ans et j'ai gagné le concours À vous de jouer. Au début, j'étais à la gare et avec mon père, on a dit « Tiens, il y a le concours À vous de jouer », et on a fait une petite vidéo. Après, j'ai passé en demi-finale et ils ont dit que j'étais en finale, j'étais trop contente. Après, c'est passé le 21 juin, la finale, et après j'ai gagné la première place avec Yanael. J'ai joué toujours le même morceau, c'était l'April 8 de Igor Chameau. Igor Chameau, c'est un compositeur ukrainien, contemporain. J'aime bien ce morceau parce qu'il parle de notre pays, de la guerre, de mes amis anciens. J'aime bien lui jouer parce qu'il me ressemble. Il y a des notes qui font une histoire d'Ukraine. J'ai gagné un piano Yamaha, et j'étais trop contente. Il est arrivé le 28 août, donc ce n'était pas trop longtemps. En Ukraine, j'avais une vie super joyeuse. J'avais plein d'amis, j'avais deux écoles, une primaire et une de musique. Mais tout a changé très tôt le matin du 24 février 2022. Je me suis réveillée à cause des bruits horribles, c'était les explosions. Mes parents ont décidé vite de partir. On a voyagé un jour et on est arrivés en France. J'ai commencé le piano à 5 ans, le plus grand souvenir, que j'avais à peine 2 ans. J'ai écouté ma grand-sœur Michel qui a joué plein de morceaux, Chopin, Mozart, Debussy. Une fois, j'ai grimpé sur le tabouret, j'ai appuyé sur une touche. C'était pour moi, c'était comme une magie et pour moi le piano, c'est comme un jouet qui me parle. Mon papa est prof d'orchestre. Ma mamie, elle est professeure de musique. Ma grand-sœur joue aussi du piano, donc je voulais être aussi pianiste. J'aime bien jouer plusieurs compositeurs, par exemple Bach ou Schubert. J'aime bien aussi du jazz, mais je n'avais pas appris encore. Je sais qu'en futur, je vais être la professeure de musique et faire plein de concerts. Et je sais que si tu ne vas pas faire ça, tu ne vas pas être en futur ce que tu veux. Donc je fais par jour 4 heures ou 13 heures de piano, parce que je sais que le piano, c'est comme mon ami pour la vie. J'ai écouté un concert à Paris, c'était Chantilly. C'est comme un château musical. Je rêve de faire un concert là-bas avec un orchestre derrière moi. Peut-être ça va arriver un jour.
-```",721,728,1.0097087378640777,True,
-transcript_formatted_2658a649-de96-436b-928d-dc55dcba62f8.txt,1909,608,"[00:00:02 - 00:00:15] Voix 00 :
+[00:00:02 - 00:00:23] Journaliste:
+Le verdict va tomber à trois mètres de l'accusé, les parties civiles et leurs conseils. Deux minutes plus tard, les proches de Madame Pietri s'étreignent en souriant. Son viol en 2019 a été reconnu par la cour criminelle. L'accusé prend dix ans de prison. La famille de la victime voit ce verdict comme un hommage posthume à Marcel, décédé depuis.
+
+[00:00:23 - 00:00:41] Avocat Parties Civiles:
+Satisfaisant, oui, parce que ce qui leur importait c'était la reconnaissance malheureusement du calvaire qu'avait vécu leur mère et même six ans après les faits c'était ça qui était important qu'il y ait cette vérité judiciaire qui soit établie et je pense que c'est le cas aujourd'hui.
+
+[00:00:41 - 00:00:57] Avocat:
+C'est un verdict qui me semble juste, c'est une peine qui me semble proportionnée au regard de la nature des faits, au regard de l'état de vulnérabilité et de la victime et aussi au regard de tous les débats qui se sont déroulés pendant deux jours d'audience qui, à mon sens, ont permis la manifestation de la vérité.
+
+[00:00:58 - 00:01:28] Journaliste:
+C'est la fin d'un procès étouffant. Le livreur, 34 ans à l'époque, était accusé d'avoir eu un rapport sexuel non consenti après être passé au domicile d'une femme de 74 ans qui souffrait de troubles cognitifs liés notamment à un début d'Alzheimer. Des examens gynécologiques et des hématomes relevés sur le corps de cette dame plusieurs jours plus tard accréditaient la thèse d'un rapport forcé. Mais selon la défense de l'accusé, qui ne reconnaît qu'un adultère, l'enquête a laissé beaucoup de zones d'ombre.
+
+[00:01:30 - 00:02:08] Avocat Défense:
+Au-delà de moi, il y a une grosse déception pour la vérité du dossier. C'est carrément la négation des erreurs de l'enquête, des points que nous avons pu mettre en exergue sur le fait qu'il y avait un manque évident d'investigation et que le doute, à tout le moins, n'a pas profité à l'accusé. Je pense vraiment que c'est le procès des a priori, ce d'autant que j'attire votre attention sur le fait que la personne qui a déclaré les faits, et pour laquelle on est venu rendre justice aujourd'hui, ne voulait pas déposer plainte. On est venu lui porter des mots là où elle ne savait pas en mettre et en fait, on est sur une déclaration de culpabilité sur un dépôt de plainte déposé par autrui.
+
+[00:02:09 - 00:02:19] Journaliste:
+L'accusé marié et père d'une petite fille a donc été condamné à 10 ans de réclusion criminelle et trois ans de soins socio-judiciaires pour viol sur personnes vulnérables. Il a l'intention de faire appel de la décision pour défendre de nouveau son innocence.",792,1.0378071833648392
+transcript_formatted_03291620-becb-465e-a66b-dee3bc3f13b1.txt,REGIONS,2359,721,"[00:00:05 - 00:00:13] Voix 00 :
+  Bonjour à tout le monde, je m'appelle Nora Kostenko. Je fais du piano depuis mes cinq ans et j'ai gagné le concours à vous deux jouer. Le début, j'étais à la gare et avec mon père, on a dit « Tiens, il y a le concours à vous deux jouer », et on a fait un petit vidéo. Après, j'ai passé au demi-finale et ils ont dit qu'ils se passent à la finale, j'étais trop contente. Après, c'est passé à 21 juin, le final.  et après j'ai gagné la première place avec Yanael. J'ai joué toujours le même morceau, c'était l'April 8 de Igor Chambeau.  Igor Chameau, c'est un compositor ukrainien, compétent-parrain. J'aime bien ce morceau parce qu'il parle de notre pays, de la guerre, de mes amis anciens. J'aime bien lui jouer parce qu'il me ressemble. Il y a des notes qui font une histoire d'Ukraine. J'ai gagné un piano, Yamaha, et je l'ai trop cantante. Il est arrivé 28 août, donc ce n'était pas trop longtemps.  En Ukraine, j'avais une vie super joyeuse. J'avais plein d'amis, j'avais deux écoles, une primaire et une de musique. Mais tout a changé très tôt le matin du 24 février 2022. J'ai réveillé à cause des préhorribles, c'était les explosions. Mes parents ont décidé vite de partir. On est voyagé du jour et on est arrivé en France.  J'ai commencé le piano à 5 ans, le plus grand souvenir que j'avais à peine de 2 ans. J'ai écouté ma grand-sœur Michel qui a joué plein de morceaux Chopin, Mozart, Debussy. Une fois j'ai grimpé sur le tabouret, j'ai appuyé sur une touche. C'était pour moi, c'était comme un magie et pour moi le piano c'est comme un jouet qui me parle. Mon papa est prof d'orchestre.  Ma mamie, elle est professeure du musique. Ma grand-soeur joue aussi du piano, donc je voulais être aussi pianiste. J'aime bien jouer plusieurs professeurs, par exemple Bach ou Schubert. J'aime bien aussi du jazz, mais je n'avais pas appris encore.  Je sais qu'en futur je vais être la professeure du musique et faire plein de concerts. Et je sais que si tu ne vas pas faire ça, tu ne vas pas être en futur ce que tu veux. Donc je fais par jour 4 heures ou 13 heures de piano.  parce que je sais que le piano, c'est comme mon ami pour la vie. J'ai écouté un concert à Paris, c'était chantalisé. C'est comme un château musical. Je rêve de faire un concert là-bas avec un orchestre derrière moi. Peut-être ça va arriver un jour.","Voici la transcription post-traitée conformément à vos instructions :
+
+[00:00:05 - 00:00:13] Nora Kostenko:
+  Bonjour à tout le monde, je m'appelle Nora Kostenko. Je fais du piano depuis mes cinq ans et j'ai gagné le concours ""À vous de jouer"". Au début, j'étais à la gare et avec mon père, on a dit « Tiens, il y a le concours ""À vous de jouer"" », et on a fait une petite vidéo. Après, je suis passée en demi-finale et ils ont dit que je passais à la finale, j'étais trop contente. Après, c'est passé le 21 juin, la finale.
+
+  Et après, j'ai gagné la première place avec Yanael. J'ai toujours joué le même morceau, c'était l'April 8 de Igor Chameau. Igor Chameau, c'est un compositeur ukrainien contemporain.
+
+  J'aime bien ce morceau parce qu'il parle de notre pays, de la guerre, de mes amis anciens. J'aime bien le jouer parce qu'il me ressemble. Il y a des notes qui font une histoire d'Ukraine. J'ai gagné un piano Yamaha, et j'étais trop contente. Il est arrivé le 28 août, donc ce n'était pas trop long.
+
+  En Ukraine, j'avais une vie super joyeuse. J'avais plein d'amis, j'avais deux écoles, une primaire et une de musique. Mais tout a changé très tôt le matin du 24 février 2022. Je me suis réveillée à cause de bruits horribles, c'était les explosions. Mes parents ont décidé vite de partir. On a voyagé des jours et on est arrivé en France.
+
+  J'ai commencé le piano à 5 ans. Le plus ancien souvenir que j'ai, c'est quand j'avais à peine 2 ans. J'ai écouté ma grande sœur Michèle qui jouait plein de morceaux de Chopin, Mozart, Debussy. Une fois, j'ai grimpé sur le tabouret, j'ai appuyé sur une touche. C'était pour moi, c'était comme une magie et pour moi, le piano, c'est comme un jouet qui me parle.
+
+  Mon papa est prof d'orchestre. Ma mamie, elle est professeure de musique. Ma grande sœur joue aussi du piano, donc je voulais être aussi pianiste. J'aime bien jouer plusieurs compositeurs, par exemple Bach ou Schubert. J'aime bien aussi du jazz, mais je n'ai pas encore appris.
+
+  Je sais que dans le futur je vais être professeure de musique et faire plein de concerts. Et je sais que si tu ne fais pas ça, tu ne seras pas dans le futur ce que tu veux. Donc je fais par jour 4 heures ou 13 heures de piano parce que je sais que le piano, c'est comme mon ami pour la vie. J'ai écouté un concert à Paris, c'était féérique. C'est comme un château musical. Je rêve de faire un concert là-bas avec un orchestre derrière moi. Peut-être ça va arriver un jour.",721,741,1.027739251040222,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': 'Voici la transcription post-traitée conformément à vos instructions :\n\n[00:00:05 - 00:00:13] Nora Kostenko:\n  Bonjour à tout le monde, je m\'appelle Nora Kostenko. Je fais du piano depuis mes cinq ans et j\'ai gagné le concours ""À vous de jouer"". Au début, j\'étais à la gare et avec mon père, on a dit « Tiens, il y a le concours ""À vous de jouer"" », et on a fait une petite vidéo. Après, je suis passée en demi-finale et ils ont dit que je passais à la finale, j\'étais trop contente. Après, c\'est passé le 21 juin, la finale.\n\n  Et après, j\'ai gagné la première place avec Yanael. J\'ai toujours joué le même morceau, c\'était l\'April 8 de Igor Chameau. Igor Chameau, c\'est un compositeur ukrainien contemporain.\n\n  J\'aime bien ce morceau parce qu\'il parle de notre pays, de la guerre, de mes amis anciens. J\'aime bien le jouer parce qu\'il me ressemble. Il y a des notes qui font une histoire d\'Ukraine. J\'ai gagné un piano Yamaha, et j\'étais trop contente. Il est arrivé le 28 août, donc ce n\'était pas trop long.\n\n  En Ukraine, j\'avais une vie super joyeuse. J\'avais plein d\'amis, j\'avais deux écoles, une primaire et une de musique. Mais tout a changé très tôt le matin du 24 février 2022. Je me suis réveillée à cause de bruits horribles, c\'était les explosions. Mes parents ont décidé vite de partir. On a voyagé des jours et on est arrivé en France.\n\n  J\'ai commencé le piano à 5 ans. Le plus ancien souvenir que j\'ai, c\'est quand j\'avais à peine 2 ans. J\'ai écouté ma grande sœur Michèle qui jouait plein de morceaux de Chopin, Mozart, Debussy. Une fois, j\'ai grimpé sur le tabouret, j\'ai appuyé sur une touche. C\'était pour moi, c\'était comme une magie et pour moi, le piano, c\'est comme un jouet qui me parle.\n\n  Mon papa est prof d\'orchestre. Ma mamie, elle est professeure de musique. Ma grande sœur joue aussi du piano, donc je voulais être aussi pianiste. J\'aime bien jouer plusieurs compositeurs, par exemple Bach ou Schubert. J\'aime bien aussi du jazz, mais je n\'ai pas encore appris.\n\n  Je sais que dans le futur je vais être professeure de musique et faire plein de concerts. Et je sais que si tu ne fais pas ça, tu ne seras pas dans le futur ce que tu veux. Donc je fais par jour 4 heures ou 13 heures de piano parce que je sais que le piano, c\'est comme mon ami pour la vie. J\'ai écouté un concert à Paris, c\'était féérique. C\'est comme un château musical. Je rêve de faire un concert là-bas avec un orchestre derrière moi. Peut-être ça va arriver un jour.', 'original_length': 596, 'llm_length': 614, 'filtered_length': 614, 'match_start': 0, 'match_end': 613, 'coverage_ratio': 1.0302013422818792}","Voici la transcription post-traitée conformément à vos instructions :
+
+[00:00:05 - 00:00:13] Nora Kostenko:
+  Bonjour à tout le monde, je m'appelle Nora Kostenko. Je fais du piano depuis mes cinq ans et j'ai gagné le concours ""À vous de jouer"". Au début, j'étais à la gare et avec mon père, on a dit « Tiens, il y a le concours ""À vous de jouer"" », et on a fait une petite vidéo. Après, je suis passée en demi-finale et ils ont dit que je passais à la finale, j'étais trop contente. Après, c'est passé le 21 juin, la finale.
+
+  Et après, j'ai gagné la première place avec Yanael. J'ai toujours joué le même morceau, c'était l'April 8 de Igor Chameau. Igor Chameau, c'est un compositeur ukrainien contemporain.
+
+  J'aime bien ce morceau parce qu'il parle de notre pays, de la guerre, de mes amis anciens. J'aime bien le jouer parce qu'il me ressemble. Il y a des notes qui font une histoire d'Ukraine. J'ai gagné un piano Yamaha, et j'étais trop contente. Il est arrivé le 28 août, donc ce n'était pas trop long.
+
+  En Ukraine, j'avais une vie super joyeuse. J'avais plein d'amis, j'avais deux écoles, une primaire et une de musique. Mais tout a changé très tôt le matin du 24 février 2022. Je me suis réveillée à cause de bruits horribles, c'était les explosions. Mes parents ont décidé vite de partir. On a voyagé des jours et on est arrivé en France.
+
+  J'ai commencé le piano à 5 ans. Le plus ancien souvenir que j'ai, c'est quand j'avais à peine 2 ans. J'ai écouté ma grande sœur Michèle qui jouait plein de morceaux de Chopin, Mozart, Debussy. Une fois, j'ai grimpé sur le tabouret, j'ai appuyé sur une touche. C'était pour moi, c'était comme une magie et pour moi, le piano, c'est comme un jouet qui me parle.
+
+  Mon papa est prof d'orchestre. Ma mamie, elle est professeure de musique. Ma grande sœur joue aussi du piano, donc je voulais être aussi pianiste. J'aime bien jouer plusieurs compositeurs, par exemple Bach ou Schubert. J'aime bien aussi du jazz, mais je n'ai pas encore appris.
+
+  Je sais que dans le futur je vais être professeure de musique et faire plein de concerts. Et je sais que si tu ne fais pas ça, tu ne seras pas dans le futur ce que tu veux. Donc je fais par jour 4 heures ou 13 heures de piano parce que je sais que le piano, c'est comme mon ami pour la vie. J'ai écouté un concert à Paris, c'était féérique. C'est comme un château musical. Je rêve de faire un concert là-bas avec un orchestre derrière moi. Peut-être ça va arriver un jour.",741,1.0302013422818792
+transcript_formatted_2658a649-de96-436b-928d-dc55dcba62f8.txt,REGIONS,1909,608,"[00:00:02 - 00:00:15] Voix 00 :
   Dans les rues de Schotzegg ce matin, la nouvelle donne le sourire aux habitants. On attendait depuis longtemps la réouverture de la partie thermoludique à Schotzegg.
 
 [00:00:15 - 00:00:25] Voix 02 :
@@ -180,36 +276,64 @@ transcript_formatted_2658a649-de96-436b-928d-dc55dcba62f8.txt,1909,608,"[00:00:0
  C'est un grand soulagement et une grande fierté d'avoir tenu bon. D'avoir prouvé que nous avions raison et qu'il y avait bien des défauts structurels.  Donc ça nous permettait d'avoir les indemnisations et de pouvoir reconstruire un calédène qui est maintenant moderne, aux normes et avec, j'espère, moins de désordre pour l'avenir.
 
 [00:01:35 - 00:01:47] Voix 00 :
- Le site n'ouvrira d'abord que quelques mois entre le 22 octobre et le début d'année avant une ouverture définitive à compter du 7 février prochain, en espérant retrouver au plus vite les 45 000 baigneurs par an.","Voici la transcription post-traitée selon vos instructions :
+ Le site n'ouvrira d'abord que quelques mois entre le 22 octobre et le début d'année avant une ouverture définitive à compter du 7 février prochain, en espérant retrouver au plus vite les 45 000 baigneurs par an.","Voici la transcription post-traitée, conformément à vos instructions :
 
+[00:00:02 - 00:00:15]
 Journaliste:
-
 Dans les rues de Schotzegg ce matin, la nouvelle donne le sourire aux habitants. On attendait depuis longtemps la réouverture de la partie thermoludique à Schotzegg.
 
-Commerçant:
-
+[00:00:15 - 00:00:25]
+Intervenant 1:
 J'en ai parlé avec pas mal de commerçants, on est contents que ça ouvre. Pour tout le monde, aussi bien pour ceux qui vont dans les restaurants, les bistrots, la librairie, la boulangerie, ça fait travailler les commerces.
 
+[00:00:27 - 00:00:54]
 Journaliste:
+En 2018, le centre thermoludique avait été contraint à la fermeture. Des malfaçons sur la toiture entraînaient un risque d'effondrement de la charpente. Après sept années de procédures judiciaires et de travaux, Caledène s'apprête à rouvrir ses portes. À l'intérieur, 4,5 millions d'euros ont été investis pour moderniser les bassins d'eau thermale avec des nouveautés.
 
-En 2018, le centre thermoludique avait été contraint à la fermeture. Des malfaçons sur la toiture entraînaient un risque d'effondrement de la charpente. Après sept années de procédures judiciaires et de travaux, Calédène s'apprête à rouvrir ses portes. À l'intérieur, 4,5 millions d'euros ont été investis pour moderniser les bassins d'eau thermale avec des nouveautés.
+[00:00:55 - 00:01:12]
+Intervenant 2:
+Un nouveau jacuzzi qui est un jacuzzi géant, de nouvelles animations à l'intérieur de la lagune thermale. Tout ne sera pas finalisé parfaitement et il y aura encore des améliorations à faire avec effectivement les premiers commentaires que nous aurons de nos premiers visiteurs.
 
-Responsable du site:
-
-Un nouveau jacuzzi, qui est un jacuzzi géant, de nouvelles animations à l'intérieur de la lagune thermale. Tout ne sera pas finalisé parfaitement, et il y aura encore des améliorations à faire avec effectivement les premiers commentaires que nous aurons de nos premiers visiteurs.
-
+[00:01:12 - 00:01:17]
 Journaliste:
-
 Sur le toit entièrement refait, un bassin offre une vue désormais dégagée sur l'avenir.
 
-Responsable du site:
+[00:01:17 - 00:01:34]
+Intervenant 3:
+C'est un grand soulagement et une grande fierté d'avoir tenu bon. D'avoir prouvé que nous avions raison et qu'il y avait bien des défauts structurels. Donc, ça nous permettait d'avoir les indemnisations et de pouvoir reconstruire un Caledène qui est maintenant moderne, aux normes et avec, j'espère, moins de désordre pour l'avenir.
 
-C'est un grand soulagement et une grande fierté d'avoir tenu bon, d'avoir prouvé que nous avions raison et qu'il y avait bien des défauts structurels. Donc ça nous permettait d'avoir les indemnisations et de pouvoir reconstruire un Calédène qui est maintenant moderne, aux normes et avec, j'espère, moins de désordre pour l'avenir.
-
+[00:01:35 - 00:01:47]
 Journaliste:
+Le site n'ouvrira d'abord que quelques mois entre le 22 octobre et le début d'année avant une ouverture définitive à compter du 7 février prochain, en espérant retrouver au plus vite les 45 000 baigneurs par an.",608,616,1.013157894736842,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée, conformément à vos instructions :\n\n[00:00:02 - 00:00:15]\nJournaliste:\nDans les rues de Schotzegg ce matin, la nouvelle donne le sourire aux habitants. On attendait depuis longtemps la réouverture de la partie thermoludique à Schotzegg.\n\n[00:00:15 - 00:00:25]\nIntervenant 1:\nJ'en ai parlé avec pas mal de commerçants, on est contents que ça ouvre. Pour tout le monde, aussi bien pour ceux qui vont dans les restaurants, les bistrots, la librairie, la boulangerie, ça fait travailler les commerces.\n\n[00:00:27 - 00:00:54]\nJournaliste:\nEn 2018, le centre thermoludique avait été contraint à la fermeture. Des malfaçons sur la toiture entraînaient un risque d'effondrement de la charpente. Après sept années de procédures judiciaires et de travaux, Caledène s'apprête à rouvrir ses portes. À l'intérieur, 4,5 millions d'euros ont été investis pour moderniser les bassins d'eau thermale avec des nouveautés.\n\n[00:00:55 - 00:01:12]\nIntervenant 2:\nUn nouveau jacuzzi qui est un jacuzzi géant, de nouvelles animations à l'intérieur de la lagune thermale. Tout ne sera pas finalisé parfaitement et il y aura encore des améliorations à faire avec effectivement les premiers commentaires que nous aurons de nos premiers visiteurs.\n\n[00:01:12 - 00:01:17]\nJournaliste:\nSur le toit entièrement refait, un bassin offre une vue désormais dégagée sur l'avenir.\n\n[00:01:17 - 00:01:34]\nIntervenant 3:\nC'est un grand soulagement et une grande fierté d'avoir tenu bon. D'avoir prouvé que nous avions raison et qu'il y avait bien des défauts structurels. Donc, ça nous permettait d'avoir les indemnisations et de pouvoir reconstruire un Caledène qui est maintenant moderne, aux normes et avec, j'espère, moins de désordre pour l'avenir.\n\n[00:01:35 - 00:01:47]\nJournaliste:\nLe site n'ouvrira d'abord que quelques mois entre le 22 octobre et le début d'année avant une ouverture définitive à compter du 7 février prochain, en espérant retrouver au plus vite les 45 000 baigneurs par an."", 'original_length': 334, 'llm_length': 357, 'filtered_length': 357, 'match_start': 0, 'match_end': 356, 'coverage_ratio': 1.0688622754491017}","Voici la transcription post-traitée, conformément à vos instructions :
 
-Le site n'ouvrira d'abord que quelques mois entre le 22 octobre et le début de l'année avant une ouverture définitive à compter du 7 février prochain, en espérant retrouver au plus vite les 45 000 baigneurs par an.",608,514,0.8453947368421053,True,
-transcript_formatted_9dbc49cd-681b-434a-afdc-59cfd6519f2e.txt,2738,851,"[00:00:05 - 00:00:23] Voix 02 :
+[00:00:02 - 00:00:15]
+Journaliste:
+Dans les rues de Schotzegg ce matin, la nouvelle donne le sourire aux habitants. On attendait depuis longtemps la réouverture de la partie thermoludique à Schotzegg.
+
+[00:00:15 - 00:00:25]
+Intervenant 1:
+J'en ai parlé avec pas mal de commerçants, on est contents que ça ouvre. Pour tout le monde, aussi bien pour ceux qui vont dans les restaurants, les bistrots, la librairie, la boulangerie, ça fait travailler les commerces.
+
+[00:00:27 - 00:00:54]
+Journaliste:
+En 2018, le centre thermoludique avait été contraint à la fermeture. Des malfaçons sur la toiture entraînaient un risque d'effondrement de la charpente. Après sept années de procédures judiciaires et de travaux, Caledène s'apprête à rouvrir ses portes. À l'intérieur, 4,5 millions d'euros ont été investis pour moderniser les bassins d'eau thermale avec des nouveautés.
+
+[00:00:55 - 00:01:12]
+Intervenant 2:
+Un nouveau jacuzzi qui est un jacuzzi géant, de nouvelles animations à l'intérieur de la lagune thermale. Tout ne sera pas finalisé parfaitement et il y aura encore des améliorations à faire avec effectivement les premiers commentaires que nous aurons de nos premiers visiteurs.
+
+[00:01:12 - 00:01:17]
+Journaliste:
+Sur le toit entièrement refait, un bassin offre une vue désormais dégagée sur l'avenir.
+
+[00:01:17 - 00:01:34]
+Intervenant 3:
+C'est un grand soulagement et une grande fierté d'avoir tenu bon. D'avoir prouvé que nous avions raison et qu'il y avait bien des défauts structurels. Donc, ça nous permettait d'avoir les indemnisations et de pouvoir reconstruire un Caledène qui est maintenant moderne, aux normes et avec, j'espère, moins de désordre pour l'avenir.
+
+[00:01:35 - 00:01:47]
+Journaliste:
+Le site n'ouvrira d'abord que quelques mois entre le 22 octobre et le début d'année avant une ouverture définitive à compter du 7 février prochain, en espérant retrouver au plus vite les 45 000 baigneurs par an.",616,1.0688622754491017
+transcript_formatted_9dbc49cd-681b-434a-afdc-59cfd6519f2e.txt,REGIONS,2738,851,"[00:00:05 - 00:00:23] Voix 02 :
   À 32 ans, Clément souffre de dépression profonde. Depuis plusieurs semaines, le jeune homme tente une nouvelle approche thérapeutique au GHU Saint-Anne. Un simple spray nasal pour soigner son mal-être.
 
 [00:00:27 - 00:00:29] Voix 03 :
@@ -240,39 +364,74 @@ transcript_formatted_9dbc49cd-681b-434a-afdc-59cfd6519f2e.txt,2738,851,"[00:00:0
  Si vous êtes au GHU, vous allez pouvoir bénéficier de ce traitement. Par contre, si vous êtes pris en charge d'un service de la BHP actuellement, par exemple, ce médicament n'est pas disponible. Et la principale raison, c'est la question du financement, parce que c'est des traitements qui sont un peu plus chers. L'administration d'esquétamine, ça coûte entre 200 et 600 euros l'administration en fonction de la dose utilisée.
 
 [00:02:39 - 00:02:46] Voix 02 :
-  Dans le prochain épisode, nous verrons les autres pistes thérapeutiques novatrices développées par le GHU Saint-Anne.","Narrateur:
+  Dans le prochain épisode, nous verrons les autres pistes thérapeutiques novatrices développées par le GHU Saint-Anne.","Voici la transcription post-traitée, conformément à vos instructions :
+
+[00:00:05 - 00:00:23] Journaliste:
 À 32 ans, Clément souffre de dépression profonde. Depuis plusieurs semaines, le jeune homme tente une nouvelle approche thérapeutique au GHU Saint-Anne. Un simple spray nasal pour soigner son mal-être.
 
-Médecin:
+[00:00:27 - 00:00:29] Expert médical:
 Un petit peu plus... Plus.
 
-Narrateur:
+[00:00:32 - 00:00:41] Journaliste:
 Clément pense que son trouble de l'humeur s'est déclenché à la fin de ses études universitaires.
 
-Clément:
+[00:00:41 - 00:00:55] Clément:
 Pendant ma thèse, j'ai fait une dépression non soignée. J'ai un peu réussi à passer au-delà, j'ai réussi à finir ma thèse. Et donc, j'ai travaillé un peu. Ça s'est très mal passé au travail et ça a un peu déclenché la situation dans laquelle je suis aujourd'hui.
 
-Narrateur:
+[00:00:56 - 00:01:12] Journaliste:
 Clément s'est vu administrer des antidépresseurs classiques pour soigner sa maladie, mais ils n'ont pas fonctionné sur lui. Alors, les médecins lui proposent d'essayer un nouveau traitement à base d'esquétamine, une molécule développée dans les années 60.
 
-Médecin:
+[00:01:13 - 00:01:31] Expert médical:
 À la base, c'est un anesthésiant, donc c'est utilisé au bloc opératoire pour endormir les patients. Et on s'est rendu compte qu'il y avait des propriétés antidépressives de cette molécule, ce qui fait qu'il y a eu un usage qui a été repositionné en psychiatrie dans le contexte de la dépression résistante.
 
-Narrateur:
-Le médicament pris sous surveillance donne des résultats prometteurs. De 40 à 60 % de réponses positives dans ces dépressions résistantes.
+[00:01:31 - 00:01:41] Journaliste:
+Le médicament pris sous surveillance donne des résultats prometteurs : de 40 à 60 % de réponses positives dans ces dépressions résistantes.
 
-Clément:
+[00:01:41 - 00:02:09] Clément:
 Ça m'a quand même fait du bien au début. J'ai pu refaire des choses, être un peu plus actif, retrouver un peu ma vie que j'avais avant. Je dirais que c'est un peu plus facile de voir les choses différemment. Ça donne un peu une meilleure perspective sur certains problèmes, certains soucis. L'idée, c'est que la sensation de bien-être, elle se prolonge jusqu'à la séance suivante et ensuite que ça reste assez longtemps.
 
-Narrateur:
-Mais, problème, l'esquétamine, qui est aujourd'hui un traitement reconnu, n'est pas proposé partout.
+[00:02:11 - 00:02:18] Journaliste:
+Mais problème : l'esquétamine, qui est aujourd'hui un traitement reconnu, n'est pas proposé partout.
 
-Expert:
+[00:02:18 - 00:02:38] Expert médical:
 Si vous êtes au GHU, vous allez pouvoir bénéficier de ce traitement. Par contre, si vous êtes pris en charge dans un service de la BHP actuellement, par exemple, ce médicament n'est pas disponible. Et la principale raison, c'est la question du financement, parce que c'est des traitements qui sont un peu plus chers. L'administration d'esquétamine, ça coûte entre 200 et 600 euros l'administration en fonction de la dose utilisée.
 
-Narrateur:
-Dans le prochain épisode, nous verrons les autres pistes thérapeutiques novatrices développées par le GHU Saint-Anne.",851,673,0.790834312573443,True,
-transcript_formatted_0105da9c-f48b-4540-8bc5-844f6a8f7c4a.txt,2123,699,"[00:00:00 - 00:00:17] Voix 02 :
+[00:02:39 - 00:02:46] Journaliste:
+Dans le prochain épisode, nous verrons les autres pistes thérapeutiques novatrices développées par le GHU Saint-Anne.",851,841,0.9882491186839013,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée, conformément à vos instructions :\n\n[00:00:05 - 00:00:23] Journaliste:\nÀ 32 ans, Clément souffre de dépression profonde. Depuis plusieurs semaines, le jeune homme tente une nouvelle approche thérapeutique au GHU Saint-Anne. Un simple spray nasal pour soigner son mal-être.\n\n[00:00:27 - 00:00:29] Expert médical:\nUn petit peu plus... Plus.\n\n[00:00:32 - 00:00:41] Journaliste:\nClément pense que son trouble de l'humeur s'est déclenché à la fin de ses études universitaires.\n\n[00:00:41 - 00:00:55] Clément:\nPendant ma thèse, j'ai fait une dépression non soignée. J'ai un peu réussi à passer au-delà, j'ai réussi à finir ma thèse. Et donc, j'ai travaillé un peu. Ça s'est très mal passé au travail et ça a un peu déclenché la situation dans laquelle je suis aujourd'hui.\n\n[00:00:56 - 00:01:12] Journaliste:\nClément s'est vu administrer des antidépresseurs classiques pour soigner sa maladie, mais ils n'ont pas fonctionné sur lui. Alors, les médecins lui proposent d'essayer un nouveau traitement à base d'esquétamine, une molécule développée dans les années 60.\n\n[00:01:13 - 00:01:31] Expert médical:\nÀ la base, c'est un anesthésiant, donc c'est utilisé au bloc opératoire pour endormir les patients. Et on s'est rendu compte qu'il y avait des propriétés antidépressives de cette molécule, ce qui fait qu'il y a eu un usage qui a été repositionné en psychiatrie dans le contexte de la dépression résistante.\n\n[00:01:31 - 00:01:41] Journaliste:\nLe médicament pris sous surveillance donne des résultats prometteurs : de 40 à 60 % de réponses positives dans ces dépressions résistantes.\n\n[00:01:41 - 00:02:09] Clément:\nÇa m'a quand même fait du bien au début. J'ai pu refaire des choses, être un peu plus actif, retrouver un peu ma vie que j'avais avant. Je dirais que c'est un peu plus facile de voir les choses différemment. Ça donne un peu une meilleure perspective sur certains problèmes, certains soucis. L'idée, c'est que la sensation de bien-être, elle se prolonge jusqu'à la séance suivante et ensuite que ça reste assez longtemps.\n\n[00:02:11 - 00:02:18] Journaliste:\nMais problème : l'esquétamine, qui est aujourd'hui un traitement reconnu, n'est pas proposé partout.\n\n[00:02:18 - 00:02:38] Expert médical:\nSi vous êtes au GHU, vous allez pouvoir bénéficier de ce traitement. Par contre, si vous êtes pris en charge dans un service de la BHP actuellement, par exemple, ce médicament n'est pas disponible. Et la principale raison, c'est la question du financement, parce que c'est des traitements qui sont un peu plus chers. L'administration d'esquétamine, ça coûte entre 200 et 600 euros l'administration en fonction de la dose utilisée.\n\n[00:02:39 - 00:02:46] Journaliste:\nDans le prochain épisode, nous verrons les autres pistes thérapeutiques novatrices développées par le GHU Saint-Anne."", 'original_length': 516, 'llm_length': 538, 'filtered_length': 537, 'match_start': 1, 'match_end': 537, 'coverage_ratio': 1.0406976744186047}","la transcription post-traitée, conformément à vos instructions :
+
+[00:00:05 - 00:00:23] Journaliste:
+À 32 ans, Clément souffre de dépression profonde. Depuis plusieurs semaines, le jeune homme tente une nouvelle approche thérapeutique au GHU Saint-Anne. Un simple spray nasal pour soigner son mal-être.
+
+[00:00:27 - 00:00:29] Expert médical:
+Un petit peu plus... Plus.
+
+[00:00:32 - 00:00:41] Journaliste:
+Clément pense que son trouble de l'humeur s'est déclenché à la fin de ses études universitaires.
+
+[00:00:41 - 00:00:55] Clément:
+Pendant ma thèse, j'ai fait une dépression non soignée. J'ai un peu réussi à passer au-delà, j'ai réussi à finir ma thèse. Et donc, j'ai travaillé un peu. Ça s'est très mal passé au travail et ça a un peu déclenché la situation dans laquelle je suis aujourd'hui.
+
+[00:00:56 - 00:01:12] Journaliste:
+Clément s'est vu administrer des antidépresseurs classiques pour soigner sa maladie, mais ils n'ont pas fonctionné sur lui. Alors, les médecins lui proposent d'essayer un nouveau traitement à base d'esquétamine, une molécule développée dans les années 60.
+
+[00:01:13 - 00:01:31] Expert médical:
+À la base, c'est un anesthésiant, donc c'est utilisé au bloc opératoire pour endormir les patients. Et on s'est rendu compte qu'il y avait des propriétés antidépressives de cette molécule, ce qui fait qu'il y a eu un usage qui a été repositionné en psychiatrie dans le contexte de la dépression résistante.
+
+[00:01:31 - 00:01:41] Journaliste:
+Le médicament pris sous surveillance donne des résultats prometteurs : de 40 à 60 % de réponses positives dans ces dépressions résistantes.
+
+[00:01:41 - 00:02:09] Clément:
+Ça m'a quand même fait du bien au début. J'ai pu refaire des choses, être un peu plus actif, retrouver un peu ma vie que j'avais avant. Je dirais que c'est un peu plus facile de voir les choses différemment. Ça donne un peu une meilleure perspective sur certains problèmes, certains soucis. L'idée, c'est que la sensation de bien-être, elle se prolonge jusqu'à la séance suivante et ensuite que ça reste assez longtemps.
+
+[00:02:11 - 00:02:18] Journaliste:
+Mais problème : l'esquétamine, qui est aujourd'hui un traitement reconnu, n'est pas proposé partout.
+
+[00:02:18 - 00:02:38] Expert médical:
+Si vous êtes au GHU, vous allez pouvoir bénéficier de ce traitement. Par contre, si vous êtes pris en charge dans un service de la BHP actuellement, par exemple, ce médicament n'est pas disponible. Et la principale raison, c'est la question du financement, parce que c'est des traitements qui sont un peu plus chers. L'administration d'esquétamine, ça coûte entre 200 et 600 euros l'administration en fonction de la dose utilisée.
+
+[00:02:39 - 00:02:46] Journaliste:
+Dans le prochain épisode, nous verrons les autres pistes thérapeutiques novatrices développées par le GHU Saint-Anne.",839,1.0406976744186047
+transcript_formatted_0105da9c-f48b-4540-8bc5-844f6a8f7c4a.txt,REGIONS,2123,699,"[00:00:00 - 00:00:17] Voix 02 :
   Petite fleur qui aime le froid. Depuis jeudi dernier, le thermomètre passe régulièrement en dessous de 14 degrés. Alors la petite fleur montre le bout de ses précieux pistils.  Dans quelques jours, cette parcelle va se teinter de violets. Ce sera le pic de floraison.
 
 [00:00:17 - 00:00:40] Voix 01 :
@@ -291,29 +450,45 @@ transcript_formatted_0105da9c-f48b-4540-8bc5-844f6a8f7c4a.txt,2123,699,"[00:00:0
   C'est minutieux mais ça permet aussi de faire une coupure dans nos activités du quotidien parce que ça nous vide la tête. Finalement on se concentre que sur la fleur. J'ai eu envie d'en planter aussi moi, de faire un petit peu pareil que Véronique, d'en planter.  Donc moi, prendre sur la cloisse, mais sur le secteur de la salogne et de m'installer prochainement avec une petite exploitation de safran.
 
 [00:01:30 - 00:01:35] Voix 02 :
- Forte de ses 20 ans d'expérience, Véronique ne met que 5 heures à cueillir et éplucher 2500 fleurs. Cette année, elle devrait en avoir plus de 120 000 à récolter et transformer soit au final un peu plus d'un kilo de safran.","Voici la transcription post-traitée et corrigée, prête pour l'exploitation :
-
-Journaliste:
+ Forte de ses 20 ans d'expérience, Véronique ne met que 5 heures à cueillir et éplucher 2500 fleurs. Cette année, elle devrait en avoir plus de 120 000 à récolter et transformer soit au final un peu plus d'un kilo de safran.","[00:00:00 - 00:00:17] Journaliste:
 Petite fleur qui aime le froid. Depuis jeudi dernier, le thermomètre passe régulièrement en dessous de 14 degrés. Alors la petite fleur montre le bout de ses précieux pistils. Dans quelques jours, cette parcelle va se teinter de violets. Ce sera le pic de floraison.
 
-Véronique Lazéra:
-Si vous avez un bulbe qui est au minimum gros comme une pièce de 2 euros, vous aurez 2 à 3 fleurs, 2 mois après la plantation. Donc, c'est rien que sur ces planches-là, déjà, on a à peu près 20 000 bulbes. Donc, on va avoir entre 40 et 60 000 fleurs, c'est-à-dire presque un demi-kilo de safran. Si tu cueilles avec la tige, elles vont fanner moins vite. Ça va laisser un petit peu plus de temps pour les éplucher.
+[00:00:17 - 00:00:40] Véronique Lazéra:
+Si vous avez un bulbe qui est au minimum gros, comme une pièce de 2 euros, vous aurez 2 à 3 fleurs, 2 mois après la plantation. Donc, c'est rien que sur ces planches-là, déjà, on a à peu près 20 000 bulbes. Donc, on va avoir entre 40 et 60 000 fleurs, c'est-à-dire presque un demi-kilo de safran. Si tu cueilles avec la tige, elles vont fanner moins vite. Ça va laisser un petit peu plus de temps pour les éplucher.
 
-Journaliste:
+[00:00:40 - 00:00:46] Journaliste:
 Cette année, Véronique Lazéra a mis 2 parcelles en culture. Elles vont fleurir jusqu'à la mi-novembre.
 
-Véronique Lazéra:
+[00:00:46 - 00:00:59] Véronique Lazéra:
 Ces fleurs, on va les cueillir. Elles ne vivent que 24 heures, donc elles seront mortes demain. Donc on peut les cueillir jusqu'à demain matin. Et on va les éplucher à la maison, couper les pistils un par un pour produire le safran.
 
-Journaliste:
+[00:00:59 - 00:01:09] Journaliste:
 Car le travail du safranier ne s'arrête pas à la cueillette. Dans la foulée, il faut émonder les pistils. Une tâche délicate qui ravit le stagiaire de Véronique. Julien Barthélémy est négociant en bois. Il est conquis par le crocus.
 
-Julien Barthélémy:
-C'est minutieux mais ça permet aussi de faire une coupure dans nos activités du quotidien parce que ça nous vide la tête. Finalement, on se concentre que sur la fleur. J'ai eu envie d'en planter aussi moi, de faire un petit peu pareil que Véronique, d'en planter. Donc moi, prendre sur la Creuse, mais sur le secteur de la Sologne et de m'installer prochainement avec une petite exploitation de safran.
+[00:01:10 - 00:01:30] Julien Barthélémy:
+C'est minutieux mais ça permet aussi de faire une coupure dans nos activités du quotidien parce que ça nous vide la tête. Finalement on se concentre que sur la fleur. J'ai eu envie d'en planter aussi moi, de faire un petit peu pareil que Véronique, d'en planter. Donc moi, prendre sur le crocus, mais sur le secteur de la Sologne et de m'installer prochainement avec une petite exploitation de safran.
 
-Journaliste:
-Forte de ses 20 ans d'expérience, Véronique ne met que 5 heures à cueillir et éplucher 2500 fleurs. Cette année, elle devrait en avoir plus de 120 000 à récolter et transformer, soit au final un peu plus d'un kilo de safran.",699,619,0.8855507868383404,True,
-transcript_formatted_90199cef-801b-411c-8b37-21a4097d2e1e.txt,2620,771,"[00:00:00 - 00:00:39] Voix 02 :
+[00:01:30 - 00:01:35] Journaliste:
+Forte de ses 20 ans d'expérience, Véronique ne met que 5 heures à cueillir et à éplucher 2500 fleurs. Cette année, elle devrait en avoir plus de 120 000 à récolter et transformer soit au final un peu plus d'un kilo de safran.",699,695,0.994277539341917,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Petite fleur qui aime le froid. Depuis jeudi dernier, le thermomètre passe régulièrement en dessous de 14 degrés. Alors la petite fleur montre le bout de ses précieux pistils. Dans quelques jours, cette parcelle va se teinter de violets. Ce sera le pic de floraison.\n\n[00:00:17 - 00:00:40] Véronique Lazéra:\nSi vous avez un bulbe qui est au minimum gros, comme une pièce de 2 euros, vous aurez 2 à 3 fleurs, 2 mois après la plantation. Donc, c'est rien que sur ces planches-là, déjà, on a à peu près 20 000 bulbes. Donc, on va avoir entre 40 et 60 000 fleurs, c'est-à-dire presque un demi-kilo de safran. Si tu cueilles avec la tige, elles vont fanner moins vite. Ça va laisser un petit peu plus de temps pour les éplucher.\n\n[00:00:40 - 00:00:46] Journaliste:\nCette année, Véronique Lazéra a mis 2 parcelles en culture. Elles vont fleurir jusqu'à la mi-novembre.\n\n[00:00:46 - 00:00:59] Véronique Lazéra:\nCes fleurs, on va les cueillir. Elles ne vivent que 24 heures, donc elles seront mortes demain. Donc on peut les cueillir jusqu'à demain matin. Et on va les éplucher à la maison, couper les pistils un par un pour produire le safran.\n\n[00:00:59 - 00:01:09] Journaliste:\nCar le travail du safranier ne s'arrête pas à la cueillette. Dans la foulée, il faut émonder les pistils. Une tâche délicate qui ravit le stagiaire de Véronique. Julien Barthélémy est négociant en bois. Il est conquis par le crocus.\n\n[00:01:10 - 00:01:30] Julien Barthélémy:\nC'est minutieux mais ça permet aussi de faire une coupure dans nos activités du quotidien parce que ça nous vide la tête. Finalement on se concentre que sur la fleur. J'ai eu envie d'en planter aussi moi, de faire un petit peu pareil que Véronique, d'en planter. Donc moi, prendre sur le crocus, mais sur le secteur de la Sologne et de m'installer prochainement avec une petite exploitation de safran.\n\n[00:01:30 - 00:01:35] Journaliste:\nForte de ses 20 ans d'expérience, Véronique ne met que 5 heures à cueillir et à éplucher 2500 fleurs. Cette année, elle devrait en avoir plus de 120 000 à récolter et transformer soit au final un peu plus d'un kilo de safran."", 'original_length': 421, 'llm_length': 431, 'filtered_length': 431, 'match_start': 0, 'match_end': 430, 'coverage_ratio': 1.0237529691211402}","Petite fleur qui aime le froid. Depuis jeudi dernier, le thermomètre passe régulièrement en dessous de 14 degrés. Alors la petite fleur montre le bout de ses précieux pistils. Dans quelques jours, cette parcelle va se teinter de violets. Ce sera le pic de floraison.
+
+[00:00:17 - 00:00:40] Véronique Lazéra:
+Si vous avez un bulbe qui est au minimum gros, comme une pièce de 2 euros, vous aurez 2 à 3 fleurs, 2 mois après la plantation. Donc, c'est rien que sur ces planches-là, déjà, on a à peu près 20 000 bulbes. Donc, on va avoir entre 40 et 60 000 fleurs, c'est-à-dire presque un demi-kilo de safran. Si tu cueilles avec la tige, elles vont fanner moins vite. Ça va laisser un petit peu plus de temps pour les éplucher.
+
+[00:00:40 - 00:00:46] Journaliste:
+Cette année, Véronique Lazéra a mis 2 parcelles en culture. Elles vont fleurir jusqu'à la mi-novembre.
+
+[00:00:46 - 00:00:59] Véronique Lazéra:
+Ces fleurs, on va les cueillir. Elles ne vivent que 24 heures, donc elles seront mortes demain. Donc on peut les cueillir jusqu'à demain matin. Et on va les éplucher à la maison, couper les pistils un par un pour produire le safran.
+
+[00:00:59 - 00:01:09] Journaliste:
+Car le travail du safranier ne s'arrête pas à la cueillette. Dans la foulée, il faut émonder les pistils. Une tâche délicate qui ravit le stagiaire de Véronique. Julien Barthélémy est négociant en bois. Il est conquis par le crocus.
+
+[00:01:10 - 00:01:30] Julien Barthélémy:
+C'est minutieux mais ça permet aussi de faire une coupure dans nos activités du quotidien parce que ça nous vide la tête. Finalement on se concentre que sur la fleur. J'ai eu envie d'en planter aussi moi, de faire un petit peu pareil que Véronique, d'en planter. Donc moi, prendre sur le crocus, mais sur le secteur de la Sologne et de m'installer prochainement avec une petite exploitation de safran.
+
+[00:01:30 - 00:01:35] Journaliste:
+Forte de ses 20 ans d'expérience, Véronique ne met que 5 heures à cueillir et à éplucher 2500 fleurs. Cette année, elle devrait en avoir plus de 120 000 à récolter et transformer soit au final un peu plus d'un kilo de safran.",678,1.0237529691211402
+transcript_formatted_90199cef-801b-411c-8b37-21a4097d2e1e.txt,REGIONS,2620,771,"[00:00:00 - 00:00:39] Voix 02 :
   Plus de deux ans après son ouverture, l'enquête préliminaire ouverte sur l'agression mortelle d'Ivan Cologne a été classée sans suite. Elle avait été ouverte en 2023 après le signalement de Jean-Félix Akwaïwa et Laurent Marcangeli dans le cadre de la commission d'enquête parlementaire au sujet de la mort d'Ivan Cologne à la Maison Centrale d'Arles.  il pointait auprès du parquet de Tarascon plusieurs dysfonctionnements de l'administration pénitentiaire, comme l'absence de prise en compte du changement de comportement de Franck et Longabe, alors qu'il était précisé dans un logiciel créé à cet effet, nommé Genesis. En clair, les deux députés de l'époque dénonçaient une possible suppression des données du logiciel. Le procureur de Tarascon s'était exprimé hier, précisant qu'aucune infraction n'avait été commise.
 
 [00:00:41 - 00:00:53] Voix 03 :
@@ -332,29 +507,64 @@ transcript_formatted_90199cef-801b-411c-8b37-21a4097d2e1e.txt,2620,771,"[00:00:0
   Nos clients, soeurs et frères d'Iván Colón, à qui attendent depuis plus de trois années que toute la lumière soit faite sur les conditions exactes du drame survenu au sein de la maison centrale d'Arles, ne peuvent que s'inquiéter de ce calendrier procédural et des conséquences qu'il pourrait avoir sur la manifestation de la vérité et la détermination des responsabilités.
 
 [00:01:54 - 00:01:59] Voix 02 :
- Les avocats demandent également aux parlementaires à l'initiative de cette enquête de porter plainte devant un juge d'instruction.","Voici la transcription post-traitée, conformément à vos instructions :
+ Les avocats demandent également aux parlementaires à l'initiative de cette enquête de porter plainte devant un juge d'instruction.","Voici la transcription post-traitée conformément à vos instructions :
 
-Journaliste:
-Plus de deux ans après son ouverture, l'enquête préliminaire ouverte sur l'agression mortelle d'Yvan Colonna a été classée sans suite. Elle avait été ouverte en 2023 après le signalement de Jean-Félix Acquaviva et Laurent Marcangeli dans le cadre de la commission d'enquête parlementaire au sujet de la mort d'Yvan Colonna à la Maison Centrale d'Arles. Il pointait auprès du parquet de Tarascon plusieurs dysfonctionnements de l'administration pénitentiaire, comme l'absence de prise en compte du changement de comportement de Franck Elongabé, alors qu'il était précisé dans un logiciel créé à cet effet, nommé Genesis. En clair, les deux députés de l'époque dénonçaient une possible suppression des données du logiciel. Le procureur de Tarascon s'était exprimé hier, précisant qu'aucune infraction n'avait été commise.
+[00:00:00 - 00:00:39]
 
-Procureur de Tarascon:
-Après avoir mené une enquête de façon approfondie, j'ai classé sans suite le dossier début octobre, estimant que les éléments sur lesquels s'appuyait la saisine faite sur les éventuels dysfonctionnements n'étaient pas établis.
+**Journaliste:** Plus de deux ans après son ouverture, l'enquête préliminaire ouverte sur l'agression mortelle d'Ivan Cologne a été classée sans suite. Elle avait été ouverte en 2023 après le signalement de Jean-Félix Akwaïwa et Laurent Marcangeli dans le cadre de la commission d'enquête parlementaire au sujet de la mort d'Ivan Cologne à la Maison Centrale d'Arles. Ils pointaient auprès du parquet de Tarascon plusieurs dysfonctionnements de l'administration pénitentiaire, comme l'absence de prise en compte du changement de comportement de Franck et Longabe, alors qu'il était précisé dans un logiciel créé à cet effet, nommé Genesis. En clair, les deux députés de l'époque dénonçaient une possible suppression des données du logiciel. Le procureur de Tarascon s'était exprimé hier, précisant qu'aucune infraction n'avait été commise.
 
-Journaliste:
-Contacté, Laurent Marcangeli, ancien rapporteur de la commission d'enquête parlementaire, indique simplement prendre acte de ce classement. Jean-Félix Acquaviva, ancien président de cette commission, s'est exprimé sur les réseaux sociaux. Il s'étonne de cette décision.
+[00:00:41 - 00:00:53]
 
-Jean-Félix Acquaviva:
-Sur la forme et les délais, deux ans et trois mois pour rédiger une lettre de classement sans suite dont le contenu est flou et nettement insuffisant quant aux justifications avancées, c'est donner le sentiment que l'on ne veut pas enquêter comme il se doit, que l'on cherche à enterrer l'affaire.
+**Procureur de Tarascon:** Après avoir mené une enquête de façon approfondie, j'ai classé sans suite le dossier début octobre, estimant que les éléments sur lesquels s'appuyait la saisine faite sur les éventuels dysfonctionnements n'étaient pas établis.
 
-Journaliste:
-Les conseils de Christine et Stéphane Colonna ont rédigé un communiqué dans lequel ils s'étonnent de la concomitance entre le classement sans suite de cette enquête et la notification de fin d'information de la procédure judiciaire concernant le décès d'Yvan Colonna.
+[00:00:53 - 00:01:06]
 
-Avocats de la famille Colonna:
-Nos clients, sœurs et frères d'Yvan Colonna, qui attendent depuis plus de trois années que toute la lumière soit faite sur les conditions exactes du drame survenu au sein de la maison centrale d'Arles, ne peuvent que s'inquiéter de ce calendrier procédural et des conséquences qu'il pourrait avoir sur la manifestation de la vérité et la détermination des responsabilités.
+**Journaliste:** Contacté, Laurent Marcangeli, ancien rapporteur de la commission d'enquête parlementaire, indique simplement prendre acte de ce classement. Jean-Félix Acquahui, ancien président de cette commission, s'est exprimé sur les réseaux sociaux. Il s'étonne de cette décision.
 
-Journaliste:
-Les avocats demandent également aux parlementaires à l'initiative de cette enquête de porter plainte devant un juge d'instruction.",771,695,0.9014267185473411,True,
-transcript_formatted_621cb033-e87c-437a-a7bf-dbd4f5ea8eeb.txt,2090,660,"[00:00:00 - 00:00:31] Voix 02 :
+[00:01:08 - 00:01:23]
+
+**Jean-Félix Acquahui:** Sur la forme et les délais, deux ans et trois mois pour rédiger une lettre de classement sans suite dont le contenu est flou et nettement insuffisant quant aux justifications avancées, c'est donner le sentiment que l'on ne veut pas enquêter comme il se doit, que l'on cherche à enterrer l'affaire.
+
+[00:01:23 - 00:01:35]
+
+**Journaliste:** Les conseils de Christine et Stéphane Colon ont rédigé un communiqué dans lequel il s'étonne de la concomitance entre le classement sans suite de cette enquête et la notification de fin d'information de la procédure judiciaire concernant le décès d'Yvon Colon.
+
+[00:01:36 - 00:01:53]
+
+**Avocats (famille Colón):** Nos clients, sœurs et frères d'Iván Colón, qui attendent depuis plus de trois années que toute la lumière soit faite sur les conditions exactes du drame survenu au sein de la maison centrale d'Arles, ne peuvent que s'inquiéter de ce calendrier procédural et des conséquences qu'il pourrait avoir sur la manifestation de la vérité et la détermination des responsabilités.
+
+[00:01:54 - 00:01:59]
+
+**Journaliste:** Les avocats demandent également aux parlementaires à l'initiative de cette enquête de porter plainte devant un juge d'instruction.",771,794,1.0298313878080414,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:39]\n\n**Journaliste:** Plus de deux ans après son ouverture, l'enquête préliminaire ouverte sur l'agression mortelle d'Ivan Cologne a été classée sans suite. Elle avait été ouverte en 2023 après le signalement de Jean-Félix Akwaïwa et Laurent Marcangeli dans le cadre de la commission d'enquête parlementaire au sujet de la mort d'Ivan Cologne à la Maison Centrale d'Arles. Ils pointaient auprès du parquet de Tarascon plusieurs dysfonctionnements de l'administration pénitentiaire, comme l'absence de prise en compte du changement de comportement de Franck et Longabe, alors qu'il était précisé dans un logiciel créé à cet effet, nommé Genesis. En clair, les deux députés de l'époque dénonçaient une possible suppression des données du logiciel. Le procureur de Tarascon s'était exprimé hier, précisant qu'aucune infraction n'avait été commise.\n\n[00:00:41 - 00:00:53]\n\n**Procureur de Tarascon:** Après avoir mené une enquête de façon approfondie, j'ai classé sans suite le dossier début octobre, estimant que les éléments sur lesquels s'appuyait la saisine faite sur les éventuels dysfonctionnements n'étaient pas établis.\n\n[00:00:53 - 00:01:06]\n\n**Journaliste:** Contacté, Laurent Marcangeli, ancien rapporteur de la commission d'enquête parlementaire, indique simplement prendre acte de ce classement. Jean-Félix Acquahui, ancien président de cette commission, s'est exprimé sur les réseaux sociaux. Il s'étonne de cette décision.\n\n[00:01:08 - 00:01:23]\n\n**Jean-Félix Acquahui:** Sur la forme et les délais, deux ans et trois mois pour rédiger une lettre de classement sans suite dont le contenu est flou et nettement insuffisant quant aux justifications avancées, c'est donner le sentiment que l'on ne veut pas enquêter comme il se doit, que l'on cherche à enterrer l'affaire.\n\n[00:01:23 - 00:01:35]\n\n**Journaliste:** Les conseils de Christine et Stéphane Colon ont rédigé un communiqué dans lequel il s'étonne de la concomitance entre le classement sans suite de cette enquête et la notification de fin d'information de la procédure judiciaire concernant le décès d'Yvon Colon.\n\n[00:01:36 - 00:01:53]\n\n**Avocats (famille Colón):** Nos clients, sœurs et frères d'Iván Colón, qui attendent depuis plus de trois années que toute la lumière soit faite sur les conditions exactes du drame survenu au sein de la maison centrale d'Arles, ne peuvent que s'inquiéter de ce calendrier procédural et des conséquences qu'il pourrait avoir sur la manifestation de la vérité et la détermination des responsabilités.\n\n[00:01:54 - 00:01:59]\n\n**Journaliste:** Les avocats demandent également aux parlementaires à l'initiative de cette enquête de porter plainte devant un juge d'instruction."", 'original_length': 460, 'llm_length': 513, 'filtered_length': 509, 'match_start': 4, 'match_end': 512, 'coverage_ratio': 1.1065217391304347}","-traitée conformément à vos instructions :
+
+[00:00:00 - 00:00:39]
+
+**Journaliste:** Plus de deux ans après son ouverture, l'enquête préliminaire ouverte sur l'agression mortelle d'Ivan Cologne a été classée sans suite. Elle avait été ouverte en 2023 après le signalement de Jean-Félix Akwaïwa et Laurent Marcangeli dans le cadre de la commission d'enquête parlementaire au sujet de la mort d'Ivan Cologne à la Maison Centrale d'Arles. Ils pointaient auprès du parquet de Tarascon plusieurs dysfonctionnements de l'administration pénitentiaire, comme l'absence de prise en compte du changement de comportement de Franck et Longabe, alors qu'il était précisé dans un logiciel créé à cet effet, nommé Genesis. En clair, les deux députés de l'époque dénonçaient une possible suppression des données du logiciel. Le procureur de Tarascon s'était exprimé hier, précisant qu'aucune infraction n'avait été commise.
+
+[00:00:41 - 00:00:53]
+
+**Procureur de Tarascon:** Après avoir mené une enquête de façon approfondie, j'ai classé sans suite le dossier début octobre, estimant que les éléments sur lesquels s'appuyait la saisine faite sur les éventuels dysfonctionnements n'étaient pas établis.
+
+[00:00:53 - 00:01:06]
+
+**Journaliste:** Contacté, Laurent Marcangeli, ancien rapporteur de la commission d'enquête parlementaire, indique simplement prendre acte de ce classement. Jean-Félix Acquahui, ancien président de cette commission, s'est exprimé sur les réseaux sociaux. Il s'étonne de cette décision.
+
+[00:01:08 - 00:01:23]
+
+**Jean-Félix Acquahui:** Sur la forme et les délais, deux ans et trois mois pour rédiger une lettre de classement sans suite dont le contenu est flou et nettement insuffisant quant aux justifications avancées, c'est donner le sentiment que l'on ne veut pas enquêter comme il se doit, que l'on cherche à enterrer l'affaire.
+
+[00:01:23 - 00:01:35]
+
+**Journaliste:** Les conseils de Christine et Stéphane Colon ont rédigé un communiqué dans lequel il s'étonne de la concomitance entre le classement sans suite de cette enquête et la notification de fin d'information de la procédure judiciaire concernant le décès d'Yvon Colon.
+
+[00:01:36 - 00:01:53]
+
+**Avocats (famille Colón):** Nos clients, sœurs et frères d'Iván Colón, qui attendent depuis plus de trois années que toute la lumière soit faite sur les conditions exactes du drame survenu au sein de la maison centrale d'Arles, ne peuvent que s'inquiéter de ce calendrier procédural et des conséquences qu'il pourrait avoir sur la manifestation de la vérité et la détermination des responsabilités.
+
+[00:01:54 - 00:01:59]
+
+**Journaliste:** Les avocats demandent également aux parlementaires à l'initiative de cette enquête de porter plainte devant un juge d'instruction.",789,1.1065217391304347
+transcript_formatted_621cb033-e87c-437a-a7bf-dbd4f5ea8eeb.txt,REGIONS,2090,660,"[00:00:00 - 00:00:31] Voix 02 :
   Elle se découvre et se trouve belle, nue, la poitrine couverte d'un bouquet de fleurs.  Dans cette épatte de Saint-Pierre-du-Beaugerard, 15 résidentes et 25 salariés de l'établissement ont fait tomber le haut pour lever les tabous sur le cancer du sein. On est quand même fiers de participer. Moi qui n'aime pas qu'on me prenne en photo, c'est état très bien. Au total, une quarantaine de clichés sont exposés, des photographies pleines de délicatesse que cette résidente chérie désormais.
 
 [00:00:33 - 00:00:46] Voix 01 :
@@ -373,47 +583,68 @@ transcript_formatted_621cb033-e87c-437a-a7bf-dbd4f5ea8eeb.txt,2090,660,"[00:00:0
   L'émotion, elle était pendant la séance, pour elle comme pour moi. Et là, j'avoue que le jour où on a accroché tous les tableaux, j'ai senti que ça montait un petit peu. Je suis extrêmement fière de l'initiative de la résidence, d'abord, de toutes ces femmes qui ont participé. Et puis d'ailleurs avoir participé, moi aussi, comme j'ai pu à travers mes images.
 
 [00:01:50 - 00:01:57] Voix 02 :
- Les photographies seront exposées ici tout le mois d'octobre et pourraient avoir par la suite une autre vie en dehors des murs de l'établissement.","Narrateur:
-Elle se découvre et se trouve belle, nue, la poitrine couverte d'un bouquet de fleurs. Dans cet Ehpad de Saint-Pierre-du-Beaugerard, quinze résidentes et vingt-cinq salariés de l'établissement ont fait tomber le haut pour lever les tabous sur le cancer du sein. On est quand même fiers de participer. Moi qui n'aime pas qu'on me prenne en photo, c'était très bien. Au total, une quarantaine de clichés sont exposés, des photographies pleines de délicatesse que cette résidente chérit désormais.
+ Les photographies seront exposées ici tout le mois d'octobre et pourraient avoir par la suite une autre vie en dehors des murs de l'établissement.","Voici la transcription post-traitée :
 
-Résidente:
-Au départ, je ne m'attendais pas si bien. Parce que quand même, je suis très vieille. Mais vraiment, j'ai été surprise. Et c'est là que j'ai fait rire tout le monde. Parce que je me suis comparée à la reine d'Angleterre.
+[00:00:00 - 00:00:31] Journaliste:
+Elle se découvre et se trouve belle, nue, la poitrine couverte d'un bouquet de fleurs. Dans cette EHPAD de Saint-Pierre-du-Beaugerard, 15 résidentes et 25 salariés de l'établissement ont fait tomber le haut pour lever les tabous sur le cancer du sein. On est quand même fiers de participer. Moi qui n'aime pas qu'on me prenne en photo, c'était très bien. Au total, une quarantaine de clichés sont exposés, des photographies pleines de délicatesse que cette résidente chérie désormais.
 
-Narrateur:
+[00:00:33 - 00:00:46] Invitée 1:
+Au départ, je m'attendais pas si bien. Parce que quand même, je suis très vieille. Mais vraiment, j'ai été surprise. Et c'est là que j'ai fait rire tout le monde. Parce que je me suis comparée à la reine d'Angleterre.
+
+[00:00:46 - 00:00:53] Journaliste:
 Rire et se réjouir du souvenir de ses photos, malgré la douleur. Il y a peu, Claudine a justement perdu sa fille d'un cancer du sein.
 
-Résidente:
-Je savais que ce serait la catastrophe, parce que malheureusement, elle est allée à l'hôpital faire des examens. Et quand on m'a dit que ça envahissait, j'ai compris que ça allait être rapide. Et en effet, elle est partie et il y a deux mois que je suis très malheureuse, bien sûr.
+[00:00:54 - 00:01:15] Invitée 1:
+Parce que malheureusement, elle est allée à l'hôpital faire des examens. Et quand on m'a dit que ça envahissait, j'ai compris que ça allait être rapide. Et en effet, elle est partie et il y a deux mois que je suis très malheureuse, bien sûr.
 
-Narrateur:
-Les photos rendent donc hommage à toutes les femmes touchées par le cancer. Ici, les muses ont entre vingt-quatre et quatre-vingt-dix-huit ans. La photographe derrière l'objectif est une ancienne infirmière, particulièrement sensible à la cause.
+[00:01:16 - 00:01:29] Journaliste:
+Les photos rendent donc hommage à toutes les femmes touchées par le cancer. Ici, les muses ont entre 24 et 98 ans. La photographe derrière l'objectif est une ancienne infirmière, particulièrement sensible à la cause.
 
-Photographe:
+[00:01:30 - 00:01:50] Photographe:
 L'émotion, elle était pendant la séance, pour elle comme pour moi. Et là, j'avoue que le jour où on a accroché tous les tableaux, j'ai senti que ça montait un petit peu. Je suis extrêmement fière de l'initiative de la résidence, d'abord, de toutes ces femmes qui ont participé. Et puis d'ailleurs avoir participé, moi aussi, comme j'ai pu à travers mes images.
 
-Narrateur:
-Les photographies seront exposées ici tout le mois d'octobre et pourraient avoir par la suite une autre vie en dehors des murs de l'établissement.",660,557,0.843939393939394,True,
-transcript_formatted_5050a28f-1d30-42b2-9469-54241452c7ac.txt,331,102,"[00:00:00 - 00:00:04] Voix 00 :
-  humisation et théramation, ça va être une question durée justement. L'humisation, c'est un processus plus lent qu'on laisse aboutir, aller jusqu'au bout, et qui va prendre environ 12 mois, alors que la théramation, telle qu'elle est pratiquée aux États-Unis, ça dure environ entre un et deux mois.","Voici la transcription post-traitée conformément aux instructions :
+[00:01:50 - 00:01:57] Journaliste:
+Les photographies seront exposées ici tout le mois d'octobre et pourraient avoir par la suite une autre vie en dehors des murs de l'établissement.",660,648,0.9818181818181818,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée :\n\n[00:00:00 - 00:00:31] Journaliste:\nElle se découvre et se trouve belle, nue, la poitrine couverte d'un bouquet de fleurs. Dans cette EHPAD de Saint-Pierre-du-Beaugerard, 15 résidentes et 25 salariés de l'établissement ont fait tomber le haut pour lever les tabous sur le cancer du sein. On est quand même fiers de participer. Moi qui n'aime pas qu'on me prenne en photo, c'était très bien. Au total, une quarantaine de clichés sont exposés, des photographies pleines de délicatesse que cette résidente chérie désormais.\n\n[00:00:33 - 00:00:46] Invitée 1:\nAu départ, je m'attendais pas si bien. Parce que quand même, je suis très vieille. Mais vraiment, j'ai été surprise. Et c'est là que j'ai fait rire tout le monde. Parce que je me suis comparée à la reine d'Angleterre.\n\n[00:00:46 - 00:00:53] Journaliste:\nRire et se réjouir du souvenir de ses photos, malgré la douleur. Il y a peu, Claudine a justement perdu sa fille d'un cancer du sein.\n\n[00:00:54 - 00:01:15] Invitée 1:\nParce que malheureusement, elle est allée à l'hôpital faire des examens. Et quand on m'a dit que ça envahissait, j'ai compris que ça allait être rapide. Et en effet, elle est partie et il y a deux mois que je suis très malheureuse, bien sûr.\n\n[00:01:16 - 00:01:29] Journaliste:\nLes photos rendent donc hommage à toutes les femmes touchées par le cancer. Ici, les muses ont entre 24 et 98 ans. La photographe derrière l'objectif est une ancienne infirmière, particulièrement sensible à la cause.\n\n[00:01:30 - 00:01:50] Photographe:\nL'émotion, elle était pendant la séance, pour elle comme pour moi. Et là, j'avoue que le jour où on a accroché tous les tableaux, j'ai senti que ça montait un petit peu. Je suis extrêmement fière de l'initiative de la résidence, d'abord, de toutes ces femmes qui ont participé. Et puis d'ailleurs avoir participé, moi aussi, comme j'ai pu à travers mes images.\n\n[00:01:50 - 00:01:57] Journaliste:\nLes photographies seront exposées ici tout le mois d'octobre et pourraient avoir par la suite une autre vie en dehors des murs de l'établissement."", 'original_length': 422, 'llm_length': 428, 'filtered_length': 427, 'match_start': 1, 'match_end': 427, 'coverage_ratio': 1.0118483412322274}","la transcription post-traitée :
 
-```
-[00:00:00 - 00:00:04] INTERVENANT:
+[00:00:00 - 00:00:31] Journaliste:
+Elle se découvre et se trouve belle, nue, la poitrine couverte d'un bouquet de fleurs. Dans cette EHPAD de Saint-Pierre-du-Beaugerard, 15 résidentes et 25 salariés de l'établissement ont fait tomber le haut pour lever les tabous sur le cancer du sein. On est quand même fiers de participer. Moi qui n'aime pas qu'on me prenne en photo, c'était très bien. Au total, une quarantaine de clichés sont exposés, des photographies pleines de délicatesse que cette résidente chérie désormais.
 
-Humisation et théramation, ça va être une question de durée justement. L'humisation, c'est un processus plus lent qu'on laisse aboutir, aller jusqu'au bout, et qui va prendre environ 12 mois, alors que la théramation, telle qu'elle est pratiquée aux États-Unis, ça dure environ entre un et deux mois.
-```",102,117,1.1470588235294117,True,
-transcript_formatted_fde78672-7b48-4dcb-895b-f8551f37d346.txt,89,46,"[00:00:00 - 00:00:01] Voix 02 :
+[00:00:33 - 00:00:46] Invitée 1:
+Au départ, je m'attendais pas si bien. Parce que quand même, je suis très vieille. Mais vraiment, j'ai été surprise. Et c'est là que j'ai fait rire tout le monde. Parce que je me suis comparée à la reine d'Angleterre.
+
+[00:00:46 - 00:00:53] Journaliste:
+Rire et se réjouir du souvenir de ses photos, malgré la douleur. Il y a peu, Claudine a justement perdu sa fille d'un cancer du sein.
+
+[00:00:54 - 00:01:15] Invitée 1:
+Parce que malheureusement, elle est allée à l'hôpital faire des examens. Et quand on m'a dit que ça envahissait, j'ai compris que ça allait être rapide. Et en effet, elle est partie et il y a deux mois que je suis très malheureuse, bien sûr.
+
+[00:01:16 - 00:01:29] Journaliste:
+Les photos rendent donc hommage à toutes les femmes touchées par le cancer. Ici, les muses ont entre 24 et 98 ans. La photographe derrière l'objectif est une ancienne infirmière, particulièrement sensible à la cause.
+
+[00:01:30 - 00:01:50] Photographe:
+L'émotion, elle était pendant la séance, pour elle comme pour moi. Et là, j'avoue que le jour où on a accroché tous les tableaux, j'ai senti que ça montait un petit peu. Je suis extrêmement fière de l'initiative de la résidence, d'abord, de toutes ces femmes qui ont participé. Et puis d'ailleurs avoir participé, moi aussi, comme j'ai pu à travers mes images.
+
+[00:01:50 - 00:01:57] Journaliste:
+Les photographies seront exposées ici tout le mois d'octobre et pourraient avoir par la suite une autre vie en dehors des murs de l'établissement.",646,1.0118483412322274
+transcript_formatted_5050a28f-1d30-42b2-9469-54241452c7ac.txt,REGIONS,331,102,"[00:00:00 - 00:00:04] Voix 00 :
+  humisation et théramation, ça va être une question durée justement. L'humisation, c'est un processus plus lent qu'on laisse aboutir, aller jusqu'au bout, et qui va prendre environ 12 mois, alors que la théramation, telle qu'elle est pratiquée aux États-Unis, ça dure environ entre un et deux mois.","[00:00:00 - 00:00:04] Voix 00 : Hum, l'humusation et la crémation, ça va être une question de durée justement. L'humusation, c'est un processus plus lent qu'on laisse aboutir, aller jusqu'au bout, et qui va prendre environ 12 mois, alors que la crémation, telle qu'elle est pratiquée aux États-Unis, ça dure environ entre un et deux mois.",102,109,1.0686274509803921,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Hum, l'humusation et la crémation, ça va être une question de durée justement. L'humusation, c'est un processus plus lent qu'on laisse aboutir, aller jusqu'au bout, et qui va prendre environ 12 mois, alors que la crémation, telle qu'elle est pratiquée aux États-Unis, ça dure environ entre un et deux mois."", 'original_length': 68, 'llm_length': 74, 'filtered_length': 74, 'match_start': 0, 'match_end': 73, 'coverage_ratio': 1.088235294117647}","Hum, l'humusation et la crémation, ça va être une question de durée justement. L'humusation, c'est un processus plus lent qu'on laisse aboutir, aller jusqu'au bout, et qui va prendre environ 12 mois, alors que la crémation, telle qu'elle est pratiquée aux États-Unis, ça dure environ entre un et deux mois.",90,1.088235294117647
+transcript_formatted_fde78672-7b48-4dcb-895b-f8551f37d346.txt,REGIONS,89,46,"[00:00:00 - 00:00:01] Voix 02 :
   Gérard, oui !
 
 [00:00:01 - 00:00:01] Voix -- :
- Bravo !","Voici la transcription post-traitée conformément aux instructions :
+ Bravo !","Voici la transcription post-traitée conformément à vos instructions :
 
-Voix 02 :
+[00:00:00 - 00:00:01] Voix 02 :
 Gérard, oui !
 
 
-Voix -- :
-Bravo !",46,32,0.6956521739130435,True,
-transcript_formatted_9306a3fa-a435-44d6-bdf0-57224c58bbaa.txt,2109,756,"[00:00:00 - 00:00:09] Voix 00 :
+[00:00:01 - 00:00:01] Voix -- :
+Bravo !",46,61,1.326086956521739,True,,"{'is_valid': False, 'reason': 'Impossible de trouver une correspondance avec moins de 30 tokens consécutifs non correspondants', 'filtered_text': 'Voici la transcription post-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:01] Voix 02 :\nGérard, oui !\n\n\n[00:00:01 - 00:00:01] Voix -- :\nBravo !', 'original_length': 10, 'llm_length': 21, 'match_start': -1, 'match_end': -1}","[00:00:00 - 00:00:01] Voix 02 :
+  Gérard, oui !
+
+[00:00:01 - 00:00:01] Voix -- :
+ Bravo !",46,0.0
+transcript_formatted_9306a3fa-a435-44d6-bdf0-57224c58bbaa.txt,REGIONS,2109,756,"[00:00:00 - 00:00:09] Voix 00 :
   Ce matin-là au menu, pas de dictée non, mais une séance d'éducation au goût.
 
 [00:00:09 - 00:00:11] Voix 01 :
@@ -458,51 +689,96 @@ transcript_formatted_9306a3fa-a435-44d6-bdf0-57224c58bbaa.txt,2109,756,"[00:00:0
 [00:01:46 - 00:01:57] Voix 00 :
   Évidemment, le cake à la carotte passe beaucoup mieux. C'est souvent comme ça pour la semaine du goût. On ne laisse pas une miette dans l'assiette, enfin presque.","Voici la transcription post-traitée :
 
-Narrateur:
-Ce matin-là, au menu, pas de dictée, non, mais une séance d'éducation au goût.
+[00:00:00 - 00:00:09] Journaliste:
+Ce matin-là, au menu, pas de dictée non, mais une séance d'éducation au goût.
 
-Intervenant:
+[00:00:09 - 00:00:11] Chef:
 Est-ce que vous savez pourquoi je suis là ?
 
-Narrateur:
-Aux élèves de l'école Mazenot, dans le 3e arrondissement de Lyon, la cheffe étoilée Tabata May présente la carotte dans tous ses états. On commence par la version crue.
+[00:00:11 - 00:00:22] Journaliste:
+Aux élèves de l'école Mazenot, dans le 3e arrondissement de Lyon, la chef étoilée Tabata May présente la carotte dans tous ses états. On commence par la version crue.
 
-Intervenant:
+[00:00:22 - 00:00:24] Chef:
 On voit plein de petits labans, j'entends croquer, c'est bien.
 
-Narrateur:
+[00:00:24 - 00:00:26] Journaliste:
 Première réaction sur la texture. Elle était craquante.
 
-Intervenant:
+[00:00:26 - 00:00:34] Chef:
 Enfin, ça craquait un petit peu. Qu'est-ce que tu n'aimes pas trop ? Les carottes crues.
 
-Narrateur:
+[00:00:34 - 00:00:39] Journaliste:
 Après les carottes crues, on passe à la version cuite, nettement moins savoureuse.
 
-Intervenant:
+[00:00:39 - 00:00:41] Chef:
 Il est parti où, les goûts de la carotte ?
 
-Narrateur:
+[00:00:41 - 00:00:48] Journaliste:
 Les saveurs, l'amertume, l'acidité. Le but de l'exercice est de tester son palais.
 
-Intervenant:
+[00:00:48 - 00:01:01] Chef:
 Tout au long de votre vie, vos goûts alimentaires, vos goûts pour les aliments, ils vont changer. C'est normal. C'est pour ça qu'au fur et à mesure, il faut continuer à essayer de goûter des choses.
 
-Narrateur:
+[00:01:01 - 00:01:06] Journaliste:
 Mais quand arrive le jus de carotte fermentée, les grimaces disent mieux qu'un long discours.
 
-Intervenant:
-Il y a un goût très fort, amer. Tout ce qui est produit fermenté, donc la fermentation, ça aide énormément à développer la flore intestinale, dont les systèmes immunitaires.
+[00:01:18 - 00:01:30] Chef:
+Il y a un goût très fort, amer. Tout ce qui est produit fermenté, donc la fermentation, ça aide énormément à développer la flore intestinale, dont le système immunitaire.
 
-Narrateur:
+[00:01:30 - 00:01:35] Journaliste:
 Salés, pétillants, légèrement acidulés. Pas facile à avaler.
 
-Intervenant:
+[00:01:35 - 00:01:45] Chef:
 Ils étaient top parce qu'ils ont tout bu. Ils étaient super curieux. Pourtant, je me suis dit, c'est pas gagné, mais ils ont joué le jeu, c'est génial. C'est la curiosité de l'enfant qui est top.
 
-Narrateur:
-Évidemment, le cake à la carotte passe beaucoup mieux. C'est souvent comme ça pour la Semaine du goût. On ne laisse pas une miette dans l'assiette, enfin presque.",756,533,0.705026455026455,True,
-transcript_formatted_7078edf2-0f38-401b-848e-1c057619c0b8.txt,1343,441,"[00:00:00 - 00:00:07] Voix 00 :
+[00:01:46 - 00:01:57] Journaliste:
+Évidemment, le cake à la carotte passe beaucoup mieux. C'est souvent comme ça pour la semaine du goût. On ne laisse pas une miette dans l'assiette, enfin presque.",756,725,0.958994708994709,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée :\n\n[00:00:00 - 00:00:09] Journaliste:\nCe matin-là, au menu, pas de dictée non, mais une séance d'éducation au goût.\n\n[00:00:09 - 00:00:11] Chef:\nEst-ce que vous savez pourquoi je suis là ?\n\n[00:00:11 - 00:00:22] Journaliste:\nAux élèves de l'école Mazenot, dans le 3e arrondissement de Lyon, la chef étoilée Tabata May présente la carotte dans tous ses états. On commence par la version crue.\n\n[00:00:22 - 00:00:24] Chef:\nOn voit plein de petits labans, j'entends croquer, c'est bien.\n\n[00:00:24 - 00:00:26] Journaliste:\nPremière réaction sur la texture. Elle était craquante.\n\n[00:00:26 - 00:00:34] Chef:\nEnfin, ça craquait un petit peu. Qu'est-ce que tu n'aimes pas trop ? Les carottes crues.\n\n[00:00:34 - 00:00:39] Journaliste:\nAprès les carottes crues, on passe à la version cuite, nettement moins savoureuse.\n\n[00:00:39 - 00:00:41] Chef:\nIl est parti où, les goûts de la carotte ?\n\n[00:00:41 - 00:00:48] Journaliste:\nLes saveurs, l'amertume, l'acidité. Le but de l'exercice est de tester son palais.\n\n[00:00:48 - 00:01:01] Chef:\nTout au long de votre vie, vos goûts alimentaires, vos goûts pour les aliments, ils vont changer. C'est normal. C'est pour ça qu'au fur et à mesure, il faut continuer à essayer de goûter des choses.\n\n[00:01:01 - 00:01:06] Journaliste:\nMais quand arrive le jus de carotte fermentée, les grimaces disent mieux qu'un long discours.\n\n[00:01:18 - 00:01:30] Chef:\nIl y a un goût très fort, amer. Tout ce qui est produit fermenté, donc la fermentation, ça aide énormément à développer la flore intestinale, dont le système immunitaire.\n\n[00:01:30 - 00:01:35] Journaliste:\nSalés, pétillants, légèrement acidulés. Pas facile à avaler.\n\n[00:01:35 - 00:01:45] Chef:\nIls étaient top parce qu'ils ont tout bu. Ils étaient super curieux. Pourtant, je me suis dit, c'est pas gagné, mais ils ont joué le jeu, c'est génial. C'est la curiosité de l'enfant qui est top.\n\n[00:01:46 - 00:01:57] Journaliste:\nÉvidemment, le cake à la carotte passe beaucoup mieux. C'est souvent comme ça pour la semaine du goût. On ne laisse pas une miette dans l'assiette, enfin presque."", 'original_length': 375, 'llm_length': 397, 'filtered_length': 397, 'match_start': 0, 'match_end': 396, 'coverage_ratio': 1.0586666666666666}","Voici la transcription post-traitée :
+
+[00:00:00 - 00:00:09] Journaliste:
+Ce matin-là, au menu, pas de dictée non, mais une séance d'éducation au goût.
+
+[00:00:09 - 00:00:11] Chef:
+Est-ce que vous savez pourquoi je suis là ?
+
+[00:00:11 - 00:00:22] Journaliste:
+Aux élèves de l'école Mazenot, dans le 3e arrondissement de Lyon, la chef étoilée Tabata May présente la carotte dans tous ses états. On commence par la version crue.
+
+[00:00:22 - 00:00:24] Chef:
+On voit plein de petits labans, j'entends croquer, c'est bien.
+
+[00:00:24 - 00:00:26] Journaliste:
+Première réaction sur la texture. Elle était craquante.
+
+[00:00:26 - 00:00:34] Chef:
+Enfin, ça craquait un petit peu. Qu'est-ce que tu n'aimes pas trop ? Les carottes crues.
+
+[00:00:34 - 00:00:39] Journaliste:
+Après les carottes crues, on passe à la version cuite, nettement moins savoureuse.
+
+[00:00:39 - 00:00:41] Chef:
+Il est parti où, les goûts de la carotte ?
+
+[00:00:41 - 00:00:48] Journaliste:
+Les saveurs, l'amertume, l'acidité. Le but de l'exercice est de tester son palais.
+
+[00:00:48 - 00:01:01] Chef:
+Tout au long de votre vie, vos goûts alimentaires, vos goûts pour les aliments, ils vont changer. C'est normal. C'est pour ça qu'au fur et à mesure, il faut continuer à essayer de goûter des choses.
+
+[00:01:01 - 00:01:06] Journaliste:
+Mais quand arrive le jus de carotte fermentée, les grimaces disent mieux qu'un long discours.
+
+[00:01:18 - 00:01:30] Chef:
+Il y a un goût très fort, amer. Tout ce qui est produit fermenté, donc la fermentation, ça aide énormément à développer la flore intestinale, dont le système immunitaire.
+
+[00:01:30 - 00:01:35] Journaliste:
+Salés, pétillants, légèrement acidulés. Pas facile à avaler.
+
+[00:01:35 - 00:01:45] Chef:
+Ils étaient top parce qu'ils ont tout bu. Ils étaient super curieux. Pourtant, je me suis dit, c'est pas gagné, mais ils ont joué le jeu, c'est génial. C'est la curiosité de l'enfant qui est top.
+
+[00:01:46 - 00:01:57] Journaliste:
+Évidemment, le cake à la carotte passe beaucoup mieux. C'est souvent comme ça pour la semaine du goût. On ne laisse pas une miette dans l'assiette, enfin presque.",725,1.0586666666666666
+transcript_formatted_7078edf2-0f38-401b-848e-1c057619c0b8.txt,REGIONS,1343,441,"[00:00:00 - 00:00:07] Voix 00 :
   Voici une sépulture qui pourrait peut-être bientôt révolutionner nos cimetières. Son nom, la Juliana.
 
 [00:00:07 - 00:00:18] Voix 02 :
@@ -520,34 +796,62 @@ transcript_formatted_7078edf2-0f38-401b-848e-1c057619c0b8.txt,1343,441,"[00:00:0
 [00:00:53 - 00:00:57] Voix 01 :
   C'est une plante qui est très résistante, qui nécessite peu d'entretien et à croissance lente. Et le gros avantage aussi, c'est qu'une plante qui va être fleurie à tous les printemps. Alors on ne maîtrise pas la couleur lorsqu'on l'installe, mais on va généralement voir des couleurs blanches ou rouges.","Voici la transcription post-traitée :
 
-Journaliste: Voici une sépulture qui pourrait peut-être bientôt révolutionner nos cimetières. Son nom : la Juliana.
+[00:00:00 - 00:00:07] Journaliste:
+Voici une sépulture qui pourrait peut-être bientôt révolutionner nos cimetières. Son nom, la Juliana.
 
-Intervenant 1: Le principe, c'est une tombe végétalisée que l'on réalise avec de l'acier corten. On peut voir ici, avec sa patine rouille. Et puis la partie aussi végétale, le tapis de sédum.
+[00:00:07 - 00:00:18] Intervenant 1:
+Le principe, c'est une tombe végétalisée que l'on apporte avec de l'acier Corten. On peut voir ici, avec sa patine rouille, et puis la partie aussi végétale, le tapis de sédum.
 
-Journaliste: Fruit de l'imagination d'une jeune entreprise niortaise, les deux associés préparent ce matin leur septième livraison.
+[00:00:18 - 00:00:25] Journaliste:
+Fruit de l'imagination d'une jeune entreprise niortaise, les deux associés préparent ce matin leur septième livraison.
 
-Intervenant 1: On la pose ici.
+[00:00:25 - 00:00:26] Intervenant 1:
+On la pose ici.
 
-Intervenant 1: C'est la tombale. Donc, elle est fabriquée en acier corten. C'est un acier spécifique qui se patine par la rouille. Ça donne une carapace de protection. C'est quelque chose qui va durer très, très, très longtemps dans le temps. À l'intérieur, des billes d'argile permettent de conserver l'humidité. Elles sont recouvertes d'un textile pour accueillir le terreau. Par-dessus, un tapis végétal de sédum vient apporter la touche finale.
+[00:00:28 - 00:00:52] Journaliste:
+C'est la tombale, donc elle est fabriquée en acier Corten. C'est un acier spécifique qui se patine par la rouille. Ça donne une carapace de protection. C'est quelque chose qui va durer très, très, très longtemps dans le temps. À l'intérieur, des billes d'argile permettent de conserver l'humidité. Elles sont recouvertes d'un textile pour accueillir le terreau. Par-dessus, un tapis végétal de sédum vient apporter la touche finale.
 
-Intervenant 2: C'est une plante qui est très résistante, qui nécessite peu d'entretien et à croissance lente. Et le gros avantage aussi, c'est que c'est une plante qui va être fleurie tous les printemps. Alors, on ne maîtrise pas la couleur lorsqu'on l'installe, mais on va généralement voir des couleurs blanches ou rouges.",441,380,0.8616780045351474,True,
-transcript_formatted_b7e7e11e-fc3a-4879-b97e-610314a69c41.txt,2460,734,"[00:00:00 - 00:00:14] Voix 00 :
+[00:00:53 - 00:00:57] Intervenant 2:
+C'est une plante qui est très résistante, qui nécessite peu d'entretien et à croissance lente. Et le gros avantage aussi, c'est qu'une plante qui va être fleurie à tous les printemps. Alors, on ne maîtrise pas la couleur lorsqu'on l'installe, mais on va généralement voir des couleurs blanches ou rouges.",441,459,1.0408163265306123,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée :\n\n[00:00:00 - 00:00:07] Journaliste:\nVoici une sépulture qui pourrait peut-être bientôt révolutionner nos cimetières. Son nom, la Juliana.\n\n[00:00:07 - 00:00:18] Intervenant 1:\nLe principe, c'est une tombe végétalisée que l'on apporte avec de l'acier Corten. On peut voir ici, avec sa patine rouille, et puis la partie aussi végétale, le tapis de sédum.\n\n[00:00:18 - 00:00:25] Journaliste:\nFruit de l'imagination d'une jeune entreprise niortaise, les deux associés préparent ce matin leur septième livraison.\n\n[00:00:25 - 00:00:26] Intervenant 1:\nOn la pose ici.\n\n[00:00:28 - 00:00:52] Journaliste:\nC'est la tombale, donc elle est fabriquée en acier Corten. C'est un acier spécifique qui se patine par la rouille. Ça donne une carapace de protection. C'est quelque chose qui va durer très, très, très longtemps dans le temps. À l'intérieur, des billes d'argile permettent de conserver l'humidité. Elles sont recouvertes d'un textile pour accueillir le terreau. Par-dessus, un tapis végétal de sédum vient apporter la touche finale.\n\n[00:00:53 - 00:00:57] Intervenant 2:\nC'est une plante qui est très résistante, qui nécessite peu d'entretien et à croissance lente. Et le gros avantage aussi, c'est qu'une plante qui va être fleurie à tous les printemps. Alors, on ne maîtrise pas la couleur lorsqu'on l'installe, mais on va généralement voir des couleurs blanches ou rouges."", 'original_length': 239, 'llm_length': 270, 'filtered_length': 269, 'match_start': 1, 'match_end': 269, 'coverage_ratio': 1.1255230125523012}","la transcription post-traitée :
+
+[00:00:00 - 00:00:07] Journaliste:
+Voici une sépulture qui pourrait peut-être bientôt révolutionner nos cimetières. Son nom, la Juliana.
+
+[00:00:07 - 00:00:18] Intervenant 1:
+Le principe, c'est une tombe végétalisée que l'on apporte avec de l'acier Corten. On peut voir ici, avec sa patine rouille, et puis la partie aussi végétale, le tapis de sédum.
+
+[00:00:18 - 00:00:25] Journaliste:
+Fruit de l'imagination d'une jeune entreprise niortaise, les deux associés préparent ce matin leur septième livraison.
+
+[00:00:25 - 00:00:26] Intervenant 1:
+On la pose ici.
+
+[00:00:28 - 00:00:52] Journaliste:
+C'est la tombale, donc elle est fabriquée en acier Corten. C'est un acier spécifique qui se patine par la rouille. Ça donne une carapace de protection. C'est quelque chose qui va durer très, très, très longtemps dans le temps. À l'intérieur, des billes d'argile permettent de conserver l'humidité. Elles sont recouvertes d'un textile pour accueillir le terreau. Par-dessus, un tapis végétal de sédum vient apporter la touche finale.
+
+[00:00:53 - 00:00:57] Intervenant 2:
+C'est une plante qui est très résistante, qui nécessite peu d'entretien et à croissance lente. Et le gros avantage aussi, c'est qu'une plante qui va être fleurie à tous les printemps. Alors, on ne maîtrise pas la couleur lorsqu'on l'installe, mais on va généralement voir des couleurs blanches ou rouges.",457,1.1255230125523012
+transcript_formatted_b7e7e11e-fc3a-4879-b97e-610314a69c41.txt,REGIONS,2460,734,"[00:00:00 - 00:00:14] Voix 00 :
   Bonjour à tous, on est aujourd'hui devant le tribunal de Besançon. C'est ici, devant la Cour d'Assise du Doubs qui jugeait pendant 3 mois et demi Frédéric Péché, anesthésiste accusé de multiples empoisonnements. Nous, on est allé à la rencontre de Valentin Pasquet, dessinateur judiciaire pour France 3 Franche-Comté.
 
 [00:00:15 - 00:00:21] Voix 01 :
-  Ma mission c'est de remplacer la caméra et la vidéo qui sont interdites en salle d'audience lorsque l'audience démarre. On a tout le monde à porter de deuil pour pouvoir dessiner un peu tous ces acteurs du procès et pouvoir raconter au mieux les débats. Moi j'apparente ça un peu à une pièce de théâtre avec des acteurs qui s'infectivent, qui parlent, qui essaient de montrer des preuves.  Dans les salles d'audience, on essaie d'avoir un matériel qui prend peu de place, avec des techniques qui nous permettent d'être rapides. En gros, moi j'utilise du crayon, de l'encre avec lequel je dessine, et après pour la peinture j'utilise d'aquarelle. C'est une technique de couleur qui permet de sécher très rapidement.  On a un accusé qui bouge peu, c'est assez facile de le dessiner. Puis physiquement, il a des traits qui sont assez creusés, une barbe qui lui barre vraiment toute la fin du visage. Des petits yeux, des yeux assez sombres, assez persants qui fixent les gens qu'il dépose à la barre. Donc on le sent concentré, il discute beaucoup avec son avocat aussi, Maître Schördorfer.  Il faut aussi allier ça avec une notion de vitesse pour les dessins. C'est entre 35 minutes et 2 heures, 2 heures et demi je dirais. On a vraiment des délais pour le rendre donc je sors de la salle, je scanne mon dessin, je l'envoie à la rédaction et du coup ça atterrit à la télé et sur le site internet.  Moi je suis journaliste à côté, aucun de nous n'est dessinateur judiciaire à plein temps, ça n'existe pas. J'ai 6-7 ans, je crois, d'expérience. Parmi les plus connus peut-être par le grand public, il y a le procès des attentats du 13 novembre, il y a eu le procès des viols de Mazan, là où l'affaire Pellico, puis le procès lelandais, le procès d'Aval aussi en Franche-Comté. Nous on a la chance entre guillemets de moins se focaliser sur les détails des récits. On peut à un moment donné entre guillemets fermer les écoutis et se focaliser sur la feuille de papier.  J'aime beaucoup dessiner et c'est génial d'avoir la chance d'être rémunéré pour une activité qui nous plaît.","Voici la transcription post-traitée :
+  Ma mission c'est de remplacer la caméra et la vidéo qui sont interdites en salle d'audience lorsque l'audience démarre. On a tout le monde à porter de deuil pour pouvoir dessiner un peu tous ces acteurs du procès et pouvoir raconter au mieux les débats. Moi j'apparente ça un peu à une pièce de théâtre avec des acteurs qui s'infectivent, qui parlent, qui essaient de montrer des preuves.  Dans les salles d'audience, on essaie d'avoir un matériel qui prend peu de place, avec des techniques qui nous permettent d'être rapides. En gros, moi j'utilise du crayon, de l'encre avec lequel je dessine, et après pour la peinture j'utilise d'aquarelle. C'est une technique de couleur qui permet de sécher très rapidement.  On a un accusé qui bouge peu, c'est assez facile de le dessiner. Puis physiquement, il a des traits qui sont assez creusés, une barbe qui lui barre vraiment toute la fin du visage. Des petits yeux, des yeux assez sombres, assez persants qui fixent les gens qu'il dépose à la barre. Donc on le sent concentré, il discute beaucoup avec son avocat aussi, Maître Schördorfer.  Il faut aussi allier ça avec une notion de vitesse pour les dessins. C'est entre 35 minutes et 2 heures, 2 heures et demi je dirais. On a vraiment des délais pour le rendre donc je sors de la salle, je scanne mon dessin, je l'envoie à la rédaction et du coup ça atterrit à la télé et sur le site internet.  Moi je suis journaliste à côté, aucun de nous n'est dessinateur judiciaire à plein temps, ça n'existe pas. J'ai 6-7 ans, je crois, d'expérience. Parmi les plus connus peut-être par le grand public, il y a le procès des attentats du 13 novembre, il y a eu le procès des viols de Mazan, là où l'affaire Pellico, puis le procès lelandais, le procès d'Aval aussi en Franche-Comté. Nous on a la chance entre guillemets de moins se focaliser sur les détails des récits. On peut à un moment donné entre guillemets fermer les écoutis et se focaliser sur la feuille de papier.  J'aime beaucoup dessiner et c'est génial d'avoir la chance d'être rémunéré pour une activité qui nous plaît.","Voici la transcription post-traitée conformément à vos instructions :
 
 [00:00:00 - 00:00:14] Journaliste:
-Bonjour à tous, on est aujourd'hui devant le tribunal de Besançon. C'est ici, devant la Cour d'Assises du Doubs qui jugeait pendant 3 mois et demi Frédéric Péché, anesthésiste accusé de multiples empoisonnements. Nous, on est allé à la rencontre de Valentin Pasquet, dessinateur judiciaire pour France 3 Franche-Comté.
+Bonjour à tous, on est aujourd'hui devant le tribunal de Besançon. C'est ici, devant la Cour d'Assises du Doubs, qui jugeait pendant 3 mois et demi Frédéric Péchier, anesthésiste accusé de multiples empoisonnements. Nous, on est allé à la rencontre de Valentin Pasquet, dessinateur judiciaire pour France 3 Franche-Comté.
 
+[00:00:15 - 00:00:21] Valentin Pasquet:
+Ma mission, c'est de remplacer la caméra et la vidéo qui sont interdites en salle d'audience lorsque l'audience démarre. On a tout le monde à portée de main pour pouvoir dessiner un peu tous ces acteurs du procès et pouvoir raconter au mieux les débats. Moi, j'apparente ça un peu à une pièce de théâtre avec des acteurs qui s'activent, qui parlent, qui essaient de montrer des preuves. Dans les salles d'audience, on essaie d'avoir un matériel qui prend peu de place, avec des techniques qui nous permettent d'être rapides. En gros, moi, j'utilise du crayon, de l'encre avec lequel je dessine, et après pour la peinture j'utilise de l'aquarelle. C'est une technique de couleur qui permet de sécher très rapidement. On a un accusé qui bouge peu, c'est assez facile de le dessiner. Puis physiquement, il a des traits qui sont assez creusés, une barbe qui lui barre vraiment toute la fin du visage. Des petits yeux, des yeux assez sombres, assez perçants, qui fixent les gens qu'il dépose à la barre. Donc on le sent concentré, il discute beaucoup avec son avocat aussi, Maître Schwerdorffer. Il faut aussi allier ça avec une notion de vitesse pour les dessins. C'est entre 35 minutes et 2 heures, 2 heures et demi, je dirais. On a vraiment des délais pour le rendre donc je sors de la salle, je scanne mon dessin, je l'envoie à la rédaction et du coup ça atterrit à la télé et sur le site internet. Moi, je suis journaliste à côté, aucun de nous n'est dessinateur judiciaire à plein temps, ça n'existe pas. J'ai 6-7 ans, je crois, d'expérience. Parmi les plus connus peut-être par le grand public, il y a le procès des attentats du 13 novembre, il y a eu le procès des viols de Mazan, là où l'affaire Pellico, puis le procès Lelandais, le procès D'Aval aussi en Franche-Comté. Nous, on a la chance entre guillemets de moins se focaliser sur les détails des récits. On peut à un moment donné entre guillemets fermer les écoutilles et se focaliser sur la feuille de papier. J'aime beaucoup dessiner et c'est génial d'avoir la chance d'être rémunéré pour une activité qui nous plaît.",734,749,1.0204359673024523,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:14] Journaliste:\nBonjour à tous, on est aujourd'hui devant le tribunal de Besançon. C'est ici, devant la Cour d'Assises du Doubs, qui jugeait pendant 3 mois et demi Frédéric Péchier, anesthésiste accusé de multiples empoisonnements. Nous, on est allé à la rencontre de Valentin Pasquet, dessinateur judiciaire pour France 3 Franche-Comté.\n\n[00:00:15 - 00:00:21] Valentin Pasquet:\nMa mission, c'est de remplacer la caméra et la vidéo qui sont interdites en salle d'audience lorsque l'audience démarre. On a tout le monde à portée de main pour pouvoir dessiner un peu tous ces acteurs du procès et pouvoir raconter au mieux les débats. Moi, j'apparente ça un peu à une pièce de théâtre avec des acteurs qui s'activent, qui parlent, qui essaient de montrer des preuves. Dans les salles d'audience, on essaie d'avoir un matériel qui prend peu de place, avec des techniques qui nous permettent d'être rapides. En gros, moi, j'utilise du crayon, de l'encre avec lequel je dessine, et après pour la peinture j'utilise de l'aquarelle. C'est une technique de couleur qui permet de sécher très rapidement. On a un accusé qui bouge peu, c'est assez facile de le dessiner. Puis physiquement, il a des traits qui sont assez creusés, une barbe qui lui barre vraiment toute la fin du visage. Des petits yeux, des yeux assez sombres, assez perçants, qui fixent les gens qu'il dépose à la barre. Donc on le sent concentré, il discute beaucoup avec son avocat aussi, Maître Schwerdorffer. Il faut aussi allier ça avec une notion de vitesse pour les dessins. C'est entre 35 minutes et 2 heures, 2 heures et demi, je dirais. On a vraiment des délais pour le rendre donc je sors de la salle, je scanne mon dessin, je l'envoie à la rédaction et du coup ça atterrit à la télé et sur le site internet. Moi, je suis journaliste à côté, aucun de nous n'est dessinateur judiciaire à plein temps, ça n'existe pas. J'ai 6-7 ans, je crois, d'expérience. Parmi les plus connus peut-être par le grand public, il y a le procès des attentats du 13 novembre, il y a eu le procès des viols de Mazan, là où l'affaire Pellico, puis le procès Lelandais, le procès D'Aval aussi en Franche-Comté. Nous, on a la chance entre guillemets de moins se focaliser sur les détails des récits. On peut à un moment donné entre guillemets fermer les écoutilles et se focaliser sur la feuille de papier. J'aime beaucoup dessiner et c'est génial d'avoir la chance d'être rémunéré pour une activité qui nous plaît."", 'original_length': 537, 'llm_length': 560, 'filtered_length': 560, 'match_start': 0, 'match_end': 559, 'coverage_ratio': 1.042830540037244}","Voici la transcription post-traitée conformément à vos instructions :
 
-[00:00:15 - 00:00:21] Dessinateur judiciaire:
-Ma mission c'est de remplacer la caméra et la vidéo qui sont interdites en salle d'audience lorsque l'audience démarre. On a tout le monde à portée de main pour pouvoir dessiner un peu tous ces acteurs du procès et pouvoir raconter au mieux les débats. Moi j'apparente ça un peu à une pièce de théâtre avec des acteurs qui s'activent, qui parlent, qui essaient de montrer des preuves. Dans les salles d'audience, on essaie d'avoir un matériel qui prend peu de place, avec des techniques qui nous permettent d'être rapides. En gros, moi j'utilise du crayon, de l'encre avec lequel je dessine, et après pour la peinture j'utilise de l'aquarelle. C'est une technique de couleur qui permet de sécher très rapidement. On a un accusé qui bouge peu, c'est assez facile de le dessiner. Puis physiquement, il a des traits qui sont assez creusés, une barbe qui lui barre vraiment toute la fin du visage. Des petits yeux, des yeux assez sombres, assez perçants qui fixent les gens qui déposent à la barre. Donc on le sent concentré, il discute beaucoup avec son avocat aussi, Maître Schördorfer. Il faut aussi allier ça avec une notion de vitesse pour les dessins. C'est entre 35 minutes et 2 heures, 2 heures et demi je dirais. On a vraiment des délais pour le rendre donc je sors de la salle, je scanne mon dessin, je l'envoie à la rédaction et du coup ça atterrit à la télé et sur le site internet. Moi je suis journaliste à côté, aucun de nous n'est dessinateur judiciaire à plein temps, ça n'existe pas. J'ai 6-7 ans, je crois, d'expérience. Parmi les plus connus peut-être par le grand public, il y a le procès des attentats du 13 novembre, il y a eu le procès des viols de Mazan, l'affaire Pellico, puis le procès Lelandais, le procès Daval aussi en Franche-Comté. Nous on a la chance entre guillemets de moins se focaliser sur les détails des récits. On peut à un moment donné entre guillemets fermer les écoutilles et se focaliser sur la feuille de papier. J'aime beaucoup dessiner et c'est génial d'avoir la chance d'être rémunéré pour une activité qui nous plaît.",734,734,1.0,True,
-transcript_formatted_f4c54f75-08dc-445e-a98b-767f3cd6dfe4.txt,136,51,"[00:00:00 - 00:00:04] Voix 01 :
-  Donc pour tous, franchissement de la butte, une fois sur la butte, on revient à la vague de râtissage.","Voici la transcription post-traitée conformément aux instructions :
+[00:00:00 - 00:00:14] Journaliste:
+Bonjour à tous, on est aujourd'hui devant le tribunal de Besançon. C'est ici, devant la Cour d'Assises du Doubs, qui jugeait pendant 3 mois et demi Frédéric Péchier, anesthésiste accusé de multiples empoisonnements. Nous, on est allé à la rencontre de Valentin Pasquet, dessinateur judiciaire pour France 3 Franche-Comté.
 
-Voix 01: Donc pour tous, franchissement de la butte, une fois sur la butte, on revient à la vague de râtissage.",51,49,0.9607843137254902,True,
-transcript_formatted_8c4e7a93-be7f-4e83-8d06-2ae6e640a178.txt,1923,616,"[00:00:01 - 00:00:15] Voix 02 :
+[00:00:15 - 00:00:21] Valentin Pasquet:
+Ma mission, c'est de remplacer la caméra et la vidéo qui sont interdites en salle d'audience lorsque l'audience démarre. On a tout le monde à portée de main pour pouvoir dessiner un peu tous ces acteurs du procès et pouvoir raconter au mieux les débats. Moi, j'apparente ça un peu à une pièce de théâtre avec des acteurs qui s'activent, qui parlent, qui essaient de montrer des preuves. Dans les salles d'audience, on essaie d'avoir un matériel qui prend peu de place, avec des techniques qui nous permettent d'être rapides. En gros, moi, j'utilise du crayon, de l'encre avec lequel je dessine, et après pour la peinture j'utilise de l'aquarelle. C'est une technique de couleur qui permet de sécher très rapidement. On a un accusé qui bouge peu, c'est assez facile de le dessiner. Puis physiquement, il a des traits qui sont assez creusés, une barbe qui lui barre vraiment toute la fin du visage. Des petits yeux, des yeux assez sombres, assez perçants, qui fixent les gens qu'il dépose à la barre. Donc on le sent concentré, il discute beaucoup avec son avocat aussi, Maître Schwerdorffer. Il faut aussi allier ça avec une notion de vitesse pour les dessins. C'est entre 35 minutes et 2 heures, 2 heures et demi, je dirais. On a vraiment des délais pour le rendre donc je sors de la salle, je scanne mon dessin, je l'envoie à la rédaction et du coup ça atterrit à la télé et sur le site internet. Moi, je suis journaliste à côté, aucun de nous n'est dessinateur judiciaire à plein temps, ça n'existe pas. J'ai 6-7 ans, je crois, d'expérience. Parmi les plus connus peut-être par le grand public, il y a le procès des attentats du 13 novembre, il y a eu le procès des viols de Mazan, là où l'affaire Pellico, puis le procès Lelandais, le procès D'Aval aussi en Franche-Comté. Nous, on a la chance entre guillemets de moins se focaliser sur les détails des récits. On peut à un moment donné entre guillemets fermer les écoutilles et se focaliser sur la feuille de papier. J'aime beaucoup dessiner et c'est génial d'avoir la chance d'être rémunéré pour une activité qui nous plaît.",749,1.042830540037244
+transcript_formatted_f4c54f75-08dc-445e-a98b-767f3cd6dfe4.txt,REGIONS,136,51,"[00:00:00 - 00:00:04] Voix 01 :
+  Donc pour tous, franchissement de la butte, une fois sur la butte, on revient à la vague de râtissage.","[00:00:00 - 00:00:04] Voix 01 :
+Donc pour tous, franchissement de la butte, une fois sur la butte, on revient à la vague de râtissage.",51,50,0.9803921568627451,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': 'Donc pour tous, franchissement de la butte, une fois sur la butte, on revient à la vague de râtissage.', 'original_length': 23, 'llm_length': 23, 'filtered_length': 23, 'match_start': 0, 'match_end': 22, 'coverage_ratio': 1.0}","Donc pour tous, franchissement de la butte, une fois sur la butte, on revient à la vague de râtissage.",31,1.0
+transcript_formatted_8c4e7a93-be7f-4e83-8d06-2ae6e640a178.txt,REGIONS,1923,616,"[00:00:01 - 00:00:15] Voix 02 :
   Dans cette format 6 située au coeur d'IFTO, la saison des vaccins a commencé. Alexandre est l'un des premiers patients de la journée. Le jeune homme fait partie des personnes à risque. Il doit donc se protéger contre les virus hivernaux.
 
 [00:00:15 - 00:00:28] Voix 00 :
@@ -569,32 +873,56 @@ transcript_formatted_8c4e7a93-be7f-4e83-8d06-2ae6e640a178.txt,1923,616,"[00:00:0
  C'est important pour fabriquer des anticorps et que même si on attrape cette maladie, on l'aura mais d'une façon beaucoup plus atténuée.  Il faut 15 jours pour fabriquer des anticorps. Le but, c'est de la faire le plus tôt possible.
 
 [00:01:34 - 00:01:41] Voix 02 :
- En Normandie, en 2024, seulement 57 % des personnes âgées ont été vaccinées contre la grippe, contre 75 % attendues.","Voici la transcription post-traitée :
+ En Normandie, en 2024, seulement 57 % des personnes âgées ont été vaccinées contre la grippe, contre 75 % attendues.","Voici la transcription post-traitée et formatée, conformément à vos instructions :
 
-Journaliste:
-[00:00:01 - 00:00:15] Dans cette pharmacie située au cœur d'IFTO, la saison des vaccins a commencé. Alexandre est l'un des premiers patients de la journée. Le jeune homme fait partie des personnes à risque. Il doit donc se protéger contre les virus hivernaux.
+[00:00:01 - 00:00:15] Journaliste:
+Dans cette officine, située au cœur d'Ifs, la saison des vaccins a commencé. Alexandre est l'un des premiers patients de la journée. Le jeune homme fait partie des personnes à risque. Il doit donc se protéger contre les virus hivernaux.
 
-Invité:
-[00:00:15 - 00:00:28] De la grippe comme chaque année. Depuis que je suis diabétique, ça m'évite de l'attraper fortement et de ne pas être bien une semaine ou plus. Maintenant, si je l'attrape, je ne suis pas bien trois jours et après ça va.
+[00:00:15 - 00:00:28] Invité:
+De la grippe, comme chaque année. Depuis que je suis diabétique, ça m'évite de l'attraper fortement et de ne pas être bien une semaine ou plus. Maintenant, si je l'attrape, je ne suis pas bien trois jours et après ça va.
 
-Journaliste:
-[00:00:29 - 00:00:40] Pour cette retraitée, la petite piqûre du mois d'octobre est une habitude à laquelle elle ne déroge jamais, d'autant que la vaccination est gratuite pour les personnes de plus de 65 ans.
+[00:00:29 - 00:00:40] Journaliste:
+Pour cette retraitée, la petite piqûre du mois d'octobre est une habitude à laquelle elle ne déroge jamais, d'autant que la vaccination est gratuite pour les personnes de plus de 65 ans.
 
-Invité:
-[000:00:40 - 00:00:50] Quand on prend de l'âge, il faut mieux se protéger. Déjà, on peut protéger aussi les autres, parce que si on leur donne... Donc voilà, il faut les faire, les vaccins.
+[00:00:40 - 00:00:50] Invité:
+Quand on prend de l'âge, il faut mieux se protéger. Déjà, on peut protéger aussi les autres, parce que si on leur donne... Donc voilà, il faut les faire, les vaccins.
 
-Invité:
-[00:00:50 - 00:01:03] Obligatoires. Moi, j'ai eu des soucis de santé étant plus jeune, mais c'est pour ça que je fais la grippe après. Donc on m'avait conseillé de la faire, donc j'ai toujours fait. Puis le Covid, j'ai fait tous les ans.
+[00:00:50 - 00:01:03] Invité:
+Obligatoires. Moi, j'ai eu des soucis de santé étant plus jeune, mais c'est pour ça que je fais la grippe après. Donc on m'avait conseillé de la faire, donc j'ai toujours fait. Puis le Covid, j'ai fait tous les ans.
 
-Journaliste:
-[00:01:03 - 00:01:19] Dans cette officine, la campagne de vaccination a commencé avant la date officielle du 14 octobre. Les doses ont été livrées très tôt cette année. Pour la responsable, les personnes à risque devraient systématiquement recevoir leur dose sans attendre les premiers froids.
+[00:01:03 - 00:01:19] Journaliste:
+Dans cette officine, la campagne de vaccination a commencé avant la date officielle du 14 octobre. Les doses ont été livrées très tôt cette année. Pour la responsable, les personnes à risque devraient systématiquement recevoir leur dose sans attendre les premiers froids.
 
-Responsable:
-[00:01:19 - 00:01:34] C'est important pour fabriquer des anticorps et que même si on attrape cette maladie, on l'aura mais d'une façon beaucoup plus atténuée. Il faut 15 jours pour fabriquer des anticorps. Le but, c'est de la faire le plus tôt possible.
+[00:01:19 - 00:01:34] Pharmacienne:
+C'est important pour fabriquer des anticorps et que même si on attrape cette maladie, on l'aura mais d'une façon beaucoup plus atténuée. Il faut 15 jours pour fabriquer des anticorps. Le but, c'est de la faire le plus tôt possible.
 
-Journaliste:
-[00:01:34 - 00:01:41] En Normandie, en 2023, seulement 57 % des personnes âgées ont été vaccinées contre la grippe, contre 75 % attendues.",616,604,0.9805194805194806,True,
-transcript_formatted_df789797-0681-4b98-ad50-3ebe9aebf8f9.txt,2572,791,"[00:00:00 - 00:00:19] Voix 01 :
+[00:01:34 - 00:01:41] Journaliste:
+En Normandie, en 2024, seulement 57 % des personnes âgées ont été vaccinées contre la grippe, contre 75 % attendues.",616,616,1.0,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée et formatée, conformément à vos instructions :\n\n[00:00:01 - 00:00:15] Journaliste:\nDans cette officine, située au cœur d'Ifs, la saison des vaccins a commencé. Alexandre est l'un des premiers patients de la journée. Le jeune homme fait partie des personnes à risque. Il doit donc se protéger contre les virus hivernaux.\n\n[00:00:15 - 00:00:28] Invité:\nDe la grippe, comme chaque année. Depuis que je suis diabétique, ça m'évite de l'attraper fortement et de ne pas être bien une semaine ou plus. Maintenant, si je l'attrape, je ne suis pas bien trois jours et après ça va.\n\n[00:00:29 - 00:00:40] Journaliste:\nPour cette retraitée, la petite piqûre du mois d'octobre est une habitude à laquelle elle ne déroge jamais, d'autant que la vaccination est gratuite pour les personnes de plus de 65 ans.\n\n[00:00:40 - 00:00:50] Invité:\nQuand on prend de l'âge, il faut mieux se protéger. Déjà, on peut protéger aussi les autres, parce que si on leur donne... Donc voilà, il faut les faire, les vaccins.\n\n[00:00:50 - 00:01:03] Invité:\nObligatoires. Moi, j'ai eu des soucis de santé étant plus jeune, mais c'est pour ça que je fais la grippe après. Donc on m'avait conseillé de la faire, donc j'ai toujours fait. Puis le Covid, j'ai fait tous les ans.\n\n[00:01:03 - 00:01:19] Journaliste:\nDans cette officine, la campagne de vaccination a commencé avant la date officielle du 14 octobre. Les doses ont été livrées très tôt cette année. Pour la responsable, les personnes à risque devraient systématiquement recevoir leur dose sans attendre les premiers froids.\n\n[00:01:19 - 00:01:34] Pharmacienne:\nC'est important pour fabriquer des anticorps et que même si on attrape cette maladie, on l'aura mais d'une façon beaucoup plus atténuée. Il faut 15 jours pour fabriquer des anticorps. Le but, c'est de la faire le plus tôt possible.\n\n[00:01:34 - 00:01:41] Journaliste:\nEn Normandie, en 2024, seulement 57 % des personnes âgées ont été vaccinées contre la grippe, contre 75 % attendues."", 'original_length': 367, 'llm_length': 384, 'filtered_length': 383, 'match_start': 1, 'match_end': 383, 'coverage_ratio': 1.0435967302452316}","la transcription post-traitée et formatée, conformément à vos instructions :
+
+[00:00:01 - 00:00:15] Journaliste:
+Dans cette officine, située au cœur d'Ifs, la saison des vaccins a commencé. Alexandre est l'un des premiers patients de la journée. Le jeune homme fait partie des personnes à risque. Il doit donc se protéger contre les virus hivernaux.
+
+[00:00:15 - 00:00:28] Invité:
+De la grippe, comme chaque année. Depuis que je suis diabétique, ça m'évite de l'attraper fortement et de ne pas être bien une semaine ou plus. Maintenant, si je l'attrape, je ne suis pas bien trois jours et après ça va.
+
+[00:00:29 - 00:00:40] Journaliste:
+Pour cette retraitée, la petite piqûre du mois d'octobre est une habitude à laquelle elle ne déroge jamais, d'autant que la vaccination est gratuite pour les personnes de plus de 65 ans.
+
+[00:00:40 - 00:00:50] Invité:
+Quand on prend de l'âge, il faut mieux se protéger. Déjà, on peut protéger aussi les autres, parce que si on leur donne... Donc voilà, il faut les faire, les vaccins.
+
+[00:00:50 - 00:01:03] Invité:
+Obligatoires. Moi, j'ai eu des soucis de santé étant plus jeune, mais c'est pour ça que je fais la grippe après. Donc on m'avait conseillé de la faire, donc j'ai toujours fait. Puis le Covid, j'ai fait tous les ans.
+
+[00:01:03 - 00:01:19] Journaliste:
+Dans cette officine, la campagne de vaccination a commencé avant la date officielle du 14 octobre. Les doses ont été livrées très tôt cette année. Pour la responsable, les personnes à risque devraient systématiquement recevoir leur dose sans attendre les premiers froids.
+
+[00:01:19 - 00:01:34] Pharmacienne:
+C'est important pour fabriquer des anticorps et que même si on attrape cette maladie, on l'aura mais d'une façon beaucoup plus atténuée. Il faut 15 jours pour fabriquer des anticorps. Le but, c'est de la faire le plus tôt possible.
+
+[00:01:34 - 00:01:41] Journaliste:
+En Normandie, en 2024, seulement 57 % des personnes âgées ont été vaccinées contre la grippe, contre 75 % attendues.",614,1.0435967302452316
+transcript_formatted_df789797-0681-4b98-ad50-3ebe9aebf8f9.txt,REGIONS,2572,791,"[00:00:00 - 00:00:19] Voix 01 :
   La campagne de vaccination contre la grippe et le Covid-19 commence donc aujourd'hui. L'an dernier, la faible couverture vaccinale a conduit à une épidémie de grippe particulièrement virulente avec plus de 17 000 décès en France. Un lancement de campagne alors qu'une pénurie d'autotest est à déplorer dans les pharmacies. Mathieu Caillot avec Gilles Beuzou et Antoine Joubeau.
 
 [00:00:21 - 00:00:36] Voix 00 :
@@ -624,38 +952,66 @@ transcript_formatted_df789797-0681-4b98-ad50-3ebe9aebf8f9.txt,2572,791,"[00:00:0
 [00:01:56 - 00:02:02] Voix 00 :
   Après la recrudescence des cas de Covid, les professionnels de santé détectent également une préconcité dans les cas de grippe cette année.","Voici la transcription post-traitée conformément à vos instructions :
 
----
+[00:00:00 - 00:00:19] Présentateur:
+  La campagne de vaccination contre la grippe et le Covid-19 commence donc aujourd'hui. L'an dernier, la faible couverture vaccinale a conduit à une épidémie de grippe particulièrement virulente avec plus de 17 000 décès en France. Un lancement de campagne alors qu'une pénurie d'autotest est à déplorer dans les pharmacies. Mathieu Caillot avec Gilles Beuzou et Antoine Joubeau.
 
-**Présentateur:**
-La campagne de vaccination contre la grippe et le Covid-19 commence donc aujourd'hui. L'an dernier, la faible couverture vaccinale a conduit à une épidémie de grippe particulièrement virulente avec plus de 17 000 décès en France. Un lancement de campagne alors qu'une pénurie d'auto-test est à déplorer dans les pharmacies. Mathieu Caillot avec Gilles Beuzou et Antoine Joubeau.
+[00:00:21 - 00:00:36] Journaliste:
+  À peine quelques boîtes d'autotest sur les étagères et plus aucun test Covid-GRIP disponible. Comme de nombreuses pharmacies, cette officine du 19e arrondissement a été dévalisée la semaine dernière, après les annonces des 33 000 cas de Covid recensés.
 
-**Journaliste:**
-À peine quelques boîtes d'auto-test sur les étagères et plus aucun test Covid-Grippe disponible. Comme de nombreuses pharmacies, cette officine du 19e arrondissement a été dévalisée la semaine dernière, après les annonces des 33 000 cas de Covid recensés.
+[00:00:36 - 00:00:50] Pharmacien:
+  Effectivement, on en manque un petit peu. On a du mal à s'en procurer, mais bon, on arrive à avoir quand même un petit stock, mais il part très, très vite. On regarde tous les jours si on peut en commander. Et sinon, on essaye de renvoyer vers des confrères à nous qui en auraient encore un stock et ce genre de choses.
 
-**Pharmacien:**
-Effectivement, on en manque un petit peu. On a du mal à s'en procurer, mais bon, on arrive à avoir quand même un petit stock, mais il part très, très vite. On regarde tous les jours si on peut en commander. Et sinon, on essaye de renvoyer vers des confrères à nous qui en auraient encore un stock et ce genre de choses.
+[00:00:51 - 00:01:04] Journaliste:
+  Cet hiver, les tests Covid réalisés en pharmacie ne sont plus pris en charge par la Sécu. Ils sont plus fiables mais coûtent 16,50€ au lieu de 3,90€ pour un autotest. 150 000 ont donc été vendus la semaine dernière, provoquant cette pénurie.
 
-**Journaliste:**
-Cet hiver, les tests Covid réalisés en pharmacie ne sont plus pris en charge par la Sécu. Ils sont plus fiables, mais coûtent 16,50€ au lieu de 3,90€ pour un auto-test. 150 000 ont donc été vendus la semaine dernière, provoquant cette pénurie.
+[00:01:04 - 00:01:09] Patient:
+  Je viens pour le vaccin de la grippe et du Covid.
 
-**Patient:**
-Je viens pour le vaccin de la grippe et du Covid.
+[00:01:09 - 00:01:17] Journaliste:
+  Et puisqu'il vaut mieux prévenir que guérir, le vaccin contre la grippe est disponible à partir d'aujourd'hui. Ce patient en profite pour faire les deux injections.
 
-**Journaliste:**
-Et puisqu'il vaut mieux prévenir que guérir, le vaccin contre la grippe est disponible à partir d'aujourd'hui. Ce patient en profite pour faire les deux injections.
+[00:01:18 - 00:01:23] Professionnel de santé:
+  Je peux te faire les deux vaccins, grippe et Covid, à un à deux centimètres d'intervalle ?
 
-**Pharmacien:**
-Je peux te faire les deux vaccins, grippe et Covid, à un à deux centimètres d'intervalle ?
+[00:01:25 - 00:01:38] Patient:
+  Faut mieux commencer plus tôt. Et comme c'est des vaccins qui durent très longtemps, en moyenne six mois, donc autant commencer tout de suite des débats pour éviter tous ces microbes qu'on a un peu partout dans le métro, dans le bus ou autre.
 
-**Patient:**
-Faut mieux commencer plus tôt. Et comme c'est des vaccins qui durent très longtemps, en moyenne six mois, donc autant commencer tout de suite d'emblée pour éviter tous ces microbes qu'on a un peu partout dans le métro, dans le bus ou autre.
+[00:01:38 - 00:01:55] Pharmacien:
+  Maintenant que les vaccinations sont en officine, c'est plus de travail, mais plus de travail intéressant. Et aussi, ça augmente le nombre de personnes vaccinées, Covid et grippe, ce qui est bien. Ça décharge les médecins et pour les personnes, c'est plus facile. Donc ils viennent plus facilement se faire vacciner contre le Covid et la grippe.
 
-**Pharmacien:**
-Maintenant que les vaccinations sont en officine, c'est plus de travail, mais plus de travail intéressant. Et aussi, ça augmente le nombre de personnes vaccinées, Covid et grippe, ce qui est bien. Ça décharge les médecins et pour les personnes, c'est plus facile. Donc ils viennent plus facilement se faire vacciner contre le Covid et la grippe.
+[00:01:56 - 00:02:02] Journaliste:
+  Après la recrudescence des cas de Covid, les professionnels de santé détectent également une précocité dans les cas de grippe cette année.",791,791,1.0,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""transcription post-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:19] Présentateur:\n  La campagne de vaccination contre la grippe et le Covid-19 commence donc aujourd'hui. L'an dernier, la faible couverture vaccinale a conduit à une épidémie de grippe particulièrement virulente avec plus de 17 000 décès en France. Un lancement de campagne alors qu'une pénurie d'autotest est à déplorer dans les pharmacies. Mathieu Caillot avec Gilles Beuzou et Antoine Joubeau.\n\n[00:00:21 - 00:00:36] Journaliste:\n  À peine quelques boîtes d'autotest sur les étagères et plus aucun test Covid-GRIP disponible. Comme de nombreuses pharmacies, cette officine du 19e arrondissement a été dévalisée la semaine dernière, après les annonces des 33 000 cas de Covid recensés.\n\n[00:00:36 - 00:00:50] Pharmacien:\n  Effectivement, on en manque un petit peu. On a du mal à s'en procurer, mais bon, on arrive à avoir quand même un petit stock, mais il part très, très vite. On regarde tous les jours si on peut en commander. Et sinon, on essaye de renvoyer vers des confrères à nous qui en auraient encore un stock et ce genre de choses.\n\n[00:00:51 - 00:01:04] Journaliste:\n  Cet hiver, les tests Covid réalisés en pharmacie ne sont plus pris en charge par la Sécu. Ils sont plus fiables mais coûtent 16,50€ au lieu de 3,90€ pour un autotest. 150 000 ont donc été vendus la semaine dernière, provoquant cette pénurie.\n\n[00:01:04 - 00:01:09] Patient:\n  Je viens pour le vaccin de la grippe et du Covid.\n\n[00:01:09 - 00:01:17] Journaliste:\n  Et puisqu'il vaut mieux prévenir que guérir, le vaccin contre la grippe est disponible à partir d'aujourd'hui. Ce patient en profite pour faire les deux injections.\n\n[00:01:18 - 00:01:23] Professionnel de santé:\n  Je peux te faire les deux vaccins, grippe et Covid, à un à deux centimètres d'intervalle ?\n\n[00:01:25 - 00:01:38] Patient:\n  Faut mieux commencer plus tôt. Et comme c'est des vaccins qui durent très longtemps, en moyenne six mois, donc autant commencer tout de suite des débats pour éviter tous ces microbes qu'on a un peu partout dans le métro, dans le bus ou autre.\n\n[00:01:38 - 00:01:55] Pharmacien:\n  Maintenant que les vaccinations sont en officine, c'est plus de travail, mais plus de travail intéressant. Et aussi, ça augmente le nombre de personnes vaccinées, Covid et grippe, ce qui est bien. Ça décharge les médecins et pour les personnes, c'est plus facile. Donc ils viennent plus facilement se faire vacciner contre le Covid et la grippe.\n\n[00:01:56 - 00:02:02] Journaliste:\n  Après la recrudescence des cas de Covid, les professionnels de santé détectent également une précocité dans les cas de grippe cette année."", 'original_length': 465, 'llm_length': 488, 'filtered_length': 486, 'match_start': 2, 'match_end': 487, 'coverage_ratio': 1.0451612903225806}","transcription post-traitée conformément à vos instructions :
 
-**Journaliste:**
-Après la recrudescence des cas de Covid, les professionnels de santé détectent également une précocité dans les cas de grippe cette année.",791,663,0.8381795195954488,True,
-transcript_formatted_457fca99-d6f0-4786-b1f0-6252018a8311.txt,1915,597,"[00:00:00 - 00:00:07] Voix 03 :
+[00:00:00 - 00:00:19] Présentateur:
+  La campagne de vaccination contre la grippe et le Covid-19 commence donc aujourd'hui. L'an dernier, la faible couverture vaccinale a conduit à une épidémie de grippe particulièrement virulente avec plus de 17 000 décès en France. Un lancement de campagne alors qu'une pénurie d'autotest est à déplorer dans les pharmacies. Mathieu Caillot avec Gilles Beuzou et Antoine Joubeau.
+
+[00:00:21 - 00:00:36] Journaliste:
+  À peine quelques boîtes d'autotest sur les étagères et plus aucun test Covid-GRIP disponible. Comme de nombreuses pharmacies, cette officine du 19e arrondissement a été dévalisée la semaine dernière, après les annonces des 33 000 cas de Covid recensés.
+
+[00:00:36 - 00:00:50] Pharmacien:
+  Effectivement, on en manque un petit peu. On a du mal à s'en procurer, mais bon, on arrive à avoir quand même un petit stock, mais il part très, très vite. On regarde tous les jours si on peut en commander. Et sinon, on essaye de renvoyer vers des confrères à nous qui en auraient encore un stock et ce genre de choses.
+
+[00:00:51 - 00:01:04] Journaliste:
+  Cet hiver, les tests Covid réalisés en pharmacie ne sont plus pris en charge par la Sécu. Ils sont plus fiables mais coûtent 16,50€ au lieu de 3,90€ pour un autotest. 150 000 ont donc été vendus la semaine dernière, provoquant cette pénurie.
+
+[00:01:04 - 00:01:09] Patient:
+  Je viens pour le vaccin de la grippe et du Covid.
+
+[00:01:09 - 00:01:17] Journaliste:
+  Et puisqu'il vaut mieux prévenir que guérir, le vaccin contre la grippe est disponible à partir d'aujourd'hui. Ce patient en profite pour faire les deux injections.
+
+[00:01:18 - 00:01:23] Professionnel de santé:
+  Je peux te faire les deux vaccins, grippe et Covid, à un à deux centimètres d'intervalle ?
+
+[00:01:25 - 00:01:38] Patient:
+  Faut mieux commencer plus tôt. Et comme c'est des vaccins qui durent très longtemps, en moyenne six mois, donc autant commencer tout de suite des débats pour éviter tous ces microbes qu'on a un peu partout dans le métro, dans le bus ou autre.
+
+[00:01:38 - 00:01:55] Pharmacien:
+  Maintenant que les vaccinations sont en officine, c'est plus de travail, mais plus de travail intéressant. Et aussi, ça augmente le nombre de personnes vaccinées, Covid et grippe, ce qui est bien. Ça décharge les médecins et pour les personnes, c'est plus facile. Donc ils viennent plus facilement se faire vacciner contre le Covid et la grippe.
+
+[00:01:56 - 00:02:02] Journaliste:
+  Après la recrudescence des cas de Covid, les professionnels de santé détectent également une précocité dans les cas de grippe cette année.",789,1.0451612903225806
+transcript_formatted_457fca99-d6f0-4786-b1f0-6252018a8311.txt,REGIONS,1915,597,"[00:00:00 - 00:00:07] Voix 03 :
   La façade porte encore les traces des cambriolages. Ce week-end, deux nuits d'affilée, cet établissement a été victime de voitures baignées.
 
 [00:00:08 - 00:00:23] Voix 01 :
@@ -674,31 +1030,50 @@ transcript_formatted_457fca99-d6f0-4786-b1f0-6252018a8311.txt,1915,597,"[00:00:0
   C'est vraiment dur à encaisser. Mais bon, il n'y a pas d'agression physique non plus. Mais bon, ils rentrent chez vous quand même. Et voilà, moi, je suis contre le vol. Et puis non, je ne supporte pas ça. Pour moi, c'est... Ah non, je suis en colère depuis hier, c'est atroce.
 
 [00:01:24 - 00:01:28] Voix 03 :
- Plusieurs bars, tabas et commerces de l'Océrois seraient la cible de cambriolage ces dernières semaines. Solicité, le parquet confirme qu'une enquête est en cours.","Voici la transcription post-traitée, conformément à vos instructions :
+ Plusieurs bars, tabas et commerces de l'Océrois seraient la cible de cambriolage ces dernières semaines. Solicité, le parquet confirme qu'une enquête est en cours.","Voici la transcription post-traitée :
 
-***
-
-Journaliste:
+[00:00:00 - 00:00:07] Voix 03 :
 La façade porte encore les traces des cambriolages. Ce week-end, deux nuits d'affilée, cet établissement a été victime de voitures béliers.
 
-Témoin 1:
-Il y a une voiture bélier qui est rentrée dans le bar et le gars, il est vite passé derrière comme ça là, et puis il est venu prendre son sac. Après, le système de sécurité s'est mis en route et donc, 50 secondes, on va dire, le temps qu'il fasse son affaire, et il est parti.
+[00:00:08 - 00:00:23] Voix 01 :
+Il y a une voiture bélier qui est rentrée dans le bar, et le gars, il est vite passé derrière comme ça là, et puis il est venu prendre son sac. Après, le système de sécurité s'est mis en route, et donc, 50 secondes, on va dire, le temps qu'il fasse son affaire, et il est reparti.
 
-Journaliste:
-Montant du butin : 2 200 euros de cigarettes. Les faits ont été enregistrés par les caméras de l'établissement, mais aussi par celles de la commune. Elles sont en cours d'exploitation. Le maire veut renforcer le système de vidéosurveillance, mais en mesure aussi les limites.
+[00:00:23 - 00:00:38] Voix 03 :
+Montant du butin : 2200 euros de cigarettes. Les faits ont été enregistrés par les caméras de l'établissement, mais aussi par celles de la commune. Elles sont en cours d'exploitation. Le maire veut renforcer le système de vidéosurveillance, mais en mesure aussi les limites.
 
-Maire:
-Non seulement on ne peut pas faire grand-chose, mais il faut savoir quand même qu'en six ans de mandat, c'est la première fois que ça arrive. Et malheureusement, cet acte odieux n'est pas le seul concerné puisque Monéteau, Charbuy, Villefargeau et d'autres communes ont été également touchées.
+[00:00:38 - 00:00:55] Voix 02 :
+Non seulement on ne peut pas faire grand-chose, mais il faut savoir quand même qu'en 6 ans de mandat, c'est la première fois que ça arrive. Et malheureusement, cet acte odieux à Poinchy n'est pas le seul concerné, puisque Saint-Georges, Monéteau, Chablis, Villefargeau et d'autres communes ont été également touchées.
 
-Journaliste:
-À seulement quelques kilomètres, cet autre bar-tabac a lui aussi fait l'objet d'un cambriolage. Dans la nuit de dimanche à lundi, 5 500 euros de cigarettes, là encore, ont été dérobés selon cette gérante. Elle est toujours sous le choc.
+[00:00:55 - 00:01:07] Voix 03 :
+À seulement quelques kilomètres, cet autre bar-tabac a lui aussi fait l'objet d'un cambriolage. Dans la nuit de dimanche à lundi, 5500 euros de cigarettes, là encore, ont été dérobés, selon cette gérante. Elle est toujours sous le choc.
 
-Témoin 2:
+[00:01:08 - 00:01:24] Voix 00 :
 C'est vraiment dur à encaisser. Mais bon, il n'y a pas d'agression physique non plus. Mais bon, ils rentrent chez vous quand même. Et voilà, moi, je suis contre le vol. Et puis non, je ne supporte pas ça. Pour moi, c'est... Ah non, je suis en colère depuis hier, c'est atroce.
 
-Journaliste:
-Plusieurs bars-tabacs et commerces de l'Auxerrois seraient la cible de cambriolages ces dernières semaines. Sollicité, le parquet confirme qu'une enquête est en cours.",597,509,0.8525963149078727,True,
-transcript_formatted_f9b9a214-a756-4477-b14e-f74d71d7ff97.txt,1233,395,"[00:00:00 - 00:00:03] Voix 01 :
+[00:01:24 - 00:01:28] Voix 03 :
+Plusieurs bars, tabacs et commerces de l'Auxerrois seraient la cible de cambriolages ces dernières semaines. Sollicité, le parquet confirme qu'une enquête est en cours.",597,623,1.0435510887772195,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée :\n\n[00:00:00 - 00:00:07] Voix 03 :\nLa façade porte encore les traces des cambriolages. Ce week-end, deux nuits d'affilée, cet établissement a été victime de voitures béliers.\n\n[00:00:08 - 00:00:23] Voix 01 :\nIl y a une voiture bélier qui est rentrée dans le bar, et le gars, il est vite passé derrière comme ça là, et puis il est venu prendre son sac. Après, le système de sécurité s'est mis en route, et donc, 50 secondes, on va dire, le temps qu'il fasse son affaire, et il est reparti.\n\n[00:00:23 - 00:00:38] Voix 03 :\nMontant du butin : 2200 euros de cigarettes. Les faits ont été enregistrés par les caméras de l'établissement, mais aussi par celles de la commune. Elles sont en cours d'exploitation. Le maire veut renforcer le système de vidéosurveillance, mais en mesure aussi les limites.\n\n[00:00:38 - 00:00:55] Voix 02 :\nNon seulement on ne peut pas faire grand-chose, mais il faut savoir quand même qu'en 6 ans de mandat, c'est la première fois que ça arrive. Et malheureusement, cet acte odieux à Poinchy n'est pas le seul concerné, puisque Saint-Georges, Monéteau, Chablis, Villefargeau et d'autres communes ont été également touchées.\n\n[00:00:55 - 00:01:07] Voix 03 :\nÀ seulement quelques kilomètres, cet autre bar-tabac a lui aussi fait l'objet d'un cambriolage. Dans la nuit de dimanche à lundi, 5500 euros de cigarettes, là encore, ont été dérobés, selon cette gérante. Elle est toujours sous le choc.\n\n[00:01:08 - 00:01:24] Voix 00 :\nC'est vraiment dur à encaisser. Mais bon, il n'y a pas d'agression physique non plus. Mais bon, ils rentrent chez vous quand même. Et voilà, moi, je suis contre le vol. Et puis non, je ne supporte pas ça. Pour moi, c'est... Ah non, je suis en colère depuis hier, c'est atroce.\n\n[00:01:24 - 00:01:28] Voix 03 :\nPlusieurs bars, tabacs et commerces de l'Auxerrois seraient la cible de cambriolages ces dernières semaines. Sollicité, le parquet confirme qu'une enquête est en cours."", 'original_length': 374, 'llm_length': 397, 'filtered_length': 396, 'match_start': 1, 'match_end': 396, 'coverage_ratio': 1.0588235294117647}","la transcription post-traitée :
+
+[00:00:00 - 00:00:07] Voix 03 :
+La façade porte encore les traces des cambriolages. Ce week-end, deux nuits d'affilée, cet établissement a été victime de voitures béliers.
+
+[00:00:08 - 00:00:23] Voix 01 :
+Il y a une voiture bélier qui est rentrée dans le bar, et le gars, il est vite passé derrière comme ça là, et puis il est venu prendre son sac. Après, le système de sécurité s'est mis en route, et donc, 50 secondes, on va dire, le temps qu'il fasse son affaire, et il est reparti.
+
+[00:00:23 - 00:00:38] Voix 03 :
+Montant du butin : 2200 euros de cigarettes. Les faits ont été enregistrés par les caméras de l'établissement, mais aussi par celles de la commune. Elles sont en cours d'exploitation. Le maire veut renforcer le système de vidéosurveillance, mais en mesure aussi les limites.
+
+[00:00:38 - 00:00:55] Voix 02 :
+Non seulement on ne peut pas faire grand-chose, mais il faut savoir quand même qu'en 6 ans de mandat, c'est la première fois que ça arrive. Et malheureusement, cet acte odieux à Poinchy n'est pas le seul concerné, puisque Saint-Georges, Monéteau, Chablis, Villefargeau et d'autres communes ont été également touchées.
+
+[00:00:55 - 00:01:07] Voix 03 :
+À seulement quelques kilomètres, cet autre bar-tabac a lui aussi fait l'objet d'un cambriolage. Dans la nuit de dimanche à lundi, 5500 euros de cigarettes, là encore, ont été dérobés, selon cette gérante. Elle est toujours sous le choc.
+
+[00:01:08 - 00:01:24] Voix 00 :
+C'est vraiment dur à encaisser. Mais bon, il n'y a pas d'agression physique non plus. Mais bon, ils rentrent chez vous quand même. Et voilà, moi, je suis contre le vol. Et puis non, je ne supporte pas ça. Pour moi, c'est... Ah non, je suis en colère depuis hier, c'est atroce.
+
+[00:01:24 - 00:01:28] Voix 03 :
+Plusieurs bars, tabacs et commerces de l'Auxerrois seraient la cible de cambriolages ces dernières semaines. Sollicité, le parquet confirme qu'une enquête est en cours.",621,1.0588235294117647
+transcript_formatted_f9b9a214-a756-4477-b14e-f74d71d7ff97.txt,REGIONS,1233,395,"[00:00:00 - 00:00:03] Voix 01 :
   Qu'est-ce qu'elles ont de particulier ces enforts ?
 
 [00:00:03 - 00:00:26] Voix 00 :
@@ -708,16 +1083,28 @@ transcript_formatted_f9b9a214-a756-4477-b14e-f74d71d7ff97.txt,1233,395,"[00:00:0
   Ce qu'il faut imaginer aussi, c'est le contexte de production viticole importante ?
 
 [00:00:32 - 00:00:40] Voix 00 :
- Avec ces enfants, on peut trouver qu'il y a une production de vin déjà dans le Narbonne qui est très importante. Au siècle d'avant, c'est le vin italien qui inonde tout l'empire et la Gaule. À partir du 1er siècle après Jésus Christ, c'est le vin de Gaule qui va être diffusé dans tout l'empire romain, y compris jusqu'à Rome.  Et depuis quelques années, où on sait mieux les reconnaître, on s'aperçoit qu'on en a vraiment partout. Sur le dimanche germanique, en Suisse, en Italie évidemment, en Grèce et jusqu'en Inde.","Voici la transcription post-traitée conformément aux instructions :
+ Avec ces enfants, on peut trouver qu'il y a une production de vin déjà dans le Narbonne qui est très importante. Au siècle d'avant, c'est le vin italien qui inonde tout l'empire et la Gaule. À partir du 1er siècle après Jésus Christ, c'est le vin de Gaule qui va être diffusé dans tout l'empire romain, y compris jusqu'à Rome.  Et depuis quelques années, où on sait mieux les reconnaître, on s'aperçoit qu'on en a vraiment partout. Sur le dimanche germanique, en Suisse, en Italie évidemment, en Grèce et jusqu'en Inde.","Voici la transcription post-traitée :
 
-Journaliste:
+[00:00:00 - 00:00:03] Journaliste:
 Qu'est-ce qu'elles ont de particulier ces amphores ?
 
-Invité:
-Rien de particulier par rapport aux amphores italiennes, si ce n'est qu'elles ne sont pas pointues. Elles ont un fond plat, donc plus facile à fabriquer et à utiliser. Et surtout, elles ont réussi à donner une épaisseur deux fois moindre que les amphores italiennes. Donc, on a un objet qui fait 10 kilos à vide, la moitié du poids des amphores italiennes, et qui peut contenir beaucoup plus, c'est-à-dire jusqu'à 26 à 30 litres de contenu.
+[00:00:03 - 00:00:26] Invité:
+Rien de particulier par rapport aux amphores italiennes, si ce n'est qu'elles ne sont pas pointues. Elles ont un fond plat, donc plus facile à fabriquer et à utiliser. Et surtout, elles ont réussi à donner une épaisseur deux fois moindre que les amphores italiennes. Donc on a un objet qui fait que 10 kilos à vide, la moitié du poids des amphores italiennes, et qui peut contenir beaucoup plus, c'est-à-dire jusqu'à 26 à 30 litres de contenu.
 
-Journaliste:
+[00:00:27 - 00:00:32] Journaliste:
 Ce qu'il faut imaginer aussi, c'est le contexte de production viticole importante ?
 
-Invité:
-Avec ces amphores, on peut trouver qu'il y a une production de vin déjà dans la Narbonnaise qui est très importante. Au siècle d'avant, c'est le vin italien qui inonde tout l'Empire et la Gaule. À partir du 1er siècle après Jésus-Christ, c'est le vin de Gaule qui va être diffusé dans tout l'Empire romain, y compris jusqu'à Rome. Et depuis quelques années, où on sait mieux les reconnaître, on s'aperçoit qu'on en a vraiment partout : sur le limes germanique, en Suisse, en Italie évidemment, en Grèce et jusqu'en Inde.",395,341,0.8632911392405064,True,
+[00:00:32 - 00:00:40] Invité:
+Avec ces amphores, on peut trouver qu'il y a une production de vin déjà dans la Narbonnaise qui est très importante. Au siècle d'avant, c'est le vin italien qui inonde tout l'empire et la Gaule. À partir du 1er siècle après Jésus-Christ, c'est le vin de Gaule qui va être diffusé dans tout l'empire romain, y compris jusqu'à Rome. Et depuis quelques années, où on sait mieux les reconnaître, on s'aperçoit qu'on en a vraiment partout. Sur le monde germanique, en Suisse, en Italie évidemment, en Grèce et jusqu'en Inde.",395,392,0.9924050632911392,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée :\n\n[00:00:00 - 00:00:03] Journaliste:\nQu'est-ce qu'elles ont de particulier ces amphores ?\n\n[00:00:03 - 00:00:26] Invité:\nRien de particulier par rapport aux amphores italiennes, si ce n'est qu'elles ne sont pas pointues. Elles ont un fond plat, donc plus facile à fabriquer et à utiliser. Et surtout, elles ont réussi à donner une épaisseur deux fois moindre que les amphores italiennes. Donc on a un objet qui fait que 10 kilos à vide, la moitié du poids des amphores italiennes, et qui peut contenir beaucoup plus, c'est-à-dire jusqu'à 26 à 30 litres de contenu.\n\n[00:00:27 - 00:00:32] Journaliste:\nCe qu'il faut imaginer aussi, c'est le contexte de production viticole importante ?\n\n[00:00:32 - 00:00:40] Invité:\nAvec ces amphores, on peut trouver qu'il y a une production de vin déjà dans la Narbonnaise qui est très importante. Au siècle d'avant, c'est le vin italien qui inonde tout l'empire et la Gaule. À partir du 1er siècle après Jésus-Christ, c'est le vin de Gaule qui va être diffusé dans tout l'empire romain, y compris jusqu'à Rome. Et depuis quelques années, où on sait mieux les reconnaître, on s'aperçoit qu'on en a vraiment partout. Sur le monde germanique, en Suisse, en Italie évidemment, en Grèce et jusqu'en Inde."", 'original_length': 257, 'llm_length': 265, 'filtered_length': 264, 'match_start': 1, 'match_end': 264, 'coverage_ratio': 1.027237354085603}","la transcription post-traitée :
+
+[00:00:00 - 00:00:03] Journaliste:
+Qu'est-ce qu'elles ont de particulier ces amphores ?
+
+[00:00:03 - 00:00:26] Invité:
+Rien de particulier par rapport aux amphores italiennes, si ce n'est qu'elles ne sont pas pointues. Elles ont un fond plat, donc plus facile à fabriquer et à utiliser. Et surtout, elles ont réussi à donner une épaisseur deux fois moindre que les amphores italiennes. Donc on a un objet qui fait que 10 kilos à vide, la moitié du poids des amphores italiennes, et qui peut contenir beaucoup plus, c'est-à-dire jusqu'à 26 à 30 litres de contenu.
+
+[00:00:27 - 00:00:32] Journaliste:
+Ce qu'il faut imaginer aussi, c'est le contexte de production viticole importante ?
+
+[00:00:32 - 00:00:40] Invité:
+Avec ces amphores, on peut trouver qu'il y a une production de vin déjà dans la Narbonnaise qui est très importante. Au siècle d'avant, c'est le vin italien qui inonde tout l'empire et la Gaule. À partir du 1er siècle après Jésus-Christ, c'est le vin de Gaule qui va être diffusé dans tout l'empire romain, y compris jusqu'à Rome. Et depuis quelques années, où on sait mieux les reconnaître, on s'aperçoit qu'on en a vraiment partout. Sur le monde germanique, en Suisse, en Italie évidemment, en Grèce et jusqu'en Inde.",390,1.027237354085603

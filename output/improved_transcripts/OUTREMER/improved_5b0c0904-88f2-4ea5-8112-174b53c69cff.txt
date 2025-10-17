@@ -1,16 +1,18 @@
 Voici la transcription post-traitée conformément à vos instructions :
 
-Voix 00:
+```
+[00:00:05 - 00:00:06] Locuteur 1:
 On fait une entrée d'eau.
 
 
-Voix --:
+[00:00:06 - 00:00:07] Locuteur 2:
 On fait une sortie d'eau.
 
 
-Voix 00:
-Et après on fait un lieu où vous n'avez pas d'aide. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste C'est pas mal ! C'est beau !
+[00:00:07 - 00:00:10] Locuteur 1:
+Et après on fait un lieu où vous n'avez pas d'aide. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste C'est pas mal ! C'est beau.
 
 
-Voix --:
+[00:01:41 - 00:01:45] Locuteur 2:
 Ah, il y en a même pas. Wouhou !
+```

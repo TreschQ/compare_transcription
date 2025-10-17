@@ -1,22 +1,22 @@
-Voici la transcription post-traitée selon les instructions :
+Voici la transcription post-traitée :
 
-Journaliste:
+[00:00:01 - 00:00:13] Narrateur :
 Depuis un an, Anastasia n'a plus Windows sur son poste de travail. Elle utilise Linux, un système d'exploitation libre, gratuit, et dont l'apparence ressemble au bien connu système américain.
 
-Invité 1 (Anastasia):
-Quand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau, mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.
+[00:00:15 - 00:00:47] Anastasia :
+Quand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau : mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.
 
-Journaliste:
-Sur les 1000 postes de travail de la mairie des Chiroles, une centaine sont comme celui d'Anastasia, équipée de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.
+[00:00:47 - 00:00:58] Narrateur :
+Sur les 1000 postes de travail de la mairie d'Échirolles, une centaine sont comme celui d'Anastasia, équipés de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.
 
-Invité 2 (Élu au numérique):
-Le logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répond à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.
+[00:00:59 - 00:01:23] Élu au numérique :
+Le logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répondent à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.
 
-Journaliste:
-Économie, écologie et sécurité. Grâce à l'utilisation des logiciels libres, les données des habitants sont stockées et hébergées au sous-sol de la mairie.
+[00:01:24 - 00:01:34] Narrateur :
+Économie, écologie et sécurité grâce à l'utilisation des logiciels libres : les données des habitants sont stockées et hébergées au sous-sol de la mairie.
 
-Invité 2 (Élu au numérique):
-Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème par exemple.
+[0001:34 - 00:01:50] Expert IT :
+Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc, ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème, par exemple.
 
-Journaliste:
+[00:01:51 - 00:01:57] Narrateur :
 Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.

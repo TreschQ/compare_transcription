@@ -1,0 +1,26 @@
+[00:00:01 - 00:00:13] Voix 03 :
+Depuis un an, Anastasia n'a plus Windows sur son poste de travail. Elle utilise Linux, un système d'exploitation libre, gratuit, et dont l'apparence ressemble au bien connu système américain.
+
+
+[00:00:15 - 00:00:47] Voix 02 :
+Quand on allume son ordinateur, on arrive sur son bureau, tout simplement, avec ici une barre d'outils, une barre de recherche ici qui ressemble à un menu Démarrer Windows classique, avec un explorateur de fichiers, pareil, similaire à un bureau, mes documents, mes images. Pour mon poste à moi et ce que je fais, ça fonctionne exactement de la même façon. On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers, on a un cloud qui est commun, qui est stocké sur les serveurs de la ville.
+
+
+[00:00:47 - 00:00:58] Voix 03 :
+Sur les 1000 postes de travail de la mairie des Échirolles, une centaine sont comme celui d'Anastasia, équipée de Linux. Un début pour l'élu au numérique qui souhaite élargir son utilisation.
+
+
+[00:00:59 - 00:01:23] Voix 00 :
+Le logiciel libre répondait à notre impératif de souveraineté sur les données. Ça répondait aussi à un enjeu, celui de l'empreinte environnementale du numérique. Et on sait que le logiciel libre et Linux, en termes de distribution de systèmes d'exploitation, répond à cet impératif-là. Ne serait-ce que parce que, par exemple, il a réussi à prolonger deux ans la durée de vie de notre parc matériel. Et également parce que c'est celui qui répondait à un impératif d'économie de gestion.
+
+
+[00:01:24 - 00:01:34] Voix 03 :
+Économie, écologie et sécurité grâce à l'utilisation des logiciels libres, les données des habitants sont stockées et hébergées au sous-sol de la mairie.
+
+
+[00:01:34 - 00:01:50] Voix 01 :
+Et parce qu'on est maître de son système d'informatique, on est maître de ses données. Donc ça a l'avantage de pouvoir les protéger, en tout cas d'être responsabilisé sur la protection des données des habitants. Ça a aussi l'avantage de ne pas être dépendant d'un acteur extérieur en cas de problème par exemple.
+
+
+[00:01:51 - 00:01:57] Voix 03 :
+Les logiciels libres ont permis à la Ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.

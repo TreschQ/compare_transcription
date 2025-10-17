@@ -1,0 +1,6148 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-17T13:18:02.697334",
+    "perimetre": "REGIONS",
+    "model_used": "gemini-2.5-flash",
+    "total_files_processed": 21,
+    "successful_analyses": 21
+  },
+  "analyses": [
+    {
+      "filename": "transcript_formatted_55ffbb6e-5c9d-4f16-aa75-36256c91b6ce.txt",
+      "categorizations": {
+        "orthographic": [
+          {
+            "original": [
+              "répond"
+            ],
+            "improved": [
+              "répondent"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          }
+        ],
+        "grammatical": [
+          {
+            "original": [
+              "démarrer"
+            ],
+            "improved": [
+              "Démarrer"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "équipée"
+            ],
+            "improved": [
+              "équipés"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          }
+        ],
+        "punctuation": [
+          {
+            "original": [
+              ","
+            ],
+            "improved": [
+              ":"
+            ],
+            "original_pos": [
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "original": [
+              ","
+            ],
+            "improved": [
+              ":"
+            ],
+            "original_pos": [
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "lexical": [
+          {
+            "original": [
+              "00:01:34"
+            ],
+            "improved": [
+              "0001:34"
+            ],
+            "original_pos": [
+              "PROPN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Narrateur"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Anastasia"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Narrateur"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "des",
+              "Chiroles"
+            ],
+            "improved": [
+              "d'",
+              "Échirolles"
+            ],
+            "original_pos": [
+              "ADP",
+              "PROPN"
+            ],
+            "improved_pos": [
+              "ADP",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Élu",
+              "au",
+              "numérique"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB",
+              "ADP",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Narrateur"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Expert",
+              "IT"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Narrateur"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "orthographic_VERB": 2,
+          "grammatical_VERB": 2,
+          "grammatical_PROPN": 1,
+          "grammatical_ADJ": 1,
+          "punctuation_PUNCT": 4,
+          "lexical_PROPN": 2,
+          "structural_NOUN": 12,
+          "structural_NUM": 7,
+          "structural_PROPN": 5,
+          "structural_ADP": 3,
+          "structural_VERB": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 17,
+        "change_types": {
+          "orthographic": 1,
+          "grammatical": 2,
+          "punctuation": 2,
+          "lexical": 1,
+          "structural": 8,
+          "additions": 3,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            12
+          ],
+          [
+            "structural_NUM",
+            7
+          ],
+          [
+            "structural_PROPN",
+            5
+          ],
+          [
+            "punctuation_PUNCT",
+            4
+          ],
+          [
+            "structural_ADP",
+            3
+          ],
+          [
+            "orthographic_VERB",
+            2
+          ],
+          [
+            "grammatical_VERB",
+            2
+          ],
+          [
+            "lexical_PROPN",
+            2
+          ],
+          [
+            "grammatical_PROPN",
+            1
+          ],
+          [
+            "grammatical_ADJ",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.29,
+          "positive_changes": 9,
+          "negative_changes": 4.0,
+          "total_changes": 17
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697350"
+    },
+    {
+      "filename": "transcript_formatted_a7a3522a-e5d2-4c59-9c7a-228dbd9f3468.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [],
+        "additions": [],
+        "deletions": [],
+        "pos_changes": {}
+      },
+      "report_summary": {
+        "total_changes": 0,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [],
+        "quality_metrics": {
+          "improvement_score": 0
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697352"
+    },
+    {
+      "filename": "transcript_formatted_a434d7e1-ac87-45df-85dd-8afcea96cd0d.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [
+          {
+            "original": [
+              "narcotrafique"
+            ],
+            "improved": [
+              "narcotrafic"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "igiaphone"
+            ],
+            "improved": [
+              "hygiaphone"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "narcotrafique"
+            ],
+            "improved": [
+              "narcotrafic"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          }
+        ],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "narcotrafique"
+            ],
+            "improved": [
+              "narcotrafic"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Invité",
+              "1"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Invité",
+              "2"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "grammatical_ADJ": 3,
+          "grammatical_NOUN": 1,
+          "grammatical_PROPN": 1,
+          "grammatical_VERB": 1,
+          "lexical_NOUN": 2,
+          "structural_NOUN": 7,
+          "structural_NUM": 7,
+          "structural_PROPN": 3
+        }
+      },
+      "report_summary": {
+        "total_changes": 10,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 3,
+          "punctuation": 0,
+          "lexical": 1,
+          "structural": 5,
+          "additions": 1,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            7
+          ],
+          [
+            "structural_NUM",
+            7
+          ],
+          [
+            "grammatical_ADJ",
+            3
+          ],
+          [
+            "structural_PROPN",
+            3
+          ],
+          [
+            "lexical_NOUN",
+            2
+          ],
+          [
+            "grammatical_NOUN",
+            1
+          ],
+          [
+            "grammatical_PROPN",
+            1
+          ],
+          [
+            "grammatical_VERB",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.45,
+          "positive_changes": 7,
+          "negative_changes": 2.5,
+          "total_changes": 10
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697354"
+    },
+    {
+      "filename": "transcript_formatted_ab6060c6-d8cb-4112-8263-5f6e180b2e3c.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "8"
+            ],
+            "improved": [
+              "huit"
+            ],
+            "original_pos": [
+              "NUM"
+            ],
+            "improved_pos": [
+              "NUM"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Client"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "ADV"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "ils",
+              "préfèrent"
+            ],
+            "improved": [
+              "il",
+              "préfère"
+            ],
+            "original_pos": [
+              "PRON",
+              "VERB"
+            ],
+            "improved_pos": [
+              "PRON",
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Boulanger"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Boulanger"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [],
+        "deletions": [],
+        "pos_changes": {
+          "lexical_NUM": 2,
+          "structural_NOUN": 7,
+          "structural_NUM": 7,
+          "structural_PROPN": 6,
+          "structural_ADV": 1,
+          "structural_PRON": 2,
+          "structural_VERB": 2
+        }
+      },
+      "report_summary": {
+        "total_changes": 9,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 1,
+          "structural": 8,
+          "additions": 0,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            7
+          ],
+          [
+            "structural_NUM",
+            7
+          ],
+          [
+            "structural_PROPN",
+            6
+          ],
+          [
+            "lexical_NUM",
+            2
+          ],
+          [
+            "structural_PRON",
+            2
+          ],
+          [
+            "structural_VERB",
+            2
+          ],
+          [
+            "structural_ADV",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.33,
+          "positive_changes": 1,
+          "negative_changes": 4.0,
+          "total_changes": 9
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697355"
+    },
+    {
+      "filename": "transcript_formatted_0bbc4992-4fcf-4a55-b468-057843a231df.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [
+          {
+            "original": [
+              "accuser"
+            ],
+            "improved": [
+              "accusé"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Avocat",
+              "Parties",
+              "Civiles"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "PROPN",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Avocat"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Avocat",
+              "Défense"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "socio",
+              "judiciaires"
+            ],
+            "improved": [
+              "socio-judiciaires"
+            ],
+            "original_pos": [
+              "ADJ",
+              "ADJ"
+            ],
+            "improved_pos": [
+              "ADJ"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "grammatical_VERB": 1,
+          "grammatical_NOUN": 1,
+          "structural_NOUN": 8,
+          "structural_NUM": 6,
+          "structural_PROPN": 7,
+          "structural_ADJ": 3
+        }
+      },
+      "report_summary": {
+        "total_changes": 13,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 1,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 7,
+          "additions": 5,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            8
+          ],
+          [
+            "structural_PROPN",
+            7
+          ],
+          [
+            "structural_NUM",
+            6
+          ],
+          [
+            "structural_ADJ",
+            3
+          ],
+          [
+            "grammatical_VERB",
+            1
+          ],
+          [
+            "grammatical_NOUN",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.12,
+          "positive_changes": 2,
+          "negative_changes": 3.5,
+          "total_changes": 13
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697356"
+    },
+    {
+      "filename": "transcript_formatted_03291620-becb-465e-a66b-dee3bc3f13b1.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Nora",
+              "Kostenko"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "Et",
+              "après",
+              ",",
+              "j'",
+              "ai",
+              "gagné",
+              "la",
+              "première",
+              "place",
+              "avec",
+              "Yanael",
+              ".",
+              "J'",
+              "ai",
+              "toujours",
+              "joué",
+              "le",
+              "même",
+              "morceau",
+              ",",
+              "c'",
+              "était",
+              "l'",
+              "April",
+              "8",
+              "de",
+              "Igor",
+              "Chameau",
+              ".",
+              "Igor",
+              "Chameau",
+              ",",
+              "c'",
+              "est",
+              "un",
+              "compositeur",
+              "ukrainien",
+              "contemporain",
+              ".",
+              "J'",
+              "aime",
+              "bien",
+              "ce",
+              "morceau",
+              "parce",
+              "qu'",
+              "il",
+              "parle",
+              "de",
+              "notre",
+              "pays",
+              ",",
+              "de",
+              "la",
+              "guerre",
+              ",",
+              "de",
+              "mes",
+              "amis",
+              "anciens",
+              ".",
+              "J'",
+              "aime",
+              "bien",
+              "le",
+              "jouer",
+              "parce",
+              "qu'",
+              "il",
+              "me",
+              "ressemble",
+              ".",
+              "Il",
+              "y",
+              "a",
+              "des",
+              "notes",
+              "qui",
+              "font",
+              "une",
+              "histoire",
+              "d'",
+              "Ukraine",
+              ".",
+              "J'",
+              "ai",
+              "gagné",
+              "un",
+              "piano",
+              "Yamaha",
+              ",",
+              "et",
+              "j'",
+              "étais",
+              "trop",
+              "contente",
+              ".",
+              "Il",
+              "est",
+              "arrivé",
+              "le",
+              "28",
+              "août",
+              ",",
+              "donc",
+              "ce",
+              "n'",
+              "était",
+              "pas",
+              "trop",
+              "long",
+              ".",
+              "En",
+              "Ukraine",
+              ",",
+              "j'",
+              "avais",
+              "une",
+              "vie",
+              "super",
+              "joyeuse",
+              ".",
+              "J'",
+              "avais",
+              "plein",
+              "d'",
+              "amis",
+              ",",
+              "j'",
+              "avais",
+              "deux",
+              "écoles",
+              ",",
+              "une",
+              "primaire",
+              "et",
+              "une",
+              "de",
+              "musique",
+              ".",
+              "Mais",
+              "tout",
+              "a",
+              "changé",
+              "très",
+              "tôt",
+              "le",
+              "matin",
+              "du",
+              "24",
+              "février",
+              "2022",
+              ".",
+              "Je",
+              "me",
+              "suis",
+              "réveillée",
+              "à",
+              "cause",
+              "de",
+              "bruits",
+              "horribles",
+              ",",
+              "c'",
+              "était",
+              "les",
+              "explosions",
+              ".",
+              "Mes",
+              "parents",
+              "ont",
+              "décidé",
+              "vite",
+              "de",
+              "partir",
+              ".",
+              "On",
+              "a",
+              "voyagé",
+              "des",
+              "jours",
+              "et",
+              "on",
+              "est",
+              "arrivé",
+              "en",
+              "France",
+              ".",
+              "J'",
+              "ai",
+              "commencé",
+              "le",
+              "piano",
+              "à",
+              "5",
+              "ans",
+              ".",
+              "Le",
+              "plus",
+              "ancien",
+              "souvenir",
+              "que",
+              "j'",
+              "ai",
+              ",",
+              "c'",
+              "est",
+              "quand",
+              "j'",
+              "avais",
+              "à",
+              "peine",
+              "2",
+              "ans",
+              ".",
+              "J'",
+              "ai",
+              "écouté",
+              "ma",
+              "grande",
+              "sœur",
+              "Michèle",
+              "qui",
+              "jouait",
+              "plein",
+              "de",
+              "morceaux",
+              "de",
+              "Chopin",
+              ",",
+              "Mozart",
+              ",",
+              "Debussy",
+              ".",
+              "Une",
+              "fois",
+              ",",
+              "j'",
+              "ai",
+              "grimpé",
+              "sur",
+              "le",
+              "tabouret",
+              ",",
+              "j'",
+              "ai",
+              "appuyé",
+              "sur",
+              "une",
+              "touche",
+              ".",
+              "C'",
+              "était",
+              "pour",
+              "moi",
+              ",",
+              "c'",
+              "était",
+              "comme",
+              "une",
+              "magie",
+              "et",
+              "pour",
+              "moi",
+              ",",
+              "le",
+              "piano",
+              ",",
+              "c'",
+              "est",
+              "comme",
+              "un",
+              "jouet",
+              "qui",
+              "me",
+              "parle",
+              ".",
+              "Mon",
+              "papa",
+              "est",
+              "prof",
+              "d'",
+              "orchestre",
+              ".",
+              "Ma",
+              "mamie",
+              ",",
+              "elle",
+              "est",
+              "professeure",
+              "de",
+              "musique",
+              ".",
+              "Ma",
+              "grande",
+              "sœur",
+              "joue",
+              "aussi",
+              "du",
+              "piano",
+              ",",
+              "donc",
+              "je",
+              "voulais",
+              "être",
+              "aussi",
+              "pianiste",
+              ".",
+              "J'",
+              "aime",
+              "bien",
+              "jouer",
+              "plusieurs",
+              "compositeurs",
+              ",",
+              "par",
+              "exemple",
+              "Bach",
+              "ou",
+              "Schubert",
+              ".",
+              "J'",
+              "aime",
+              "bien",
+              "aussi",
+              "du",
+              "jazz",
+              ",",
+              "mais",
+              "je",
+              "n'",
+              "ai",
+              "pas",
+              "encore",
+              "appris",
+              ".",
+              "Je",
+              "sais",
+              "que",
+              "dans",
+              "le",
+              "futur",
+              "je",
+              "vais",
+              "être",
+              "professeure",
+              "de",
+              "musique",
+              "et",
+              "faire",
+              "plein",
+              "de",
+              "concerts",
+              ".",
+              "Et",
+              "je",
+              "sais",
+              "que",
+              "si",
+              "tu",
+              "ne",
+              "fais",
+              "pas",
+              "ça",
+              ",",
+              "tu",
+              "ne",
+              "seras",
+              "pas",
+              "dans",
+              "le",
+              "futur",
+              "ce",
+              "que",
+              "tu",
+              "veux",
+              ".",
+              "Donc",
+              "je",
+              "fais",
+              "par",
+              "jour",
+              "4",
+              "heures",
+              "ou",
+              "13",
+              "heures",
+              "de",
+              "piano",
+              "parce",
+              "que",
+              "je",
+              "sais",
+              "que",
+              "le",
+              "piano",
+              ",",
+              "c'",
+              "est",
+              "comme",
+              "mon",
+              "ami",
+              "pour",
+              "la",
+              "vie",
+              ".",
+              "J'",
+              "ai",
+              "écouté",
+              "un",
+              "concert",
+              "à",
+              "Paris",
+              ",",
+              "c'",
+              "était",
+              "féérique",
+              ".",
+              "C'",
+              "est",
+              "comme",
+              "un",
+              "château",
+              "musical",
+              ".",
+              "Je",
+              "rêve",
+              "de",
+              "faire",
+              "un",
+              "concert",
+              "là",
+              "-",
+              "bas",
+              "avec",
+              "un",
+              "orchestre",
+              "derrière",
+              "moi",
+              ".",
+              "Peut",
+              "-",
+              "être",
+              "ça",
+              "va",
+              "arriver",
+              "un",
+              "jour",
+              "."
+            ],
+            "pos": [
+              "CCONJ",
+              "ADP",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "ADJ",
+              "NOUN",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "ADV",
+              "VERB",
+              "DET",
+              "ADJ",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "DET",
+              "NOUN",
+              "NUM",
+              "ADP",
+              "PROPN",
+              "PROPN",
+              "PUNCT",
+              "PROPN",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "DET",
+              "NOUN",
+              "ADJ",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADV",
+              "DET",
+              "NOUN",
+              "SCONJ",
+              "SCONJ",
+              "PRON",
+              "VERB",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "ADP",
+              "DET",
+              "NOUN",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADV",
+              "PRON",
+              "VERB",
+              "SCONJ",
+              "SCONJ",
+              "PRON",
+              "PRON",
+              "VERB",
+              "PUNCT",
+              "PRON",
+              "PRON",
+              "VERB",
+              "DET",
+              "NOUN",
+              "PRON",
+              "VERB",
+              "DET",
+              "NOUN",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "NOUN",
+              "PROPN",
+              "PUNCT",
+              "CCONJ",
+              "PRON",
+              "VERB",
+              "ADV",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "NUM",
+              "NOUN",
+              "PUNCT",
+              "ADV",
+              "PRON",
+              "ADV",
+              "AUX",
+              "ADV",
+              "ADV",
+              "ADJ",
+              "PUNCT",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "DET",
+              "NOUN",
+              "VERB",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADJ",
+              "ADP",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "NUM",
+              "NOUN",
+              "PUNCT",
+              "DET",
+              "NOUN",
+              "CCONJ",
+              "DET",
+              "ADP",
+              "NOUN",
+              "PUNCT",
+              "CCONJ",
+              "PRON",
+              "AUX",
+              "VERB",
+              "ADV",
+              "ADV",
+              "DET",
+              "NOUN",
+              "ADP",
+              "NUM",
+              "NOUN",
+              "NUM",
+              "PUNCT",
+              "PRON",
+              "PRON",
+              "AUX",
+              "VERB",
+              "ADP",
+              "NOUN",
+              "ADP",
+              "NOUN",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "DET",
+              "NOUN",
+              "AUX",
+              "VERB",
+              "ADV",
+              "ADP",
+              "VERB",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "NOUN",
+              "CCONJ",
+              "PRON",
+              "AUX",
+              "VERB",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "NOUN",
+              "ADP",
+              "NUM",
+              "NOUN",
+              "PUNCT",
+              "DET",
+              "ADV",
+              "ADJ",
+              "NOUN",
+              "SCONJ",
+              "PRON",
+              "AUX",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "SCONJ",
+              "PRON",
+              "VERB",
+              "ADP",
+              "NOUN",
+              "NUM",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "ADJ",
+              "DET",
+              "PROPN",
+              "PRON",
+              "VERB",
+              "ADJ",
+              "ADP",
+              "NOUN",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PROPN",
+              "PUNCT",
+              "PROPN",
+              "PUNCT",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "ADP",
+              "PRON",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "ADP",
+              "DET",
+              "NOUN",
+              "CCONJ",
+              "ADP",
+              "PRON",
+              "PUNCT",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PRON",
+              "PRON",
+              "ADJ",
+              "PUNCT",
+              "DET",
+              "NOUN",
+              "AUX",
+              "ADJ",
+              "ADP",
+              "VERB",
+              "PUNCT",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "NOUN",
+              "ADP",
+              "NOUN",
+              "PUNCT",
+              "DET",
+              "ADJ",
+              "NOUN",
+              "VERB",
+              "ADV",
+              "ADP",
+              "NOUN",
+              "PUNCT",
+              "ADV",
+              "PRON",
+              "VERB",
+              "AUX",
+              "ADV",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADV",
+              "VERB",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "ADP",
+              "NOUN",
+              "PROPN",
+              "CCONJ",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADV",
+              "ADV",
+              "ADP",
+              "NOUN",
+              "PUNCT",
+              "CCONJ",
+              "PRON",
+              "ADV",
+              "AUX",
+              "ADV",
+              "ADV",
+              "VERB",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "SCONJ",
+              "ADP",
+              "DET",
+              "ADJ",
+              "PRON",
+              "VERB",
+              "AUX",
+              "NOUN",
+              "ADP",
+              "NOUN",
+              "CCONJ",
+              "VERB",
+              "ADJ",
+              "ADP",
+              "NOUN",
+              "PUNCT",
+              "CCONJ",
+              "PRON",
+              "VERB",
+              "SCONJ",
+              "SCONJ",
+              "ADV",
+              "ADV",
+              "VERB",
+              "ADV",
+              "PRON",
+              "PUNCT",
+              "ADV",
+              "ADV",
+              "VERB",
+              "ADV",
+              "ADP",
+              "DET",
+              "ADJ",
+              "PRON",
+              "PRON",
+              "AUX",
+              "NOUN",
+              "PUNCT",
+              "ADV",
+              "PRON",
+              "VERB",
+              "ADP",
+              "NOUN",
+              "NUM",
+              "NOUN",
+              "CCONJ",
+              "NUM",
+              "NOUN",
+              "ADP",
+              "NOUN",
+              "SCONJ",
+              "SCONJ",
+              "PRON",
+              "VERB",
+              "SCONJ",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADP",
+              "DET",
+              "NOUN",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "VERB",
+              "DET",
+              "NOUN",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "AUX",
+              "ADP",
+              "DET",
+              "NOUN",
+              "ADJ",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "ADP",
+              "VERB",
+              "DET",
+              "NOUN",
+              "ADV",
+              "NOUN",
+              "ADJ",
+              "ADP",
+              "DET",
+              "NOUN",
+              "ADP",
+              "PRON",
+              "PUNCT",
+              "ADV",
+              "ADV",
+              "ADV",
+              "PRON",
+              "VERB",
+              "VERB",
+              "DET",
+              "NOUN",
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "structural_NOUN": 1,
+          "structural_NUM": 1,
+          "structural_PROPN": 2
+        }
+      },
+      "report_summary": {
+        "total_changes": 2,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 1,
+          "additions": 1,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_PROPN",
+            2
+          ],
+          [
+            "structural_NOUN",
+            1
+          ],
+          [
+            "structural_NUM",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.25,
+          "positive_changes": 0,
+          "negative_changes": 0.5,
+          "total_changes": 2
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697357"
+    },
+    {
+      "filename": "transcript_formatted_2658a649-de96-436b-928d-dc55dcba62f8.txt",
+      "categorizations": {
+        "orthographic": [
+          {
+            "original": [
+              "A"
+            ],
+            "improved": [
+              "À"
+            ],
+            "original_pos": [
+              "ADP"
+            ],
+            "improved_pos": [
+              "ADP"
+            ]
+          }
+        ],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "calédène"
+            ],
+            "improved": [
+              "Caledène"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Intervenant",
+              "1"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Intervenant",
+              "2"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Intervenant",
+              "3"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "orthographic_ADP": 2,
+          "lexical_NOUN": 2,
+          "structural_NOUN": 7,
+          "structural_NUM": 10,
+          "structural_PROPN": 5,
+          "structural_VERB": 2
+        }
+      },
+      "report_summary": {
+        "total_changes": 11,
+        "change_types": {
+          "orthographic": 1,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 1,
+          "structural": 7,
+          "additions": 2,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NUM",
+            10
+          ],
+          [
+            "structural_NOUN",
+            7
+          ],
+          [
+            "structural_PROPN",
+            5
+          ],
+          [
+            "orthographic_ADP",
+            2
+          ],
+          [
+            "lexical_NOUN",
+            2
+          ],
+          [
+            "structural_VERB",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.05,
+          "positive_changes": 3,
+          "negative_changes": 3.5,
+          "total_changes": 11
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697359"
+    },
+    {
+      "filename": "transcript_formatted_9dbc49cd-681b-434a-afdc-59cfd6519f2e.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [
+          {
+            "original": [
+              ","
+            ],
+            "improved": [
+              ":"
+            ],
+            "original_pos": [
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "lexical": [
+          {
+            "original": [
+              "anti-dépressives"
+            ],
+            "improved": [
+              "antidépressives"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "d'"
+            ],
+            "improved": [
+              "dans"
+            ],
+            "original_pos": [
+              "ADP"
+            ],
+            "improved_pos": [
+              "ADP"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Expert",
+              "médical"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Clément"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Expert",
+              "médical"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              ".",
+              "De"
+            ],
+            "improved": [
+              ":",
+              "de"
+            ],
+            "original_pos": [
+              "PUNCT",
+              "ADP"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "ADP"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01",
+              ":",
+              "ça"
+            ],
+            "improved": [
+              "Clément",
+              ":",
+              "Ça"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT",
+              "PRON"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PUNCT",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Expert",
+              "médical"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "la",
+              "transcription",
+              "post-traitée",
+              ",",
+              "conformément",
+              "à",
+              "vos",
+              "instructions",
+              ":"
+            ],
+            "pos": [
+              "DET",
+              "NOUN",
+              "VERB",
+              "PUNCT",
+              "ADV",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "punctuation_PUNCT": 2,
+          "lexical_ADJ": 2,
+          "lexical_ADP": 2,
+          "structural_NOUN": 11,
+          "structural_NUM": 11,
+          "structural_PROPN": 12,
+          "structural_ADJ": 3,
+          "structural_PUNCT": 4,
+          "structural_ADP": 2,
+          "structural_PRON": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 16,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 1,
+          "lexical": 2,
+          "structural": 12,
+          "additions": 1,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_PROPN",
+            12
+          ],
+          [
+            "structural_NOUN",
+            11
+          ],
+          [
+            "structural_NUM",
+            11
+          ],
+          [
+            "structural_PUNCT",
+            4
+          ],
+          [
+            "structural_ADJ",
+            3
+          ],
+          [
+            "punctuation_PUNCT",
+            2
+          ],
+          [
+            "lexical_ADJ",
+            2
+          ],
+          [
+            "lexical_ADP",
+            2
+          ],
+          [
+            "structural_ADP",
+            2
+          ],
+          [
+            "structural_PRON",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.19,
+          "positive_changes": 3,
+          "negative_changes": 6.0,
+          "total_changes": 16
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697360"
+    },
+    {
+      "filename": "transcript_formatted_0105da9c-f48b-4540-8bc5-844f6a8f7c4a.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [
+          {
+            "original": [
+              "salogne"
+            ],
+            "improved": [
+              "Sologne"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "bulb"
+            ],
+            "improved": [
+              "bulbe"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "bulbs"
+            ],
+            "improved": [
+              "bulbes"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "saffron"
+            ],
+            "improved": [
+              "safran"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "pistilles"
+            ],
+            "improved": [
+              "pistils"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "pistilles"
+            ],
+            "improved": [
+              "pistils"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Véronique",
+              "Lazéra"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Véronique",
+              "Lazéra"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Julien",
+              "Barthélémy"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "la",
+              "cloisse"
+            ],
+            "improved": [
+              "le",
+              "crocus"
+            ],
+            "original_pos": [
+              "DET",
+              "NOUN"
+            ],
+            "improved_pos": [
+              "DET",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "à"
+            ],
+            "pos": [
+              "ADP"
+            ]
+          }
+        ],
+        "deletions": [
+          {
+            "deleted": [
+              "[",
+              "00:00:00",
+              "-",
+              "00:00:17",
+              "]",
+              "Voix",
+              "02",
+              ":"
+            ],
+            "pos": [
+              "PUNCT",
+              "NOUN",
+              "PUNCT",
+              "NOUN",
+              "PUNCT",
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ]
+          }
+        ],
+        "pos_changes": {
+          "grammatical_NOUN": 1,
+          "grammatical_PROPN": 1,
+          "lexical_NOUN": 10,
+          "structural_NOUN": 8,
+          "structural_NUM": 6,
+          "structural_PROPN": 9,
+          "structural_DET": 2
+        }
+      },
+      "report_summary": {
+        "total_changes": 15,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 1,
+          "punctuation": 0,
+          "lexical": 5,
+          "structural": 7,
+          "additions": 1,
+          "deletions": 1
+        },
+        "most_common_pos_changes": [
+          [
+            "lexical_NOUN",
+            10
+          ],
+          [
+            "structural_PROPN",
+            9
+          ],
+          [
+            "structural_NOUN",
+            8
+          ],
+          [
+            "structural_NUM",
+            6
+          ],
+          [
+            "structural_DET",
+            2
+          ],
+          [
+            "grammatical_NOUN",
+            1
+          ],
+          [
+            "grammatical_PROPN",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.23,
+          "positive_changes": 7,
+          "negative_changes": 3.5,
+          "total_changes": 15
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697361"
+    },
+    {
+      "filename": "transcript_formatted_90199cef-801b-411c-8b37-21a4097d2e1e.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "Marcand"
+            ],
+            "improved": [
+              "Marcangeli"
+            ],
+            "original_pos": [
+              "PROPN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "rédigérer"
+            ],
+            "improved": [
+              "rédiger"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "soeurs"
+            ],
+            "improved": [
+              "sœurs"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "02",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Journaliste",
+              ":*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "PROPN",
+              "PUNCT",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "il",
+              "pointait"
+            ],
+            "improved": [
+              "Ils",
+              "pointaient"
+            ],
+            "original_pos": [
+              "PRON",
+              "VERB"
+            ],
+            "improved_pos": [
+              "PRON",
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Procureur",
+              "de",
+              "Tarascon",
+              ":*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "NOUN",
+              "ADP",
+              "PROPN",
+              "PUNCT",
+              "PRON"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Journaliste",
+              ":*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "PROPN",
+              "PUNCT",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Jean-Félix",
+              "Acquahui",
+              ":*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "PROPN",
+              "PROPN",
+              "PUNCT",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Journaliste",
+              ":*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "PROPN",
+              "PUNCT",
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Avocats",
+              "(",
+              "famille",
+              "Colón",
+              "):",
+              "*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "PROPN",
+              "PUNCT",
+              "NOUN",
+              "PROPN",
+              "PUNCT",
+              "ADJ",
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02",
+              ":"
+            ],
+            "improved": [
+              "*",
+              "*",
+              "Journaliste",
+              ":*",
+              "*"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "ADJ",
+              "PROPN",
+              "PUNCT",
+              "ADJ"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "-traitée",
+              "conformément",
+              "à",
+              "vos",
+              "instructions",
+              ":"
+            ],
+            "pos": [
+              "NUM",
+              "ADV",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [
+          {
+            "deleted": [
+              "à"
+            ],
+            "pos": [
+              "ADP"
+            ]
+          }
+        ],
+        "pos_changes": {
+          "lexical_PROPN": 2,
+          "lexical_VERB": 2,
+          "lexical_NOUN": 2,
+          "structural_NOUN": 9,
+          "structural_NUM": 7,
+          "structural_PUNCT": 15,
+          "structural_ADJ": 18,
+          "structural_PROPN": 12,
+          "structural_PRON": 3,
+          "structural_VERB": 2,
+          "structural_ADP": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 13,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 3,
+          "structural": 8,
+          "additions": 1,
+          "deletions": 1
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_ADJ",
+            18
+          ],
+          [
+            "structural_PUNCT",
+            15
+          ],
+          [
+            "structural_PROPN",
+            12
+          ],
+          [
+            "structural_NOUN",
+            9
+          ],
+          [
+            "structural_NUM",
+            7
+          ],
+          [
+            "structural_PRON",
+            3
+          ],
+          [
+            "lexical_PROPN",
+            2
+          ],
+          [
+            "lexical_VERB",
+            2
+          ],
+          [
+            "lexical_NOUN",
+            2
+          ],
+          [
+            "structural_VERB",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.08,
+          "positive_changes": 3,
+          "negative_changes": 4.0,
+          "total_changes": 13
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697362"
+    },
+    {
+      "filename": "transcript_formatted_621cb033-e87c-437a-a7bf-dbd4f5ea8eeb.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "épatte"
+            ],
+            "improved": [
+              "EHPAD"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "est",
+              "état"
+            ],
+            "improved": [
+              "était"
+            ],
+            "original_pos": [
+              "AUX",
+              "VERB"
+            ],
+            "improved_pos": [
+              "AUX"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Invitée",
+              "1"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01",
+              ":",
+              "Je",
+              "savais",
+              "que",
+              "ce",
+              "serait",
+              "la",
+              "catastrophe",
+              ".",
+              "parce"
+            ],
+            "improved": [
+              "Invitée",
+              "1",
+              ":",
+              "Parce"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT",
+              "PRON",
+              "VERB",
+              "SCONJ",
+              "PRON",
+              "AUX",
+              "DET",
+              "NOUN",
+              "PUNCT",
+              "SCONJ"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT",
+              "SCONJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Photographe"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "la",
+              "transcription",
+              "post-traitée",
+              ":"
+            ],
+            "pos": [
+              "DET",
+              "NOUN",
+              "VERB",
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "lexical_NOUN": 2,
+          "structural_NOUN": 11,
+          "structural_NUM": 9,
+          "structural_PROPN": 4,
+          "structural_AUX": 3,
+          "structural_VERB": 2,
+          "structural_PUNCT": 3,
+          "structural_PRON": 2,
+          "structural_SCONJ": 3,
+          "structural_DET": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 10,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 1,
+          "structural": 8,
+          "additions": 1,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            11
+          ],
+          [
+            "structural_NUM",
+            9
+          ],
+          [
+            "structural_PROPN",
+            4
+          ],
+          [
+            "structural_AUX",
+            3
+          ],
+          [
+            "structural_PUNCT",
+            3
+          ],
+          [
+            "structural_SCONJ",
+            3
+          ],
+          [
+            "lexical_NOUN",
+            2
+          ],
+          [
+            "structural_VERB",
+            2
+          ],
+          [
+            "structural_PRON",
+            2
+          ],
+          [
+            "structural_DET",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.3,
+          "positive_changes": 1,
+          "negative_changes": 4.0,
+          "total_changes": 10
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697364"
+    },
+    {
+      "filename": "transcript_formatted_5050a28f-1d30-42b2-9469-54241452c7ac.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "humisation"
+            ],
+            "improved": [
+              "humusation"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "théramation"
+            ],
+            "improved": [
+              "crémation"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "[",
+              "00:00:00",
+              "-",
+              "00:00:04",
+              "]",
+              "Voix",
+              "00",
+              ":",
+              "humisation"
+            ],
+            "improved": [
+              "Hum",
+              ",",
+              "l'",
+              "humusation"
+            ],
+            "original_pos": [
+              "PUNCT",
+              "NOUN",
+              "PUNCT",
+              "NOUN",
+              "PUNCT",
+              "NOUN",
+              "NUM",
+              "PUNCT",
+              "NOUN"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PUNCT",
+              "DET",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "théramation"
+            ],
+            "improved": [
+              "la",
+              "crémation"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "DET",
+              "NOUN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "de"
+            ],
+            "pos": [
+              "ADP"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "lexical_NOUN": 4,
+          "structural_PUNCT": 5,
+          "structural_NOUN": 6,
+          "structural_NUM": 1,
+          "structural_PROPN": 1,
+          "structural_DET": 2,
+          "structural_ADJ": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 5,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 2,
+          "structural": 2,
+          "additions": 1,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            6
+          ],
+          [
+            "structural_PUNCT",
+            5
+          ],
+          [
+            "lexical_NOUN",
+            4
+          ],
+          [
+            "structural_DET",
+            2
+          ],
+          [
+            "structural_NUM",
+            1
+          ],
+          [
+            "structural_PROPN",
+            1
+          ],
+          [
+            "structural_ADJ",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.2,
+          "positive_changes": 2,
+          "negative_changes": 1.0,
+          "total_changes": 5
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697365"
+    },
+    {
+      "filename": "transcript_formatted_fde78672-7b48-4dcb-895b-f8551f37d346.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [],
+        "additions": [],
+        "deletions": [],
+        "pos_changes": {}
+      },
+      "report_summary": {
+        "total_changes": 0,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [],
+        "quality_metrics": {
+          "improvement_score": 0
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697366"
+    },
+    {
+      "filename": "transcript_formatted_9306a3fa-a435-44d6-bdf0-57224c58bbaa.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [
+          {
+            "original": [
+              "crutes"
+            ],
+            "improved": [
+              "crues"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "crutes"
+            ],
+            "improved": [
+              "crues"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "les",
+              "systèmes",
+              "immunitaires"
+            ],
+            "improved": [
+              "le",
+              "système",
+              "immunitaire"
+            ],
+            "original_pos": [
+              "DET",
+              "NOUN",
+              "ADJ"
+            ],
+            "improved_pos": [
+              "DET",
+              "NOUN",
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Chef"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "les",
+              "jeux"
+            ],
+            "improved": [
+              "le",
+              "jeu"
+            ],
+            "original_pos": [
+              "DET",
+              "NOUN"
+            ],
+            "improved_pos": [
+              "DET",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "grammatical_ADJ": 2,
+          "grammatical_NOUN": 2,
+          "structural_NOUN": 19,
+          "structural_NUM": 15,
+          "structural_PROPN": 15,
+          "structural_DET": 4,
+          "structural_ADJ": 2
+        }
+      },
+      "report_summary": {
+        "total_changes": 20,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 2,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 17,
+          "additions": 1,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            19
+          ],
+          [
+            "structural_NUM",
+            15
+          ],
+          [
+            "structural_PROPN",
+            15
+          ],
+          [
+            "structural_DET",
+            4
+          ],
+          [
+            "grammatical_ADJ",
+            2
+          ],
+          [
+            "grammatical_NOUN",
+            2
+          ],
+          [
+            "structural_ADJ",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.23,
+          "positive_changes": 4,
+          "negative_changes": 8.5,
+          "total_changes": 20
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697367"
+    },
+    {
+      "filename": "transcript_formatted_7078edf2-0f38-401b-848e-1c057619c0b8.txt",
+      "categorizations": {
+        "orthographic": [
+          {
+            "original": [
+              "corten"
+            ],
+            "improved": [
+              "Corten"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "ADJ"
+            ]
+          }
+        ],
+        "grammatical": [
+          {
+            "original": [
+              "néorthèse"
+            ],
+            "improved": [
+              "niortaise"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          }
+        ],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Intervenant",
+              "1"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              ".",
+              "Et"
+            ],
+            "improved": [
+              ",",
+              "et"
+            ],
+            "original_pos": [
+              "PUNCT",
+              "CCONJ"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "CCONJ"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Intervenant",
+              "1"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB",
+              "NUM"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00",
+              ":",
+              "c'"
+            ],
+            "improved": [
+              "Journaliste",
+              ":",
+              "C'"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM",
+              "PUNCT",
+              "PRON"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PUNCT",
+              "PRON"
+            ]
+          },
+          {
+            "original": [
+              "corten",
+              "c'"
+            ],
+            "improved": [
+              "Corten",
+              ".",
+              "C'"
+            ],
+            "original_pos": [
+              "ADJ",
+              "PRON"
+            ],
+            "improved_pos": [
+              "PRON",
+              "PUNCT",
+              "PRON"
+            ]
+          },
+          {
+            "original": [
+              "ça"
+            ],
+            "improved": [
+              ".",
+              "Ça"
+            ],
+            "original_pos": [
+              "PRON"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "PRON"
+            ]
+          },
+          {
+            "original": [
+              "c'"
+            ],
+            "improved": [
+              ".",
+              "C'"
+            ],
+            "original_pos": [
+              "PRON"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "PRON"
+            ]
+          },
+          {
+            "original": [
+              "très"
+            ],
+            "improved": [
+              ",",
+              "très",
+              ","
+            ],
+            "original_pos": [
+              "ADV"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "ADV",
+              "PUNCT"
+            ]
+          },
+          {
+            "original": [
+              "à"
+            ],
+            "improved": [
+              ".",
+              "À"
+            ],
+            "original_pos": [
+              "ADP"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "ADP"
+            ]
+          },
+          {
+            "original": [
+              "elles"
+            ],
+            "improved": [
+              ".",
+              "Elles"
+            ],
+            "original_pos": [
+              "PRON"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "PRON"
+            ]
+          },
+          {
+            "original": [
+              "par"
+            ],
+            "improved": [
+              ".",
+              "Par",
+              "-"
+            ],
+            "original_pos": [
+              "ADP"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "ADP",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Intervenant",
+              "2"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB",
+              "NUM"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "la",
+              "transcription",
+              "post-traitée",
+              ":"
+            ],
+            "pos": [
+              "DET",
+              "NOUN",
+              "VERB",
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              "."
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "orthographic_ADJ": 2,
+          "grammatical_NOUN": 1,
+          "grammatical_VERB": 1,
+          "structural_NOUN": 7,
+          "structural_NUM": 9,
+          "structural_PROPN": 3,
+          "structural_VERB": 3,
+          "structural_PUNCT": 12,
+          "structural_CCONJ": 2,
+          "structural_PRON": 11,
+          "structural_ADJ": 1,
+          "structural_ADV": 2,
+          "structural_ADP": 4
+        }
+      },
+      "report_summary": {
+        "total_changes": 23,
+        "change_types": {
+          "orthographic": 1,
+          "grammatical": 1,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 14,
+          "additions": 7,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_PUNCT",
+            12
+          ],
+          [
+            "structural_PRON",
+            11
+          ],
+          [
+            "structural_NUM",
+            9
+          ],
+          [
+            "structural_NOUN",
+            7
+          ],
+          [
+            "structural_ADP",
+            4
+          ],
+          [
+            "structural_PROPN",
+            3
+          ],
+          [
+            "structural_VERB",
+            3
+          ],
+          [
+            "orthographic_ADJ",
+            2
+          ],
+          [
+            "structural_CCONJ",
+            2
+          ],
+          [
+            "structural_ADV",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.13,
+          "positive_changes": 4,
+          "negative_changes": 7.0,
+          "total_changes": 23
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697369"
+    },
+    {
+      "filename": "transcript_formatted_b7e7e11e-fc3a-4879-b97e-610314a69c41.txt",
+      "categorizations": {
+        "orthographic": [
+          {
+            "original": [
+              "lelandais"
+            ],
+            "improved": [
+              "Lelandais"
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "ADJ"
+            ]
+          },
+          {
+            "original": [
+              "d'"
+            ],
+            "improved": [
+              "D'"
+            ],
+            "original_pos": [
+              "ADP"
+            ],
+            "improved_pos": [
+              "ADP"
+            ]
+          }
+        ],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "infectivent"
+            ],
+            "improved": [
+              "activent"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "Schördorfer"
+            ],
+            "improved": [
+              "Schwerdorffer"
+            ],
+            "original_pos": [
+              "PROPN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "écoutis"
+            ],
+            "improved": [
+              "écoutilles"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Valentin",
+              "Pasquet"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "porter",
+              "de",
+              "deuil"
+            ],
+            "improved": [
+              "portée",
+              "de",
+              "main"
+            ],
+            "original_pos": [
+              "VERB",
+              "ADP",
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "ADP",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "d'"
+            ],
+            "improved": [
+              "de",
+              "l'"
+            ],
+            "original_pos": [
+              "ADP"
+            ],
+            "improved_pos": [
+              "ADP",
+              "DET"
+            ]
+          },
+          {
+            "original": [
+              "persants"
+            ],
+            "improved": [
+              "perçants",
+              ","
+            ],
+            "original_pos": [
+              "ADJ"
+            ],
+            "improved_pos": [
+              "ADJ",
+              "PUNCT"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "orthographic_ADJ": 2,
+          "orthographic_ADP": 2,
+          "lexical_VERB": 2,
+          "lexical_PROPN": 2,
+          "lexical_NOUN": 2,
+          "structural_NOUN": 5,
+          "structural_NUM": 2,
+          "structural_PROPN": 3,
+          "structural_VERB": 1,
+          "structural_ADP": 4,
+          "structural_DET": 1,
+          "structural_ADJ": 2,
+          "structural_PUNCT": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 16,
+        "change_types": {
+          "orthographic": 2,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 3,
+          "structural": 5,
+          "additions": 6,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            5
+          ],
+          [
+            "structural_ADP",
+            4
+          ],
+          [
+            "structural_PROPN",
+            3
+          ],
+          [
+            "orthographic_ADJ",
+            2
+          ],
+          [
+            "orthographic_ADP",
+            2
+          ],
+          [
+            "lexical_VERB",
+            2
+          ],
+          [
+            "lexical_PROPN",
+            2
+          ],
+          [
+            "lexical_NOUN",
+            2
+          ],
+          [
+            "structural_NUM",
+            2
+          ],
+          [
+            "structural_ADJ",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.28,
+          "positive_changes": 7,
+          "negative_changes": 2.5,
+          "total_changes": 16
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697370"
+    },
+    {
+      "filename": "transcript_formatted_f4c54f75-08dc-445e-a98b-767f3cd6dfe4.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [],
+        "structural": [],
+        "additions": [],
+        "deletions": [
+          {
+            "deleted": [
+              "[",
+              "00:00:00",
+              "-",
+              "00:00:04",
+              "]",
+              "Voix",
+              "01",
+              ":"
+            ],
+            "pos": [
+              "PUNCT",
+              "NOUN",
+              "PUNCT",
+              "NOUN",
+              "PUNCT",
+              "NOUN",
+              "NUM",
+              "PUNCT"
+            ]
+          }
+        ],
+        "pos_changes": {}
+      },
+      "report_summary": {
+        "total_changes": 1,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 0,
+          "structural": 0,
+          "additions": 0,
+          "deletions": 1
+        },
+        "most_common_pos_changes": [],
+        "quality_metrics": {
+          "improvement_score": 0.0,
+          "positive_changes": 0,
+          "negative_changes": 0.0,
+          "total_changes": 1
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697371"
+    },
+    {
+      "filename": "transcript_formatted_8c4e7a93-be7f-4e83-8d06-2ae6e640a178.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "coeur"
+            ],
+            "improved": [
+              "cœur"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "IFTO"
+            ],
+            "improved": [
+              "Ifs"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "format",
+              "6"
+            ],
+            "improved": [
+              "officine",
+              ","
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "PUNCT"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Invité"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "04"
+            ],
+            "improved": [
+              "Invité"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Invité"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Pharmacienne"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "la",
+              "transcription",
+              "post-traitée",
+              "et",
+              "formatée",
+              ",",
+              "conformément",
+              "à",
+              "vos",
+              "instructions",
+              ":"
+            ],
+            "pos": [
+              "DET",
+              "NOUN",
+              "VERB",
+              "CCONJ",
+              "VERB",
+              "PUNCT",
+              "ADV",
+              "ADP",
+              "DET",
+              "NOUN",
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "lexical_NOUN": 4,
+          "structural_NOUN": 10,
+          "structural_NUM": 9,
+          "structural_PROPN": 7,
+          "structural_PUNCT": 1,
+          "structural_VERB": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 13,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 2,
+          "structural": 9,
+          "additions": 2,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            10
+          ],
+          [
+            "structural_NUM",
+            9
+          ],
+          [
+            "structural_PROPN",
+            7
+          ],
+          [
+            "lexical_NOUN",
+            4
+          ],
+          [
+            "structural_PUNCT",
+            1
+          ],
+          [
+            "structural_VERB",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.19,
+          "positive_changes": 2,
+          "negative_changes": 4.5,
+          "total_changes": 13
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697372"
+    },
+    {
+      "filename": "transcript_formatted_df789797-0681-4b98-ad50-3ebe9aebf8f9.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "officier"
+            ],
+            "improved": [
+              "officine"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "préconcité"
+            ],
+            "improved": [
+              "précocité"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Présentateur"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "05"
+            ],
+            "improved": [
+              "Pharmacien"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Patient"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "03"
+            ],
+            "improved": [
+              "Professionnel",
+              "de",
+              "santé"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "NOUN",
+              "ADP",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "02"
+            ],
+            "improved": [
+              "Patient"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "04"
+            ],
+            "improved": [
+              "Pharmacien"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [],
+        "deletions": [],
+        "pos_changes": {
+          "lexical_NOUN": 4,
+          "structural_NOUN": 12,
+          "structural_NUM": 10,
+          "structural_PROPN": 9,
+          "structural_ADP": 1
+        }
+      },
+      "report_summary": {
+        "total_changes": 12,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 2,
+          "structural": 10,
+          "additions": 0,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "structural_NOUN",
+            12
+          ],
+          [
+            "structural_NUM",
+            10
+          ],
+          [
+            "structural_PROPN",
+            9
+          ],
+          [
+            "lexical_NOUN",
+            4
+          ],
+          [
+            "structural_ADP",
+            1
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": -0.25,
+          "positive_changes": 2,
+          "negative_changes": 5.0,
+          "total_changes": 12
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697374"
+    },
+    {
+      "filename": "transcript_formatted_457fca99-d6f0-4786-b1f0-6252018a8311.txt",
+      "categorizations": {
+        "orthographic": [
+          {
+            "original": [
+              "touchés"
+            ],
+            "improved": [
+              "touchées"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "cambriolage"
+            ],
+            "improved": [
+              "cambriolages"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "grammatical": [
+          {
+            "original": [
+              "baignées"
+            ],
+            "improved": [
+              "béliers"
+            ],
+            "original_pos": [
+              "VERB"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "poignet"
+            ],
+            "improved": [
+              "Poinchy"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "tabas"
+            ],
+            "improved": [
+              "tabacs"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "ADJ"
+            ]
+          }
+        ],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "Montante"
+            ],
+            "improved": [
+              "Montant"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Océrois"
+            ],
+            "improved": [
+              "Auxerrois"
+            ],
+            "original_pos": [
+              "PROPN"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Solicité"
+            ],
+            "improved": [
+              "Sollicité"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "et",
+              "il",
+              "sort",
+              "parti"
+            ],
+            "improved": [
+              ",",
+              "et",
+              "il",
+              "est",
+              "reparti"
+            ],
+            "original_pos": [
+              "CCONJ",
+              "PRON",
+              "VERB",
+              "ADJ"
+            ],
+            "improved_pos": [
+              "PUNCT",
+              "CCONJ",
+              "PRON",
+              "AUX",
+              "VERB"
+            ]
+          },
+          {
+            "original": [
+              "grand",
+              "chose"
+            ],
+            "improved": [
+              "grand-chose"
+            ],
+            "original_pos": [
+              "ADJ",
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "ce",
+              "tact"
+            ],
+            "improved": [
+              "cet",
+              "acte"
+            ],
+            "original_pos": [
+              "DET",
+              "NOUN"
+            ],
+            "improved_pos": [
+              "DET",
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "Monneto",
+              ",",
+              "Cherbuy"
+            ],
+            "improved": [
+              "Monéteau",
+              ",",
+              "Chablis"
+            ],
+            "original_pos": [
+              "PROPN",
+              "PUNCT",
+              "PROPN"
+            ],
+            "improved_pos": [
+              "PROPN",
+              "PUNCT",
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "la",
+              "transcription",
+              "post-traitée",
+              ":"
+            ],
+            "pos": [
+              "DET",
+              "NOUN",
+              "VERB",
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ":"
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              "-"
+            ],
+            "pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "added": [
+              ","
+            ],
+            "pos": [
+              "PUNCT"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "orthographic_VERB": 2,
+          "orthographic_NOUN": 1,
+          "orthographic_PROPN": 1,
+          "grammatical_VERB": 1,
+          "grammatical_NOUN": 3,
+          "grammatical_PROPN": 1,
+          "grammatical_ADJ": 1,
+          "lexical_NOUN": 4,
+          "lexical_PROPN": 2,
+          "structural_CCONJ": 2,
+          "structural_PRON": 2,
+          "structural_VERB": 2,
+          "structural_ADJ": 2,
+          "structural_PUNCT": 3,
+          "structural_AUX": 1,
+          "structural_NOUN": 4,
+          "structural_DET": 2,
+          "structural_PROPN": 4
+        }
+      },
+      "report_summary": {
+        "total_changes": 27,
+        "change_types": {
+          "orthographic": 2,
+          "grammatical": 3,
+          "punctuation": 0,
+          "lexical": 3,
+          "structural": 4,
+          "additions": 15,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "lexical_NOUN",
+            4
+          ],
+          [
+            "structural_NOUN",
+            4
+          ],
+          [
+            "structural_PROPN",
+            4
+          ],
+          [
+            "grammatical_NOUN",
+            3
+          ],
+          [
+            "structural_PUNCT",
+            3
+          ],
+          [
+            "orthographic_VERB",
+            2
+          ],
+          [
+            "lexical_PROPN",
+            2
+          ],
+          [
+            "structural_CCONJ",
+            2
+          ],
+          [
+            "structural_PRON",
+            2
+          ],
+          [
+            "structural_VERB",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.41,
+          "positive_changes": 13,
+          "negative_changes": 2.0,
+          "total_changes": 27
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697375"
+    },
+    {
+      "filename": "transcript_formatted_f9b9a214-a756-4477-b14e-f74d71d7ff97.txt",
+      "categorizations": {
+        "orthographic": [],
+        "grammatical": [],
+        "punctuation": [],
+        "lexical": [
+          {
+            "original": [
+              "enforts"
+            ],
+            "improved": [
+              "amphores"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "enforts"
+            ],
+            "improved": [
+              "amphores"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "enforts"
+            ],
+            "improved": [
+              "amphores"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "enforts"
+            ],
+            "improved": [
+              "amphores"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "enfants"
+            ],
+            "improved": [
+              "amphores"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          },
+          {
+            "original": [
+              "dimanche"
+            ],
+            "improved": [
+              "monde"
+            ],
+            "original_pos": [
+              "NOUN"
+            ],
+            "improved_pos": [
+              "NOUN"
+            ]
+          }
+        ],
+        "structural": [
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Invité"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "01"
+            ],
+            "improved": [
+              "Journaliste"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "Voix",
+              "00"
+            ],
+            "improved": [
+              "Invité"
+            ],
+            "original_pos": [
+              "NOUN",
+              "NUM"
+            ],
+            "improved_pos": [
+              "PROPN"
+            ]
+          },
+          {
+            "original": [
+              "le",
+              "Narbonne"
+            ],
+            "improved": [
+              "la",
+              "Narbonnaise"
+            ],
+            "original_pos": [
+              "DET",
+              "PROPN"
+            ],
+            "improved_pos": [
+              "DET",
+              "PROPN"
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "added": [
+              "la",
+              "transcription",
+              "post-traitée",
+              ":"
+            ],
+            "pos": [
+              "DET",
+              "NOUN",
+              "VERB",
+              "PUNCT"
+            ]
+          },
+          {
+            "added": [
+              "-"
+            ],
+            "pos": [
+              "PROPN"
+            ]
+          }
+        ],
+        "deletions": [],
+        "pos_changes": {
+          "lexical_NOUN": 12,
+          "structural_NOUN": 4,
+          "structural_NUM": 4,
+          "structural_PROPN": 6,
+          "structural_DET": 2
+        }
+      },
+      "report_summary": {
+        "total_changes": 13,
+        "change_types": {
+          "orthographic": 0,
+          "grammatical": 0,
+          "punctuation": 0,
+          "lexical": 6,
+          "structural": 5,
+          "additions": 2,
+          "deletions": 0
+        },
+        "most_common_pos_changes": [
+          [
+            "lexical_NOUN",
+            12
+          ],
+          [
+            "structural_PROPN",
+            6
+          ],
+          [
+            "structural_NOUN",
+            4
+          ],
+          [
+            "structural_NUM",
+            4
+          ],
+          [
+            "structural_DET",
+            2
+          ]
+        ],
+        "quality_metrics": {
+          "improvement_score": 0.27,
+          "positive_changes": 6,
+          "negative_changes": 2.5,
+          "total_changes": 13
+        }
+      },
+      "timestamp": "2025-10-17T13:18:02.697376"
+    }
+  ]
+}

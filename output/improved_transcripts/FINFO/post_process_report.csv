@@ -1,0 +1,11 @@
+filename,is_valid,reason,coverage_ratio,original_tokens,llm_tokens,filtered_tokens
+transcript_formatted_6899ecc6-a9bd-11f0-92e2-6dcd43e8ddfd.txt,True,Correspondance trouvée,1.0446808510638297,737,741,736
+transcript_formatted_e2285982-a9cd-11f0-ac08-57a09c50f7ce.txt,True,Correspondance trouvée,0.9980657640232108,727,717,698
+transcript_formatted_00cd8b8a-a9b7-11f0-8247-957ddefc544d.txt,True,Correspondance trouvée,1.0649038461538463,686,686,686
+transcript_formatted_69ad1fd4-45a0-40a2-9967-f1f22c47bdd9.txt,True,Correspondance trouvée,1.0316455696202531,559,571,568
+transcript_formatted_5ca65ebe-a9b7-11f0-92e2-6dcd43e8ddfd.txt,True,Correspondance trouvée,1.0518292682926829,593,588,588
+transcript_formatted_eaf8cda2-a98d-11f0-ac08-57a09c50f7ce.txt,True,Correspondance trouvée,1.0873015873015872,430,436,436
+transcript_formatted_f69de3ac-a9bc-11f0-84f0-19616fa871f9.txt,True,Correspondance trouvée,1.0241228070175439,869,885,880
+transcript_formatted_e4817dc9-5f72-44aa-a11a-1a48ce28890b.txt,True,Correspondance trouvée,1.015929203539823,813,809,809
+transcript_formatted_b9c4bb02-7f67-11ef-a3c0-6daa476a3b9b.txt,True,Correspondance trouvée,1.029585798816568,544,542,540
+transcript_formatted_4c50a954-a98d-11f0-84f0-19616fa871f9.txt,True,Correspondance trouvée,1.0456140350877192,471,476,471

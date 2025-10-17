@@ -1,5 +1,5 @@
-filename,original_length,original_tokens,original_text,improved_text,input_tokens,output_tokens,token_ratio,success,error
-transcript_formatted_6899ecc6-a9bd-11f0-92e2-6dcd43e8ddfd.txt,2232,737,"[00:00:00 - 00:00:18] Voix 00 :
+filename,perimetre,original_length,original_tokens,original_text,improved_text,input_tokens,output_tokens,token_ratio,success,error,post_process,filtered_text,filtered_tokens,coverage_ratio
+transcript_formatted_6899ecc6-a9bd-11f0-92e2-6dcd43e8ddfd.txt,FINFO,2232,737,"[00:00:00 - 00:00:18] Voix 00 :
   A plus de 80 ans, Rino Barillari est toujours à l'affût. Celui que l'on surnomme le roi des paparazzi continue de traquer les stars, ici même devant le Harris Bar, via Veneto à Rome. Devenu son royaume il y a plus de 60 ans, à l'âge d'or du cinéma italien.
 
 [00:00:19 - 00:00:32] Voix 01 :
@@ -18,40 +18,69 @@ transcript_formatted_6899ecc6-a9bd-11f0-92e2-6dcd43e8ddfd.txt,2232,737,"[00:00:0
  Ça c'est une photo de Gunter Sachs, le mari de Brigitte Bardot. Il se disait qu'elle avait tenté de se suicider ici à Rome.  Et donc, je suis rentré dans le jardin de la villa. Son mari était un peu en colère. Il m'a poursuivi. Je lui ai dit, t'inquiète pas, je me suis excusé et les photos ont été publiées.
 
 [00:02:05 - 00:02:12] Voix 00 :
- Aujourd'hui, le roi des paparazzi sera confronté pour la première fois à l'acteur français depuis leur altercation. Mais pas de quoi effrayer cet éternel provocateur. Bien au contraire.","Voici la transcription post-traitée, conformément aux instructions :
+ Aujourd'hui, le roi des paparazzi sera confronté pour la première fois à l'acteur français depuis leur altercation. Mais pas de quoi effrayer cet éternel provocateur. Bien au contraire.","Voici la transcription post-traitée conformément à vos instructions :
 
 [00:00:00 - 00:00:18] Journaliste:
-À plus de 80 ans, Rino Barillari est toujours à l'affût. Celui que l'on surnomme le roi des paparazzi continue de traquer les stars, ici même devant le Harris Bar, via Veneto à Rome. Devenu son royaume il y a plus de 60 ans, à l'âge d'or du cinéma italien.
+À plus de 80 ans, Rino Barillari est toujours à l'affût. Celui que l'on surnomme le roi des paparazzi continue de traquer les stars, ici même devant le Harris Bar, Via Veneto à Rome. Devenu son royaume il y a plus de 60 ans, à l'âge d'or du cinéma italien.
 
-[00:00:19 - 00:00:32] Rino Barillari:
-Regarde, on les voyait sortir comme ça parce que les voitures attendaient là. Quand ils sortaient, claque, claque, claque. Il me disait : ""Pas de photo !"" Je disais : ""Je photographie l'immeuble"", mais en fait non, je faisais une photo.
+[00:00:19 - 00:00:32] Invité:
+Regarde, on les voyait sortir comme ça parce que les voitures attendaient là. Quand ils sortaient, claque, claque, claque. Il me disait : ""Pas de photo."" Je disais : ""Je photographie l'immeuble."" Mais en fait non, je faisais une photo.
 
 [00:00:35 - 00:00:58] Journaliste:
-Liz Taylor, Frank Sinatra, Sophia Loren. Aucune vedette de l'époque n'a échappé à son œil redoutable. Et c'est ici encore qu'il y a un an et demi, il s'est retrouvé... K.O. Après avoir photographié Gérard Depardieu et sa compagne. L'acteur français l'aurait frappé pour l'empêcher de réaliser ce cliché. Aujourd'hui, le paparazzi a du mal à comprendre l'attitude de l'acteur qu'il connaît bien.
+Liszt et Lore, Frank Sinatra, Sophia Loren. Aucune vedette de l'époque n'a échappé à son œil redoutable. Et c'est ici encore, qu'il y a un an et demi, il s'est retrouvé chaos. Après avoir photographié Gérard Depardieu et sa compagne. L'acteur français l'aurait frappé pour l'empêcher de réaliser ce cliché. Aujourd'hui, le paparazzi a du mal à comprendre l'attitude de l'acteur qu'il connaît bien.
 
-[00:01:00 - 00:01:23] Rino Barillari:
-J'ai déjà fait des photos de lui sans aucun problème. Ce jour-là, je ne sais pas, il s'est énervé parce qu'il était amoureux. Il voulait être le plus beau et montrer qu'il était plus fort que les autres. Mais il est venu via Veneto. Cinq personnes m'ont appelé pour me dire qu'il y avait Depardieu avec une femme. Pardon, mais si tu ne veux pas être vu, va ailleurs.
+[00:01:00 - 00:01:23] Invité:
+J'ai déjà fait des photos de lui sans aucun problème. Ce jour-là, je ne sais pas, il s'est énervé parce qu'il était amoureux. Il voulait être le plus beau et montrer qu'il était plus fort que les autres. Mais il est venu Via Veneto. Cinq personnes m'ont appelé pour me dire qu'il y avait Depardieu avec une femme. Pardon, mais si tu ne veux pas être vu, va ailleurs.
 
 [00:01:25 - 00:01:42] Journaliste:
 Pour ses méthodes peu orthodoxes, le paparazzi a l'habitude de prendre des coups. Ici de Franco Nero, un acteur italien, là de l'actrice yougoslave Sonja Romanoff. 200 passages aux urgences au total et zéro remords, pourvu que la photo soit bonne.
 
-[00:01:42 - 00:02:05] Rino Barillari:
-Ça, c'est une photo de Gunter Sachs, le mari de Brigitte Bardot. Il se disait qu'elle avait tenté de se suicider ici à Rome. Et donc, je suis rentré dans le jardin de la villa. Son mari était un peu en colère. Il m'a poursuivi. Je lui ai dit : ""T'inquiète pas !"" Je me suis excusé et les photos ont été publiées.
+[00:01:42 - 00:02:05] Invité:
+Ça, c'est une photo de Gunter Sachs, le mari de Brigitte Bardot. Il se disait qu'elle avait tenté de se suicider ici à Rome. Et donc, je suis rentré dans le jardin de la villa. Son mari était un peu en colère. Il m'a poursuivi. Je lui ai dit : ""T'inquiète pas."" Je me suis excusé, et les photos ont été publiées.
 
 [00:02:05 - 00:02:12] Journaliste:
-Aujourd'hui, le roi des paparazzi sera confronté pour la première fois à l'acteur français depuis leur altercation. Mais pas de quoi effrayer cet éternel provocateur. Bien au contraire.",737,748,1.0149253731343284,True,
-transcript_formatted_e2285982-a9cd-11f0-ac08-57a09c50f7ce.txt,2788,727,"[00:00:00 - 00:00:08] Voix 00 :
-  Mesdames et Messieurs les sénateurs, le gouvernement porte aussi une ambition pour protéger notre environnement et lutter contre le réchauffement climatique. La France entend continuer à mener le combat, comme elle le fait depuis 2017, et il a autant besoin d'être porté à l'international, la nouvelle ministre en charge démontrée par son bilan ses capacités qu'au niveau local.  Nous devons avancer avec efficacité et sans dogmatisme et avec une approche locale, car l'écologie cède l'aménagement du territoire. Décentraliser les compétences, les responsabilités et les moyens, c'est aussi une formidable occasion de repenser complètement notre planification écologique et énergétique.  Nous ferons des propositions précises sur le sujet. Certains travaux du Sénat pourront nous guider dans ce chemin. Je pense en particulier sur la gestion de l'eau qui, comme vous le savez très bien, n'obéit pas à des périmètres administratifs mais à des réalités géographiques de terrain.  L'écologie, c'est aussi pouvoir se déplacer et moins polluer. Sans mobilité, les Français ne peuvent avoir accès à l'emploi, à la santé, à l'éducation, au loisir et donc à leurs besoins essentiels. Pas de croissance sans transport. La question de la desserte des territoires est capitale. Pour éviter qu'un sentiment de relégation ne se développe davantage,  chez des millions de nos concitoyens. Le ministre des Transport vous proposera une loi cadre qui permettra notamment de flécher les recettes des futures concessions autoroutières vers le développement de nouvelles mobilités et de nouvelles infrastructures, notamment ferroviaires. Cette loi devra avancer en miroir des travaux de décentralisation.  L'écologie, c'est de l'aménagement du territoire. C'est donc aussi parler du logement. Il faut bien le reconnaître. Si beaucoup n'a été entrepris depuis 2017 avec bonne foi et volontarisme, les résultats ne sont pas toujours au rendez-vous. La panne de la construction affecte toute.  l'économie. Je veux saluer les premières décisions prises récemment par la ministre Valérie Léthard. Trop de nos compatriotes ont du mal à se loger. Les dépenses de logement ont atteint dans le revenu des ménages une part excessive. Et c'est au fond l'un des principaux problèmes du pouvoir d'achat des Français. Le reste à vivre, ce qui reste quand vous avez payé toutes vos factures, se réduit.  Des solutions pourtant existent. Réduire le millefeuille de documents de planification pour les rendre plus durables, moins coûteux pour les collectivités et plus efficaces. Simplifier les procédures d'urbanisme pour baisser les coûts de construction peut en être une autre. La proposition de loi Uvart était un premier pas. Il faudra continuer. Les ministres sont à votre disposition.","**Orateur:**
-Mesdames et Messieurs les sénateurs, le gouvernement porte aussi une ambition pour protéger notre environnement et lutter contre le réchauffement climatique. La France entend continuer à mener le combat, comme elle le fait depuis 2017, et elle a autant besoin d'être portée à l'international — la nouvelle ministre en charge a démontré par son bilan ses capacités — qu'au niveau local. Nous devons avancer avec efficacité et sans dogmatisme, et avec une approche locale, car l'écologie, c'est l'aménagement du territoire.
+Aujourd'hui, le roi des paparazzi sera confronté pour la première fois à l'acteur français depuis leur altercation. Mais pas de quoi effrayer cet éternel provocateur. Bien au contraire.",737,741,1.005427408412483,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': '-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:18] Journaliste:\nÀ plus de 80 ans, Rino Barillari est toujours à l\'affût. Celui que l\'on surnomme le roi des paparazzi continue de traquer les stars, ici même devant le Harris Bar, Via Veneto à Rome. Devenu son royaume il y a plus de 60 ans, à l\'âge d\'or du cinéma italien.\n\n[00:00:19 - 00:00:32] Invité:\nRegarde, on les voyait sortir comme ça parce que les voitures attendaient là. Quand ils sortaient, claque, claque, claque. Il me disait : ""Pas de photo."" Je disais : ""Je photographie l\'immeuble."" Mais en fait non, je faisais une photo.\n\n[00:00:35 - 00:00:58] Journaliste:\nLiszt et Lore, Frank Sinatra, Sophia Loren. Aucune vedette de l\'époque n\'a échappé à son œil redoutable. Et c\'est ici encore, qu\'il y a un an et demi, il s\'est retrouvé chaos. Après avoir photographié Gérard Depardieu et sa compagne. L\'acteur français l\'aurait frappé pour l\'empêcher de réaliser ce cliché. Aujourd\'hui, le paparazzi a du mal à comprendre l\'attitude de l\'acteur qu\'il connaît bien.\n\n[00:01:00 - 00:01:23] Invité:\nJ\'ai déjà fait des photos de lui sans aucun problème. Ce jour-là, je ne sais pas, il s\'est énervé parce qu\'il était amoureux. Il voulait être le plus beau et montrer qu\'il était plus fort que les autres. Mais il est venu Via Veneto. Cinq personnes m\'ont appelé pour me dire qu\'il y avait Depardieu avec une femme. Pardon, mais si tu ne veux pas être vu, va ailleurs.\n\n[00:01:25 - 00:01:42] Journaliste:\nPour ses méthodes peu orthodoxes, le paparazzi a l\'habitude de prendre des coups. Ici de Franco Nero, un acteur italien, là de l\'actrice yougoslave Sonja Romanoff. 200 passages aux urgences au total et zéro remords, pourvu que la photo soit bonne.\n\n[00:01:42 - 00:02:05] Invité:\nÇa, c\'est une photo de Gunter Sachs, le mari de Brigitte Bardot. Il se disait qu\'elle avait tenté de se suicider ici à Rome. Et donc, je suis rentré dans le jardin de la villa. Son mari était un peu en colère. Il m\'a poursuivi. Je lui ai dit : ""T\'inquiète pas."" Je me suis excusé, et les photos ont été publiées.\n\n[00:02:05 - 00:02:12] Journaliste:\nAujourd\'hui, le roi des paparazzi sera confronté pour la première fois à l\'acteur français depuis leur altercation. Mais pas de quoi effrayer cet éternel provocateur. Bien au contraire.', 'original_length': 470, 'llm_length': 495, 'filtered_length': 491, 'match_start': 4, 'match_end': 494, 'coverage_ratio': 1.0446808510638297}","-traitée conformément à vos instructions :
 
-Décentraliser les compétences, les responsabilités et les moyens, c'est aussi une formidable occasion de repenser complètement notre planification écologique et énergétique. Nous ferons des propositions précises sur le sujet. Certains travaux du Sénat pourront nous guider dans ce chemin. Je pense en particulier sur la gestion de l'eau qui, comme vous le savez très bien, n'obéit pas à des périmètres administratifs mais à des réalités géographiques de terrain.
+[00:00:00 - 00:00:18] Journaliste:
+À plus de 80 ans, Rino Barillari est toujours à l'affût. Celui que l'on surnomme le roi des paparazzi continue de traquer les stars, ici même devant le Harris Bar, Via Veneto à Rome. Devenu son royaume il y a plus de 60 ans, à l'âge d'or du cinéma italien.
+
+[00:00:19 - 00:00:32] Invité:
+Regarde, on les voyait sortir comme ça parce que les voitures attendaient là. Quand ils sortaient, claque, claque, claque. Il me disait : ""Pas de photo."" Je disais : ""Je photographie l'immeuble."" Mais en fait non, je faisais une photo.
+
+[00:00:35 - 00:00:58] Journaliste:
+Liszt et Lore, Frank Sinatra, Sophia Loren. Aucune vedette de l'époque n'a échappé à son œil redoutable. Et c'est ici encore, qu'il y a un an et demi, il s'est retrouvé chaos. Après avoir photographié Gérard Depardieu et sa compagne. L'acteur français l'aurait frappé pour l'empêcher de réaliser ce cliché. Aujourd'hui, le paparazzi a du mal à comprendre l'attitude de l'acteur qu'il connaît bien.
+
+[00:01:00 - 00:01:23] Invité:
+J'ai déjà fait des photos de lui sans aucun problème. Ce jour-là, je ne sais pas, il s'est énervé parce qu'il était amoureux. Il voulait être le plus beau et montrer qu'il était plus fort que les autres. Mais il est venu Via Veneto. Cinq personnes m'ont appelé pour me dire qu'il y avait Depardieu avec une femme. Pardon, mais si tu ne veux pas être vu, va ailleurs.
+
+[00:01:25 - 00:01:42] Journaliste:
+Pour ses méthodes peu orthodoxes, le paparazzi a l'habitude de prendre des coups. Ici de Franco Nero, un acteur italien, là de l'actrice yougoslave Sonja Romanoff. 200 passages aux urgences au total et zéro remords, pourvu que la photo soit bonne.
+
+[00:01:42 - 00:02:05] Invité:
+Ça, c'est une photo de Gunter Sachs, le mari de Brigitte Bardot. Il se disait qu'elle avait tenté de se suicider ici à Rome. Et donc, je suis rentré dans le jardin de la villa. Son mari était un peu en colère. Il m'a poursuivi. Je lui ai dit : ""T'inquiète pas."" Je me suis excusé, et les photos ont été publiées.
+
+[00:02:05 - 00:02:12] Journaliste:
+Aujourd'hui, le roi des paparazzi sera confronté pour la première fois à l'acteur français depuis leur altercation. Mais pas de quoi effrayer cet éternel provocateur. Bien au contraire.",736,1.0446808510638297
+transcript_formatted_e2285982-a9cd-11f0-ac08-57a09c50f7ce.txt,FINFO,2788,727,"[00:00:00 - 00:00:08] Voix 00 :
+  Mesdames et Messieurs les sénateurs, le gouvernement porte aussi une ambition pour protéger notre environnement et lutter contre le réchauffement climatique. La France entend continuer à mener le combat, comme elle le fait depuis 2017, et il a autant besoin d'être porté à l'international, la nouvelle ministre en charge démontrée par son bilan ses capacités qu'au niveau local.  Nous devons avancer avec efficacité et sans dogmatisme et avec une approche locale, car l'écologie cède l'aménagement du territoire. Décentraliser les compétences, les responsabilités et les moyens, c'est aussi une formidable occasion de repenser complètement notre planification écologique et énergétique.  Nous ferons des propositions précises sur le sujet. Certains travaux du Sénat pourront nous guider dans ce chemin. Je pense en particulier sur la gestion de l'eau qui, comme vous le savez très bien, n'obéit pas à des périmètres administratifs mais à des réalités géographiques de terrain.  L'écologie, c'est aussi pouvoir se déplacer et moins polluer. Sans mobilité, les Français ne peuvent avoir accès à l'emploi, à la santé, à l'éducation, au loisir et donc à leurs besoins essentiels. Pas de croissance sans transport. La question de la desserte des territoires est capitale. Pour éviter qu'un sentiment de relégation ne se développe davantage,  chez des millions de nos concitoyens. Le ministre des Transport vous proposera une loi cadre qui permettra notamment de flécher les recettes des futures concessions autoroutières vers le développement de nouvelles mobilités et de nouvelles infrastructures, notamment ferroviaires. Cette loi devra avancer en miroir des travaux de décentralisation.  L'écologie, c'est de l'aménagement du territoire. C'est donc aussi parler du logement. Il faut bien le reconnaître. Si beaucoup n'a été entrepris depuis 2017 avec bonne foi et volontarisme, les résultats ne sont pas toujours au rendez-vous. La panne de la construction affecte toute.  l'économie. Je veux saluer les premières décisions prises récemment par la ministre Valérie Léthard. Trop de nos compatriotes ont du mal à se loger. Les dépenses de logement ont atteint dans le revenu des ménages une part excessive. Et c'est au fond l'un des principaux problèmes du pouvoir d'achat des Français. Le reste à vivre, ce qui reste quand vous avez payé toutes vos factures, se réduit.  Des solutions pourtant existent. Réduire le millefeuille de documents de planification pour les rendre plus durables, moins coûteux pour les collectivités et plus efficaces. Simplifier les procédures d'urbanisme pour baisser les coûts de construction peut en être une autre. La proposition de loi Uvart était un premier pas. Il faudra continuer. Les ministres sont à votre disposition.","[00:00:00 - 00:00:08] Voix 00 :
+Mesdames et Messieurs les sénateurs, le gouvernement porte aussi une ambition pour protéger notre environnement et lutter contre le réchauffement climatique. La France entend continuer à mener le combat, comme elle le fait depuis 2017, et il a autant besoin d'être porté à l'international, la nouvelle ministre en charge a démontré par son bilan ses capacités, qu'au niveau local. Nous devons avancer avec efficacité et sans dogmatisme et avec une approche locale, car l'écologie, c'est l'aménagement du territoire.
+
+Décentraliser les compétences, les responsabilités et les moyens, c'est aussi une formidable occasion de repenser complètement notre planification écologique et énergétique. Nous ferons des propositions précises sur le sujet. Certains travaux du Sénat pourront nous guider dans ce chemin. Je pense en particulier à la gestion de l'eau qui, comme vous le savez très bien, n'obéit pas à des périmètres administratifs mais à des réalités géographiques de terrain.
 
 L'écologie, c'est aussi pouvoir se déplacer et moins polluer. Sans mobilité, les Français ne peuvent avoir accès à l'emploi, à la santé, à l'éducation, au loisir et donc à leurs besoins essentiels. Pas de croissance sans transport. La question de la desserte des territoires est capitale pour éviter qu'un sentiment de relégation ne se développe davantage chez des millions de nos concitoyens. Le ministre des Transports vous proposera une loi cadre qui permettra notamment de flécher les recettes des futures concessions autoroutières vers le développement de nouvelles mobilités et de nouvelles infrastructures, notamment ferroviaires. Cette loi devra avancer en miroir des travaux de décentralisation.
 
-L'écologie, c'est de l'aménagement du territoire. C'est donc aussi parler du logement. Il faut bien le reconnaître : si beaucoup a été entrepris depuis 2017 avec bonne foi et volontarisme, les résultats ne sont pas toujours au rendez-vous. La panne de la construction affecte toute l'économie. Je veux saluer les premières décisions prises récemment par la ministre Valérie Létard. Trop de nos compatriotes ont du mal à se loger. Les dépenses de logement ont atteint, dans le revenu des ménages, une part excessive. Et c'est au fond l'un des principaux problèmes du pouvoir d'achat des Français. Le reste à vivre, ce qui reste quand vous avez payé toutes vos factures, se réduit.
+L'écologie, c'est l'aménagement du territoire. C'est donc aussi parler du logement. Il faut bien le reconnaître : si beaucoup a été entrepris depuis 2017 avec bonne foi et volontarisme, les résultats ne sont pas toujours au rendez-vous. La panne de la construction affecte toute l'économie. Je veux saluer les premières décisions prises récemment par la ministre Valérie Léthard. Trop de nos compatriotes ont du mal à se loger. Les dépenses de logement ont atteint une part excessive dans le revenu des ménages. Et c'est au fond l'un des principaux problèmes du pouvoir d'achat des Français. Le reste à vivre, ce qui reste quand vous avez payé toutes vos factures, se réduit.
 
-Des solutions pourtant existent. Réduire le millefeuille de documents de planification pour les rendre plus durables, moins coûteux pour les collectivités et plus efficaces. Simplifier les procédures d'urbanisme pour baisser les coûts de construction peut en être une autre. La proposition de loi Uvart était un premier pas. Il faudra continuer. Les ministres sont à votre disposition.",727,706,0.9711141678129298,True,
-transcript_formatted_00cd8b8a-a9b7-11f0-8247-957ddefc544d.txt,2197,686,"[00:00:01 - 00:00:15] Voix 03 :
+Des solutions pourtant existent : réduire le millefeuille de documents de planification pour les rendre plus durables, moins coûteux pour les collectivités et plus efficaces. Simplifier les procédures d'urbanisme pour baisser les coûts de construction peut en être une autre. La proposition de loi Uvart était un premier pas. Il faudra continuer. Les ministres sont à votre disposition.",727,717,0.9862448418156808,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Mesdames et Messieurs les sénateurs, le gouvernement porte aussi une ambition pour protéger notre environnement et lutter contre le réchauffement climatique. La France entend continuer à mener le combat, comme elle le fait depuis 2017, et il a autant besoin d'être porté à l'international, la nouvelle ministre en charge a démontré par son bilan ses capacités, qu'au niveau local. Nous devons avancer avec efficacité et sans dogmatisme et avec une approche locale, car l'écologie, c'est l'aménagement du territoire.\n\nDécentraliser les compétences, les responsabilités et les moyens, c'est aussi une formidable occasion de repenser complètement notre planification écologique et énergétique. Nous ferons des propositions précises sur le sujet. Certains travaux du Sénat pourront nous guider dans ce chemin. Je pense en particulier à la gestion de l'eau qui, comme vous le savez très bien, n'obéit pas à des périmètres administratifs mais à des réalités géographiques de terrain.\n\nL'écologie, c'est aussi pouvoir se déplacer et moins polluer. Sans mobilité, les Français ne peuvent avoir accès à l'emploi, à la santé, à l'éducation, au loisir et donc à leurs besoins essentiels. Pas de croissance sans transport. La question de la desserte des territoires est capitale pour éviter qu'un sentiment de relégation ne se développe davantage chez des millions de nos concitoyens. Le ministre des Transports vous proposera une loi cadre qui permettra notamment de flécher les recettes des futures concessions autoroutières vers le développement de nouvelles mobilités et de nouvelles infrastructures, notamment ferroviaires. Cette loi devra avancer en miroir des travaux de décentralisation.\n\nL'écologie, c'est l'aménagement du territoire. C'est donc aussi parler du logement. Il faut bien le reconnaître : si beaucoup a été entrepris depuis 2017 avec bonne foi et volontarisme, les résultats ne sont pas toujours au rendez-vous. La panne de la construction affecte toute l'économie. Je veux saluer les premières décisions prises récemment par la ministre Valérie Léthard. Trop de nos compatriotes ont du mal à se loger. Les dépenses de logement ont atteint une part excessive dans le revenu des ménages. Et c'est au fond l'un des principaux problèmes du pouvoir d'achat des Français. Le reste à vivre, ce qui reste quand vous avez payé toutes vos factures, se réduit.\n\nDes solutions pourtant existent : réduire le millefeuille de documents de planification pour les rendre plus durables, moins coûteux pour les collectivités et plus efficaces. Simplifier les procédures d'urbanisme pour baisser les coûts de construction peut en être une autre. La proposition de loi Uvart était un premier pas. Il faudra continuer. Les ministres sont à votre disposition."", 'original_length': 517, 'llm_length': 516, 'filtered_length': 516, 'match_start': 0, 'match_end': 515, 'coverage_ratio': 0.9980657640232108}","Mesdames et Messieurs les sénateurs, le gouvernement porte aussi une ambition pour protéger notre environnement et lutter contre le réchauffement climatique. La France entend continuer à mener le combat, comme elle le fait depuis 2017, et il a autant besoin d'être porté à l'international, la nouvelle ministre en charge a démontré par son bilan ses capacités, qu'au niveau local. Nous devons avancer avec efficacité et sans dogmatisme et avec une approche locale, car l'écologie, c'est l'aménagement du territoire.
+
+Décentraliser les compétences, les responsabilités et les moyens, c'est aussi une formidable occasion de repenser complètement notre planification écologique et énergétique. Nous ferons des propositions précises sur le sujet. Certains travaux du Sénat pourront nous guider dans ce chemin. Je pense en particulier à la gestion de l'eau qui, comme vous le savez très bien, n'obéit pas à des périmètres administratifs mais à des réalités géographiques de terrain.
+
+L'écologie, c'est aussi pouvoir se déplacer et moins polluer. Sans mobilité, les Français ne peuvent avoir accès à l'emploi, à la santé, à l'éducation, au loisir et donc à leurs besoins essentiels. Pas de croissance sans transport. La question de la desserte des territoires est capitale pour éviter qu'un sentiment de relégation ne se développe davantage chez des millions de nos concitoyens. Le ministre des Transports vous proposera une loi cadre qui permettra notamment de flécher les recettes des futures concessions autoroutières vers le développement de nouvelles mobilités et de nouvelles infrastructures, notamment ferroviaires. Cette loi devra avancer en miroir des travaux de décentralisation.
+
+L'écologie, c'est l'aménagement du territoire. C'est donc aussi parler du logement. Il faut bien le reconnaître : si beaucoup a été entrepris depuis 2017 avec bonne foi et volontarisme, les résultats ne sont pas toujours au rendez-vous. La panne de la construction affecte toute l'économie. Je veux saluer les premières décisions prises récemment par la ministre Valérie Léthard. Trop de nos compatriotes ont du mal à se loger. Les dépenses de logement ont atteint une part excessive dans le revenu des ménages. Et c'est au fond l'un des principaux problèmes du pouvoir d'achat des Français. Le reste à vivre, ce qui reste quand vous avez payé toutes vos factures, se réduit.
+
+Des solutions pourtant existent : réduire le millefeuille de documents de planification pour les rendre plus durables, moins coûteux pour les collectivités et plus efficaces. Simplifier les procédures d'urbanisme pour baisser les coûts de construction peut en être une autre. La proposition de loi Uvart était un premier pas. Il faudra continuer. Les ministres sont à votre disposition.",698,0.9980657640232108
+transcript_formatted_00cd8b8a-a9b7-11f0-8247-957ddefc544d.txt,FINFO,2197,686,"[00:00:01 - 00:00:15] Voix 03 :
   Dans cette pharmacie, les médicaments pourraient bientôt coûter plus cher. La franchise pourrait passer de 1 à 2 euros par boîte. C'est la partie restant due qui ne peut faire l'objet d'aucun remboursement. Ce matin, les clients de cette officine réagissent.
 
 [00:00:16 - 00:00:23] Voix 01 :
@@ -73,32 +102,56 @@ transcript_formatted_00cd8b8a-a9b7-11f0-8247-957ddefc544d.txt,2197,686,"[00:00:0
   C'est pour moi totalement scandaleux. J'ai 25 ans de carrière. Ça me met dans l'état d'esprit d'un enfant à qui on demande de faire sans ligne en disant tu es un mauvais médecin, tu écrira 100 fois je ne dois pas faire d'arrêt de travail abusif.
 
 [00:01:52 - 00:01:57] Voix 03 :
- Il s'agit d'un projet de loi de finances qui doit être maintenant discuté à l'Assemblée nationale avant d'être adopté.","Voici la transcription post-traitée selon vos instructions :
+ Il s'agit d'un projet de loi de finances qui doit être maintenant discuté à l'Assemblée nationale avant d'être adopté.","Voici la transcription post-traitée conformément à vos instructions :
 
-Présentateur:
-[00:00:01 - 00:00:15] Dans cette pharmacie, les médicaments pourraient bientôt coûter plus cher. La franchise pourrait passer de 1 à 2 euros par boîte. C'est la partie restant due qui ne peut faire l'objet d'aucun remboursement. Ce matin, les clients de cette officine réagissent.
+[00:00:01 - 00:00:15] Journaliste:
+Dans cette pharmacie, les médicaments pourraient bientôt coûter plus cher. La franchise pourrait passer de 1 à 2 euros par boîte. C'est la partie restant due qui ne peut faire l'objet d'aucun remboursement. Ce matin, les clients de cette officine réagissent.
 
-Intervenant:
-[00:00:16 - 00:00:23] Ça sera vraiment encore une aggravation des conséquences coûteuses. Ça, c'est une évidence. Je ne comprends pas cette mesure.
+[00:00:16 - 00:00:23] Client (1):
+Ça sera vraiment encore une aggravation des conséquences dépensées. Ça, c'est une évidence. Je ne comprends pas cette mesure.
 
-Intervenant:
-[00:00:24 - 00:00:34] Un dollar, non, mais c'est la contribution solidaire, on va dire. Il faudrait faire la part des choses, ne pas faire payer à ceux qui ne peuvent pas.
+[00:00:24 - 00:00:34] Client (2):
+Un euro, non, mais c'est la contribution solidaire, on va dire. Il faudrait faire la part des choses, ne pas faire payer à ceux qui ne peuvent pas.
 
-Présentateur:
-[00:00:34 - 00:00:39] Le pharmacien craint, lui, que ses clients renoncent à se soigner. Faute de pouvoir d'achat suffisant.
+[00:00:34 - 00:00:39] Journaliste:
+Le pharmacien craint, lui, que ses clients renoncent à se soigner. Faute de pouvoir d'achat suffisant.
 
-Intervenant:
-[00:00:40 - 00:00:58] On est malade et en plus, on doit payer plus, parce que, en fait, le principe de l'assurance maladie, c'est qu'on cotise en fonction de ses moyens et qu'on bénéficie en fonction de ses besoins. Et là, on est en train de dire : vous êtes malade, en plus vous avez payé. On ne choisit pas d'être malade.
+[00:00:40 - 00:00:58] Client (3):
+On est malade et en plus on doit payer plus parce que en fait le principe de l'assurance maladie, c'est qu'on cotise en fonction de ses moyens et qu'on consomme en fonction de ses besoins et là on est en train de dire vous êtes malade en plus vous avez payé, on ne choisit pas d'être malade.
 
-Présentateur:
-[00:00:58 - 00:01:36] Les actes ou consultations réalisées par les chirurgiens-dentistes entreront désormais dans le champ des franchises médicales à 4 euros. Les mutuelles seront, elles aussi, soumises à une contribution de 2,05% sur les cotisations. Une taxe conçue comme exceptionnelle qui ne devrait s'appliquer qu'en 2026 pour le moment. Dans le viseur également, la durée des arrêts de travail. Les professionnels de santé seraient limités dans leurs prescriptions. 15 jours d'arrêt maximum renouvelable par un médecin en ville et jusqu'à 30 jours à l'hôpital. Des généralistes qui sont déjà contrôlés sur le nombre d'arrêts de travail prescrits.
+[00:00:58 - 00:01:36] Journaliste:
+Les actes ou consultations réalisées par les chirurgiens dentistes entreront désormais dans le champ des franchises médicales à 4 euros. Les mutuelles seront elles aussi soumises à une contribution de 2,05% sur les cotisations. Une taxe conçue comme exceptionnelle qui ne devrait s'appliquer qu'en 2026 pour le moment. Dans le viseur également, la durée des arrêts de travail. Les professionnels de santé seraient limités dans leurs prescriptions. 15 jours d'arrêt maximum renouvelable par un médecin en ville et jusqu'à 30 jours à l'hôpital. Des généralistes qui sont déjà contrôlés sur le nombre d'arrêts de travail prescrits.
 
-Médecin:
-[00:01:38 - 00:01:51] C'est pour moi totalement scandaleux. J'ai 25 ans de carrière. Ça me met dans l'état d'esprit d'un enfant à qui on demande de faire cent lignes en disant : tu es un mauvais médecin, tu écriras cent fois : je ne dois pas faire d'arrêt de travail abusif.
+[00:01:38 - 00:01:51] Médecin:
+C'est pour moi totalement scandaleux. J'ai 25 ans de carrière. Ça me met dans l'état d'esprit d'un enfant à qui on demande de faire cent lignes en disant tu es un mauvais médecin, tu écriras 100 fois je ne dois pas faire d'arrêt de travail abusif.
 
-Présentateur:
-[00:01:52 - 00:01:57] Il s'agit d'un projet de loi de finances qui doit être maintenant discuté à l'Assemblée nationale avant d'être adopté.",686,706,1.0291545189504374,True,
-transcript_formatted_69ad1fd4-45a0-40a2-9967-f1f22c47bdd9.txt,1720,559,"[00:00:00 - 00:00:07] Voix 01 :
+[00:01:52 - 00:01:57] Journaliste:
+Il s'agit d'un projet de loi de finances qui doit être maintenant discuté à l'Assemblée nationale avant d'être adopté.",686,686,1.0,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée conformément à vos instructions :\n\n[00:00:01 - 00:00:15] Journaliste:\nDans cette pharmacie, les médicaments pourraient bientôt coûter plus cher. La franchise pourrait passer de 1 à 2 euros par boîte. C'est la partie restant due qui ne peut faire l'objet d'aucun remboursement. Ce matin, les clients de cette officine réagissent.\n\n[00:00:16 - 00:00:23] Client (1):\nÇa sera vraiment encore une aggravation des conséquences dépensées. Ça, c'est une évidence. Je ne comprends pas cette mesure.\n\n[00:00:24 - 00:00:34] Client (2):\nUn euro, non, mais c'est la contribution solidaire, on va dire. Il faudrait faire la part des choses, ne pas faire payer à ceux qui ne peuvent pas.\n\n[00:00:34 - 00:00:39] Journaliste:\nLe pharmacien craint, lui, que ses clients renoncent à se soigner. Faute de pouvoir d'achat suffisant.\n\n[00:00:40 - 00:00:58] Client (3):\nOn est malade et en plus on doit payer plus parce que en fait le principe de l'assurance maladie, c'est qu'on cotise en fonction de ses moyens et qu'on consomme en fonction de ses besoins et là on est en train de dire vous êtes malade en plus vous avez payé, on ne choisit pas d'être malade.\n\n[00:00:58 - 00:01:36] Journaliste:\nLes actes ou consultations réalisées par les chirurgiens dentistes entreront désormais dans le champ des franchises médicales à 4 euros. Les mutuelles seront elles aussi soumises à une contribution de 2,05% sur les cotisations. Une taxe conçue comme exceptionnelle qui ne devrait s'appliquer qu'en 2026 pour le moment. Dans le viseur également, la durée des arrêts de travail. Les professionnels de santé seraient limités dans leurs prescriptions. 15 jours d'arrêt maximum renouvelable par un médecin en ville et jusqu'à 30 jours à l'hôpital. Des généralistes qui sont déjà contrôlés sur le nombre d'arrêts de travail prescrits.\n\n[00:01:38 - 00:01:51] Médecin:\nC'est pour moi totalement scandaleux. J'ai 25 ans de carrière. Ça me met dans l'état d'esprit d'un enfant à qui on demande de faire cent lignes en disant tu es un mauvais médecin, tu écriras 100 fois je ne dois pas faire d'arrêt de travail abusif.\n\n[00:01:52 - 00:01:57] Journaliste:\nIl s'agit d'un projet de loi de finances qui doit être maintenant discuté à l'Assemblée nationale avant d'être adopté."", 'original_length': 416, 'llm_length': 443, 'filtered_length': 443, 'match_start': 0, 'match_end': 442, 'coverage_ratio': 1.0649038461538463}","Voici la transcription post-traitée conformément à vos instructions :
+
+[00:00:01 - 00:00:15] Journaliste:
+Dans cette pharmacie, les médicaments pourraient bientôt coûter plus cher. La franchise pourrait passer de 1 à 2 euros par boîte. C'est la partie restant due qui ne peut faire l'objet d'aucun remboursement. Ce matin, les clients de cette officine réagissent.
+
+[00:00:16 - 00:00:23] Client (1):
+Ça sera vraiment encore une aggravation des conséquences dépensées. Ça, c'est une évidence. Je ne comprends pas cette mesure.
+
+[00:00:24 - 00:00:34] Client (2):
+Un euro, non, mais c'est la contribution solidaire, on va dire. Il faudrait faire la part des choses, ne pas faire payer à ceux qui ne peuvent pas.
+
+[00:00:34 - 00:00:39] Journaliste:
+Le pharmacien craint, lui, que ses clients renoncent à se soigner. Faute de pouvoir d'achat suffisant.
+
+[00:00:40 - 00:00:58] Client (3):
+On est malade et en plus on doit payer plus parce que en fait le principe de l'assurance maladie, c'est qu'on cotise en fonction de ses moyens et qu'on consomme en fonction de ses besoins et là on est en train de dire vous êtes malade en plus vous avez payé, on ne choisit pas d'être malade.
+
+[00:00:58 - 00:01:36] Journaliste:
+Les actes ou consultations réalisées par les chirurgiens dentistes entreront désormais dans le champ des franchises médicales à 4 euros. Les mutuelles seront elles aussi soumises à une contribution de 2,05% sur les cotisations. Une taxe conçue comme exceptionnelle qui ne devrait s'appliquer qu'en 2026 pour le moment. Dans le viseur également, la durée des arrêts de travail. Les professionnels de santé seraient limités dans leurs prescriptions. 15 jours d'arrêt maximum renouvelable par un médecin en ville et jusqu'à 30 jours à l'hôpital. Des généralistes qui sont déjà contrôlés sur le nombre d'arrêts de travail prescrits.
+
+[00:01:38 - 00:01:51] Médecin:
+C'est pour moi totalement scandaleux. J'ai 25 ans de carrière. Ça me met dans l'état d'esprit d'un enfant à qui on demande de faire cent lignes en disant tu es un mauvais médecin, tu écriras 100 fois je ne dois pas faire d'arrêt de travail abusif.
+
+[00:01:52 - 00:01:57] Journaliste:
+Il s'agit d'un projet de loi de finances qui doit être maintenant discuté à l'Assemblée nationale avant d'être adopté.",686,1.0649038461538463
+transcript_formatted_69ad1fd4-45a0-40a2-9967-f1f22c47bdd9.txt,FINFO,1720,559,"[00:00:00 - 00:00:07] Voix 01 :
   Quand justement le monde se résigne à banaliser la violence et la séparation des classes, etc. Ce qui reste, c'est le collectif.
 
 [00:00:07 - 00:00:25] Voix 02 :
@@ -120,30 +173,56 @@ transcript_formatted_69ad1fd4-45a0-40a2-9967-f1f22c47bdd9.txt,1720,559,"[00:00:0
  Le réalisateur de Back North et de Novembre, Cédric Jiménez, signe cette dystopie. Chien 51, sort mercredi 15 octobre au cinéma.
 
 [00:01:24 - 00:01:27] Voix 01 :
- Tout est fou Malik, tout est fou.","Voix 01:
+ Tout est fou Malik, tout est fou.","Voici la transcription post-traitée conformément à vos instructions :
+
+[00:00:00 - 00:00:07] Voix 01 :
 Quand justement le monde se résigne à banaliser la violence et la séparation des classes, etc. Ce qui reste, c'est le collectif.
 
-Voix 02:
-Le programme Alma et son inventeur George Kessel sont les ennemis du peuple. Le film Chien 51 est l'histoire de deux policiers que tout oppose et qui doivent faire équipe à un moment où l'IA régit leur métier. Le lieu, un pari futuriste où les différentes classes sociales ne se mélangent plus.
+[00:00:07 - 00:00:25] Voix 02 :
+Le programme Alma et son inventeur George Kessel sont les ennemis du peuple. Le film Chien 51 est l'histoire de deux policiers que tout oppose et qui doivent faire équipe à un moment où l'IA régit leur métier. Le lieu, un Paris futuriste où les différentes classes sociales ne se mélangent plus.
 
-Voix 01:
+[00:00:25 - 00:00:32] Voix 01 :
 C'était plus un présent augmenté qu'un futur proche, malheureusement. Mais en termes de fracture sociale, c'est déjà un reflet de notre société actuelle.
 
-Voix 00:
-Il y a la banlieue, la périphérie, la classe moyenne, les ultrariches dans les centres des villes. On est déjà un peu là-dedans. Là, on augmente ce schéma-là en imaginant que ces zones sont infranchissables pour les uns et pour les autres et qu'il n'y a pas de bascule. Une petite enquête d'un fil sur lequel ils vont tirer va opérer une révolution. Nous allons construire une société meilleure.
+[00:00:32 - 00:00:54] Voix 00 :
+Il y a la banlieue, la périphérie, la classe moyenne, les ultrariches dans les centres des villes. On est déjà un peu là-dedans. Là, on augmente ce schéma-là en imaginant que ces eaux de nade sont infranchissables pour les uns et pour les autres et qu'il n'y a pas de bascule. Une petite enquête d'un fil sur lequel ils vont tirer va opérer une révolution. Nous allons construire une société meilleure.
 
-Voix 01:
+[00:00:54 - 00:00:55] Voix 01 :
 Regarde-moi, sale merde !
 
-Voix 00:
+[00:00:59 - 00:01:16] Voix 00 :
 C'est sûr. Ça raconte aussi que l'individu peut faire de grandes choses, qu'on n'est pas condamné à subir les avancées technologiques, à subir le monde qui nous gouverne, à subir les idées des autres, mais qu'on peut suivre les nôtres et que de grandes choses peuvent opérer.
 
-Voix 02:
-Le réalisateur de Back North et de Novembre, Cédric Jiménez, signe cette dystopie. Chien 51, sort mercredi 15 octobre au cinéma.
+[00:01:16 - 00:01:24] Voix 02 :
+Le réalisateur de Bac Nord et de Novembre, Cédric Jiménez, signe cette dystopie. Chien 51, sort mercredi 15 octobre au cinéma.
 
-Voix 01:
-Tout est fou Malik, tout est fou.",559,440,0.7871198568872988,True,
-transcript_formatted_5ca65ebe-a9b7-11f0-92e2-6dcd43e8ddfd.txt,1882,593,"[00:00:01 - 00:00:26] Voix 03 :
+[00:01:24 - 00:01:27] Voix 01 :
+Tout est fou, Malik, tout est fou.",559,571,1.0214669051878353,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""la transcription post-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:07] Voix 01 :\nQuand justement le monde se résigne à banaliser la violence et la séparation des classes, etc. Ce qui reste, c'est le collectif.\n\n[00:00:07 - 00:00:25] Voix 02 :\nLe programme Alma et son inventeur George Kessel sont les ennemis du peuple. Le film Chien 51 est l'histoire de deux policiers que tout oppose et qui doivent faire équipe à un moment où l'IA régit leur métier. Le lieu, un Paris futuriste où les différentes classes sociales ne se mélangent plus.\n\n[00:00:25 - 00:00:32] Voix 01 :\nC'était plus un présent augmenté qu'un futur proche, malheureusement. Mais en termes de fracture sociale, c'est déjà un reflet de notre société actuelle.\n\n[00:00:32 - 00:00:54] Voix 00 :\nIl y a la banlieue, la périphérie, la classe moyenne, les ultrariches dans les centres des villes. On est déjà un peu là-dedans. Là, on augmente ce schéma-là en imaginant que ces eaux de nade sont infranchissables pour les uns et pour les autres et qu'il n'y a pas de bascule. Une petite enquête d'un fil sur lequel ils vont tirer va opérer une révolution. Nous allons construire une société meilleure.\n\n[00:00:54 - 00:00:55] Voix 01 :\nRegarde-moi, sale merde !\n\n[00:00:59 - 00:01:16] Voix 00 :\nC'est sûr. Ça raconte aussi que l'individu peut faire de grandes choses, qu'on n'est pas condamné à subir les avancées technologiques, à subir le monde qui nous gouverne, à subir les idées des autres, mais qu'on peut suivre les nôtres et que de grandes choses peuvent opérer.\n\n[00:01:16 - 00:01:24] Voix 02 :\nLe réalisateur de Bac Nord et de Novembre, Cédric Jiménez, signe cette dystopie. Chien 51, sort mercredi 15 octobre au cinéma.\n\n[00:01:24 - 00:01:27] Voix 01 :\nTout est fou, Malik, tout est fou"", 'original_length': 316, 'llm_length': 328, 'filtered_length': 326, 'match_start': 1, 'match_end': 326, 'coverage_ratio': 1.0316455696202531}","la transcription post-traitée conformément à vos instructions :
+
+[00:00:00 - 00:00:07] Voix 01 :
+Quand justement le monde se résigne à banaliser la violence et la séparation des classes, etc. Ce qui reste, c'est le collectif.
+
+[00:00:07 - 00:00:25] Voix 02 :
+Le programme Alma et son inventeur George Kessel sont les ennemis du peuple. Le film Chien 51 est l'histoire de deux policiers que tout oppose et qui doivent faire équipe à un moment où l'IA régit leur métier. Le lieu, un Paris futuriste où les différentes classes sociales ne se mélangent plus.
+
+[00:00:25 - 00:00:32] Voix 01 :
+C'était plus un présent augmenté qu'un futur proche, malheureusement. Mais en termes de fracture sociale, c'est déjà un reflet de notre société actuelle.
+
+[00:00:32 - 00:00:54] Voix 00 :
+Il y a la banlieue, la périphérie, la classe moyenne, les ultrariches dans les centres des villes. On est déjà un peu là-dedans. Là, on augmente ce schéma-là en imaginant que ces eaux de nade sont infranchissables pour les uns et pour les autres et qu'il n'y a pas de bascule. Une petite enquête d'un fil sur lequel ils vont tirer va opérer une révolution. Nous allons construire une société meilleure.
+
+[00:00:54 - 00:00:55] Voix 01 :
+Regarde-moi, sale merde !
+
+[00:00:59 - 00:01:16] Voix 00 :
+C'est sûr. Ça raconte aussi que l'individu peut faire de grandes choses, qu'on n'est pas condamné à subir les avancées technologiques, à subir le monde qui nous gouverne, à subir les idées des autres, mais qu'on peut suivre les nôtres et que de grandes choses peuvent opérer.
+
+[00:01:16 - 00:01:24] Voix 02 :
+Le réalisateur de Bac Nord et de Novembre, Cédric Jiménez, signe cette dystopie. Chien 51, sort mercredi 15 octobre au cinéma.
+
+[00:01:24 - 00:01:27] Voix 01 :
+Tout est fou, Malik, tout est fou",568,1.0316455696202531
+transcript_formatted_5ca65ebe-a9b7-11f0-92e2-6dcd43e8ddfd.txt,FINFO,1882,593,"[00:00:01 - 00:00:26] Voix 03 :
   Un quartier cerné par les policiers à l'aube ce matin. 400 forces de l'ordre à Grenoble. Une opération d'envergure. Pendant quatre heures, les CRS ratissent les halls d'entrée, fouillent les partis communes, perquisitionnent 63 appartements. Sur l'un des principaux points de deal de l'agglomération, une des 100 anti-drogues XXL qui laissent les riverains dubitatifs.
 
 [00:00:26 - 00:00:34] Voix 01 :
@@ -162,29 +241,50 @@ transcript_formatted_5ca65ebe-a9b7-11f0-92e2-6dcd43e8ddfd.txt,1882,593,"[00:00:0
  Vous aviez des portes d'entrée qui n'étaient plus ouvrables. Elles avaient été soudées en plusieurs endroits. Il a fallu intervenir à la disqueuse pour pouvoir rétablir l'accès.
 
 [00:01:37 - 00:01:40] Voix 03 :
- Ce matin à Grenoble, trois personnes ont été interpellées. Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville.","Voici la transcription post-traitée conformément à vos instructions :
+ Ce matin à Grenoble, trois personnes ont été interpellées. Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville.","Voici la transcription post-traitée selon vos instructions :
 
-Journaliste:
-Un quartier cerné par les policiers à l'aube ce matin. 400 forces de l'ordre à Grenoble. Une opération d'envergure. Pendant quatre heures, les CRS ratissent les halls d'entrée, fouillent les **parties** communes, perquisitionnent 63 appartements. Sur l'un des principaux points de deal de l'agglomération, une des 100 anti-drogues XXL qui laissent les riverains dubitatifs.
+[00:00:01 - 00:00:26] Journaliste:
+Un quartier cerné par les policiers à l'aube ce matin. 400 forces de l'ordre à Grenoble. Une opération d'envergure. Pendant quatre heures, les CRS ratissent les halls d'entrée, fouillent les parties communes, perquisitionnent 63 appartements. Sur l'un des principaux points de deal de l'agglomération, une des 100 anti-drogues XXL qui laissent les riverains dubitatifs.
 
-Riverain:
+[00:00:26 - 00:00:34] Riverain:
 Dès qu'ils sont partis, ça recommence. C'est comme ça. C'est pas tout pareil. C'est triste.
 
-Journaliste:
+[00:00:34 - 00:01:03] Journaliste:
 Une opération démarrée à 6h ce matin dans le quartier Mistral à Grenoble. Dans le viseur des enquêteurs, une tour de 16 étages bien connue des services de police. Sur place, notre équipe filme les publicités placardées par les dealers. Les contacts des trafiquants, les tarifs des stupéfiants. À l'intérieur, les policiers découvrent des armes, des munitions et une importante quantité de drogue, selon le procureur de Grenoble.
 
-Officier de police:
-10 kilos de résine de cannabis ont été saisis dans un appartement avec 10 000 euros en numéraire. Dans les gaines techniques ont été saisies une centaine de pochons contenant de la cocaïne, de la résine de cannabis et une drogue de synthèse, la **MDMA**.
+[00:01:03 - 00:01:18] Procureur:
+10 kilos de résine de cannabis ont été saisis dans un appartement avec 10 000 euros en numéraire. Dans les gaines techniques ont été saisies une centaine de pochons contenant de la cocaïne, de la résine de cannabis et une drogue de synthèse, la MDMA.
 
-Journaliste:
-Des trafiquants qui s'étaient installés et barricadés dans plusieurs appartements vacants difficilement accessibles pour les forces de l'ordre.
+[00:01:18 - 00:01:27] Journaliste:
+Des trafiquants qui s'étaient installés et barricadés dans plusieurs appartements vacants, difficilement accessibles pour les forces de l'ordre.
 
-Officier de police:
+[00:01:27 - 00:01:37] Officier de police:
 Vous aviez des portes d'entrée qui n'étaient plus ouvrables. Elles avaient été soudées en plusieurs endroits. Il a fallu intervenir à la disqueuse pour pouvoir rétablir l'accès.
 
-Journaliste:
-Ce matin à Grenoble, trois personnes ont été interpellées. Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville.",593,499,0.8414839797639123,True,
-transcript_formatted_eaf8cda2-a98d-11f0-ac08-57a09c50f7ce.txt,1437,430,"[00:00:00 - 00:00:13] Voix 02 :
+[00:01:37 - 00:01:40] Journaliste:
+Ce matin à Grenoble, trois personnes ont été interpellées. Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville.",593,588,0.9915682967959528,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée selon vos instructions :\n\n[00:00:01 - 00:00:26] Journaliste:\nUn quartier cerné par les policiers à l'aube ce matin. 400 forces de l'ordre à Grenoble. Une opération d'envergure. Pendant quatre heures, les CRS ratissent les halls d'entrée, fouillent les parties communes, perquisitionnent 63 appartements. Sur l'un des principaux points de deal de l'agglomération, une des 100 anti-drogues XXL qui laissent les riverains dubitatifs.\n\n[00:00:26 - 00:00:34] Riverain:\nDès qu'ils sont partis, ça recommence. C'est comme ça. C'est pas tout pareil. C'est triste.\n\n[00:00:34 - 00:01:03] Journaliste:\nUne opération démarrée à 6h ce matin dans le quartier Mistral à Grenoble. Dans le viseur des enquêteurs, une tour de 16 étages bien connue des services de police. Sur place, notre équipe filme les publicités placardées par les dealers. Les contacts des trafiquants, les tarifs des stupéfiants. À l'intérieur, les policiers découvrent des armes, des munitions et une importante quantité de drogue, selon le procureur de Grenoble.\n\n[00:01:03 - 00:01:18] Procureur:\n10 kilos de résine de cannabis ont été saisis dans un appartement avec 10 000 euros en numéraire. Dans les gaines techniques ont été saisies une centaine de pochons contenant de la cocaïne, de la résine de cannabis et une drogue de synthèse, la MDMA.\n\n[00:01:18 - 00:01:27] Journaliste:\nDes trafiquants qui s'étaient installés et barricadés dans plusieurs appartements vacants, difficilement accessibles pour les forces de l'ordre.\n\n[00:01:27 - 00:01:37] Officier de police:\nVous aviez des portes d'entrée qui n'étaient plus ouvrables. Elles avaient été soudées en plusieurs endroits. Il a fallu intervenir à la disqueuse pour pouvoir rétablir l'accès.\n\n[00:01:37 - 00:01:40] Journaliste:\nCe matin à Grenoble, trois personnes ont été interpellées. Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville."", 'original_length': 328, 'llm_length': 345, 'filtered_length': 345, 'match_start': 0, 'match_end': 344, 'coverage_ratio': 1.0518292682926829}","Voici la transcription post-traitée selon vos instructions :
+
+[00:00:01 - 00:00:26] Journaliste:
+Un quartier cerné par les policiers à l'aube ce matin. 400 forces de l'ordre à Grenoble. Une opération d'envergure. Pendant quatre heures, les CRS ratissent les halls d'entrée, fouillent les parties communes, perquisitionnent 63 appartements. Sur l'un des principaux points de deal de l'agglomération, une des 100 anti-drogues XXL qui laissent les riverains dubitatifs.
+
+[00:00:26 - 00:00:34] Riverain:
+Dès qu'ils sont partis, ça recommence. C'est comme ça. C'est pas tout pareil. C'est triste.
+
+[00:00:34 - 00:01:03] Journaliste:
+Une opération démarrée à 6h ce matin dans le quartier Mistral à Grenoble. Dans le viseur des enquêteurs, une tour de 16 étages bien connue des services de police. Sur place, notre équipe filme les publicités placardées par les dealers. Les contacts des trafiquants, les tarifs des stupéfiants. À l'intérieur, les policiers découvrent des armes, des munitions et une importante quantité de drogue, selon le procureur de Grenoble.
+
+[00:01:03 - 00:01:18] Procureur:
+10 kilos de résine de cannabis ont été saisis dans un appartement avec 10 000 euros en numéraire. Dans les gaines techniques ont été saisies une centaine de pochons contenant de la cocaïne, de la résine de cannabis et une drogue de synthèse, la MDMA.
+
+[00:01:18 - 00:01:27] Journaliste:
+Des trafiquants qui s'étaient installés et barricadés dans plusieurs appartements vacants, difficilement accessibles pour les forces de l'ordre.
+
+[00:01:27 - 00:01:37] Officier de police:
+Vous aviez des portes d'entrée qui n'étaient plus ouvrables. Elles avaient été soudées en plusieurs endroits. Il a fallu intervenir à la disqueuse pour pouvoir rétablir l'accès.
+
+[00:01:37 - 00:01:40] Journaliste:
+Ce matin à Grenoble, trois personnes ont été interpellées. Les autorités annoncent que d'autres opérations de ce type seront menées dans les différents quartiers de la ville.",588,1.0518292682926829
+transcript_formatted_eaf8cda2-a98d-11f0-ac08-57a09c50f7ce.txt,FINFO,1437,430,"[00:00:00 - 00:00:13] Voix 02 :
   son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.
 
 [00:00:13 - 00:00:22] Voix 03 :
@@ -200,26 +300,32 @@ transcript_formatted_eaf8cda2-a98d-11f0-ac08-57a09c50f7ce.txt,1437,430,"[00:00:0
   Cette mise à jour représente un coût notamment pour les collectivités. Alors pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.
 
 [00:00:53 - 00:00:57] Voix 01 :
- On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.","Voici la transcription post-traitée :
+ On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.","Voici la transcription post-traitée et contrôlée qualité :
 
-Journaliste:
-Son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.
+[00:00:00 - 00:00:13] Journaliste: son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence, et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.
 
-Invité:
-Si je clique dessus, on retrouve tout le bazar. Je me sens en otage parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.
+[00:00:13 - 00:00:22] Hélène: Si je clique dessus, on retrouve tout le bazar. Je me sens en otage, parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.
 
-Journaliste:
-Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité. Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.
+[00:00:23 - 00:00:36] Journaliste: Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité. Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.
 
-Invité:
-Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.
+[00:00:36 - 00:00:43] Expert: Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.
 
-Journaliste:
-Cette mise à jour représente un coût notamment pour les collectivités. Alors pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.
+[00:00:43 - 00:00:53] Journaliste: Cette mise à jour représente un coût, notamment pour les collectivités. Alors, pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.
 
-Invité:
-On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",430,340,0.7906976744186046,True,
-transcript_formatted_f69de3ac-a9bc-11f0-84f0-19616fa871f9.txt,2581,869,"[00:00:00 - 00:00:14] Voix 03 :
+[00:00:53 - 00:00:57] Responsable municipal: On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",430,436,1.013953488372093,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée et contrôlée qualité :\n\n[00:00:00 - 00:00:13] Journaliste: son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence, et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.\n\n[00:00:13 - 00:00:22] Hélène: Si je clique dessus, on retrouve tout le bazar. Je me sens en otage, parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.\n\n[00:00:23 - 00:00:36] Journaliste: Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité. Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.\n\n[00:00:36 - 00:00:43] Expert: Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.\n\n[00:00:43 - 00:00:53] Journaliste: Cette mise à jour représente un coût, notamment pour les collectivités. Alors, pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.\n\n[00:00:53 - 00:00:57] Responsable municipal: On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat."", 'original_length': 252, 'llm_length': 274, 'filtered_length': 274, 'match_start': 0, 'match_end': 273, 'coverage_ratio': 1.0873015873015872}","Voici la transcription post-traitée et contrôlée qualité :
+
+[00:00:00 - 00:00:13] Journaliste: son ordinateur, Hélène se familiarise avec un nouveau logiciel sans licence, et donc gratuit. Pas question pour elle de payer pour consulter ses mails et surfer sur internet, elle a préféré une autre solution.
+
+[00:00:13 - 00:00:22] Hélène: Si je clique dessus, on retrouve tout le bazar. Je me sens en otage, parce que j'ai l'impression qu'on est en train de vouloir toujours me vendre quelque chose de plus.
+
+[00:00:23 - 00:00:36] Journaliste: Sans cette mise à jour de Windows, les PC sont exposés à des failles de sécurité. Pour éviter de devoir racheter un nouvel ordinateur ou d'effectuer la mise à jour, des associations proposent leur aide pour installer des logiciels gratuits.
+
+[00:00:36 - 00:00:43] Expert: Il faut des gens pour accompagner et montrer que c'est faisable, possible, que l'interface ne change pas beaucoup, que ça permet de ne pas réinvestir de l'argent.
+
+[00:00:43 - 00:00:53] Journaliste: Cette mise à jour représente un coût, notamment pour les collectivités. Alors, pour éviter de remplacer son parc informatique, cette mairie a opté pour Linux, un logiciel gratuit.
+
+[00:00:53 - 00:00:57] Responsable municipal: On travaille avec les mêmes outils qu'avec les collègues qui sont encore restés sous Windows. Donc, on a des compatibilités au niveau des applis, on peut se partager nos fichiers. Ce changement a permis à la ville d'économiser 2,5 millions d'euros sur l'ensemble du mandat.",436,1.0873015873015872
+transcript_formatted_f69de3ac-a9bc-11f0-84f0-19616fa871f9.txt,FINFO,2581,869,"[00:00:00 - 00:00:14] Voix 03 :
   Un raton laveur comme chez lui sur la terrasse et dans le salon. Le propriétaire de la maison a posé une cache-piège. Sans se faire prendre, le petit animal subtilisera à l'intérieur les croquettes du chat.
 
 [00:00:14 - 00:00:38] Voix 02 :
@@ -253,44 +359,80 @@ transcript_formatted_f69de3ac-a9bc-11f0-84f0-19616fa871f9.txt,2581,869,"[00:00:0
  Le raton laveur est aussi porteur de maladies transmissibles à l'homme. Peu farouche, l'approcher n'est pas recommandé.
 
 [00:02:34 - 00:02:36] Voix 00 :
- Moi je te donne tout ce que tu vas manger.","Voici la transcription post-traitée :
+ Moi je te donne tout ce que tu vas manger.","Voici la transcription post-traitée, respectant les consignes de qualité et de formatage :
 
-Journaliste:
-Un raton laveur comme chez lui sur la terrasse et dans le salon. Le propriétaire de la maison a posé une cage-piège. Sans se faire prendre, le petit animal subtilisera à l'intérieur les croquettes du chat.
+[00:00:00 - 00:00:14] Voix 03 :
+Un raton laveur comme chez lui sur la terrasse et dans le salon. Le propriétaire de la maison a posé une cache-piège. Sans se faire prendre, le petit animal subtilisera à l'intérieur les croquettes du chat.
 
-Invité:
+[00:00:14 - 00:00:38] Voix 02 :
 C'est très simple, ils passent par la chatière et puis ils font leur vie dans le salon jusque dans la cuisine pour manger les croquettes. Ces visites nocturnes ont débuté il y a 5 ans. Pour empêcher qu'ils reviennent, je n'ai aucune solution. On voit bien leur comportement quand on est sur la terrasse. Peur de rien, le moindre petit trou, ils s'y mettent dedans. Les croquettes, ils les récupèrent même quand on les met en hauteur. C'est compliqué.
 
-Journaliste:
+[00:00:38 - 00:00:53] Voix 03 :
 Des spécimens se seraient échappés d'un parc animalier de Gironde il y a une quinzaine d'années. Hors des cages, cette espèce d'Amérique du Nord s'est adaptée. Aujourd'hui, leur population est nombreuse dans le département.
 
-Intervenant:
+[00:00:54 - 00:00:56] Voix 00 :
 Moi, j'aurais plutôt envie de les laisser tranquilles.
 
-Journaliste:
-Mais ils font aussi des dégâts. Omnivores, les ratons laveurs s'attaquent aux arbres fruitiers et aux poulaillers. Des habitants se plaignent de leur nuisance. Ce retraité a dû abattre son prunier.
+[00:00:58 - 00:01:12] Voix 03 :
+Mais ils font aussi des dégâts. Omnivore, les ratons laveurs s'attaquent aux arbres fruitiers et aux poulaillers. Des habitants se plaignent de leur nuisance. Ce retraité a dû abattre son prunier.
 
-Témoin:
+[00:01:12 - 00:01:39] Voix 01 :
 Il était plein de mirabelles. Et les ratons laveurs sont arrivés en force. Ils ont cassé les branches. Ça a fait crever l'arbre. Malgré son museau sympathique, le raton laveur est classé espèce nuisible en France.
 
-Journaliste:
+[00:01:39 - 00:01:51] Voix 03 :
 L'animal est piégé pour réguler sa population. Chaque année, en Gironde, 300 sont capturés, euthanasiés. Même si certains, toujours aussi futés, parviennent à s'échapper.
 
-Intervenant:
+[00:01:53 - 00:02:03] Voix 00 :
 L'animal, il va rentrer dans la cage et donc il va mettre sa patte ici sur la palette. La porte va tomber, l'animal est capturé.
 
-Journaliste:
+[00:02:03 - 00:02:06] Voix 03 :
 Une association de piégeurs bénévoles est chargée de réguler l'espèce.
 
-Intervenant:
-Qui dit espèce exotique envahissante dit aussi un déséquilibre écologique avec les espèces qui sont autochtones. On pourrait parler de la loutre, du vison d'Europe ou alors certains oiseaux qui sont protégés et dont les nids sont systématiquement prédatés par les ratons laveurs.
+[00:02:07 - 00:02:27] Voix 00 :
+qui dit espèce exotique envahissante dit aussi un déséquilibre écologique avec les espèces qui sont autochtones. On pourrait parler de la loutre, du vison d'Europe ou alors certains oiseaux qui sont protégés et dont les nids sont systématiquement prédatés par les ratons laveurs.
 
-Journaliste:
+[00:02:27 - 00:02:34] Voix 03 :
 Le raton laveur est aussi porteur de maladies transmissibles à l'homme. Peu farouche, l'approcher n'est pas recommandé.
 
-Intervenant:
-Moi, je te donne tout ce que tu vas manger.",869,686,0.7894131185270425,True,
-transcript_formatted_e4817dc9-5f72-44aa-a11a-1a48ce28890b.txt,2737,813,"[00:00:00 - 00:00:26] Voix 01 :
+[00:02:34 - 00:02:36] Voix 00 :
+Moi je te donne tout ce que tu vas manger.",869,885,1.0184119677790564,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""-traitée, respectant les consignes de qualité et de formatage :\n\n[00:00:00 - 00:00:14] Voix 03 :\nUn raton laveur comme chez lui sur la terrasse et dans le salon. Le propriétaire de la maison a posé une cache-piège. Sans se faire prendre, le petit animal subtilisera à l'intérieur les croquettes du chat.\n\n[00:00:14 - 00:00:38] Voix 02 :\nC'est très simple, ils passent par la chatière et puis ils font leur vie dans le salon jusque dans la cuisine pour manger les croquettes. Ces visites nocturnes ont débuté il y a 5 ans. Pour empêcher qu'ils reviennent, je n'ai aucune solution. On voit bien leur comportement quand on est sur la terrasse. Peur de rien, le moindre petit trou, ils s'y mettent dedans. Les croquettes, ils les récupèrent même quand on les met en hauteur. C'est compliqué.\n\n[00:00:38 - 00:00:53] Voix 03 :\nDes spécimens se seraient échappés d'un parc animalier de Gironde il y a une quinzaine d'années. Hors des cages, cette espèce d'Amérique du Nord s'est adaptée. Aujourd'hui, leur population est nombreuse dans le département.\n\n[00:00:54 - 00:00:56] Voix 00 :\nMoi, j'aurais plutôt envie de les laisser tranquilles.\n\n[00:00:58 - 00:01:12] Voix 03 :\nMais ils font aussi des dégâts. Omnivore, les ratons laveurs s'attaquent aux arbres fruitiers et aux poulaillers. Des habitants se plaignent de leur nuisance. Ce retraité a dû abattre son prunier.\n\n[00:01:12 - 00:01:39] Voix 01 :\nIl était plein de mirabelles. Et les ratons laveurs sont arrivés en force. Ils ont cassé les branches. Ça a fait crever l'arbre. Malgré son museau sympathique, le raton laveur est classé espèce nuisible en France.\n\n[00:01:39 - 00:01:51] Voix 03 :\nL'animal est piégé pour réguler sa population. Chaque année, en Gironde, 300 sont capturés, euthanasiés. Même si certains, toujours aussi futés, parviennent à s'échapper.\n\n[00:01:53 - 00:02:03] Voix 00 :\nL'animal, il va rentrer dans la cage et donc il va mettre sa patte ici sur la palette. La porte va tomber, l'animal est capturé.\n\n[00:02:03 - 00:02:06] Voix 03 :\nUne association de piégeurs bénévoles est chargée de réguler l'espèce.\n\n[00:02:07 - 00:02:27] Voix 00 :\nqui dit espèce exotique envahissante dit aussi un déséquilibre écologique avec les espèces qui sont autochtones. On pourrait parler de la loutre, du vison d'Europe ou alors certains oiseaux qui sont protégés et dont les nids sont systématiquement prédatés par les ratons laveurs.\n\n[00:02:27 - 00:02:34] Voix 03 :\nLe raton laveur est aussi porteur de maladies transmissibles à l'homme. Peu farouche, l'approcher n'est pas recommandé.\n\n[00:02:34 - 00:02:36] Voix 00 :\nMoi je te donne tout ce que tu vas manger."", 'original_length': 456, 'llm_length': 471, 'filtered_length': 467, 'match_start': 4, 'match_end': 470, 'coverage_ratio': 1.0241228070175439}","-traitée, respectant les consignes de qualité et de formatage :
+
+[00:00:00 - 00:00:14] Voix 03 :
+Un raton laveur comme chez lui sur la terrasse et dans le salon. Le propriétaire de la maison a posé une cache-piège. Sans se faire prendre, le petit animal subtilisera à l'intérieur les croquettes du chat.
+
+[00:00:14 - 00:00:38] Voix 02 :
+C'est très simple, ils passent par la chatière et puis ils font leur vie dans le salon jusque dans la cuisine pour manger les croquettes. Ces visites nocturnes ont débuté il y a 5 ans. Pour empêcher qu'ils reviennent, je n'ai aucune solution. On voit bien leur comportement quand on est sur la terrasse. Peur de rien, le moindre petit trou, ils s'y mettent dedans. Les croquettes, ils les récupèrent même quand on les met en hauteur. C'est compliqué.
+
+[00:00:38 - 00:00:53] Voix 03 :
+Des spécimens se seraient échappés d'un parc animalier de Gironde il y a une quinzaine d'années. Hors des cages, cette espèce d'Amérique du Nord s'est adaptée. Aujourd'hui, leur population est nombreuse dans le département.
+
+[00:00:54 - 00:00:56] Voix 00 :
+Moi, j'aurais plutôt envie de les laisser tranquilles.
+
+[00:00:58 - 00:01:12] Voix 03 :
+Mais ils font aussi des dégâts. Omnivore, les ratons laveurs s'attaquent aux arbres fruitiers et aux poulaillers. Des habitants se plaignent de leur nuisance. Ce retraité a dû abattre son prunier.
+
+[00:01:12 - 00:01:39] Voix 01 :
+Il était plein de mirabelles. Et les ratons laveurs sont arrivés en force. Ils ont cassé les branches. Ça a fait crever l'arbre. Malgré son museau sympathique, le raton laveur est classé espèce nuisible en France.
+
+[00:01:39 - 00:01:51] Voix 03 :
+L'animal est piégé pour réguler sa population. Chaque année, en Gironde, 300 sont capturés, euthanasiés. Même si certains, toujours aussi futés, parviennent à s'échapper.
+
+[00:01:53 - 00:02:03] Voix 00 :
+L'animal, il va rentrer dans la cage et donc il va mettre sa patte ici sur la palette. La porte va tomber, l'animal est capturé.
+
+[00:02:03 - 00:02:06] Voix 03 :
+Une association de piégeurs bénévoles est chargée de réguler l'espèce.
+
+[00:02:07 - 00:02:27] Voix 00 :
+qui dit espèce exotique envahissante dit aussi un déséquilibre écologique avec les espèces qui sont autochtones. On pourrait parler de la loutre, du vison d'Europe ou alors certains oiseaux qui sont protégés et dont les nids sont systématiquement prédatés par les ratons laveurs.
+
+[00:02:27 - 00:02:34] Voix 03 :
+Le raton laveur est aussi porteur de maladies transmissibles à l'homme. Peu farouche, l'approcher n'est pas recommandé.
+
+[00:02:34 - 00:02:36] Voix 00 :
+Moi je te donne tout ce que tu vas manger.",880,1.0241228070175439
+transcript_formatted_e4817dc9-5f72-44aa-a11a-1a48ce28890b.txt,FINFO,2737,813,"[00:00:00 - 00:00:26] Voix 01 :
   L'équation du financement est toujours là, elle n'a pas disparu. Donc on va engager des discussions. L'idée centrale c'est de dire que les retraites c'est la dernière étape du travail. Il faut aussi parler du travail. Travail des jeunes, travail des seniors, conditions de travail. Qu'est-ce qui fait qu'on a plaisir à aller travailler dans une entreprise ou pas ? La pénibilité en fait partie aussi. Donc tous ces sujets-là sont plus ou moins avancés dans les discussions paritaires avec les organisations sénicales ou les organisations patronales. Il faut gérer l'inventaire de ces sujets et travailler ensemble.
 
 [00:00:26 - 00:00:34] Voix 00 :
@@ -309,29 +451,50 @@ transcript_formatted_e4817dc9-5f72-44aa-a11a-1a48ce28890b.txt,2737,813,"[00:00:0
  Mais vous, vous en pensez quoi ?
 
 [00:01:18 - 00:01:19] Voix 01 :
- Moi, à ce stade, je suis très ouvert. Je ne rentre surtout pas par les solutions, je rentre par les problématiques. J'assume complètement la problématique financière. Il faudra qu'à la fin, on soit d'accord pour financer le régime que nous aurons inventé. Et deuxièmement, il faut que les Français adhèrent à la construction qu'on fera. On voit bien que ce qui a manqué, c'est une adhésion populaire assez forte, que les Français trouvent le système juste, équitable et qui leur conviennent en comprenant quand même que l'argent qui finance les retraites, il vient du travail.","Voici la transcription post-traitée, conformément aux instructions :
+ Moi, à ce stade, je suis très ouvert. Je ne rentre surtout pas par les solutions, je rentre par les problématiques. J'assume complètement la problématique financière. Il faudra qu'à la fin, on soit d'accord pour financer le régime que nous aurons inventé. Et deuxièmement, il faut que les Français adhèrent à la construction qu'on fera. On voit bien que ce qui a manqué, c'est une adhésion populaire assez forte, que les Français trouvent le système juste, équitable et qui leur conviennent en comprenant quand même que l'argent qui finance les retraites, il vient du travail.","Voici la transcription post-traitée :
 
-[00:00:00 - 00:00:26] Invité:
-L'équation du financement est toujours là, elle n'a pas disparu. Donc on va engager des discussions. L'idée centrale c'est de dire que les retraites c'est la dernière étape du travail. Il faut aussi parler du travail. Travail des jeunes, travail des seniors, conditions de travail. Qu'est-ce qui fait qu'on a plaisir à aller travailler dans une entreprise ou pas ? La pénibilité en fait partie aussi. Donc tous ces sujets-là sont plus ou moins avancés dans les discussions paritaires avec les organisations syndicales ou les organisations patronales. Il faut gérer l'inventaire de ces sujets et travailler ensemble.
+[00:00:00 - 00:00:26] Invité :
+L'équation du financement est toujours là, elle n'a pas disparu. Donc, on va engager des discussions. L'idée centrale, c'est de dire que les retraites, c'est la dernière étape du travail. Il faut aussi parler du travail. Travail des jeunes, travail des seniors, conditions de travail. Qu'est-ce qui fait qu'on a plaisir à aller travailler dans une entreprise ou pas ? La pénibilité en fait partie aussi. Donc, tous ces sujets-là sont plus ou moins avancés dans les discussions paritaires avec les organisations syndicales ou les organisations patronales. Il faut gérer l'inventaire de ces sujets et travailler ensemble.
 
-[00:00:26 - 00:00:34] Journaliste:
+[00:00:26 - 00:00:34] Journaliste :
 Mais quand vous dites une conférence sur les retraites, on est d'accord que c'est après Noël, après le vote du budget. Le calendrier, ce sera l'an prochain, en 2026.
 
-[00:00:34 - 00:01:06] Invité:
-Alors ce qu'on va faire, je vous dis là aussi, je viens juste d'arriver, je n'ai même pas un jour de ministre, donc j'ai commencé à appeler les partenaires sociaux, les partenaires patronaux, je vais faire le tour de tout le monde, on va aussi se mettre d'accord sur comment on y va, est-ce qu'on commence à préparer tout ça d'ici la fin de l'année, puisqu'il y a déjà des matériaux qui existent, comment on s'organise, est-ce qu'on fait appel à des experts ? Ça débordera l'année prochaine. Et je crois que le bon nom de cette conférence, je voudrais qu'on parle d'une conférence retraite-travail. J'y tiens absolument. C'est peut-être d'ailleurs une lacune de la méthode précédente qui n'a regardé que les retraites. Tout l'environnement du travail, c'est absolument très important de le mettre autour de l'affection sur les retraites.
+[00:00:34 - 00:01:06] Invité :
+Alors, ce qu'on va faire, je vous dis là aussi, je viens juste d'arriver, je n'ai même pas un jour de ministre. Donc, j'ai commencé à appeler les partenaires sociaux, les partenaires patronaux, je vais faire le tour de tout le monde. On va aussi se mettre d'accord sur comment on y va. Est-ce qu'on commence à préparer tout ça d'ici la fin de l'année, puisqu'il y a déjà des matériaux qui existent ? Comment on s'organise ? Est-ce qu'on fait appel à des experts ? Ça débordera l'année prochaine. Et je crois que le bon nom de cette conférence, je voudrais qu'on parle d'une conférence Retraite-Travail. J'y tiens absolument. C'est peut-être d'ailleurs une lacune de la méthode précédente qui n'a regardé que les retraites. Tout l'environnement du travail, c'est absolument très important de le mettre autour de la réflexion sur les retraites.
 
-[00:01:06 - 00:01:15] Journaliste:
+[00:01:06 - 00:01:15] Journaliste :
 Est-ce qu'on pourrait imaginer, et c'est ma dernière question, est-ce qu'on pourrait imaginer faire revenir le système de retraite à points dans cette conférence pour les retraites et le travail ?
 
-[00:01:15 - 00:01:17] Invité:
+[00:01:15 - 00:01:17] Invité :
 On verra ce que les partenaires nous amènent dans ces systèmes.
 
-[00:01:17 - 00:01:18] Journaliste:
+[00:01:17 - 00:01:18] Journaliste :
 Mais vous, vous en pensez quoi ?
 
-[00:01:18 - 00:01:19] Invité:
-Moi, à ce stade, je suis très ouvert. Je ne rentre surtout pas par les solutions, je rentre par les problématiques. J'assume complètement la problématique financière. Il faudra qu'à la fin, on soit d'accord pour financer le régime que nous aurons inventé. Et deuxièmement, il faut que les Français adhèrent à la construction qu'on fera. On voit bien que ce qui a manqué, c'est une adhésion populaire assez forte, que les Français trouvent le système juste, équitable et qui leur conviennent en comprenant quand même que l'argent qui finance les retraites, il vient du travail.",813,806,0.991389913899139,True,
-transcript_formatted_b9c4bb02-7f67-11ef-a3c0-6daa476a3b9b.txt,1839,544,"[00:00:00 - 00:00:25] Voix 00 :
+[00:01:18 - 00:01:19] Invité :
+Moi, à ce stade, je suis très ouvert. Je ne rentre surtout pas par les solutions, je rentre par les problématiques. J'assume complètement la problématique financière. Il faudra qu'à la fin, on soit d'accord pour financer le régime que nous aurons inventé. Et deuxièmement, il faut que les Français adhèrent à la construction qu'on fera. On voit bien que ce qui a manqué, c'est une adhésion populaire assez forte, que les Français trouvent le système juste, équitable et qui leur conviennent en comprenant quand même que l'argent qui finance les retraites, il vient du travail.",813,809,0.995079950799508,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée :\n\n[00:00:00 - 00:00:26] Invité :\nL'équation du financement est toujours là, elle n'a pas disparu. Donc, on va engager des discussions. L'idée centrale, c'est de dire que les retraites, c'est la dernière étape du travail. Il faut aussi parler du travail. Travail des jeunes, travail des seniors, conditions de travail. Qu'est-ce qui fait qu'on a plaisir à aller travailler dans une entreprise ou pas ? La pénibilité en fait partie aussi. Donc, tous ces sujets-là sont plus ou moins avancés dans les discussions paritaires avec les organisations syndicales ou les organisations patronales. Il faut gérer l'inventaire de ces sujets et travailler ensemble.\n\n[00:00:26 - 00:00:34] Journaliste :\nMais quand vous dites une conférence sur les retraites, on est d'accord que c'est après Noël, après le vote du budget. Le calendrier, ce sera l'an prochain, en 2026.\n\n[00:00:34 - 00:01:06] Invité :\nAlors, ce qu'on va faire, je vous dis là aussi, je viens juste d'arriver, je n'ai même pas un jour de ministre. Donc, j'ai commencé à appeler les partenaires sociaux, les partenaires patronaux, je vais faire le tour de tout le monde. On va aussi se mettre d'accord sur comment on y va. Est-ce qu'on commence à préparer tout ça d'ici la fin de l'année, puisqu'il y a déjà des matériaux qui existent ? Comment on s'organise ? Est-ce qu'on fait appel à des experts ? Ça débordera l'année prochaine. Et je crois que le bon nom de cette conférence, je voudrais qu'on parle d'une conférence Retraite-Travail. J'y tiens absolument. C'est peut-être d'ailleurs une lacune de la méthode précédente qui n'a regardé que les retraites. Tout l'environnement du travail, c'est absolument très important de le mettre autour de la réflexion sur les retraites.\n\n[00:01:06 - 00:01:15] Journaliste :\nEst-ce qu'on pourrait imaginer, et c'est ma dernière question, est-ce qu'on pourrait imaginer faire revenir le système de retraite à points dans cette conférence pour les retraites et le travail ?\n\n[00:01:15 - 00:01:17] Invité :\nOn verra ce que les partenaires nous amènent dans ces systèmes.\n\n[00:01:17 - 00:01:18] Journaliste :\nMais vous, vous en pensez quoi ?\n\n[00:01:18 - 00:01:19] Invité :\nMoi, à ce stade, je suis très ouvert. Je ne rentre surtout pas par les solutions, je rentre par les problématiques. J'assume complètement la problématique financière. Il faudra qu'à la fin, on soit d'accord pour financer le régime que nous aurons inventé. Et deuxièmement, il faut que les Français adhèrent à la construction qu'on fera. On voit bien que ce qui a manqué, c'est une adhésion populaire assez forte, que les Français trouvent le système juste, équitable et qui leur conviennent en comprenant quand même que l'argent qui finance les retraites, il vient du travail."", 'original_length': 565, 'llm_length': 574, 'filtered_length': 574, 'match_start': 0, 'match_end': 573, 'coverage_ratio': 1.015929203539823}","Voici la transcription post-traitée :
+
+[00:00:00 - 00:00:26] Invité :
+L'équation du financement est toujours là, elle n'a pas disparu. Donc, on va engager des discussions. L'idée centrale, c'est de dire que les retraites, c'est la dernière étape du travail. Il faut aussi parler du travail. Travail des jeunes, travail des seniors, conditions de travail. Qu'est-ce qui fait qu'on a plaisir à aller travailler dans une entreprise ou pas ? La pénibilité en fait partie aussi. Donc, tous ces sujets-là sont plus ou moins avancés dans les discussions paritaires avec les organisations syndicales ou les organisations patronales. Il faut gérer l'inventaire de ces sujets et travailler ensemble.
+
+[00:00:26 - 00:00:34] Journaliste :
+Mais quand vous dites une conférence sur les retraites, on est d'accord que c'est après Noël, après le vote du budget. Le calendrier, ce sera l'an prochain, en 2026.
+
+[00:00:34 - 00:01:06] Invité :
+Alors, ce qu'on va faire, je vous dis là aussi, je viens juste d'arriver, je n'ai même pas un jour de ministre. Donc, j'ai commencé à appeler les partenaires sociaux, les partenaires patronaux, je vais faire le tour de tout le monde. On va aussi se mettre d'accord sur comment on y va. Est-ce qu'on commence à préparer tout ça d'ici la fin de l'année, puisqu'il y a déjà des matériaux qui existent ? Comment on s'organise ? Est-ce qu'on fait appel à des experts ? Ça débordera l'année prochaine. Et je crois que le bon nom de cette conférence, je voudrais qu'on parle d'une conférence Retraite-Travail. J'y tiens absolument. C'est peut-être d'ailleurs une lacune de la méthode précédente qui n'a regardé que les retraites. Tout l'environnement du travail, c'est absolument très important de le mettre autour de la réflexion sur les retraites.
+
+[00:01:06 - 00:01:15] Journaliste :
+Est-ce qu'on pourrait imaginer, et c'est ma dernière question, est-ce qu'on pourrait imaginer faire revenir le système de retraite à points dans cette conférence pour les retraites et le travail ?
+
+[00:01:15 - 00:01:17] Invité :
+On verra ce que les partenaires nous amènent dans ces systèmes.
+
+[00:01:17 - 00:01:18] Journaliste :
+Mais vous, vous en pensez quoi ?
+
+[00:01:18 - 00:01:19] Invité :
+Moi, à ce stade, je suis très ouvert. Je ne rentre surtout pas par les solutions, je rentre par les problématiques. J'assume complètement la problématique financière. Il faudra qu'à la fin, on soit d'accord pour financer le régime que nous aurons inventé. Et deuxièmement, il faut que les Français adhèrent à la construction qu'on fera. On voit bien que ce qui a manqué, c'est une adhésion populaire assez forte, que les Français trouvent le système juste, équitable et qui leur conviennent en comprenant quand même que l'argent qui finance les retraites, il vient du travail.",809,1.015929203539823
+transcript_formatted_b9c4bb02-7f67-11ef-a3c0-6daa476a3b9b.txt,FINFO,1839,544,"[00:00:00 - 00:00:25] Voix 00 :
   Dans une lettre qu'elle a souhaité rendre publique, la première victime de Tahao s'interroge. J'ai tout fait pour que ce qui m'est arrivé ne se répète pas. La justice a été faite, mon agresseur a été condamné à la peine quasi maximale encourue. Immédiatement après sa libération, il aurait récidivé et commis l'irréparable. Pourquoi le système pénitentiaire a-t-il failli à prévenir cette récidive ?  En France, le taux de récidive pour viol est de 5,5%.
 
 [00:00:27 - 00:00:51] Voix 01 :
@@ -343,18 +506,30 @@ transcript_formatted_b9c4bb02-7f67-11ef-a3c0-6daa476a3b9b.txt,1839,544,"[00:00:0
 [00:01:07 - 00:01:10] Voix 01 :
   22 prisons sont spécialisées dans l'accueil des criminels sexuels. Pourtant, aujourd'hui, selon la contrôleuse des prisons, cela reste insuffisant. Faute de personnel, un tiers des rendez-vous de soins sont annulés. Autre écueil, ces soins seraient rarement ordonnés pour les étrangers en attente d'expulsion. Tant qu'il y a des mesures de sûreté qui l'obligent à rester sur le territoire pour avoir des soins, il ne peut pas être expulsé. La première victime de Tahaut réclame aujourd'hui une commission d'enquête sur la prévention de la récidive.","Voici la transcription post-traitée conformément à vos instructions :
 
-Narrateur:
-Dans une lettre qu'elle a souhaité rendre publique, la première victime de Tahaut s'interroge : « J'ai tout fait pour que ce qui m'est arrivé ne se répète pas. La justice a été faite, mon agresseur a été condamné à la peine quasi maximale encourue. Immédiatement après sa libération, il aurait récidivé et commis l'irréparable. Pourquoi le système pénitentiaire a-t-il failli à prévenir cette récidive ? » En France, le taux de récidive pour viol est de 5,5%.
+[00:00:00 - 00:00:25] Journaliste:
+Dans une lettre qu'elle a souhaité rendre publique, la première victime de Tahao s'interroge. J'ai tout fait pour que ce qui m'est arrivé ne se répète pas. La justice a été faite, mon agresseur a été condamné à la peine quasi maximale encourue. Immédiatement après sa libération, il aurait récidivé et commis l'irréparable. Pourquoi le système pénitentiaire a-t-il failli à prévenir cette récidive ? En France, le taux de récidive pour viol est de 5,5%.
 
-Narrateur:
-Pour tenter de les prévenir, les criminels sexuels sont automatiquement inscrits dans un fichier nommé Figeis. Ils doivent alors justifier de leur adresse postale tous les six mois. Le fichier est consultable pendant 30 ans par les autorités. La moitié des criminels sexuels sont aussi condamnés à suivre des soins en prison et après leur sortie : des consultations avec des psychiatres, mais pas seulement.
+[00:00:27 - 00:00:51] Journaliste:
+Pour tenter de les prévenir, les criminels sexuels sont automatiquement inscrits dans un fichier nommé Figeis. Ils doivent alors justifier de leur adresse postale tous les 6 mois. Le fichier est consultable pendant 30 ans par les autorités. La moitié des criminels sexuels sont aussi condamnés à suivre des soins en prison et après leur sortie. Des consultations avec des psychiatres, mais pas seulement.
 
-Expert:
-On a certains patients, certaines personnes qui sont très envahies par la sexualité et pour lesquelles il y a des besoins de traitement particulier, de traitements qu'on appelait avant « castration chimique », qu'on appelle plutôt un inhibiteur de la libido, mais aussi de traitements antidépresseurs.
+[00:00:51 - 00:01:06] Expert:
+On a certains patients, certaines personnes qui sont très envahies par la sexualité et pour lesquelles il y a des besoins de traitement particulier, de traitement qu'on appelait avant castration chimique, qu'on appelle plutôt un inhibiteur de la libido, mais aussi de traitement antidépresseur.
 
-Narrateur:
-22 prisons sont spécialisées dans l'accueil des criminels sexuels. Pourtant, aujourd'hui, selon la contrôleuse des prisons, cela reste insuffisant. Faute de personnel, un tiers des rendez-vous de soins sont annulés. Autre écueil, ces soins seraient rarement ordonnés pour les étrangers en attente d'expulsion. Tant qu'il y a des mesures de sûreté qui l'obligent à rester sur le territoire pour avoir des soins, il ne peut pas être expulsé. La première victime de Tahaut réclame aujourd'hui une commission d'enquête sur la prévention de la récidive.",544,492,0.9044117647058824,True,
-transcript_formatted_4c50a954-a98d-11f0-84f0-19616fa871f9.txt,1457,471,"[00:00:00 - 00:00:15] Voix 02 :
+[00:01:07 - 00:01:10] Journaliste:
+22 prisons sont spécialisées dans l'accueil des criminels sexuels. Pourtant, aujourd'hui, selon la contrôleuse des prisons, cela reste insuffisant. Faute de personnel, un tiers des rendez-vous de soins sont annulés. Autre écueil, ces soins seraient rarement ordonnés pour les étrangers en attente d'expulsion. Tant qu'il y a des mesures de sûreté qui l'obligent à rester sur le territoire pour avoir des soins, il ne peut pas être expulsé. La première victime de Tahao réclame aujourd'hui une commission d'enquête sur la prévention de la récidive.",544,542,0.9963235294117647,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""transcription post-traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:25] Journaliste:\nDans une lettre qu'elle a souhaité rendre publique, la première victime de Tahao s'interroge. J'ai tout fait pour que ce qui m'est arrivé ne se répète pas. La justice a été faite, mon agresseur a été condamné à la peine quasi maximale encourue. Immédiatement après sa libération, il aurait récidivé et commis l'irréparable. Pourquoi le système pénitentiaire a-t-il failli à prévenir cette récidive ? En France, le taux de récidive pour viol est de 5,5%.\n\n[00:00:27 - 00:00:51] Journaliste:\nPour tenter de les prévenir, les criminels sexuels sont automatiquement inscrits dans un fichier nommé Figeis. Ils doivent alors justifier de leur adresse postale tous les 6 mois. Le fichier est consultable pendant 30 ans par les autorités. La moitié des criminels sexuels sont aussi condamnés à suivre des soins en prison et après leur sortie. Des consultations avec des psychiatres, mais pas seulement.\n\n[00:00:51 - 00:01:06] Expert:\nOn a certains patients, certaines personnes qui sont très envahies par la sexualité et pour lesquelles il y a des besoins de traitement particulier, de traitement qu'on appelait avant castration chimique, qu'on appelle plutôt un inhibiteur de la libido, mais aussi de traitement antidépresseur.\n\n[00:01:07 - 00:01:10] Journaliste:\n22 prisons sont spécialisées dans l'accueil des criminels sexuels. Pourtant, aujourd'hui, selon la contrôleuse des prisons, cela reste insuffisant. Faute de personnel, un tiers des rendez-vous de soins sont annulés. Autre écueil, ces soins seraient rarement ordonnés pour les étrangers en attente d'expulsion. Tant qu'il y a des mesures de sûreté qui l'obligent à rester sur le territoire pour avoir des soins, il ne peut pas être expulsé. La première victime de Tahao réclame aujourd'hui une commission d'enquête sur la prévention de la récidive."", 'original_length': 338, 'llm_length': 350, 'filtered_length': 348, 'match_start': 2, 'match_end': 349, 'coverage_ratio': 1.029585798816568}","transcription post-traitée conformément à vos instructions :
+
+[00:00:00 - 00:00:25] Journaliste:
+Dans une lettre qu'elle a souhaité rendre publique, la première victime de Tahao s'interroge. J'ai tout fait pour que ce qui m'est arrivé ne se répète pas. La justice a été faite, mon agresseur a été condamné à la peine quasi maximale encourue. Immédiatement après sa libération, il aurait récidivé et commis l'irréparable. Pourquoi le système pénitentiaire a-t-il failli à prévenir cette récidive ? En France, le taux de récidive pour viol est de 5,5%.
+
+[00:00:27 - 00:00:51] Journaliste:
+Pour tenter de les prévenir, les criminels sexuels sont automatiquement inscrits dans un fichier nommé Figeis. Ils doivent alors justifier de leur adresse postale tous les 6 mois. Le fichier est consultable pendant 30 ans par les autorités. La moitié des criminels sexuels sont aussi condamnés à suivre des soins en prison et après leur sortie. Des consultations avec des psychiatres, mais pas seulement.
+
+[00:00:51 - 00:01:06] Expert:
+On a certains patients, certaines personnes qui sont très envahies par la sexualité et pour lesquelles il y a des besoins de traitement particulier, de traitement qu'on appelait avant castration chimique, qu'on appelle plutôt un inhibiteur de la libido, mais aussi de traitement antidépresseur.
+
+[00:01:07 - 00:01:10] Journaliste:
+22 prisons sont spécialisées dans l'accueil des criminels sexuels. Pourtant, aujourd'hui, selon la contrôleuse des prisons, cela reste insuffisant. Faute de personnel, un tiers des rendez-vous de soins sont annulés. Autre écueil, ces soins seraient rarement ordonnés pour les étrangers en attente d'expulsion. Tant qu'il y a des mesures de sûreté qui l'obligent à rester sur le territoire pour avoir des soins, il ne peut pas être expulsé. La première victime de Tahao réclame aujourd'hui une commission d'enquête sur la prévention de la récidive.",540,1.029585798816568
+transcript_formatted_4c50a954-a98d-11f0-84f0-19616fa871f9.txt,FINFO,1457,471,"[00:00:00 - 00:00:15] Voix 02 :
   Travailler au contact de la poussière, pour combien de temps encore ? C'est la question que se pose Manuel da Silva, marbrier. Il est né en 1968. Sans cette suspension de la réforme, il aurait dû travailler jusqu'à 64 ans. Il pourrait aujourd'hui partir plus tôt.
 
 [00:00:16 - 00:00:28] Voix 01 :
@@ -367,19 +542,34 @@ transcript_formatted_4c50a954-a98d-11f0-84f0-19616fa871f9.txt,1457,471,"[00:00:0
   La France, elle ne peut pas prendre de l'argent comme ça. Il faudra une vraie forme des retraites qu'ils le veuillent ou non.
 
 [00:01:03 - 00:01:08] Voix 02 :
- L'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles. Cette mesure entrera en vigueur en janvier prochain. Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027.","Voici la transcription post-traitée selon vos instructions :
+ L'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles. Cette mesure entrera en vigueur en janvier prochain. Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027.","Voici la transcription post-traitée conformément aux instructions :
 
-[00:00:00 - 00:00:15] Journaliste:
+[00:00:00 - 00:00:15] Journaliste :
 Travailler au contact de la poussière, pour combien de temps encore ? C'est la question que se pose Manuel da Silva, marbrier. Il est né en 1968. Sans cette suspension de la réforme, il aurait dû travailler jusqu'à 64 ans. Il pourrait aujourd'hui partir plus tôt.
 
-[00:00:16 - 00:00:28] Invité 1:
-Ce sera tout bénéfice, c'est sûr. Parce que le boulot est dur et que du coup, on a un métier qui est assez dur, qui est très physique. Et voilà, donc c'est une bonne nouvelle de pouvoir partir dans ça, est-ce que quelques mois plus tôt à la fête ?
+[00:00:16 - 00:00:28] Invité 1 :
+Ce sera tout bénéfice, c'est sûr. Parce que le boulot est dur et que du coup, on a un métier qui est assez dur, qui est très physique. Et voilà, donc c'est une bonne nouvelle de pouvoir partir dans ça, est-ce que quelques mois plus tôt, à la fois ?
 
-[00:00:29 - 00:00:56] Journaliste:
-La suspension de la réforme Borne bloquerait donc l'âge de départ à la retraite à 62 ans et 9 mois jusqu'à janvier 2028. Les grands gagnants, ce sont les générations nées entre 1964 et 1965 qui auraient la garantie de partir plus tôt que prévu. Même chose pour celles nées entre 1966 et 1968 si toutefois rien ne bouge à la présidentielle de 2027. 3,5 millions de gagnants potentiels mais des Français divisés.
+[00:00:29 - 00:00:56] Journaliste :
+La suspension de la réforme borne bloquerait donc l'âge de départ à la retraite à 62 ans et 9 mois jusqu'à janvier 2028. Les grands gagnants, ce sont les générations nées entre 1964 et 1965 qui auraient la garantie de partir plus tôt que prévu. Même chose pour celles nées entre 1966 et 1968 si toutefois rien ne bouge à la présidentielle de 2027. 3,5 millions de gagnants potentiels mais des Français divisés.
 
-[00:00:57 - 00:01:03] Invité 2:
+[00:00:57 - 00:01:03] Invité 2 :
 La France, elle ne peut pas prendre de l'argent comme ça. Il faudra une vraie réforme des retraites qu'ils le veuillent ou non.
 
-[00:01:03 - 00:01:08] Journaliste:
-L'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles. Cette mesure entrera en vigueur en janvier prochain. Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027.",471,476,1.010615711252654,True,
+[00:01:03 - 00:01:08] Journaliste :
+L'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles. Cette mesure entrera en vigueur en janvier prochain. Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027.",471,476,1.010615711252654,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""-traitée conformément aux instructions :\n\n[00:00:00 - 00:00:15] Journaliste :\nTravailler au contact de la poussière, pour combien de temps encore ? C'est la question que se pose Manuel da Silva, marbrier. Il est né en 1968. Sans cette suspension de la réforme, il aurait dû travailler jusqu'à 64 ans. Il pourrait aujourd'hui partir plus tôt.\n\n[00:00:16 - 00:00:28] Invité 1 :\nCe sera tout bénéfice, c'est sûr. Parce que le boulot est dur et que du coup, on a un métier qui est assez dur, qui est très physique. Et voilà, donc c'est une bonne nouvelle de pouvoir partir dans ça, est-ce que quelques mois plus tôt, à la fois ?\n\n[00:00:29 - 00:00:56] Journaliste :\nLa suspension de la réforme borne bloquerait donc l'âge de départ à la retraite à 62 ans et 9 mois jusqu'à janvier 2028. Les grands gagnants, ce sont les générations nées entre 1964 et 1965 qui auraient la garantie de partir plus tôt que prévu. Même chose pour celles nées entre 1966 et 1968 si toutefois rien ne bouge à la présidentielle de 2027. 3,5 millions de gagnants potentiels mais des Français divisés.\n\n[00:00:57 - 00:01:03] Invité 2 :\nLa France, elle ne peut pas prendre de l'argent comme ça. Il faudra une vraie réforme des retraites qu'ils le veuillent ou non.\n\n[00:01:03 - 00:01:08] Journaliste :\nL'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles. Cette mesure entrera en vigueur en janvier prochain. Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027."", 'original_length': 285, 'llm_length': 302, 'filtered_length': 298, 'match_start': 4, 'match_end': 301, 'coverage_ratio': 1.0456140350877192}","-traitée conformément aux instructions :
+
+[00:00:00 - 00:00:15] Journaliste :
+Travailler au contact de la poussière, pour combien de temps encore ? C'est la question que se pose Manuel da Silva, marbrier. Il est né en 1968. Sans cette suspension de la réforme, il aurait dû travailler jusqu'à 64 ans. Il pourrait aujourd'hui partir plus tôt.
+
+[00:00:16 - 00:00:28] Invité 1 :
+Ce sera tout bénéfice, c'est sûr. Parce que le boulot est dur et que du coup, on a un métier qui est assez dur, qui est très physique. Et voilà, donc c'est une bonne nouvelle de pouvoir partir dans ça, est-ce que quelques mois plus tôt, à la fois ?
+
+[00:00:29 - 00:00:56] Journaliste :
+La suspension de la réforme borne bloquerait donc l'âge de départ à la retraite à 62 ans et 9 mois jusqu'à janvier 2028. Les grands gagnants, ce sont les générations nées entre 1964 et 1965 qui auraient la garantie de partir plus tôt que prévu. Même chose pour celles nées entre 1966 et 1968 si toutefois rien ne bouge à la présidentielle de 2027. 3,5 millions de gagnants potentiels mais des Français divisés.
+
+[00:00:57 - 00:01:03] Invité 2 :
+La France, elle ne peut pas prendre de l'argent comme ça. Il faudra une vraie réforme des retraites qu'ils le veuillent ou non.
+
+[00:01:03 - 00:01:08] Journaliste :
+L'allongement des retraites soit suspendu, ça sera bien pour les métiers difficiles. Cette mesure entrera en vigueur en janvier prochain. Selon le gouvernement, elle coûtera 400 millions d'euros en 2026 et 1,8 milliard d'euros en 2027.",471,1.0456140350877192

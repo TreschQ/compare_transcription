@@ -1,0 +1,20 @@
+filename,is_valid,reason,coverage_ratio,original_tokens,llm_tokens,filtered_tokens
+transcript_formatted_912b49ce-770c-4c51-942d-f3c1a1e74683.txt,True,Correspondance trouvée,1.00836820083682,372,368,349
+transcript_formatted_9b3c4cd6-a4cd-11f0-8244-957ddefc544d.txt,True,Correspondance trouvée,1.0887728459530026,614,624,624
+transcript_formatted_526dcee1-1e3f-4814-9551-6c571789c431.txt,True,Correspondance trouvée,1.01440329218107,594,602,598
+transcript_formatted_Médiathèque.txt,True,Correspondance trouvée,1.2672955974842768,414,534,534
+transcript_formatted_Médiathèque (2).txt,True,Correspondance trouvée,1.0372093023255815,285,297,292
+transcript_formatted_88886f05-66fd-4832-81ce-fc435b7acf73.txt,True,Correspondance trouvée,1.0316622691292876,589,585,583
+transcript_formatted_manifest [manifest] copie.txt,True,Correspondance trouvée,1.0705128205128205,401,428,428
+transcript_formatted_8e7f12ad-4574-48ca-bc79-43752da8fa22.txt,True,Correspondance trouvée,1.0,380,376,357
+transcript_formatted_afa628b2-a505-11f0-ac07-57a09c50f7ce.txt,True,Correspondance trouvée,1.1088888888888888,565,625,620
+transcript_formatted_manifest [manifest] 3.txt,True,Correspondance trouvée,1.0053380782918149,2094,2127,2127
+transcript_formatted_696068f0-a4ff-11f0-8246-957ddefc544d.txt,True,Correspondance trouvée,1.0529411764705883,629,631,631
+transcript_formatted_manifest [manifest] 2.txt,True,Correspondance trouvée,1.1616915422885572,514,622,616
+transcript_formatted_a5433606-a507-11f0-84ef-19616fa871f9.txt,True,Correspondance trouvée,1.0466666666666666,598,640,638
+transcript_formatted_agriculture.txt,True,Correspondance trouvée,1.0394736842105263,847,903,903
+transcript_formatted_34bad88a-a507-11f0-ac07-57a09c50f7ce.txt,True,Correspondance trouvée,1.040169133192389,712,712,710
+transcript_formatted_7b10c7cc-a4ee-11f0-92df-6dcd43e8ddfd.txt,True,Correspondance trouvée,1.0722433460076046,471,481,481
+transcript_formatted_27ac8368-a4ef-11f0-8246-957ddefc544d.txt,True,Correspondance trouvée,1.0290456431535269,426,423,423
+transcript_formatted_3ac02ae1-4940-4d33-b8c8-f43e32dac8ba.txt,True,Correspondance trouvée,1.035031847133758,371,383,383
+transcript_formatted_manifest [manifest].txt,True,Correspondance trouvée,1.0056603773584907,1967,1992,1988

@@ -1,0 +1,509 @@
+filename,perimetre,original_length,original_tokens,original_text,improved_text,input_tokens,output_tokens,token_ratio,success,error,post_process,filtered_text,filtered_tokens,coverage_ratio
+transcript_formatted_579d5fe5-7dd2-4a92-89aa-341f8a192568.txt,OUTREMER,2646,809,"[00:00:00 - 00:01:01] Voix 01 :
+  Difamation ou libre exercice du débat démocratique ? C'est un peu autour de cette question que tournait l'audience ce matin. Le prévenu, Franck De Ceveri, maire de Miquelon et conseiller territorial d'opposition. Les partis civils, Olivier De Ceveri, ancien vice-président de la collectivité chargée de Miquelon et Bernard Briand, l'actuel président dont l'absence à l'audience a été soulignée par la défense.  Les faits des propos tenus en séance officielle, le 30 mai 2023, concernant l'attribution d'une subvention de 225 000 euros pour la construction d'habitats de vacances. Le conseiller Cap sur l'avenir avait notamment dénoncé un cadeau fait à Olivier Descheverry pour monter son entreprise.  Pour la partie civile, ses propos sont graves. Il signifie corruption, détournement de fonds publics. Il porte atteinte à l'honneur des deux hommes. Franck de Cheverine maintient ses propos. Il reconnaît avoir un caractère un peu vif, un peu fort, mais pas d'inimitié. Il s'en défend envers le président et son ancien vice-président. Il s'agissait juste de l'intérêt général.
+
+[00:01:02 - 00:01:21] Voix 02 :
+ Aujourd'hui, j'ai pu m'exprimer, expliquer les propos que j'ai tenus en séance officielle le 23  en 2023, pardon, et voilà, j'ai légitimé ces propos et je considère aujourd'hui qu'il était important de les tenir et voilà, j'ai confirmé au président du tribunal que mes propos étaient fondés et légitimes.
+
+[00:01:21 - 00:01:32] Voix 00 :
+ – Alors ces propos et ces accusations portées contre le président du Conseil territorial et un ancien vice-président, pourquoi ne pas les avoir portées devant la justice comme ça l'a pu vous être reproché à l'audience ?
+
+[00:01:33 - 00:02:12] Voix 02 :
+  Écoutez, on a été des lanceurs d'alerte, on a essayé quelques procédures, voilà, d'alerter aussi le préfet de l'époque, Christian Pouget. Tout ça est resté lettre morte. Écoutez, voilà, de mon côté, en tout cas, j'estime avoir fait ce que j'ai pu pour dénoncer une situation que je jugeais injuste et inéquitable envers la population. Donc voilà, aujourd'hui, on en est là. Beaucoup de temps et beaucoup d'argent public aujourd'hui investi  Dans ce jugement, pour pas grand-chose, j'estime que c'est vraiment un gaspillage d'argent public et je pense aussi que la politique et les débats publics ne sortiront pas grandis.
+
+[00:02:12 - 00:02:19] Voix 01 :
+ – Notez que les avocats des partis civils qui n'ont pas souhaité s'exprimer devant notre caméra ont demandé un euro symbolique. La défense, la relaxe et des dommages et intérêts pour procédures abusives. Le délibéré sera rendu le 16 décembre prochain.","[00:00:00 - 00:01:01]
+Journaliste: Diffamation ou libre exercice du débat démocratique ? C'est un peu autour de cette question que tournait l'audience ce matin. Le prévenu, Franck De Ceveri, maire de Miquelon et conseiller territorial d'opposition. Les parties civiles, Olivier De Ceveri, ancien vice-président de la collectivité chargée de Miquelon et Bernard Briand, l'actuel président dont l'absence à l'audience a été soulignée par la défense. Les faits : des propos tenus en séance officielle, le 30 mai 2023, concernant l'attribution d'une subvention de 225 000 euros pour la construction d'habitats de vacances. Le conseiller Cap sur l'avenir avait notamment dénoncé un cadeau fait à Olivier De Ceveri pour monter son entreprise. Pour la partie civile, ses propos sont graves. Ils signifient corruption, détournement de fonds publics. Ils portent atteinte à l'honneur des deux hommes. Franck De Ceveri maintient ses propos. Il reconnaît avoir un caractère un peu vif, un peu fort, mais pas d'inimitié. Il s'en défend, envers le président et son ancien vice-président. Il s'agissait juste de l'intérêt général.
+
+
+[00:01:02 - 00:01:21]
+Invité: Aujourd'hui, j'ai pu m'exprimer, expliquer les propos que j'ai tenus en séance officielle le 23 en 2023, pardon, et voilà, j'ai légitimé ces propos et je considère aujourd'hui qu'il était important de les tenir et voilà, j'ai confirmé au président du tribunal que mes propos étaient fondés et légitimes.
+
+
+[00:01:21 - 00:01:32]
+Journaliste: Alors ces propos et ces accusations portées contre le président du Conseil territorial et un ancien vice-président, pourquoi ne pas les avoir portées devant la justice comme cela a pu vous être reproché à l'audience ?
+
+
+[00:01:33 - 00:02:12]
+Invité: Écoutez, on a été des lanceurs d'alerte, on a essayé quelques procédures, voilà, d'alerter aussi le préfet de l'époque, Christian Pouget. Tout cela est resté lettre morte. Écoutez, voilà, de mon côté, en tout cas, j'estime avoir fait ce que j'ai pu pour dénoncer une situation que je jugeais injuste et inéquitable envers la population. Donc voilà, aujourd'hui, on en est là. Beaucoup de temps et beaucoup d'argent public aujourd'hui investi dans ce jugement, pour pas grand-chose, j'estime que c'est vraiment un gaspillage d'argent public et je pense aussi que la politique et les débats publics ne sortiront pas grandis.
+
+
+[00:02:12 - 00:02:19]
+Journaliste: Notez que les avocats des parties civiles qui n'ont pas souhaité s'exprimer devant notre caméra ont demandé un euro symbolique. La défense, la relaxe et des dommages et intérêts pour procédures abusives. Le délibéré sera rendu le 16 décembre prochain.",809,792,0.9789864029666254,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Diffamation ou libre exercice du débat démocratique ? C'est un peu autour de cette question que tournait l'audience ce matin. Le prévenu, Franck De Ceveri, maire de Miquelon et conseiller territorial d'opposition. Les parties civiles, Olivier De Ceveri, ancien vice-président de la collectivité chargée de Miquelon et Bernard Briand, l'actuel président dont l'absence à l'audience a été soulignée par la défense. Les faits : des propos tenus en séance officielle, le 30 mai 2023, concernant l'attribution d'une subvention de 225 000 euros pour la construction d'habitats de vacances. Le conseiller Cap sur l'avenir avait notamment dénoncé un cadeau fait à Olivier De Ceveri pour monter son entreprise. Pour la partie civile, ses propos sont graves. Ils signifient corruption, détournement de fonds publics. Ils portent atteinte à l'honneur des deux hommes. Franck De Ceveri maintient ses propos. Il reconnaît avoir un caractère un peu vif, un peu fort, mais pas d'inimitié. Il s'en défend, envers le président et son ancien vice-président. Il s'agissait juste de l'intérêt général.\n\n\n[00:01:02 - 00:01:21]\nInvité: Aujourd'hui, j'ai pu m'exprimer, expliquer les propos que j'ai tenus en séance officielle le 23 en 2023, pardon, et voilà, j'ai légitimé ces propos et je considère aujourd'hui qu'il était important de les tenir et voilà, j'ai confirmé au président du tribunal que mes propos étaient fondés et légitimes.\n\n\n[00:01:21 - 00:01:32]\nJournaliste: Alors ces propos et ces accusations portées contre le président du Conseil territorial et un ancien vice-président, pourquoi ne pas les avoir portées devant la justice comme cela a pu vous être reproché à l'audience ?\n\n\n[00:01:33 - 00:02:12]\nInvité: Écoutez, on a été des lanceurs d'alerte, on a essayé quelques procédures, voilà, d'alerter aussi le préfet de l'époque, Christian Pouget. Tout cela est resté lettre morte. Écoutez, voilà, de mon côté, en tout cas, j'estime avoir fait ce que j'ai pu pour dénoncer une situation que je jugeais injuste et inéquitable envers la population. Donc voilà, aujourd'hui, on en est là. Beaucoup de temps et beaucoup d'argent public aujourd'hui investi dans ce jugement, pour pas grand-chose, j'estime que c'est vraiment un gaspillage d'argent public et je pense aussi que la politique et les débats publics ne sortiront pas grandis.\n\n\n[00:02:12 - 00:02:19]\nJournaliste: Notez que les avocats des parties civiles qui n'ont pas souhaité s'exprimer devant notre caméra ont demandé un euro symbolique. La défense, la relaxe et des dommages et intérêts pour procédures abusives. Le délibéré sera rendu le 16 décembre prochain."", 'original_length': 528, 'llm_length': 527, 'filtered_length': 527, 'match_start': 0, 'match_end': 526, 'coverage_ratio': 0.9981060606060606}","Diffamation ou libre exercice du débat démocratique ? C'est un peu autour de cette question que tournait l'audience ce matin. Le prévenu, Franck De Ceveri, maire de Miquelon et conseiller territorial d'opposition. Les parties civiles, Olivier De Ceveri, ancien vice-président de la collectivité chargée de Miquelon et Bernard Briand, l'actuel président dont l'absence à l'audience a été soulignée par la défense. Les faits : des propos tenus en séance officielle, le 30 mai 2023, concernant l'attribution d'une subvention de 225 000 euros pour la construction d'habitats de vacances. Le conseiller Cap sur l'avenir avait notamment dénoncé un cadeau fait à Olivier De Ceveri pour monter son entreprise. Pour la partie civile, ses propos sont graves. Ils signifient corruption, détournement de fonds publics. Ils portent atteinte à l'honneur des deux hommes. Franck De Ceveri maintient ses propos. Il reconnaît avoir un caractère un peu vif, un peu fort, mais pas d'inimitié. Il s'en défend, envers le président et son ancien vice-président. Il s'agissait juste de l'intérêt général.
+
+
+[00:01:02 - 00:01:21]
+Invité: Aujourd'hui, j'ai pu m'exprimer, expliquer les propos que j'ai tenus en séance officielle le 23 en 2023, pardon, et voilà, j'ai légitimé ces propos et je considère aujourd'hui qu'il était important de les tenir et voilà, j'ai confirmé au président du tribunal que mes propos étaient fondés et légitimes.
+
+
+[00:01:21 - 00:01:32]
+Journaliste: Alors ces propos et ces accusations portées contre le président du Conseil territorial et un ancien vice-président, pourquoi ne pas les avoir portées devant la justice comme cela a pu vous être reproché à l'audience ?
+
+
+[00:01:33 - 00:02:12]
+Invité: Écoutez, on a été des lanceurs d'alerte, on a essayé quelques procédures, voilà, d'alerter aussi le préfet de l'époque, Christian Pouget. Tout cela est resté lettre morte. Écoutez, voilà, de mon côté, en tout cas, j'estime avoir fait ce que j'ai pu pour dénoncer une situation que je jugeais injuste et inéquitable envers la population. Donc voilà, aujourd'hui, on en est là. Beaucoup de temps et beaucoup d'argent public aujourd'hui investi dans ce jugement, pour pas grand-chose, j'estime que c'est vraiment un gaspillage d'argent public et je pense aussi que la politique et les débats publics ne sortiront pas grandis.
+
+
+[00:02:12 - 00:02:19]
+Journaliste: Notez que les avocats des parties civiles qui n'ont pas souhaité s'exprimer devant notre caméra ont demandé un euro symbolique. La défense, la relaxe et des dommages et intérêts pour procédures abusives. Le délibéré sera rendu le 16 décembre prochain.",775,0.9981060606060606
+transcript_formatted_0a7efea2-a9c1-11f0-8247-957ddefc544d.txt,OUTREMER,1808,550,"[00:00:00 - 00:00:50] Voix 01 :
+  À l'image de cette pirogue, le projet de barrage hydroélectrique de Maripassoula a coulé dans la rivière Innini à Saussonet. Un projet de barrage au fil de l'eau de 3 MW porté depuis 2009 par Voltalia. Après de très nombreuses années de développement, nous avons malheureusement pris la décision de ne pas poursuivre la mise en oeuvre de ce projet, nous a indiqué la société.  Cette décision résulte de l'impossibilité de parvenir à un équilibre entre les exigences techniques et les conditions économiques du projet, précise Voltalia. Le projet de Sossonel est inscrit dans la PPE, la programmation pluriannuelle de l'énergie, définie par l'Etat et la collectivité territoriale de Guyane. Le premier vice-président de la CTG était à Maripassoula lundi pour inaugurer une centrale solaire.
+
+[00:00:50 - 00:01:08] Voix 00 :
+  On a appris que Voltali a abandonné ce projet sur Maripasoula et donc il faut très rapidement réfléchir à des alternatives possibles. On sait qu'aujourd'hui EDF Power Solutions envisage un second parc sur Maripasoula en photovoltaïque.
+
+[00:01:08 - 00:01:24] Voix 01 :
+ En 2022, la CREU, la Commission de Régulation de l'Energie, avait approuvé le projet de Sossonel et fixé les tarifs de rachat du courant par EDF.  Mais selon Voltalia, le budget ainsi défini était insuffisant pour construire l'ouvrage.
+
+[00:01:24 - 00:01:33] Voix 02 :
+ On soutient tous les projets renouvelables et après sont les acteurs économiques qui nous disent on n'y arrive ou on n'y arrive pas. En tout cas ce qui est sûr c'est que ici l'isolement rend tout plus compliqué.
+
+[00:01:33 - 00:01:44] Voix 01 :
+ Selon Voltalia, l'absence de route entre Marie-Pasoula et le littoral Guyanais a été un facteur important dans les difficultés à financer le chantier de Saussonet.","[00:00:00 - 00:00:50] Journaliste:
+À l'image de cette pirogue, le projet de barrage hydroélectrique de Maripasoula a coulé dans la rivière Inini, à Sossonel. Un projet de barrage au fil de l'eau de 3 MW, porté depuis 2009 par Voltalia. « Après de très nombreuses années de développement, nous avons malheureusement pris la décision de ne pas poursuivre la mise en œuvre de ce projet, » nous a indiqué la société. « Cette décision résulte de l'impossibilité de parvenir à un équilibre entre les exigences techniques et les conditions économiques du projet, » précise Voltalia. Le projet de Sossonel est inscrit dans la PPE, la programmation pluriannuelle de l'énergie, définie par l'État et la collectivité territoriale de Guyane. Le premier vice-président de la CTG était à Maripasoula lundi pour inaugurer une centrale solaire.
+
+[00:00:50 - 00:01:08] Intervenant 1:
+On a appris que Voltalia a abandonné ce projet sur Maripasoula et donc il faut très rapidement réfléchir à des alternatives possibles. On sait qu'aujourd'hui, EDF Power Solutions envisage un second parc sur Maripasoula en photovoltaïque.
+
+[00:01:08 - 00:01:24] Journaliste:
+En 2022, la CRE, la Commission de Régulation de l'Énergie, avait approuvé le projet de Sossonel et fixé les tarifs de rachat du courant par EDF. Mais selon Voltalia, le budget ainsi défini était insuffisant pour construire l'ouvrage.
+
+[00:01:24 - 00:01:33] Intervenant 2:
+On soutient tous les projets renouvelables et après, ce sont les acteurs économiques qui nous disent : on n'y arrive ou on n'y arrive pas. En tout cas, ce qui est sûr, c'est que, ici, l'isolement rend tout plus compliqué.
+
+[00:01:33 - 00:01:44] Journaliste:
+Selon Voltalia, l'absence de route entre Maripasoula et le littoral guyanais a été un facteur important dans les difficultés à financer le chantier de Sossonel.",550,556,1.010909090909091,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""À l'image de cette pirogue, le projet de barrage hydroélectrique de Maripasoula a coulé dans la rivière Inini, à Sossonel. Un projet de barrage au fil de l'eau de 3 MW, porté depuis 2009 par Voltalia. « Après de très nombreuses années de développement, nous avons malheureusement pris la décision de ne pas poursuivre la mise en œuvre de ce projet, » nous a indiqué la société. « Cette décision résulte de l'impossibilité de parvenir à un équilibre entre les exigences techniques et les conditions économiques du projet, » précise Voltalia. Le projet de Sossonel est inscrit dans la PPE, la programmation pluriannuelle de l'énergie, définie par l'État et la collectivité territoriale de Guyane. Le premier vice-président de la CTG était à Maripasoula lundi pour inaugurer une centrale solaire.\n\n[00:00:50 - 00:01:08] Intervenant 1:\nOn a appris que Voltalia a abandonné ce projet sur Maripasoula et donc il faut très rapidement réfléchir à des alternatives possibles. On sait qu'aujourd'hui, EDF Power Solutions envisage un second parc sur Maripasoula en photovoltaïque.\n\n[00:01:08 - 00:01:24] Journaliste:\nEn 2022, la CRE, la Commission de Régulation de l'Énergie, avait approuvé le projet de Sossonel et fixé les tarifs de rachat du courant par EDF. Mais selon Voltalia, le budget ainsi défini était insuffisant pour construire l'ouvrage.\n\n[00:01:24 - 00:01:33] Intervenant 2:\nOn soutient tous les projets renouvelables et après, ce sont les acteurs économiques qui nous disent : on n'y arrive ou on n'y arrive pas. En tout cas, ce qui est sûr, c'est que, ici, l'isolement rend tout plus compliqué.\n\n[00:01:33 - 00:01:44] Journaliste:\nSelon Voltalia, l'absence de route entre Maripasoula et le littoral guyanais a été un facteur important dans les difficultés à financer le chantier de Sossonel."", 'original_length': 318, 'llm_length': 336, 'filtered_length': 336, 'match_start': 0, 'match_end': 335, 'coverage_ratio': 1.0566037735849056}","À l'image de cette pirogue, le projet de barrage hydroélectrique de Maripasoula a coulé dans la rivière Inini, à Sossonel. Un projet de barrage au fil de l'eau de 3 MW, porté depuis 2009 par Voltalia. « Après de très nombreuses années de développement, nous avons malheureusement pris la décision de ne pas poursuivre la mise en œuvre de ce projet, » nous a indiqué la société. « Cette décision résulte de l'impossibilité de parvenir à un équilibre entre les exigences techniques et les conditions économiques du projet, » précise Voltalia. Le projet de Sossonel est inscrit dans la PPE, la programmation pluriannuelle de l'énergie, définie par l'État et la collectivité territoriale de Guyane. Le premier vice-président de la CTG était à Maripasoula lundi pour inaugurer une centrale solaire.
+
+[00:00:50 - 00:01:08] Intervenant 1:
+On a appris que Voltalia a abandonné ce projet sur Maripasoula et donc il faut très rapidement réfléchir à des alternatives possibles. On sait qu'aujourd'hui, EDF Power Solutions envisage un second parc sur Maripasoula en photovoltaïque.
+
+[00:01:08 - 00:01:24] Journaliste:
+En 2022, la CRE, la Commission de Régulation de l'Énergie, avait approuvé le projet de Sossonel et fixé les tarifs de rachat du courant par EDF. Mais selon Voltalia, le budget ainsi défini était insuffisant pour construire l'ouvrage.
+
+[00:01:24 - 00:01:33] Intervenant 2:
+On soutient tous les projets renouvelables et après, ce sont les acteurs économiques qui nous disent : on n'y arrive ou on n'y arrive pas. En tout cas, ce qui est sûr, c'est que, ici, l'isolement rend tout plus compliqué.
+
+[00:01:33 - 00:01:44] Journaliste:
+Selon Voltalia, l'absence de route entre Maripasoula et le littoral guyanais a été un facteur important dans les difficultés à financer le chantier de Sossonel.",539,1.0566037735849056
+transcript_formatted_efee2371-3664-4d12-928a-e273629031a8.txt,OUTREMER,545,190,"[00:00:00 - 00:00:24] Voix 01 :
+  J'étais heureuse. J'ai eu du succès. Je suis entrée dans les palais des rois et des reines. Dans les maisons des présidents. Mes amis, je veux que vous ayez la chance que j'ai eue. Merci.
+
+[00:00:43 - 00:00:47] Voix 00 :
+  Si tu n'es pas heureux, tu peux partir.
+
+[00:01:14 - 00:01:21] Voix 01 :
+  Je ne chanterai pas en France tant qu'elle sera occupée par les Allemands. Je dois tout à la France, sinon mal que les gens je lui donne tout. Pensez à vos enfants ! Faites qu'un jour, ici, ils soient en sécurité.","Voici la transcription traitée conformément à vos instructions :
+
+[00:00:00 - 00:00:24] Voix 01 :
+J'étais heureuse. J'ai eu du succès. Je suis entrée dans les palais des rois et des reines. Dans les maisons des présidents. Mes amis, je veux que vous ayez la chance que j'ai eue. Merci.
+
+
+[00:00:43 - 00:00:47] Voix 00 :
+Si tu n'es pas heureux, tu peux partir.
+
+
+[00:01:14 - 00:01:21] Voix 01 :
+Je ne chanterai pas en France tant qu'elle sera occupée par les Allemands. Je dois tout à la France, sinon mal que les gens je lui donne tout. Pensez à vos enfants ! Faites qu'un jour, ici, ils soient en sécurité.",190,199,1.0473684210526315,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription traitée conformément à vos instructions :\n\n[00:00:00 - 00:00:24] Voix 01 :\nJ'étais heureuse. J'ai eu du succès. Je suis entrée dans les palais des rois et des reines. Dans les maisons des présidents. Mes amis, je veux que vous ayez la chance que j'ai eue. Merci.\n\n\n[00:00:43 - 00:00:47] Voix 00 :\nSi tu n'es pas heureux, tu peux partir.\n\n\n[00:01:14 - 00:01:21] Voix 01 :\nJe ne chanterai pas en France tant qu'elle sera occupée par les Allemands. Je dois tout à la France, sinon mal que les gens je lui donne tout. Pensez à vos enfants ! Faites qu'un jour, ici, ils soient en sécurité."", 'original_length': 111, 'llm_length': 120, 'filtered_length': 120, 'match_start': 0, 'match_end': 119, 'coverage_ratio': 1.0810810810810811}","Voici la transcription traitée conformément à vos instructions :
+
+[00:00:00 - 00:00:24] Voix 01 :
+J'étais heureuse. J'ai eu du succès. Je suis entrée dans les palais des rois et des reines. Dans les maisons des présidents. Mes amis, je veux que vous ayez la chance que j'ai eue. Merci.
+
+
+[00:00:43 - 00:00:47] Voix 00 :
+Si tu n'es pas heureux, tu peux partir.
+
+
+[00:01:14 - 00:01:21] Voix 01 :
+Je ne chanterai pas en France tant qu'elle sera occupée par les Allemands. Je dois tout à la France, sinon mal que les gens je lui donne tout. Pensez à vos enfants ! Faites qu'un jour, ici, ils soient en sécurité.",199,1.0810810810810811
+transcript_formatted_1d143cd4-a5c8-4364-8b28-7a71c5b205f8.txt,OUTREMER,1401,362,"[00:00:00 - 00:00:13] Voix 00 :
+  Bien au contraire, l'idée de cette convention, c'est de pouvoir, dans un cadre défini par la région, de pouvoir ramener à l'échelon territorial le plus proche, donc le PCI, des actions qui pourraient être réalisées en direct. En fait, la région ne fait que déléguer une partie de son pouvoir en réalité,  pour permettre de traiter quelques problématiques notamment avec les entreprises sur les dossiers qui vont être notés et permettre d'obtenir ces aides directement bien évidemment sous le contrôle de la région comme ils l'ont bien signalé puisque c'est eux qui mènent cette compétence. Les EPCI vont aussi déléguer une partie de leur compétence à la région pour intervenir sur l'immobilier par exemple des entreprises. Je crois que le maillage entre  Toutes les collectivités, qu'il s'agisse du département, de la région, des OPCI, des communes, est indispensable aujourd'hui en Guadeloupe. Nous travaillons de manière saccadée et nous avons des résultats que nous connaissons. Les petites guerres entre collectivités et entre hommes nous pénalisent terriblement. Donc il faut au contraire mutualiser les moyens et faire en sorte que le premier échelon puisse descendre jusqu'au dernier.  Une meilleure coordination pour une meilleure efficacité. Tout à fait. Vous l'avez compris, c'est exactement le mot. Une meilleure coordination pour une meilleure efficacité.","Voici la transcription post-traitée :
+
+[00:00:00 - 00:00:13] Voix 00 :
+Bien au contraire, l'idée de cette convention, c'est de pouvoir, dans un cadre défini par la région, de pouvoir ramener à l'échelon territorial le plus proche, donc le PCI, des actions qui pourraient être réalisées en direct. En fait, la région ne fait que déléguer une partie de son pouvoir en réalité, pour permettre de traiter quelques problématiques, notamment avec les entreprises, sur les dossiers qui vont être notés et permettre d'obtenir ces aides directement, bien évidemment, sous le contrôle de la région, comme ils l'ont bien signalé, puisque c'est eux qui mènent cette compétence. Les EPCI vont aussi déléguer une partie de leur compétence à la région pour intervenir sur l'immobilier, par exemple, des entreprises. Je crois que le maillage entre toutes les collectivités, qu'il s'agisse du département, de la région, des OPCI, des communes, est indispensable aujourd'hui en Guadeloupe. Nous travaillons de manière saccadée et nous avons des résultats que nous connaissons. Les petites guerres entre collectivités et entre hommes nous pénalisent terriblement. Donc il faut au contraire mutualiser les moyens et faire en sorte que le premier échelon puisse descendre jusqu'au dernier. Une meilleure coordination pour une meilleure efficacité. Tout à fait. Vous l'avez compris, c'est exactement le mot. Une meilleure coordination pour une meilleure efficacité.",362,374,1.0331491712707181,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée :\n\n[00:00:00 - 00:00:13] Voix 00 :\nBien au contraire, l'idée de cette convention, c'est de pouvoir, dans un cadre défini par la région, de pouvoir ramener à l'échelon territorial le plus proche, donc le PCI, des actions qui pourraient être réalisées en direct. En fait, la région ne fait que déléguer une partie de son pouvoir en réalité, pour permettre de traiter quelques problématiques, notamment avec les entreprises, sur les dossiers qui vont être notés et permettre d'obtenir ces aides directement, bien évidemment, sous le contrôle de la région, comme ils l'ont bien signalé, puisque c'est eux qui mènent cette compétence. Les EPCI vont aussi déléguer une partie de leur compétence à la région pour intervenir sur l'immobilier, par exemple, des entreprises. Je crois que le maillage entre toutes les collectivités, qu'il s'agisse du département, de la région, des OPCI, des communes, est indispensable aujourd'hui en Guadeloupe. Nous travaillons de manière saccadée et nous avons des résultats que nous connaissons. Les petites guerres entre collectivités et entre hommes nous pénalisent terriblement. Donc il faut au contraire mutualiser les moyens et faire en sorte que le premier échelon puisse descendre jusqu'au dernier. Une meilleure coordination pour une meilleure efficacité. Tout à fait. Vous l'avez compris, c'est exactement le mot. Une meilleure coordination pour une meilleure efficacité."", 'original_length': 260, 'llm_length': 275, 'filtered_length': 275, 'match_start': 0, 'match_end': 274, 'coverage_ratio': 1.0576923076923077}","Voici la transcription post-traitée :
+
+[00:00:00 - 00:00:13] Voix 00 :
+Bien au contraire, l'idée de cette convention, c'est de pouvoir, dans un cadre défini par la région, de pouvoir ramener à l'échelon territorial le plus proche, donc le PCI, des actions qui pourraient être réalisées en direct. En fait, la région ne fait que déléguer une partie de son pouvoir en réalité, pour permettre de traiter quelques problématiques, notamment avec les entreprises, sur les dossiers qui vont être notés et permettre d'obtenir ces aides directement, bien évidemment, sous le contrôle de la région, comme ils l'ont bien signalé, puisque c'est eux qui mènent cette compétence. Les EPCI vont aussi déléguer une partie de leur compétence à la région pour intervenir sur l'immobilier, par exemple, des entreprises. Je crois que le maillage entre toutes les collectivités, qu'il s'agisse du département, de la région, des OPCI, des communes, est indispensable aujourd'hui en Guadeloupe. Nous travaillons de manière saccadée et nous avons des résultats que nous connaissons. Les petites guerres entre collectivités et entre hommes nous pénalisent terriblement. Donc il faut au contraire mutualiser les moyens et faire en sorte que le premier échelon puisse descendre jusqu'au dernier. Une meilleure coordination pour une meilleure efficacité. Tout à fait. Vous l'avez compris, c'est exactement le mot. Une meilleure coordination pour une meilleure efficacité.",374,1.0576923076923077
+transcript_formatted_07d9c511-fa20-4d4c-9d67-0c9b4ba549e1.txt,OUTREMER,1305,387,"[00:00:00 - 00:00:36] Voix 00 :
+  C'est une réforme qui n'a pas été voulue par les français. Les citoyens qui sont aussi ceux qui parfois manifestent n'ont pas voté pour une réforme de retraite à 64 ans. Donc on remet ce sujet sur les tapis, c'est plutôt une bonne chose. Donc c'est remis aux élections présidentielles. Donc on espère, en tout cas la cèdette espère, qu'on parle social et on parle retraite dans les débats et qu'on arrive à prouver que les 64 ans c'était  injuste et qu'il y a une blessure démocratique qui a été faite en 2023 par le 49.3. Le gouvernement s'engage à ne plus utiliser le 49.3. C'est un inversement des choses qu'on écoute enfin les corps intermédiaires qui doivent être écoutés par le parlementaire qui ont aujourd'hui une forte responsabilité.
+
+[00:00:37 - 00:00:46] Voix 01 :
+  Cette suspension va permettre de gagner de moins perdre, donc de gagner peut-être deux ou quatre mois à certains retraités, mais au final le compte n'y est pas. Le compte n'y est pas parce que passer de la retraite de 62 à 63 ou à 64 ans,  au final ça va engager des coûts plus pour le budget par exemple budget santé parce qu'on va aller au travail plus longtemps donc forcément ça va impacter sur notre santé donc pour nous la retraite c'est déjà la brogée à 62 ans et la retraite à 60 ans.","[00:00:00 - 00:00:36] Locuteur 1 :
+C'est une réforme qui n'a pas été voulue par les Français. Les citoyens qui sont aussi ceux qui parfois manifestent n'ont pas voté pour une réforme de retraite à 64 ans. Donc on remet ce sujet sur le tapis, c'est plutôt une bonne chose. Donc c'est remis aux élections présidentielles. Donc on espère, en tout cas la CGT espère, qu'on parle social et on parle retraite dans les débats et qu'on arrive à prouver que les 64 ans c'était injuste et qu'il y a une blessure démocratique qui a été faite en 2023 par le 49.3. Le gouvernement s'engage à ne plus utiliser le 49.3. C'est un inversement des choses qu'on écoute enfin les corps intermédiaires qui doivent être écoutés par les parlementaires qui ont aujourd'hui une forte responsabilité.
+
+[00:00:37 - 00:00:46] Locuteur 2 :
+Cette suspension va permettre de gagner de moins perdre, donc de gagner peut-être deux ou quatre mois à certains retraités, mais au final le compte n'y est pas. Le compte n'y est pas parce que passer de la retraite de 62 à 63 ou à 64 ans, au final ça va engager des coûts plus pour le budget par exemple budget santé parce qu'on va aller au travail plus longtemps donc forcément ça va impacter sur notre santé donc pour nous la retraite c'est déjà l'abroger à 62 ans et la retraite à 60 ans.",387,383,0.9896640826873385,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Locuteur 1 :\nC'est une réforme qui n'a pas été voulue par les Français. Les citoyens qui sont aussi ceux qui parfois manifestent n'ont pas voté pour une réforme de retraite à 64 ans. Donc on remet ce sujet sur le tapis, c'est plutôt une bonne chose. Donc c'est remis aux élections présidentielles. Donc on espère, en tout cas la CGT espère, qu'on parle social et on parle retraite dans les débats et qu'on arrive à prouver que les 64 ans c'était injuste et qu'il y a une blessure démocratique qui a été faite en 2023 par le 49.3. Le gouvernement s'engage à ne plus utiliser le 49.3. C'est un inversement des choses qu'on écoute enfin les corps intermédiaires qui doivent être écoutés par les parlementaires qui ont aujourd'hui une forte responsabilité.\n\n[00:00:37 - 00:00:46] Locuteur 2 :\nCette suspension va permettre de gagner de moins perdre, donc de gagner peut-être deux ou quatre mois à certains retraités, mais au final le compte n'y est pas. Le compte n'y est pas parce que passer de la retraite de 62 à 63 ou à 64 ans, au final ça va engager des coûts plus pour le budget par exemple budget santé parce qu'on va aller au travail plus longtemps donc forcément ça va impacter sur notre santé donc pour nous la retraite c'est déjà l'abroger à 62 ans et la retraite à 60 ans"", 'original_length': 280, 'llm_length': 287, 'filtered_length': 286, 'match_start': 0, 'match_end': 285, 'coverage_ratio': 1.0214285714285714}","Locuteur 1 :
+C'est une réforme qui n'a pas été voulue par les Français. Les citoyens qui sont aussi ceux qui parfois manifestent n'ont pas voté pour une réforme de retraite à 64 ans. Donc on remet ce sujet sur le tapis, c'est plutôt une bonne chose. Donc c'est remis aux élections présidentielles. Donc on espère, en tout cas la CGT espère, qu'on parle social et on parle retraite dans les débats et qu'on arrive à prouver que les 64 ans c'était injuste et qu'il y a une blessure démocratique qui a été faite en 2023 par le 49.3. Le gouvernement s'engage à ne plus utiliser le 49.3. C'est un inversement des choses qu'on écoute enfin les corps intermédiaires qui doivent être écoutés par les parlementaires qui ont aujourd'hui une forte responsabilité.
+
+[00:00:37 - 00:00:46] Locuteur 2 :
+Cette suspension va permettre de gagner de moins perdre, donc de gagner peut-être deux ou quatre mois à certains retraités, mais au final le compte n'y est pas. Le compte n'y est pas parce que passer de la retraite de 62 à 63 ou à 64 ans, au final ça va engager des coûts plus pour le budget par exemple budget santé parce qu'on va aller au travail plus longtemps donc forcément ça va impacter sur notre santé donc pour nous la retraite c'est déjà l'abroger à 62 ans et la retraite à 60 ans",368,1.0214285714285714
+transcript_formatted_cfe5bf00-a935-11f0-84f0-19616fa871f9.txt,OUTREMER,1871,599,"[00:00:00 - 00:00:21] Voix 01 :
+  Plus d'un hectare de végétation parti en fumée. Le plateau des ananas est devenu lunaire. Toute l'après-midi d'hier, une douzaine de pompiers ont lutté contre des flammes de plusieurs mètres de hauteur, soutenues par l'hélicoptère dauphin de la 35F. La cause de l'incendie a été identifiée. Il s'agit des braises provenant de la cuisson d'un ourou sur le terrain voisin. La sécheresse a fait le reste.
+
+[00:00:23 - 00:00:54] Voix 00 :
+  Le hannouhé est très sec et c'est un combustible qui brûle très très vite. Du coup c'est ce qui a favorisé en fait la propagation, comme vous voyez, jusqu'à derrière moi. Et le vent en fait qui était favorable à sa propagation.  On fait de la reconnaissance et on vient en fait d'éteindre toutes les fumeroles et refroidir toutes les parties qui restent encore chaudes. Ce matin, on a quand même eu de la pluie, ce qui a quand même favorisé un peu à faire baisser la température qu'il y a sur le terrain.
+
+[00:00:54 - 00:01:04] Voix 01 :
+  En contrebas, à environ 300 mètres, une dizaine d'habitations du quartier Haoma l'ont échappé belles. Dans cette maison, une famille de 6 personnes a pourtant gardé son calme.
+
+[00:01:04 - 00:01:38] Voix 02 :
+ Les seins, on a vu dans ma maison. On ne sait pas d'où ça vient. Ça continue, ça continue et ça ne s'arrête pas. Et du coup, heureusement, mon mari est sorti dehors aussi. Il a vu le feu.  Vous êtes inquiété pour votre maison ? Pas vraiment parce que c'est vraiment en hauteur. On ne s'est pas inquiété. Parce que si on s'est inquiété, je crois que le maire va venir nous voir pour nous évacuer. Mais là, non.
+
+[00:01:38 - 00:01:45] Voix 01 :
+ Sans la réactivité des deux brigades de la Presqu'île et celle de Teva et Iuta, les dégâts auraient pu être plus conséquents. La mairie appelle à la vigilance en cette période de vent fort et de sécheresse.","Voici la transcription post-traitée, conformément à vos instructions :
+
+[00:00:00 - 00:00:21] Journaliste:
+Plus d'un hectare de végétation parti en fumée. Le plateau des ananas est devenu lunaire. Toute l'après-midi d'hier, une douzaine de pompiers ont lutté contre des flammes de plusieurs mètres de hauteur, soutenues par l'hélicoptère dauphin de la 35F. La cause de l'incendie a été identifiée. Il s'agit des braises provenant de la cuisson d'un ourou sur le terrain voisin. La sécheresse a fait le reste.
+
+[00:00:23 - 00:00:54] Pompier:
+Le hannouhé est très sec, et c'est un combustible qui brûle très très vite. Du coup, c'est ce qui a favorisé, en fait, la propagation, comme vous voyez, jusqu'à derrière moi, et le vent, en fait, qui était favorable à sa propagation. On fait de la reconnaissance et on vient, en fait, d'éteindre toutes les fumerolles et refroidir toutes les parties qui restent encore chaudes. Ce matin, on a quand même eu de la pluie, ce qui a quand même favorisé un peu à faire baisser la température qu'il y a sur le terrain.
+
+[00:00:54 - 00:01:04] Journaliste:
+En contrebas, à environ 300 mètres, une dizaine d'habitations du quartier Haoma l'ont échappé belle. Dans cette maison, une famille de 6 personnes a pourtant gardé son calme.
+
+[000:01:04 - 00:01:38] Habitante:
+Le feu, on a vu dans ma maison. On ne sait pas d'où ça vient. Ça continue, ça continue et ça ne s'arrête pas. Et du coup, heureusement, mon mari est sorti dehors aussi. Il a vu le feu. Vous êtes inquiété pour votre maison ? Pas vraiment, parce que c'est vraiment en hauteur. On ne s'est pas inquiété. Parce que si on s'est inquiété, je crois que le maire va venir nous voir pour nous évacuer. Mais là, non.
+
+[00:01:38 - 00:01:45] Journaliste:
+Sans la réactivité des deux brigades de la Presqu'île et celle de Teva et Iuta, les dégâts auraient pu être plus conséquents. La mairie appelle à la vigilance en cette période de vent fort et de sécheresse.",599,608,1.015025041736227,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""transcription post-traitée, conformément à vos instructions :\n\n[00:00:00 - 00:00:21] Journaliste:\nPlus d'un hectare de végétation parti en fumée. Le plateau des ananas est devenu lunaire. Toute l'après-midi d'hier, une douzaine de pompiers ont lutté contre des flammes de plusieurs mètres de hauteur, soutenues par l'hélicoptère dauphin de la 35F. La cause de l'incendie a été identifiée. Il s'agit des braises provenant de la cuisson d'un ourou sur le terrain voisin. La sécheresse a fait le reste.\n\n[00:00:23 - 00:00:54] Pompier:\nLe hannouhé est très sec, et c'est un combustible qui brûle très très vite. Du coup, c'est ce qui a favorisé, en fait, la propagation, comme vous voyez, jusqu'à derrière moi, et le vent, en fait, qui était favorable à sa propagation. On fait de la reconnaissance et on vient, en fait, d'éteindre toutes les fumerolles et refroidir toutes les parties qui restent encore chaudes. Ce matin, on a quand même eu de la pluie, ce qui a quand même favorisé un peu à faire baisser la température qu'il y a sur le terrain.\n\n[00:00:54 - 00:01:04] Journaliste:\nEn contrebas, à environ 300 mètres, une dizaine d'habitations du quartier Haoma l'ont échappé belle. Dans cette maison, une famille de 6 personnes a pourtant gardé son calme.\n\n[000:01:04 - 00:01:38] Habitante:\nLe feu, on a vu dans ma maison. On ne sait pas d'où ça vient. Ça continue, ça continue et ça ne s'arrête pas. Et du coup, heureusement, mon mari est sorti dehors aussi. Il a vu le feu. Vous êtes inquiété pour votre maison ? Pas vraiment, parce que c'est vraiment en hauteur. On ne s'est pas inquiété. Parce que si on s'est inquiété, je crois que le maire va venir nous voir pour nous évacuer. Mais là, non.\n\n[00:01:38 - 00:01:45] Journaliste:\nSans la réactivité des deux brigades de la Presqu'île et celle de Teva et Iuta, les dégâts auraient pu être plus conséquents. La mairie appelle à la vigilance en cette période de vent fort et de sécheresse."", 'original_length': 387, 'llm_length': 412, 'filtered_length': 410, 'match_start': 2, 'match_end': 411, 'coverage_ratio': 1.0594315245478036}","transcription post-traitée, conformément à vos instructions :
+
+[00:00:00 - 00:00:21] Journaliste:
+Plus d'un hectare de végétation parti en fumée. Le plateau des ananas est devenu lunaire. Toute l'après-midi d'hier, une douzaine de pompiers ont lutté contre des flammes de plusieurs mètres de hauteur, soutenues par l'hélicoptère dauphin de la 35F. La cause de l'incendie a été identifiée. Il s'agit des braises provenant de la cuisson d'un ourou sur le terrain voisin. La sécheresse a fait le reste.
+
+[00:00:23 - 00:00:54] Pompier:
+Le hannouhé est très sec, et c'est un combustible qui brûle très très vite. Du coup, c'est ce qui a favorisé, en fait, la propagation, comme vous voyez, jusqu'à derrière moi, et le vent, en fait, qui était favorable à sa propagation. On fait de la reconnaissance et on vient, en fait, d'éteindre toutes les fumerolles et refroidir toutes les parties qui restent encore chaudes. Ce matin, on a quand même eu de la pluie, ce qui a quand même favorisé un peu à faire baisser la température qu'il y a sur le terrain.
+
+[00:00:54 - 00:01:04] Journaliste:
+En contrebas, à environ 300 mètres, une dizaine d'habitations du quartier Haoma l'ont échappé belle. Dans cette maison, une famille de 6 personnes a pourtant gardé son calme.
+
+[000:01:04 - 00:01:38] Habitante:
+Le feu, on a vu dans ma maison. On ne sait pas d'où ça vient. Ça continue, ça continue et ça ne s'arrête pas. Et du coup, heureusement, mon mari est sorti dehors aussi. Il a vu le feu. Vous êtes inquiété pour votre maison ? Pas vraiment, parce que c'est vraiment en hauteur. On ne s'est pas inquiété. Parce que si on s'est inquiété, je crois que le maire va venir nous voir pour nous évacuer. Mais là, non.
+
+[00:01:38 - 00:01:45] Journaliste:
+Sans la réactivité des deux brigades de la Presqu'île et celle de Teva et Iuta, les dégâts auraient pu être plus conséquents. La mairie appelle à la vigilance en cette période de vent fort et de sécheresse.",606,1.0594315245478036
+transcript_formatted_5b0c0904-88f2-4ea5-8112-174b53c69cff.txt,OUTREMER,957,322,"[00:00:05 - 00:00:06] Voix 00 :
+  On fait une entrée d'eau.
+
+[00:00:06 - 00:00:07] Voix -- :
+ On fait une sortie d'eau.
+
+[00:00:07 - 00:00:10] Voix 00 :
+ Et après on fait un lieu où vous n'avez pas d'aide. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste faire la route et on revient après. Ouais s'il te plait, on va juste  C'est pas mal !  C'est beau.
+
+[00:01:41 - 00:01:45] Voix -- :
+ Ah, il y en a même pas.  Wouhou !","Voici la transcription post-traitée conformément à vos instructions :
+
+```
+[00:00:05 - 00:00:06] Locuteur 1:
+On fait une entrée d'eau.
+
+
+[00:00:06 - 00:00:07] Locuteur 2:
+On fait une sortie d'eau.
+
+
+[00:00:07 - 00:00:10] Locuteur 1:
+Et après on fait un lieu où vous n'avez pas d'aide. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste C'est pas mal ! C'est beau.
+
+
+[00:01:41 - 00:01:45] Locuteur 2:
+Ah, il y en a même pas. Wouhou !
+```",322,337,1.046583850931677,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée conformément à vos instructions :\n\n```\n[00:00:05 - 00:00:06] Locuteur 1:\nOn fait une entrée d'eau.\n\n\n[00:00:06 - 00:00:07] Locuteur 2:\nOn fait une sortie d'eau.\n\n\n[00:00:07 - 00:00:10] Locuteur 1:\nEt après on fait un lieu où vous n'avez pas d'aide. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste C'est pas mal ! C'est beau.\n\n\n[00:01:41 - 00:01:45] Locuteur 2:\nAh, il y en a même pas. Wouhou !\n```"", 'original_length': 234, 'llm_length': 255, 'filtered_length': 253, 'match_start': 0, 'match_end': 252, 'coverage_ratio': 1.0811965811965811}","Voici la transcription post-traitée conformément à vos instructions :
+
+```
+[00:00:05 - 00:00:06] Locuteur 1:
+On fait une entrée d'eau.
+
+
+[00:00:06 - 00:00:07] Locuteur 2:
+On fait une sortie d'eau.
+
+
+[00:00:07 - 00:00:10] Locuteur 1:
+Et après on fait un lieu où vous n'avez pas d'aide. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste faire la route et on revient après. Ouais s'il te plaît, on va juste C'est pas mal ! C'est beau.
+
+
+[00:01:41 - 00:01:45] Locuteur 2:
+Ah, il y en a même pas. Wouhou !
+```",337,1.0811965811965811
+transcript_formatted_fc06d7c8-a9a2-11f0-84f0-19616fa871f9.txt,OUTREMER,2624,870,"[00:00:00 - 00:00:06] Voix 02 :
+  Des t-shirts de finishers sur la ligne de départ. Pour Christelle et ses amis, on annonce la couleur d'entrée de jeu.
+
+[00:00:06 - 00:00:09] Voix 07 :
+ On impressionne et puis on va s'amuser.
+
+[00:00:09 - 00:00:12] Voix 02 :
+ Tu as déjà fait combien de fois du coup la diague ?
+
+[00:00:12 - 00:00:19] Voix 07 :
+ La diague, on va dire trois fois. Je l'ai finie deux fois. Et cette année, on se met sur la zembrocale avec les copines premières. Finisher trois fois.
+
+[00:00:21 - 00:00:25] Voix 06 :
+  Et pareil, on impressionne les copains, on va les mettre à la pâtée aux Zambrocals et puis voilà.
+
+[00:00:26 - 00:00:27] Voix 02 :
+ Ah oui, l'objectif c'est de gagner.
+
+[00:00:27 - 00:00:36] Voix 06 :
+ Le Zambrocals est devant, il y a trois équipes hommes avec nous de notre groupe et du coup le but c'est d'être devant eux.
+
+[00:00:36 - 00:00:46] Voix 04 :
+ On s'en vécu deux fois, donc deux années de suite, donc voilà, c'était cool et là on va faire le Zambrocals tous les quatre. Tu vas faire quelle portion ?
+
+[00:00:47 - 00:00:49] Voix 08 :
+ Moi je suis la dernière d'Odan jusqu'à la redoute.
+
+[00:00:53 - 00:01:19] Voix 02 :
+  Pour terminer en beauté, il faut commencer avec sérénité. Les bénévoles s'activent pour gérer le flux des concurrents, venus récupérer leurs dossards dans une ambiance.  Derrière les sourires et l'envie de se confronter au sentier, l'abroge de la compétition fait déjà son effet.
+
+[00:01:19 - 00:01:30] Voix 01 :
+ On commence à prendre conscience qu'il faut prendre le départ. Le stress commence à monter un peu, mais on fait avec.
+
+[00:01:30 - 00:01:36] Voix 02 :
+ Du stress pour les uns, de l'impatience pour les autres, car le Grand Red, c'est une aventure au long cours.
+
+[00:01:36 - 00:01:51] Voix 05 :
+  Ça fait cinq ans que je fais du trail et deux ans que je me prépare. Je viens de Métropole, de la Bretagne. Donc un long voyage avec toute la famille qui ont fait le déplacement ici pour faire mon assistance et me supporter pendant les deux nuits, j'espère pas trois, sur les sentiers.
+
+[00:01:53 - 00:02:02] Voix 02 :
+  Une bonne préparation, une bonne motivation, mais aussi tout le matériel adéquat. Pas de laisser passer sans checking. Amélie et tous les bénévoles sont attentifs aux petits oublis.
+
+[00:02:02 - 00:02:09] Voix 03 :
+ Surtout le strap, c'est des bandages où le strap devient une petite bande-soupe.
+
+[00:02:09 - 00:02:19] Voix 02 :
+ Pour les moins aguerris, petite révision des consignes à respecter, des sentiers à vérifier, au moins sur le papier, histoire de se rassurer avant de prendre le départ, quelle que soit la course.","Voici la transcription post-traitée conformément aux instructions :
+
+[00:00:00 - 00:00:06] **Présentateur:**
+Des t-shirts de finishers sur la ligne de départ. Pour Christelle et ses amis, on annonce la couleur d'entrée de jeu.
+
+[00:00:06 - 00:00:09] **Participant(e):**
+On impressionne et puis on va s'amuser.
+
+[00:00:09 - 00:00:12] **Présentateur:**
+Tu as déjà fait combien de fois du coup la Diagonale ?
+
+[00:00:12 - 00:00:19] **Participant(e):**
+La Diagonale, on va dire trois fois. Je l'ai finie deux fois. Et cette année, on se met sur la Zembrocal avec les copines premières. Finisher trois fois.
+
+[00:00:21 - 00:00:25] **Participant(e):**
+Et pareil, on impressionne les copains, on va les mettre à la pâtée au Zembrocal et puis voilà.
+
+[00:00:26 - 00:00:27] **Présentateur:**
+Ah oui, l'objectif c'est de gagner.
+
+[00:00:27 - 00:00:36] **Participant(e):**
+Le Zembrocal est devant, il y a trois équipes hommes avec nous de notre groupe et du coup le but c'est d'être devant eux.
+
+[00:00:36 - 00:00:46] **Participant(e):**
+On l'a vécu deux fois, donc deux années de suite, donc voilà, c'était cool et là on va faire le Zembrocal tous les quatre. Tu vas faire quelle portion ?
+
+[00:00:47 - 00:00:49] **Participant(e):**
+Moi je suis la dernière, de Daudin jusqu'à la Redoute.
+
+[00:00:53 - 01:01:19] **Présentateur:**
+Pour terminer en beauté, il faut commencer avec sérénité. Les bénévoles s'activent pour gérer le flux des concurrents, venus récupérer leurs dossards dans une ambiance. Derrière les sourires et l'envie de se confronter au sentier, l'approche de la compétition fait déjà son effet.
+
+[00:01:19 - 01:01:30] **Participant(e):**
+On commence à prendre conscience qu'il faut prendre le départ. Le stress commence à monter un peu, mais on fait avec.
+
+[00:01:30 - 01:01:36] **Présentateur:**
+Du stress pour les uns, de l'impatience pour les autres, car le Grand Raid, c'est une aventure au long cours.
+
+[00:01:36 - 01:01:51] **Participant(e):**
+Ça fait cinq ans que je fais du trail et deux ans que je me prépare. Je viens de Métropole, de la Bretagne. Donc un long voyage avec toute la famille qui ont fait le déplacement ici pour faire mon assistance et me supporter pendant les deux nuits, j'espère pas trois, sur les sentiers.
+
+[00:01:53 - 02:02:02] **Présentateur:**
+Une bonne préparation, une bonne motivation, mais aussi tout le matériel adéquat. Pas de laisser-passer sans checking. Amélie et tous les bénévoles sont attentifs aux petits oublis.
+
+[00:02:02 - 02:02:09] **Bénévole:**
+Surtout le strap, c'est des bandages où le strap devient une petite bande souple.
+
+[00:02:09 - 02:02:19] **Présentateur:**
+Pour les moins aguerris, petite révision des consignes à respecter, des sentiers à vérifier, au moins sur le papier, histoire de se rassurer avant de prendre le départ, quelle que soit la course.",870,893,1.0264367816091955,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée conformément aux instructions :\n\n[00:00:00 - 00:00:06] **Présentateur:**\nDes t-shirts de finishers sur la ligne de départ. Pour Christelle et ses amis, on annonce la couleur d'entrée de jeu.\n\n[00:00:06 - 00:00:09] **Participant(e):**\nOn impressionne et puis on va s'amuser.\n\n[00:00:09 - 00:00:12] **Présentateur:**\nTu as déjà fait combien de fois du coup la Diagonale ?\n\n[00:00:12 - 00:00:19] **Participant(e):**\nLa Diagonale, on va dire trois fois. Je l'ai finie deux fois. Et cette année, on se met sur la Zembrocal avec les copines premières. Finisher trois fois.\n\n[00:00:21 - 00:00:25] **Participant(e):**\nEt pareil, on impressionne les copains, on va les mettre à la pâtée au Zembrocal et puis voilà.\n\n[00:00:26 - 00:00:27] **Présentateur:**\nAh oui, l'objectif c'est de gagner.\n\n[00:00:27 - 00:00:36] **Participant(e):**\nLe Zembrocal est devant, il y a trois équipes hommes avec nous de notre groupe et du coup le but c'est d'être devant eux.\n\n[00:00:36 - 00:00:46] **Participant(e):**\nOn l'a vécu deux fois, donc deux années de suite, donc voilà, c'était cool et là on va faire le Zembrocal tous les quatre. Tu vas faire quelle portion ?\n\n[00:00:47 - 00:00:49] **Participant(e):**\nMoi je suis la dernière, de Daudin jusqu'à la Redoute.\n\n[00:00:53 - 01:01:19] **Présentateur:**\nPour terminer en beauté, il faut commencer avec sérénité. Les bénévoles s'activent pour gérer le flux des concurrents, venus récupérer leurs dossards dans une ambiance. Derrière les sourires et l'envie de se confronter au sentier, l'approche de la compétition fait déjà son effet.\n\n[00:01:19 - 01:01:30] **Participant(e):**\nOn commence à prendre conscience qu'il faut prendre le départ. Le stress commence à monter un peu, mais on fait avec.\n\n[00:01:30 - 01:01:36] **Présentateur:**\nDu stress pour les uns, de l'impatience pour les autres, car le Grand Raid, c'est une aventure au long cours.\n\n[00:01:36 - 01:01:51] **Participant(e):**\nÇa fait cinq ans que je fais du trail et deux ans que je me prépare. Je viens de Métropole, de la Bretagne. Donc un long voyage avec toute la famille qui ont fait le déplacement ici pour faire mon assistance et me supporter pendant les deux nuits, j'espère pas trois, sur les sentiers.\n\n[00:01:53 - 02:02:02] **Présentateur:**\nUne bonne préparation, une bonne motivation, mais aussi tout le matériel adéquat. Pas de laisser-passer sans checking. Amélie et tous les bénévoles sont attentifs aux petits oublis.\n\n[00:02:02 - 02:02:09] **Bénévole:**\nSurtout le strap, c'est des bandages où le strap devient une petite bande souple.\n\n[00:02:09 - 02:02:19] **Présentateur:**\nPour les moins aguerris, petite révision des consignes à respecter, des sentiers à vérifier, au moins sur le papier, histoire de se rassurer avant de prendre le départ, quelle que soit la course."", 'original_length': 463, 'llm_length': 579, 'filtered_length': 579, 'match_start': 0, 'match_end': 578, 'coverage_ratio': 1.2505399568034556}","Voici la transcription post-traitée conformément aux instructions :
+
+[00:00:00 - 00:00:06] **Présentateur:**
+Des t-shirts de finishers sur la ligne de départ. Pour Christelle et ses amis, on annonce la couleur d'entrée de jeu.
+
+[00:00:06 - 00:00:09] **Participant(e):**
+On impressionne et puis on va s'amuser.
+
+[00:00:09 - 00:00:12] **Présentateur:**
+Tu as déjà fait combien de fois du coup la Diagonale ?
+
+[00:00:12 - 00:00:19] **Participant(e):**
+La Diagonale, on va dire trois fois. Je l'ai finie deux fois. Et cette année, on se met sur la Zembrocal avec les copines premières. Finisher trois fois.
+
+[00:00:21 - 00:00:25] **Participant(e):**
+Et pareil, on impressionne les copains, on va les mettre à la pâtée au Zembrocal et puis voilà.
+
+[00:00:26 - 00:00:27] **Présentateur:**
+Ah oui, l'objectif c'est de gagner.
+
+[00:00:27 - 00:00:36] **Participant(e):**
+Le Zembrocal est devant, il y a trois équipes hommes avec nous de notre groupe et du coup le but c'est d'être devant eux.
+
+[00:00:36 - 00:00:46] **Participant(e):**
+On l'a vécu deux fois, donc deux années de suite, donc voilà, c'était cool et là on va faire le Zembrocal tous les quatre. Tu vas faire quelle portion ?
+
+[00:00:47 - 00:00:49] **Participant(e):**
+Moi je suis la dernière, de Daudin jusqu'à la Redoute.
+
+[00:00:53 - 01:01:19] **Présentateur:**
+Pour terminer en beauté, il faut commencer avec sérénité. Les bénévoles s'activent pour gérer le flux des concurrents, venus récupérer leurs dossards dans une ambiance. Derrière les sourires et l'envie de se confronter au sentier, l'approche de la compétition fait déjà son effet.
+
+[00:01:19 - 01:01:30] **Participant(e):**
+On commence à prendre conscience qu'il faut prendre le départ. Le stress commence à monter un peu, mais on fait avec.
+
+[00:01:30 - 01:01:36] **Présentateur:**
+Du stress pour les uns, de l'impatience pour les autres, car le Grand Raid, c'est une aventure au long cours.
+
+[00:01:36 - 01:01:51] **Participant(e):**
+Ça fait cinq ans que je fais du trail et deux ans que je me prépare. Je viens de Métropole, de la Bretagne. Donc un long voyage avec toute la famille qui ont fait le déplacement ici pour faire mon assistance et me supporter pendant les deux nuits, j'espère pas trois, sur les sentiers.
+
+[00:01:53 - 02:02:02] **Présentateur:**
+Une bonne préparation, une bonne motivation, mais aussi tout le matériel adéquat. Pas de laisser-passer sans checking. Amélie et tous les bénévoles sont attentifs aux petits oublis.
+
+[00:02:02 - 02:02:09] **Bénévole:**
+Surtout le strap, c'est des bandages où le strap devient une petite bande souple.
+
+[00:02:09 - 02:02:19] **Présentateur:**
+Pour les moins aguerris, petite révision des consignes à respecter, des sentiers à vérifier, au moins sur le papier, histoire de se rassurer avant de prendre le départ, quelle que soit la course.",893,1.2505399568034556
+transcript_formatted_b931fd5d-ada6-4c9f-962d-2cc5d3975cc5.txt,OUTREMER,2583,781,"[00:00:01 - 00:00:34] Voix 01 :
+  Le chemin des Anglais, une des plus anciennes voies de communication de l'île. Il a été tracé en 1730 par M. Dumas pour faciliter le passage des charrettes entre la possession et Sa Denis. Les travaux de pavage en pierre de basalte ont été réalisés entre 1767 et 1775 par Honoré de Trémont, d'où son nom, mais plus connu aujourd'hui, sous le nom de chemin des Anglais.  C'est un passage emblématique, voire mythique du Grand Raid. Il est très technique, avec ses plus de 10 km et entre 1000 et 1500 m de dénivelé.
+
+[00:00:35 - 00:00:50] Voix 00 :
+ Le chemin des Anglais, toujours bien sympa, cassant aussi, mais on fait avec. On a eu l'occasion de s'entraîner, donc on sait où sont les changements, donc ça devrait aller. C'est l'histoire de quelques minutes en plus ou en moins, pour ceux qui galopent vraiment vite.
+
+[00:00:51 - 00:01:15] Voix 01 :
+  Comme d'autres sentiers, il n'a pas été épargné par le passage du cyclone Garance. Les deux petites ravines qui traversent ce chemin sont devenues des énormes trous sur plusieurs mètres, ce qui rajoute de la difficulté, surtout à ce niveau du parcours, après plus de 160 km dans les jambes. Quelques aménagements ont été réalisés provisoirement par le département pour faciliter le passage de ce chemin classé au monument historique depuis 2014.
+
+[00:01:17 - 00:01:38] Voix 04 :
+  Ils nous ont demandé de faire une sécurisation par mains courantes pour que les coureurs ne se blessent pas en descendant et ne chutent pas. Donc en solution provisoire, on va convaincre de faire une main courante bifile et une main courante monophile en haut. Et un petit tâche de ménagement du fond de la rivière.
+
+[00:01:38 - 00:01:42] Voix 01 :
+  Pour les coureurs qui font une dernière reconnaissance, les mesures prises rassurent.
+
+[00:01:54 - 00:01:56] Voix 03 :
+  Voilà, c'est pas mal, très bien.
+
+[00:01:56 - 00:02:09] Voix 02 :
+ C'est plus compliqué pour descendre, si on a mal aux jambes, pour vraiment descendre parce que les marches sont un peu plus hautes. Il faut remonter, là ils ont mis un peu de câble pour pouvoir du chemin passer, donc ça va être mieux de sécuriser là. C'est bien sécurisé déjà, bravo, bravo.
+
+[00:02:09 - 00:02:10] Voix 01 :
+ Ah non, non, il y a du travail là.  La suite ne sera pas de tout repos avec aussi le changement sur l'arrivée à Saint-Denis. La descente du Colorado est impraticable. Un important glissement de terrain a emporté toute une section du sentier. C'est donc sur la route par la vigie que les 7000 coureurs des différentes courses termineront leur aventure.","Voici la transcription post-traitée selon les instructions :
+
+[00:00:01 - 00:00:34] Reporter:
+Le chemin des Anglais, une des plus anciennes voies de communication de l'île. Il a été tracé en 1730 par M. Dumas pour faciliter le passage des charrettes entre la Possession et Saint-Denis. Les travaux de pavage en pierre de basalte ont été réalisés entre 1767 et 1775 par Honoré de Trémont, d'où son nom, mais plus connu aujourd'hui sous le nom de Chemin des Anglais. C'est un passage emblématique, voire mythique, du Grand Raid. Il est très technique, avec ses plus de 10 km et entre 1000 et 1500 m de dénivelé.
+
+[00:00:35 - 00:00:50] Coureur 1:
+Le chemin des Anglais, toujours bien sympa, cassant aussi, mais on fait avec. On a eu l'occasion de s'entraîner, donc on sait où sont les changements, donc ça devrait aller. C'est l'histoire de quelques minutes en plus ou en moins, pour ceux qui galopent vraiment vite.
+
+[00:00:51 - 00:01:15] Reporter:
+Comme d'autres sentiers, il n'a pas été épargné par le passage du cyclone Garance. Les deux petites ravines qui traversent ce chemin sont devenues des énormes trous sur plusieurs mètres, ce qui rajoute de la difficulté, surtout à ce niveau du parcours, après plus de 160 km dans les jambes. Quelques aménagements ont été réalisés provisoirement par le département pour faciliter le passage de ce chemin classé au Monument Historique depuis 2014.
+
+[00:01:17 - 00:01:38] Technicien:
+Ils nous ont demandé de faire une sécurisation par mains courantes pour que les coureurs ne se blessent pas en descendant et ne chutent pas. Donc en solution provisoire, nous avons convenu de faire une main courante bifilaire et une main courante monofilaire en haut. Et une petite tâche de ménagement du fond de la rivière.
+
+[00:01:38 - 00:01:42] Reporter:
+Pour les coureurs qui font une dernière reconnaissance, les mesures prises rassurent.
+
+[00:01:54 - 00:01:56] Coureur 2:
+Voilà, c'est pas mal, très bien.
+
+[00:01:56 - 00:02:09] Coureur 3:
+C'est plus compliqué pour descendre, si on a mal aux jambes, pour vraiment descendre parce que les marches sont un peu plus hautes. Il faut remonter, là ils ont mis un peu de câble pour pouvoir passer du chemin, donc ça va être mieux de sécuriser là. C'est bien sécurisé déjà, bravo, bravo.
+
+[00:02:09 - 00:02:10] Reporter:
+Ah non, non, il y a du travail là.
+
+[00:02:10 - 00:02:26] Reporter:
+La suite ne sera pas de tout repos avec aussi le changement sur l'arrivée à Saint-Denis. La descente du Colorado est impraticable. Un important glissement de terrain a emporté toute une section du sentier. C'est donc sur la route par La Vigie que les 7000 coureurs des différentes courses termineront leur aventure.",781,795,1.0179257362355953,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""post-traitée selon les instructions :\n\n[00:00:01 - 00:00:34] Reporter:\nLe chemin des Anglais, une des plus anciennes voies de communication de l'île. Il a été tracé en 1730 par M. Dumas pour faciliter le passage des charrettes entre la Possession et Saint-Denis. Les travaux de pavage en pierre de basalte ont été réalisés entre 1767 et 1775 par Honoré de Trémont, d'où son nom, mais plus connu aujourd'hui sous le nom de Chemin des Anglais. C'est un passage emblématique, voire mythique, du Grand Raid. Il est très technique, avec ses plus de 10 km et entre 1000 et 1500 m de dénivelé.\n\n[00:00:35 - 00:00:50] Coureur 1:\nLe chemin des Anglais, toujours bien sympa, cassant aussi, mais on fait avec. On a eu l'occasion de s'entraîner, donc on sait où sont les changements, donc ça devrait aller. C'est l'histoire de quelques minutes en plus ou en moins, pour ceux qui galopent vraiment vite.\n\n[00:00:51 - 00:01:15] Reporter:\nComme d'autres sentiers, il n'a pas été épargné par le passage du cyclone Garance. Les deux petites ravines qui traversent ce chemin sont devenues des énormes trous sur plusieurs mètres, ce qui rajoute de la difficulté, surtout à ce niveau du parcours, après plus de 160 km dans les jambes. Quelques aménagements ont été réalisés provisoirement par le département pour faciliter le passage de ce chemin classé au Monument Historique depuis 2014.\n\n[00:01:17 - 00:01:38] Technicien:\nIls nous ont demandé de faire une sécurisation par mains courantes pour que les coureurs ne se blessent pas en descendant et ne chutent pas. Donc en solution provisoire, nous avons convenu de faire une main courante bifilaire et une main courante monofilaire en haut. Et une petite tâche de ménagement du fond de la rivière.\n\n[00:01:38 - 00:01:42] Reporter:\nPour les coureurs qui font une dernière reconnaissance, les mesures prises rassurent.\n\n[00:01:54 - 00:01:56] Coureur 2:\nVoilà, c'est pas mal, très bien.\n\n[00:01:56 - 00:02:09] Coureur 3:\nC'est plus compliqué pour descendre, si on a mal aux jambes, pour vraiment descendre parce que les marches sont un peu plus hautes. Il faut remonter, là ils ont mis un peu de câble pour pouvoir passer du chemin, donc ça va être mieux de sécuriser là. C'est bien sécurisé déjà, bravo, bravo.\n\n[00:02:09 - 00:02:10] Reporter:\nAh non, non, il y a du travail là.\n\n[00:02:10 - 00:02:26] Reporter:\nLa suite ne sera pas de tout repos avec aussi le changement sur l'arrivée à Saint-Denis. La descente du Colorado est impraticable. Un important glissement de terrain a emporté toute une section du sentier. C'est donc sur la route par La Vigie que les 7000 coureurs des différentes courses termineront leur aventure."", 'original_length': 485, 'llm_length': 517, 'filtered_length': 514, 'match_start': 3, 'match_end': 516, 'coverage_ratio': 1.0597938144329897}","post-traitée selon les instructions :
+
+[00:00:01 - 00:00:34] Reporter:
+Le chemin des Anglais, une des plus anciennes voies de communication de l'île. Il a été tracé en 1730 par M. Dumas pour faciliter le passage des charrettes entre la Possession et Saint-Denis. Les travaux de pavage en pierre de basalte ont été réalisés entre 1767 et 1775 par Honoré de Trémont, d'où son nom, mais plus connu aujourd'hui sous le nom de Chemin des Anglais. C'est un passage emblématique, voire mythique, du Grand Raid. Il est très technique, avec ses plus de 10 km et entre 1000 et 1500 m de dénivelé.
+
+[00:00:35 - 00:00:50] Coureur 1:
+Le chemin des Anglais, toujours bien sympa, cassant aussi, mais on fait avec. On a eu l'occasion de s'entraîner, donc on sait où sont les changements, donc ça devrait aller. C'est l'histoire de quelques minutes en plus ou en moins, pour ceux qui galopent vraiment vite.
+
+[00:00:51 - 00:01:15] Reporter:
+Comme d'autres sentiers, il n'a pas été épargné par le passage du cyclone Garance. Les deux petites ravines qui traversent ce chemin sont devenues des énormes trous sur plusieurs mètres, ce qui rajoute de la difficulté, surtout à ce niveau du parcours, après plus de 160 km dans les jambes. Quelques aménagements ont été réalisés provisoirement par le département pour faciliter le passage de ce chemin classé au Monument Historique depuis 2014.
+
+[00:01:17 - 00:01:38] Technicien:
+Ils nous ont demandé de faire une sécurisation par mains courantes pour que les coureurs ne se blessent pas en descendant et ne chutent pas. Donc en solution provisoire, nous avons convenu de faire une main courante bifilaire et une main courante monofilaire en haut. Et une petite tâche de ménagement du fond de la rivière.
+
+[00:01:38 - 00:01:42] Reporter:
+Pour les coureurs qui font une dernière reconnaissance, les mesures prises rassurent.
+
+[00:01:54 - 00:01:56] Coureur 2:
+Voilà, c'est pas mal, très bien.
+
+[00:01:56 - 00:02:09] Coureur 3:
+C'est plus compliqué pour descendre, si on a mal aux jambes, pour vraiment descendre parce que les marches sont un peu plus hautes. Il faut remonter, là ils ont mis un peu de câble pour pouvoir passer du chemin, donc ça va être mieux de sécuriser là. C'est bien sécurisé déjà, bravo, bravo.
+
+[00:02:09 - 00:02:10] Reporter:
+Ah non, non, il y a du travail là.
+
+[00:02:10 - 00:02:26] Reporter:
+La suite ne sera pas de tout repos avec aussi le changement sur l'arrivée à Saint-Denis. La descente du Colorado est impraticable. Un important glissement de terrain a emporté toute une section du sentier. C'est donc sur la route par La Vigie que les 7000 coureurs des différentes courses termineront leur aventure.",791,1.0597938144329897
+transcript_formatted_6f9aea92-e4e7-4548-ac50-4857265dbd21.txt,OUTREMER,2299,701,"[00:00:01 - 00:00:19] Voix 01 :
+  Chaque année, les derniers du Grand Raid rejoignent la ligne d'arrivée après une soixantaine d'heures de course. Trois jours et trois nuits dans les sentiers où les sportifs dorment très peu et où le corps mais aussi l'esprit sont mis à mal. C'est souvent à partir de la deuxième nuit de course que les hallucinations apparaissent. Benjamin l'a vécu lors de son dernier trail de Bourbon.
+
+[00:00:19 - 00:00:38] Voix 03 :
+  Ce que je voyais en fait c'était avec la frontale donc sur le chemin des anglais les gros cailloux des gros cailloux en fait je prenais enfin je voyais ça durait pas très longtemps j'appelais ça du coup des hallucinations maîtrisées puisque je voyais des hippos ou des hippopotames ou des éléphants.
+
+[00:00:39 - 00:00:46] Voix 01 :
+ Robin Koinus huitième de la diagonale des fous en 2024 a eu pour la première fois des apparitions en mai lorsqu'il remporte l'ultraterrestre.
+
+[00:00:47 - 00:01:14] Voix 02 :
+  J'avais l'impression de voir des têtes géantes, un peu comme dans les, je ne sais plus où c'est, aux États-Unis, où il y a les têtes des présidents dans la roche, voir vraiment des silhouettes géantes. Mais je savais que, en fait, c'était presque marrant parce que dès que je voyais un truc comme ça, je savais que ce n'était pas ça. Et je me disais, dès que je vais être avec ma frontale à un mètre de ce que j'ai vu, je vais voir ce que c'était vraiment. Et donc, ça m'amusait sur la fin de course de me dire, bon, là, j'ai vu une silhouette ou une tortue géante. Et en fait, c'est une carcasse de voitures.
+
+[00:01:15 - 00:01:25] Voix 01 :
+  Selon plusieurs études, c'est après plus de 30 heures de course que la privation de sommeil commence à se faire sentir. La vigilance baisse autant que si l'on avait bu plusieurs verres d'alcool.
+
+[00:01:25 - 00:01:40] Voix 00 :
+ À partir du moment où on a des hallucinations, il vaut mieux s'arrêter, dormir 10-15 minutes. On perd finalement moins de temps parce que ça permet vraiment au cerveau de regagner en lucidité.
+
+[00:01:41 - 00:01:45] Voix 01 :
+  Dormir ou courir, c'est le paradoxe des participants d'Ultra Trail. Les hallucinations rappellent que ce sport est un défi autant physique que mental et que la sieste est parfois le meilleur moyen de rejoindre la ligne d'arrivée.","Voici la transcription post-traitée :
+
+[00:00:01 - 00:00:19] Journaliste:
+Chaque année, les derniers du Grand Raid rejoignent la ligne d'arrivée après une soixantaine d'heures de course. Trois jours et trois nuits dans les sentiers où les sportifs dorment très peu et où le corps, mais aussi l'esprit, sont mis à mal. C'est souvent à partir de la deuxième nuit de course que les hallucinations apparaissent. Benjamin l'a vécu lors de son dernier trail de Bourbon.
+
+[00:00:19 - 00:00:38] Invité 1:
+Ce que je voyais, en fait, c'était avec la frontale, donc sur le chemin des Anglais, les gros cailloux, des gros cailloux, en fait, je prenais enfin je voyais ça durait pas très longtemps, j'appelais ça, du coup, des hallucinations maîtrisées puisque je voyais des hippos ou des hippopotames ou des éléphants.
+
+[00:00:39 - 00:00:46] Journaliste:
+Robin Koinus, huitième de la Diagonale des Fous en 2024, a eu pour la première fois des apparitions en mai lorsqu'il remporte l'Ultraterrestre.
+
+[00:00:47 - 00:01:14] Invité 2:
+J'avais l'impression de voir des têtes géantes, un peu comme dans les... je ne sais plus où c'est aux États-Unis, où il y a les têtes des présidents dans la roche, voire vraiment des silhouettes géantes. Mais je savais que, en fait, c'était presque marrant parce que dès que je voyais un truc comme ça, je savais que ce n'était pas ça. Et je me disais : dès que je vais être avec ma frontale à un mètre de ce que j'ai vu, je vais voir ce que c'était vraiment. Et donc, ça m'amusait sur la fin de course de me dire : « Bon, là, j'ai vu une silhouette ou une tortue géante. Et en fait, c'est une carcasse de voiture. »
+
+[00:01:15 - 00:01:25] Journaliste:
+Selon plusieurs études, c'est après plus de 30 heures de course que la privation de sommeil commence à se faire sentir. La vigilance baisse autant que si l'on avait bu plusieurs verres d'alcool.
+
+[00:01:25 - 00:01:40] Expert:
+À partir du moment où l'on a des hallucinations, il vaut mieux s'arrêter, dormir 10-15 minutes. On perd finalement moins de temps parce que ça permet vraiment au cerveau de regagner en lucidité.
+
+[00:01:41 - 00:01:45] Journaliste:
+Dormir ou courir : c'est le paradoxe des participants d'Ultra-Trail. Les hallucinations rappellent que ce sport est un défi autant physique que mental et que la sieste est parfois le meilleur moyen de rejoindre la ligne d'arrivée.",701,715,1.0199714693295292,True,,"{'is_valid': True, 'reason': 'Correspondance trouvée', 'filtered_text': ""Voici la transcription post-traitée :\n\n[00:00:01 - 00:00:19] Journaliste:\nChaque année, les derniers du Grand Raid rejoignent la ligne d'arrivée après une soixantaine d'heures de course. Trois jours et trois nuits dans les sentiers où les sportifs dorment très peu et où le corps, mais aussi l'esprit, sont mis à mal. C'est souvent à partir de la deuxième nuit de course que les hallucinations apparaissent. Benjamin l'a vécu lors de son dernier trail de Bourbon.\n\n[00:00:19 - 00:00:38] Invité 1:\nCe que je voyais, en fait, c'était avec la frontale, donc sur le chemin des Anglais, les gros cailloux, des gros cailloux, en fait, je prenais enfin je voyais ça durait pas très longtemps, j'appelais ça, du coup, des hallucinations maîtrisées puisque je voyais des hippos ou des hippopotames ou des éléphants.\n\n[00:00:39 - 00:00:46] Journaliste:\nRobin Koinus, huitième de la Diagonale des Fous en 2024, a eu pour la première fois des apparitions en mai lorsqu'il remporte l'Ultraterrestre.\n\n[00:00:47 - 00:01:14] Invité 2:\nJ'avais l'impression de voir des têtes géantes, un peu comme dans les... je ne sais plus où c'est aux États-Unis, où il y a les têtes des présidents dans la roche, voire vraiment des silhouettes géantes. Mais je savais que, en fait, c'était presque marrant parce que dès que je voyais un truc comme ça, je savais que ce n'était pas ça. Et je me disais : dès que je vais être avec ma frontale à un mètre de ce que j'ai vu, je vais voir ce que c'était vraiment. Et donc, ça m'amusait sur la fin de course de me dire : « Bon, là, j'ai vu une silhouette ou une tortue géante. Et en fait, c'est une carcasse de voiture. »\n\n[00:01:15 - 00:01:25] Journaliste:\nSelon plusieurs études, c'est après plus de 30 heures de course que la privation de sommeil commence à se faire sentir. La vigilance baisse autant que si l'on avait bu plusieurs verres d'alcool.\n\n[00:01:25 - 00:01:40] Expert:\nÀ partir du moment où l'on a des hallucinations, il vaut mieux s'arrêter, dormir 10-15 minutes. On perd finalement moins de temps parce que ça permet vraiment au cerveau de regagner en lucidité.\n\n[00:01:41 - 00:01:45] Journaliste:\nDormir ou courir : c'est le paradoxe des participants d'Ultra-Trail. Les hallucinations rappellent que ce sport est un défi autant physique que mental et que la sieste est parfois le meilleur moyen de rejoindre la ligne d'arrivée."", 'original_length': 456, 'llm_length': 491, 'filtered_length': 491, 'match_start': 0, 'match_end': 490, 'coverage_ratio': 1.0767543859649122}","Voici la transcription post-traitée :
+
+[00:00:01 - 00:00:19] Journaliste:
+Chaque année, les derniers du Grand Raid rejoignent la ligne d'arrivée après une soixantaine d'heures de course. Trois jours et trois nuits dans les sentiers où les sportifs dorment très peu et où le corps, mais aussi l'esprit, sont mis à mal. C'est souvent à partir de la deuxième nuit de course que les hallucinations apparaissent. Benjamin l'a vécu lors de son dernier trail de Bourbon.
+
+[00:00:19 - 00:00:38] Invité 1:
+Ce que je voyais, en fait, c'était avec la frontale, donc sur le chemin des Anglais, les gros cailloux, des gros cailloux, en fait, je prenais enfin je voyais ça durait pas très longtemps, j'appelais ça, du coup, des hallucinations maîtrisées puisque je voyais des hippos ou des hippopotames ou des éléphants.
+
+[00:00:39 - 00:00:46] Journaliste:
+Robin Koinus, huitième de la Diagonale des Fous en 2024, a eu pour la première fois des apparitions en mai lorsqu'il remporte l'Ultraterrestre.
+
+[00:00:47 - 00:01:14] Invité 2:
+J'avais l'impression de voir des têtes géantes, un peu comme dans les... je ne sais plus où c'est aux États-Unis, où il y a les têtes des présidents dans la roche, voire vraiment des silhouettes géantes. Mais je savais que, en fait, c'était presque marrant parce que dès que je voyais un truc comme ça, je savais que ce n'était pas ça. Et je me disais : dès que je vais être avec ma frontale à un mètre de ce que j'ai vu, je vais voir ce que c'était vraiment. Et donc, ça m'amusait sur la fin de course de me dire : « Bon, là, j'ai vu une silhouette ou une tortue géante. Et en fait, c'est une carcasse de voiture. »
+
+[00:01:15 - 00:01:25] Journaliste:
+Selon plusieurs études, c'est après plus de 30 heures de course que la privation de sommeil commence à se faire sentir. La vigilance baisse autant que si l'on avait bu plusieurs verres d'alcool.
+
+[00:01:25 - 00:01:40] Expert:
+À partir du moment où l'on a des hallucinations, il vaut mieux s'arrêter, dormir 10-15 minutes. On perd finalement moins de temps parce que ça permet vraiment au cerveau de regagner en lucidité.
+
+[00:01:41 - 00:01:45] Journaliste:
+Dormir ou courir : c'est le paradoxe des participants d'Ultra-Trail. Les hallucinations rappellent que ce sport est un défi autant physique que mental et que la sieste est parfois le meilleur moyen de rejoindre la ligne d'arrivée.",715,1.0767543859649122
